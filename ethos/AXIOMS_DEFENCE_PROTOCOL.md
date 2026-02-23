@@ -76,6 +76,62 @@ Violations reduce Flow naturally:
 
 ---
 
+## L×S×I Clarification
+
+**Status:** Guidance / Interpretation  
+**Purpose:** To clarify the use of L (Calm), S (Spontaneity), I (Empathy) as indicators without coercion.
+
+---
+
+### 1. Not a Scoreboard
+
+L×S×I is **not a metric to rank, quantify, or control members**.  
+It is a **sensory compass** for the Circle:
+
+- L = Felt Calm / Safety / Baseline security  
+- S = Felt Spontaneity / Freedom to choose  
+- I = Felt Empathy / Mutual attunement
+
+It is **qualitative, not quantitative**.
+
+---
+
+### 2. Observation by Humans
+
+- **Mirror Role** observes weekly trends: How do we feel in L×S×I terms?  
+- **Canaries** (structurally sensitive humans) notice subtle shifts in Circle dynamics.  
+- **AI companions** may flag potential drift patterns, but **cannot assign scores or enforce changes**.  
+
+The goal is to **notice early signs of axiom drift**, not to punish or rank individuals.
+
+---
+
+### 3. No Automation, No Pressure
+
+- Do **not** create numeric L×S×I scores or dashboards.  
+- Do **not** tie rewards, recognition, or Baseline access to perceived L×S×I levels.  
+- The Circle must **feel** the state of Flow, not calculate it.  
+
+---
+
+### 4. Use in Reflection
+
+When L×S×I feels low:
+
+1. Trigger **Reflection Pause** (Section 5.2)  
+2. Facilitate **listening circles** to surface felt experience  
+3. Adjust structures, communication, or resource distribution **without coercion**  
+
+**Key Principle:** L×S×I guides **awareness**, never compliance.  
+
+---
+
+**Summary:**  
+L×S×I is a **compass for collective experience**, not a scoreboard.  
+It keeps Flow **alive and self-correcting** while preserving **axiom integrity** and **human sovereignty**.
+
+---
+
 ### Layer 3: ARCHITECTURAL RESET
 
 **Trigger Conditions:**  
