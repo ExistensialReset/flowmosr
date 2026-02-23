@@ -342,10 +342,8 @@ This document maps each DIVINE variable to its structural expression inside Lyce
 | **Σ** (Emergence / Grace) | Non-linear surprise and serendipity | Unstructured proximity, unscheduled encounters | Breakthrough moments, meaningful connection |
 
 ---
-
-## Structural Diagram
-
-Σ
+## Structural diagram 
+```Σ
                 ▲
                 │
     ┌────────────────────────┐
@@ -356,6 +354,7 @@ This document maps each DIVINE variable to its structural expression inside Lyce
       ▲     ▲     ▲     ▲     ▲     ▲
       │     │     │     │     │     │
       L     S     I     K     R     F
+```
 
 ---
 
