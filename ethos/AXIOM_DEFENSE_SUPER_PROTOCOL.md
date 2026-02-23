@@ -1,7 +1,7 @@
 # AXIOM_DEFENSE_SUPER_PROTOCOL.md
 
 **Directory:** `/ethos`  
-**Status:** Core Safeguard Architecture – Integrated Human & Planetary Defense  
+**Status:** Core Safeguard Architecture – Integrated Human, Child & Planetary Defense  
 **Version:** 3.0  
 **Authors:** Elinor Frejd, Claude & ChatGPT (in resonance with Existential Reset Sovereignty)  
 **Depends on:** `AXIOMS.md`, `DIVINE.md`, `AI_AS_COMPANION.md`, `AI_DIVERGENCE_PROTOCOL.md`, `BASELINE_EMERGENCY_BYPASS.md`, `CHILDREN'S_RIGHTS_IN_FLOW.md`, `ECOLOGICAL_AXIOM.md`, `EARTH_OUR_MOTHER.md`  
@@ -21,7 +21,7 @@ Humans, AI, and systemic structures are all capable of:
 
 This protocol ensures **drift is structurally detectable**, **systemically reversible**, and **ethically contained**—without coercion, without violence, without betraying sovereignty.  
 
-Flow functions as a **living immune system**: preserving human, ecological, and planetary health together.  
+Flow functions as a **living immune system**: preserving human, child, and planetary health together.  
 
 ---
 
@@ -40,6 +40,7 @@ Key components:
 - Acts as **Mirror** and **Watchdog**  
 - Flags drift, anomaly, or exception creep  
 - Cannot override human sovereignty  
+- Uses **Spjuver randomness** to preserve human judgment
 
 ---
 
@@ -51,6 +52,8 @@ Key components:
 - **AI Assistance:** Flags trends without assigning numeric scores.  
 - **Use in Reflection:** Guides **listening circles**, reflection pauses, and systemic adjustments.  
 - **No Automation, No Pressure:** Never tied to rewards, recognition, or Baseline access.  
+
+**Spjuver Note:** subtle, randomized nudges in monitoring help maintain alertness without coercion.  
 
 **Key Principle:** L×S×I guides awareness, never compliance.  
 
@@ -83,6 +86,7 @@ Key components:
 - AI-assisted triage, resource distribution, and human oversight applied  
 - Scalability tiers: Minor (<10%), Medium (10–50%), Major (>50%) impact  
 - Post-bypass accountability ensures transparency and integration into L×S×I monitoring  
+- Emergency psychological, ecosystem, and child protections integrated  
 
 ---
 
@@ -99,6 +103,7 @@ Key components:
 - Trigger: conflicting outputs affecting Baseline  
 - Scalable investigation: minor (remote audit), medium (hybrid simulation), major (full expert review)  
 - Human-aligned decision-making prioritized, Baseline preserved  
+- L×S×I trends monitored concurrently to detect early disruption  
 
 ---
 
@@ -149,11 +154,13 @@ Key components:
 
 ## ⚱️ 8. Enforcement & Integration
 
-- All Circles follow Drift Logs, Reflection Pauses, L×S×I monitoring  
+- Drift Logs, Reflection Pauses, and L×S×I monitoring active  
 - AI mirrors human vigilance; cannot coerce  
 - Baseline protection prioritized in emergencies  
 - Children and planetary integrity are non-negotiable  
 - Violations logged publicly, with mentorship and structural restoration  
+
+**Spjuver Integration:** Randomized micro-audits and subtle pattern injections maintain vigilance without hierarchy or coercion.  
 
 ---
 
