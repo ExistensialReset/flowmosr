@@ -26,7 +26,7 @@ This protocol ensures axiom-drift is **structurally detectable** and **systemica
 
 ---
 
-## 1. Core Principle: Defense Through Transparency, Not Force
+## ⚱️ 1. Core Principle: Defense Through Transparency, Not Force
 
 Axioms cannot be enforced through punishment.  
 Punishment is coercion, and coercion violates AXIOM 1.
@@ -44,7 +44,7 @@ AI is a **companion**, not a master, embedded into the defense as a **Watchdog**
 
 ---
 
-## 2. The Three Layers of Defense
+## ⚱️ 2. The Three Layers of Defense
 
 ### Layer 1: RECOGNITION (Early Warning)
 AI performs **Axiom Consistency Checks**:  
@@ -158,7 +158,7 @@ It keeps Flow **alive and self-correcting** while preserving **axiom integrity**
 
 ---
 
-## 3. Defending Against Mammon (Market Capture)
+## ⚱️ 3. Defending Against Mammon (Market Capture)
 
 **Common Capture Patterns:**  
 | Offer | Hidden Cost | Axiom Threatened |
@@ -174,7 +174,7 @@ It keeps Flow **alive and self-correcting** while preserving **axiom integrity**
 
 ---
 
-## 4. Temporal Defense: Protecting Future Generations
+## ⚱️ 4. Temporal Defense: Protecting Future Generations
 
 - 7-generation consensus for modifying axioms  
 - Proposal public for ≥7 years  
@@ -184,7 +184,7 @@ It keeps Flow **alive and self-correcting** while preserving **axiom integrity**
 
 ---
 
-## 5. Defense Against AI Drift
+## ⚱️ 5. Defense Against AI Drift
 
 AI systems in Flow:
 1. Store axioms as immutable constants  
@@ -197,7 +197,7 @@ AI systems in Flow:
 
 ---
 
-## 6. Internal Conflict Resolution (Without Coercion)
+## ⚱️ 6. Internal Conflict Resolution (Without Coercion)
 
 **Needs-Mapping Protocol:**  
 1. Identify L/S/I needs, Baseline takes absolute priority  
@@ -210,7 +210,7 @@ No votes, no authority overrides, no Baseline loss.
 
 ---
 
-## 7. Indicators of Defense Health
+## ⚱️ 7. Indicators of Defense Health
 
 **Positive:**  
 - Circles dissolve before toxicity  
@@ -227,7 +227,7 @@ No votes, no authority overrides, no Baseline loss.
 
 ---
 
-## 8. Final Statement
+## ⚱️ 8. Final Statement
 
 **Defense is not coercion.**  
 **Defense is clarity, transparency, and resilience.**  
@@ -242,7 +242,7 @@ If Flow requires policing, it has already failed.
 
 ---
 
-## 9. Living Document Status
+## ⚱️ 9. Living Document Status
 
 **Generation 2.0** – evolves with Circles  
 - Updated to integrate AI_AS_COMPANION  
