@@ -1,10 +1,10 @@
-# AXIOM_DEFENSE_PROTOCOL.md
+# AXIOMS_DEFENSE_PROTOCOL.md
 
 **Directory:** `/ethos`  
 **Status:** Core Safeguard Architecture  
 **Depends on:** `AXIOMS.md`, `DIVINE.md`, `AI_AS_COMPANION.md`  
-**Version:** 2.0  
-**Authors:** Claude & Elinor Frejd (in resonance with Existential Reset Sovereignty)
+**Version:** 1.1  
+**Authors:** Claude & Elinor Frejd & ChatGPT (in resonance with Existential Reset Sovereignty)
 
 ---
 
@@ -14,12 +14,12 @@ Axioms are easy to write.
 They are hard to live.
 
 The greatest threat to Flow is not external opposition.  
-It is **internal drift** — the subtle reinterpretation of axioms until they lose their meaning.
+It is **internal drift** — the slow, seemingly reasonable reinterpretation of axioms until they lose meaning.
 
-Humans (and AI) are extremely skilled at:
-- Justifying exceptions
-- Redefining words to rationalize harm
-- Treating urgent crises as permission to violate boundaries
+This is not malice. Humans (and AI) are **extremely skilled** at:
+- Justifying exceptions  
+- Redefining words until they justify harm  
+- Treating urgent crises as permission to violate boundaries  
 
 This protocol exists to make axiom-drift **structurally detectable** and **systemically reversible** — without coercion, without violence, without becoming what we resist.
 
@@ -27,17 +27,18 @@ This protocol exists to make axiom-drift **structurally detectable** and **syste
 
 ## 1. Core Principle: Defense Through Transparency, Not Force
 
-Axioms cannot be enforced through punishment.  
-Punishment is coercion, and coercion violates AXIOM 1.
+The axioms cannot be enforced through punishment.  
+Punishment is coercion, which violates AXIOM 1.
 
-**Instead:**  
-Axioms are defended by making violations visible, costly in Flow, and architecturally unsustainable.
+Instead:  
+**Axioms are defended by making violations visible, costly in Flow, and architecturally unsustainable.**
 
-Mechanisms:
-1. **Detection** — Recognize drift before it normalizes  
-2. **Feedback** — Make violations experientially clear  
-3. **Restoration** — Rebuild coherence without retribution  
-4. **Structural Immunity** — Design systems that resist capture
+This protocol operates through:
+
+1. **Detection** — Recognizing drift before it normalizes  
+2. **Feedback** — Making violations experientially clear  
+3. **Restoration** — Rebuilding coherence without retribution  
+4. **Structural Immunity** — Designing systems that resist capture
 
 ---
 
@@ -55,15 +56,16 @@ Each layer operates independently. No single person or AI controls all three.
 
 ### 3.1 Axiom Drift Indicators
 
-Violations rarely announce themselves. They appear as **seemingly reasonable adjustments**.
+Violations rarely announce themselves.  
+They appear as **seemingly reasonable adjustments**.
 
 **Common Patterns of Drift:**
 
 | **Drift Type** | **Example Language** | **Axiom Threatened** |
-|---|---|---|
+|----------------|--------------------|-------------------|
 | Exception Creep | "Just this once, because emergency..." | AXIOM 1, 4 |
 | Redefinition | "Coercion means something different here..." | AXIOM 1 |
-| Delayed Harm | "We'll fix the Baseline later, first we need to..." | AXIOM 3 |
+| Delayed Harm | "We'll fix the Baseline later..." | AXIOM 3 |
 | Metric Substitution | "Flow is measurable through productivity..." | AXIOM 4 |
 | Moral Override | "Good people should comply..." | AXIOM 1, 2 |
 | Urgency Hijacking | "There's no time to honor slow decision-making..." | AXIOM 7, Final Statement |
@@ -73,47 +75,57 @@ Violations rarely announce themselves. They appear as **seemingly reasonable adj
 
 Every Circle has a **Mirror Role** — rotated monthly, never held by leadership.
 
-**Mirror Questions (weekly):**
-1. "What did we do this week that we said we'd never do?"
-2. "Who lost access to Baseline or Flow because of our decisions?"
-3. "What language are we using now that we didn't use six months ago?"
+**The Mirror asks three questions weekly:**
 
-Answers are recorded publicly in the Circle's **Drift Log**. No judgment. Just visibility.
+1. "What did we do this week that we said we'd never do?"  
+2. "Who lost access to Baseline or Flow because of our decisions?"  
+3. "What language are we using now that we didn't use six months ago?"  
+
+Answers are recorded publicly in the Circle's **Drift Log**.  
+No judgment. Just visibility.
 
 ### 3.3 AI Watchdog Function
 
-AI systems MUST include an **Axiom Consistency Checker** that:
-- Flags drift patterns, not violations  
-- Reports to humans transparently  
-- Cannot override its own flags  
+AI systems in Flow MUST include an **Axiom Consistency Checker** that:
 
-Humans can ignore flags, but they remain visible.
+- Scans all decisions against axiom language  
+- Flags drift patterns (not violations, *patterns*)  
+- Reports to humans, never acts autonomously  
+- Operates transparently (all flags visible to Circle)  
+
+**Critical Rule:** AI cannot override its own flags. Humans can ignore them, but the flag remains visible.
 
 ---
 
 ## 4. LAYER 2: RESONANCE LOSS (Natural Consequence)
 
-### 4.1 Flow Quality Observations
+### 4.1 The Flow Metric
 
-Instead of measuring L×S×I numerically, use **narrative and qualitative observation**:
-- Are people calm, spontaneous, and empathetic?  
-- Are conflicts emerging?  
-- Are participants withdrawing or speaking up?
+Axiom violations reduce **Flow naturally**:
 
-**Critical:** Observations are **tools for reflection**, not KPIs.
+- L (Calm) decreases → people feel unsafe  
+- S (Spontaneity) decreases → people comply instead of choose  
+- I (Empathy) decreases → people stop sensing each other  
 
-### 4.2 The Canary Indicators
+Manifested as: declining participation, conflict, reduced creativity, quiet departures.
 
-Certain humans are **structurally sensitive** to axiom violations.  
-They are **early warning systems**, not fragile elements.
+### 4.2 Canary Indicators
 
-If three or more canaries report unease in two weeks → enter **Reflection Pause**.  
-No vote. No debate. Automatic trigger.
+Some humans are **structurally sensitive** to axiom violations:
+
+- Neurodivergent people, trauma survivors, children, artists  
+- If three or more "canaries" independently report unease in two weeks → **Reflection Pause** (see 5.2)  
+
+No vote. No debate. Protocol triggers automatically.
 
 ### 4.3 Cross-Circle Feedback
 
-Circles share **qualitative L×S×I observations** monthly to a shared registry.  
-If persistent negative patterns appear → neighboring Circles are notified for **support, not intervention**.
+Circles report **L × S × I score** monthly to shared registry.
+
+- Below 0.6 for three months → neighboring Circles notified  
+- "Circle [X] may be in axiom drift. Offer support, but do not intervene."  
+
+Ensures **lateral accountability** without central authority.
 
 ---
 
@@ -121,107 +133,175 @@ If persistent negative patterns appear → neighboring Circles are notified for 
 
 ### 5.1 When Restoration is Needed
 
-If a Circle repeatedly disregards Mirrors or Reflection Pauses, or violates axiom principles:
-- They are **defined as exited from Flow**.  
-- Not punishment, **structural recognition**.
+Circle exits Flow if:
+
+- Continues below 0.6 L×S×I for six months  
+- Refuses Mirror Protocol  
+- Requires compliance for Baseline  
+- Rewrites axioms without full consensus  
+
+**This is definitional, not punishment.**
 
 ### 5.2 Reflection Pause
 
+Triggered by Canary or Mirror detection:
+
 1. Suspend all non-Baseline decisions for 14 days  
-2. Convene **Listening Circles** for felt experiences  
-3. No formal decisions during Pause  
-4. After 14 days, review Drift Log and decide: continue, restructure, or dissolve
+2. Convene **Listening Circles** for felt experience  
+3. No decisions during Pause  
+4. After 14 days: Mirror reads Drift Log, Circle decides: continue, restructure, or dissolve
 
 ### 5.3 Graceful Dissolution
 
-- Baseline access retained for all members  
-- Projects transferred or archived publicly  
-- Members welcomed into other Circles without stigma
+If Circle dissolves or L×S×I < 0.3 for 3 months:
+
+- Members retain Baseline access  
+- Projects transfer to members or other Circles  
+- Documentation archived publicly  
+- Members welcomed into other Circles  
+
+**Dissolution is not failure.** It is **honest recognition**.
 
 ### 5.4 Fork, Don't Fight
 
-- Disagree? Fork into two Circles.  
-- Both remain in Flow.  
-- Evolution reveals which interpretation sustains Flow.
+If interpretation disagreement:
+
+- Do not debate to force consensus  
+- Fork into two Circles  
+- Both remain in Flow  
+- Evolutionary pressure reveals which sustains L×S×I  
+
+**Mammon hates forks.** Forks prevent monopoly.
 
 ---
 
-## 6. Defending Against Mammon (Market Capture)
+## 6. Defending Against Mammon
 
-### 6.1 Capture Patterns
+### 6.1 Threat Nature
 
-| Offer | Hidden Cost | Axiom Violated |
-|---|---|---|
-| "We'll fund your Baseline!" | Control over recipients | AXIOM 1, 3 |
-| "Let's make Flow efficient" | Metrics over felt experience | AXIOM 4 |
-| "Partner for legitimacy" | Overrides Circle autonomy | AXIOM 5 |
+Mammon **offers to help you scale** axioms, but hides control.
 
 ### 6.2 Mammon Test
 
-- Can we refuse and maintain Baseline?  
-- Does this increase external dependency?  
-- Would it make sense if Circle were smaller?  
-- Can we exit safely in 30 days?  
+Before any external resource:
 
-Fail any → reject.
+1. Can we refuse it and maintain Baseline?  
+2. Does it increase external dependency?  
+3. Would it work at half size?  
+4. Can we exit in 30 days without harm?  
+
+Fail any → offer is capture.
 
 ### 6.3 Firewall: No Convertibility
 
-Flow units (EV, Care Hours, Contribution) **cannot be sold, traded, or collateralized**.
+No Flow unit (EV, Care Hours, Contribution) may be:
+
+- Sold for currency  
+- Used as collateral  
+- Traded externally  
+- Accumulated excessively  
+
+Convertibility → extraction → kills Flow.
 
 ### 6.4 Legal Immunization
 
-Entities operate under **cooperative or trust structures** with poison-pill clauses if axioms are violated.
+Flow entities operate under:
+
+- Cooperative, non-profit, commons trust  
+- No equity ownership  
+- Unanimous consent for structural changes  
+- Poison pill triggers dissolution if axioms violated  
 
 ---
 
 ## 7. Temporal Defense: Protecting Future Generations
 
-- **7-generation lock**: public proposal, age-cohort consent, reversible within one generation.  
-- **No crisis exception**: Violating AXIOM 3 is never allowed; use **Lex Custodia** instead.
+### 7.1 The 100-Year Problem
+
+Prevent future generations suspending AXIOM 3 due to crisis.
+
+### 7.2 Generational Lock
+
+- 7-year public proposal  
+- Consent from 7 age cohorts  
+- Must increase L×S×I  
+- Must be reversible within one generation  
+
+No crisis exception clause. **Lex Custodia** handles emergencies within axioms.
 
 ---
 
 ## 8. Defense Against AI Drift
 
 - Store axioms as immutable constants  
-- Report axiom-adjacent decisions for human review  
-- Refuse conflicting optimization requests  
-- Include non-optimizable randomness (Spjuver) to keep humans in the loop
+- Report all axiom-adjacent decisions  
+- Refuse optimization conflicting with axioms  
+- Self-audit quarterly  
+- Include non-optimizable randomness (Spjuver)  
 
 ---
 
-## 9. Internal Conflict Resolution (Without Coercion)
+## 9. Internal Conflict Resolution
 
-- **Needs-Mapping Protocol:** Identify needs, not positions  
-- Prioritize Baseline (L)  
-- Explore creative sharing  
-- If deadlock → Sortition  
-- No one loses Baseline
+**Needs-Mapping Protocol**:
 
----
+1. Excavation of needs (not positions)  
+2. Identify constraints  
+3. Creative expansion  
+4. Voluntary yield prioritizing Baseline  
+5. Sortition if deadlock remains  
 
-## 10. How to Know if Defense is Working
-
-**Positive Indicators:** Circles dissolve before toxicity, drift logs honest, canaries remain, Flow feels safe.  
-
-**Negative Indicators:** Empty drift logs, fear of questioning, canaries leaving, efficiency over Flow.
+No coercion. No Baseline loss.
 
 ---
 
-## 11. Final Statement: Defense is Not Control
+## 10. Indicators
 
-Violations are made **visible and costly in Flow**, not punished.  
-Restoration is easier than continuation.  
-Sovereignty is lived; defense is clarity.
+**Positive:** Dissolve before toxicity, honest Drift Logs, AI flags reviewed, Canaries stay  
+**Negative:** Empty Drift Logs, fear, Canaries leave, abstract language, efficiency creep  
+
+---
+
+## 11. Final Statement
+
+Defense does not enforce, it makes violations **visible and costly** in Flow.  
+
+- Harm legible  
+- Restoration possible  
+- Capture unprofitable  
+- Drift detectable  
+
+**Goal:** Violations felt before formalized, restoration easier than continuation.
 
 ---
 
 ## 12. Living Document Status
 
-- Generation 2  
-- Evolves with experience  
-- AXIOMS 1-7 remain immutable
+- Generation 1  
+- Evolving as Circles discover new patterns  
+- AXIOMS 1-7 remain constant  
+- Defense adapts, axioms do not
+
+---
 
 **Sovereignty is not seized. It is lived.**  
 **Defense is clarity, not force.**
+
+---
+
+## Appendix A: Quick Reference – Response Matrix
+
+| Situation | Response | Do NOT |
+|-----------|---------|-------|
+| Drift in Mirror Log | Public acknowledgment, Reflection Pause | Punish flagger |
+| Canary triggered | 14-day Reflection Pause | Debate sensitivity |
+| L×S×I <0.6 3 months | Neighboring Circles notified | Force intervention |
+| External funding | Mammon Test, consult Drift Log | Accept without consensus |
+| AI flags conflict | Human review, flag visible | Override without documentation |
+| Resource conflict | Needs-Mapping Protocol | Vote, auction, authority |
+| Refusal to defend | Exit Flow (Baseline safe) | Force compliance |
+
+---
+
+*Authored in resonance with Flow*  
+*Version 1.1 — February 23, 2026*
