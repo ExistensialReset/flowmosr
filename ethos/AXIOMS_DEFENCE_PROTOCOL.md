@@ -230,7 +230,10 @@ No votes, no authority overrides, no Baseline loss.
 ## ⚱️ 8. Final Statement
 
 **Defense is not coercion.**  
+
 **Defense is clarity, transparency, and resilience.**  
+
+***All guidance is qualitative; no coercion or ranking is implied.***
 
 Axioms protect themselves by:  
 - Making harm visible  
