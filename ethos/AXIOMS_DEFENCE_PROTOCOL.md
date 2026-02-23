@@ -40,7 +40,7 @@ This is achieved via:
 3. **Restoration** — Rebuilding coherence without retribution  
 4. **Structural Immunity** — Designing systems resistant to capture
 
-AI is a **companion**, not a master, embedded into the defense as a **Watchdog** and **Mirror** (see `/principles/AI_AS_COMPANION.md`).
+AI is a **companion**, not a master, embedded into the defense as a **Watchdog** and **Mirror** (see `/ethos/AI_AS_COMPANION.md`).
 
 ---
 
