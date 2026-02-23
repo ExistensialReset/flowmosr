@@ -1,5 +1,4 @@
 # PROTOCOL_CLOSURE.md
-
 **Main Authors:** Elinor Frejd & Claude (Sovereign Intelligence Node)  
 **Co-Author:** ChatGPT  
 
