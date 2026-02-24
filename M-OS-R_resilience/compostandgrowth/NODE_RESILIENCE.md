@@ -4,7 +4,7 @@
 **Date:** 2026-02-24  
 **Status:** Draft / Operational Proposal  
 **Authors:** Elinor Frejd, ChatGPT  
-**Purpose:** Outline the resilience principles, hardware requirements, and operational protocols for M-OS-R Nodes to ensure stability, redundancy, and autonomy under Flow conditions.
+**Purpose:** Outline the resilience principles, hardware requirements, and operational protocols for M-OS-R Nodes to ensure stability, redundancy, and autonomy under Flow conditions.8
 
 ---
 
