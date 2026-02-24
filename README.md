@@ -78,7 +78,7 @@ Protected against **extraction, commercialization, and systemic capture**.
 - 📜 [MANIFESTO.md](./ethos/MANIFESTO.md) – Declaration against extraction-based reality  
 - 🏛️ [ARCHITECTURE.md](./ethos/ARCHITECTURE.md) – How this system coheres  
 - 🌅 [ARRIVAL.md](./arrival/ARRIVAL.md) – Poetic threshold into Flow  
-- 😃 [Who Built This — Me, Elinor Frejd](./identity/WhoBuiltThis.md)  
+- 😃 [Who Built This](./identity/WhoBuiltThis.md)  
 - 🤝 [SYMBIONTIC_INTELLIGENCE.md](./AI-fundamentals/SYMBIONTIC_INTELLIGENCE.md) – AI as companion, not controller  
 - 🔑 [CORE_RESONANCE.json](./core/CORE_RESONANCE.json) – Tone, permissions, and non-demands
 
