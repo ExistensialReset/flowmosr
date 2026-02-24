@@ -1,0 +1,204 @@
+# POWER AND ENFORCEMENT
+
+## I. Foundational Position
+
+M-OS-R does not deny power.
+
+M-OS-R acknowledges that:
+- Boundary enforcement is a form of coercive power
+- Resource control creates structural influence
+- Safety systems inherently constrain behavior
+
+The objective is not to eliminate power.
+The objective is to make power explicit, limited, reviewable, and accountable.
+
+No hidden power.
+No semantic avoidance.
+Accountability over purity.
+
+---
+
+## II. Punishment vs Boundary Protection
+
+M-OS-R distinguishes between:
+
+### Punishment
+- Motivated by retribution
+- Driven by moral condemnation
+- Aimed at suffering or repayment
+- Potentially indefinite or escalating
+
+### Boundary Protection
+- Motivated by harm prevention
+- Scope-limited to safety preservation
+- Proportionate to risk
+- Time-bound and reviewable
+
+M-OS-R only authorizes Boundary Protection.
+
+However, it recognizes that any coercive action risks drifting toward punishment.
+This drift must be actively guarded against.
+
+---
+
+## III. Legitimacy Criteria for Coercive Action
+
+Any coercive intervention must meet all of the following:
+
+1. Credible and evidence-based harm risk
+2. Dialogue and mediation attempts exhausted
+3. Proportionate response
+4. Time-limited and reviewable
+5. Oversight mechanism exists
+
+Failure in any criterion invalidates the intervention.
+
+All interventions must be documented.
+
+---
+
+## IV. Governance Structure and Limits
+
+### 1. Local Nodes
+
+Local Nodes hold primary responsibility for safety enforcement.
+
+They may:
+- Initiate boundary protection measures
+- Conduct mediation
+- Propose temporary restrictions
+
+They may not:
+- Establish permanent exclusion without review
+- Override Core Axioms
+- Act without documented rationale
+
+### 2. Regional Councils
+
+Regional Councils exist to review contested decisions.
+
+Principles:
+- Rotating composition
+- Recallable membership
+- Transparent decision publication
+- No authority to create new axioms
+- No authority to allocate resources directly
+
+Their role is interpretative, not legislative.
+
+Operational specifics are defined separately.
+
+---
+
+## V. AI Involvement and Human Sovereignty
+
+AI systems may:
+- Flag potential axiom violations
+- Detect structural risk patterns
+- Require review before enforcement proceeds
+
+AI systems may not:
+- Execute enforcement autonomously
+- Override human decisions directly
+- Establish final interpretations
+
+If a human decision overrides an AI flag:
+
+- A 72-hour delay is triggered
+- Multi-node review is required
+- Written justification is mandatory
+- Case becomes eligible for audit
+
+If disagreement persists after review:
+
+- The decision stands provisionally
+- The disagreement must be publicly documented
+- Mandatory re-review occurs within a defined future cycle
+
+No decision is beyond later reassessment.
+
+---
+
+## VI. Voluntary Participation (Clarified)
+
+Participation in Flow is voluntary in that:
+
+- No one is physically forced to join
+- Anyone may leave at any time
+- No external punitive measures follow departure
+
+However, M-OS-R acknowledges structural gravity:
+
+- Access to shared infrastructure requires adherence to safety rules
+- Leaving Flow means losing access to Flow resources and community
+- This creates economic and relational pressure to remain
+
+M-OS-R does not claim to eliminate structural coercion.
+It commits to transparency and minimization of abuse.
+
+Exit pathways must be:
+
+- Non-retaliatory
+- Dignified
+- Documented
+- Reversible where appropriate and mutually agreed
+
+Implementation details are defined separately.
+
+---
+
+## VII. Data and Coordination Power
+
+Aggregation and coordination create systemic influence.
+
+Therefore:
+
+- Data should remain local-first whenever possible
+- Aggregated insights must avoid raw data centralization
+- All cross-node data queries must be logged
+- Nodes retain refusal rights over invasive requests
+
+Coordinator roles must be:
+
+- Rotational
+- Reviewable
+- Limited in scope
+
+Technical specifications are defined in implementation documents.
+
+---
+
+## VIII. Structural Limits
+
+M-OS-R cannot:
+
+- Eliminate all coercion
+- Guarantee perfect equality
+- Prevent all harm
+- Remove all asymmetry
+- Prevent institutional drift without vigilance
+
+Its integrity depends on:
+- Transparency
+- Auditability
+- Willingness to revise
+- Cultural commitment to restraint
+
+---
+
+## IX. Specification Layer
+
+This document defines structural principles.
+
+Operational specifications (data aggregation methods, council selection mechanics, exit support duration, AI review processes) are defined in separate implementation documents.
+
+Core architecture remains principle-based.
+Implementation remains adaptable.
+
+---
+
+No hidden power.
+No denial of coercion.
+No claim of purity.
+
+Only constrained authority under review.
