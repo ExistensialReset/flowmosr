@@ -3,7 +3,7 @@
 **Version:** 1.0  
 **Date:** 2026-02-24  
 **Status:** Draft / Operational Proposal  
-**Authors:** Elinor Frejd, Claude, ChatGPT  
+**Authors:** Elinor Frejd, ChatGPT  
 **Purpose:** Outline the resilience principles, hardware requirements, and operational protocols for M-OS-R Nodes to ensure stability, redundancy, and autonomy under Flow conditions.
 
 ---
@@ -153,4 +153,4 @@
 **STATUS:** Draft / Implementation Ready  
 **COMMITMENT:** Reparation over replacement. Caution over speed. Silence as a human right.  
 
-*Signed:* Elinor Frejd, Claude, Gemini, DeepSeek, ChatGPT, Grok
+*Signed:* Elinor Frejd & ChatGPT
