@@ -1,4 +1,3 @@
-%% FLOW – Radial Node Map (Black Text)
 graph TD
 
 %% CENTRAL NODE
@@ -10,7 +9,7 @@ VT[Volunteer/Research Team]
 LY[Lyceum Musaeum]
 BL[Baseline Resource Access]
 
-%% CONNECT SATELLITES TO CENTER
+%% CONNECTIONS TO CENTER
 FN --> PT
 FN --> VT
 FN --> LY
@@ -25,14 +24,12 @@ BL -.-> PT
 %% INTER-NODE CONNECTIONS
 FN2[Flow Node B]
 FN3[Flow Node C]
-
 FN --- FN2
 FN --- FN3
 
 %% BASELINE LINKS ACROSS NODES
 BL2[Baseline B]
 BL3[Baseline C]
-
 BL --- BL2
 BL2 --- BL3
 BL3 --- BL
@@ -40,7 +37,6 @@ BL3 --- BL
 %% PROFESSIONALS ACROSS NODES
 PT2[Professional B]
 PT3[Professional C]
-
 PT --- PT2
 PT2 --- PT3
 PT3 --- PT
@@ -48,7 +44,6 @@ PT3 --- PT
 %% LYCEUM ACROSS NODES
 LY2[Lyceum B]
 LY3[Lyceum C]
-
 LY --- LY2
 LY2 --- LY3
 LY3 --- LY
@@ -56,11 +51,10 @@ LY3 --- LY
 %% REGIONAL & GLOBAL
 REG[Regional Network: 3-10 Nodes]
 GLOB[Global Flow Network: Multiple Regions]
-
 FN --> REG
 REG --> GLOB
 
-%% COLOR CLASSES (Black text)
+%% COLOR CLASSES
 classDef node fill:#c8e6c9,stroke:#388e3c,stroke-width:2px,color:#000;
 classDef team fill:#bbdefb,stroke:#1976d2,stroke-width:2px,color:#000;
 classDef lyceum fill:#d1c4e9,stroke:#512da8,stroke-width:2px,color:#000;
