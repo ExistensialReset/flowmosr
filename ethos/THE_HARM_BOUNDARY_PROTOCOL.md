@@ -11,14 +11,14 @@ This protocol establishes operational rules and safeguards for handling reports 
 - Irreversible measures (permanent containment, denial of contact) require **clear and convincing evidence**, documented proportionality, and a **named independent decision-maker or panel**.  
 - All actions must be **documented**, timestamped, and subject to **appeals**.  
 - Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.  
-- Decisions must be **transparent, auditable, and traceable** to the responsible parties.
+- Decisions must be **transparent, auditable, and traceable**.
 
 ---
 
 ## 2. Interim Measures and Review
 
 - **Initiation**: Interim measures (temporary isolation, restriction, or separation) may be enacted immediately when a report is received.  
-- **Review deadline**: Full independent review must be **initiated and documented within 14 days** of enactment; the initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
+- **Review deadline**: Full independent review must be **initiated and documented within 14 days**; initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
 - **Extension rules**:  
   - Any single extension may last **up to 7 days**.  
   - Cumulative extensions may not exceed **42 days** without a formal panel decision.  
@@ -31,29 +31,26 @@ This protocol establishes operational rules and safeguards for handling reports 
 ## 3. Relapse Definition and Evidence
 
 - **Relapse**: A materially similar act or pattern that meets the policy’s definition of **Unforgivable Harm**.  
-- **Operational evidence types** that may establish relapse include:  
+- **Operational evidence types**:  
   1. Contemporaneous physical evidence  
   2. Authenticated digital records  
   3. Independent witness statements  
   4. Medical or forensic reports  
 - **Evidence threshold**: Normally at least **two independent evidence types** are required to initiate permanent escalation.  
-- **Examples of sufficient combinations**:  
+- **Sufficient combinations examples**:  
   - Physical evidence + authenticated digital record  
   - Authenticated digital record + medical/forensic report  
   - Two independent witness statements + one digital trace  
-- **Incontrovertible evidence exception**: Single, incontrovertible evidence (e.g., verified video of the act, forensic DNA match, authenticated system logs showing prohibited contact) may be sufficient.  
-- **Interim containment extensions** beyond initial emergency isolation require documented justification and independent review within 7 days.
+- **Incontrovertible evidence exception**: Single incontrovertible evidence (e.g., verified video of the act, forensic DNA match, authenticated system logs showing prohibited contact) may suffice.  
+- **Interim containment extensions** require documented justification and independent review within 7 days.
 
 ---
 
 ## 4. Victim Veto
 
 - **Core principle**: The victim's veto over re-entry or contact petitions is decisive.  
-- **Extraordinary circumstances** for panel consideration include:  
-  - Newly discovered forensic evidence  
-  - Authenticated digital records previously inaccessible  
-  - Credible third-party evidence materially altering the factual record  
-- **Panel requirements**: Supermajority of at least **3 of 4 members**, full written documentation of rationale, additional appeals step.  
+- **Extraordinary circumstances**: Newly discovered forensic evidence, authenticated digital records previously inaccessible, or credible third-party evidence materially altering the factual record.  
+- **Panel requirements**: Supermajority of at least **3 of 4 members**, full written rationale, additional appeals step.  
 - **Default position**: Respect the victim's veto unless extraordinary circumstances are demonstrated with clear, independently verifiable evidence.
 
 ---
@@ -61,20 +58,28 @@ This protocol establishes operational rules and safeguards for handling reports 
 ## 5. Panel Selection via Lottery
 
 - **Pool composition**: All qualified Node members **except those in the immediate Node** of the incident.  
-- **Qualification**: All pool members must complete **mandatory brief training** in trauma-informed assessment, conflict-of-interest screening, and bias awareness.  
-- **Conflict-of-interest screening**: Candidates with direct relation to the parties are automatically excluded.  
-- **Lottery mechanism**: Independent and auditable (cryptographic RNG or external service); documented with timestamp and seed in auditable register.  
+- **Qualification**: Mandatory brief training (30–60 min e-learning) in trauma-informed assessment, confidentiality, and conflict-of-interest management.  
+- **Conflict-of-interest screening**: Candidates with direct relation to the parties are automatically excluded via signed digital declaration.  
+- **Lottery mechanism**: Independent and auditable (cryptographic RNG or external service), documented with timestamp and seed in the auditable register.  
 - **Recusal and anonymity**: Panelists may recuse themselves; recusal is logged. Individual votes may be anonymized in public reports.  
-- **Quorum and supermajority**: Minimum quorum 4 members; supermajority required for veto exceptions.  
-- **Rotation**: A member may not be selected more than X times per year (e.g., 2) to distribute responsibility.  
-- **Audit**: Lottery process and selections are fully auditable for independent review.
+- **Rotation**: A member may not be selected more than **2 times per calendar year**.  
+- **Audit**: All selection and decision logs must be exportable for independent review.
+
+**Super short operational checklist**:
+
+- Training: 30–60 min e-learning, mandatory.  
+- Conflict-of-interest declaration: digital form before each draw.  
+- Verifiable RNG: public seed + log.  
+- Recusal: button, logged.  
+- Rotation: max 2 selections per year.  
+- Audit: exportable logs.
 
 ---
 
 ## 6. Evidence Standards
 
 - **Irreversible measures** require **clear and convincing evidence**.  
-- **Interim safety measures** may be enacted on **credible, corroborated information**, but must undergo full independent review within 14 days and meet higher standard before irreversible escalation.  
+- **Interim safety measures** may be enacted on **credible, corroborated information**, but must undergo full independent review within 14 days and meet the higher standard before irreversible escalation.  
 - All evidence, rationales, and decisions must be **timestamped and logged**.
 
 ---
