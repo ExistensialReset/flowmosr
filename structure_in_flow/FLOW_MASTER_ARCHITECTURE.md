@@ -146,6 +146,58 @@ graph TD
 * Global Flow Network ensures rare resource distribution, knowledge exchange, and crisis management.
 * System scales organically while preserving human scale at the center.
 
+```
+%% FLOW One-Page Map: Spiral, Nodes, Lyceum, Baseline & Resource Flows
+flowchart TD
+    %% Individuals & Micro-Circles
+    IND[Individual] --> MC[Micro-Circle<br>2-5 people] 
+    MC --> BC[Baseline Circle<br>10-30 people]
+    BC --> FN[Flow Node<br>30+ people]
+
+    %% Node Internal Structure
+    FN --> PT[Professional Team]
+    FN --> VT[Volunteer/Research Team]
+    FN --> LY[Lyceum Musaeum]
+    FN --> BL[Baseline Resource Access]
+
+    %% Inter-Node Connections
+    FN --- FN2[Flow Node B] 
+    FN --- FN3[Flow Node C]
+
+    BL --- BL2[Baseline B]
+    BL2 --- BL3[Baseline C]
+    BL3 --- BL
+
+    PT --- PT2[Professional B]
+    PT2 --- PT3[Professional C]
+    PT3 --- PT
+
+    LY --- LY2[Lyceum B]
+    LY2 --- LY3[Lyceum C]
+    LY3 --- LY
+
+    %% Regional & Global Layers
+    FN --> REG[Regional Network<br>3-10 Nodes]
+    REG --> GLOB[Global Flow Network<br>Multiple Regions]
+
+    %% Legends
+    classDef individual fill:#e0f7fa,stroke:#00796b,stroke-width:2px;
+    classDef circle fill:#fff9c4,stroke:#fbc02d,stroke-width:2px;
+    classDef node fill:#c8e6c9,stroke:#388e3c,stroke-width:2px;
+    classDef team fill:#bbdefb,stroke:#1976d2,stroke-width:2px;
+    classDef lyceum fill:#d1c4e9,stroke:#512da8,stroke-width:2px;
+    classDef baseline fill:#ffcdd2,stroke:#c62828,stroke-width:2px;
+    classDef network fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px;
+
+    class IND individual;
+    class MC,BC circle;
+    class FN,FN2,FN3 node;
+    class PT,PT2,PT3,VT team;
+    class LY,LY2,LY3 lyceum;
+    class BL,BL2,BL3 baseline;
+    class REG,GLOB network; 
+```
+
 ---
 **Status:** Master Reference – Comprehensive Flow Architecture
 **Review Cycle:** Annual or upon major structural update
