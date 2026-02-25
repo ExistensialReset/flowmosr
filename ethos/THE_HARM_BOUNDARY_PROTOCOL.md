@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE HARM BOUNDARY  
 **Purpose:** Protect Node members from Unforgivable Harm; establish operational safeguards.  
-**Principle:** Victim-centered; permanent measures only after independent verification and due process.
+**Principle:** Victim-centered; permanent measures only after independent verification, named decision-makers, and due process.
 
 ---
 
@@ -13,7 +13,7 @@ This protocol applies to all acts that qualify as **Unforgivable Harm**: physica
 
 - Victims must always be prioritized.  
 - Interim safety measures may be enacted immediately, but all irreversible measures require structured review.  
-- All actions follow documented, independent verification and a named decision-maker.
+- All actions follow documented, independent verification and a named decision-maker.  
 
 ---
 
@@ -54,33 +54,37 @@ Protocol activates upon:
   - Written rationale.  
   - Evidence cited (physical, digital, witness, forensic).  
   - Maximum duration **7–14 days** pending full review.  
+  - Timeline for full independent review no later than 14 days from enactment.  
+  - Any extension beyond 14 days requires written justification, independent panel approval, and re-review at least every 7 days until completion.  
 
 ---
 
 ## §3. DEFINING RELAPSE
 
-**Relapse**: a materially similar act or pattern meeting the definition of Unforgivable Harm, or clear breach of documented containment conditions.
+**Relapse:** a materially similar act or pattern meeting the definition of Unforgivable Harm, or clear breach of documented containment conditions.
 
-**Evidence requirements:**
+**Operational evidence types that may establish relapse:**
 
-- At least two independent evidence types:  
-  1. Contemporaneous physical evidence.  
-  2. Authenticated digital records.  
-  3. Independent witness statements.  
-  4. Medical or forensic reports.  
+1. Contemporaneous physical evidence  
+2. Authenticated digital records  
+3. Independent witness statements  
+4. Medical or forensic reports  
 
-- Exception: a single piece of incontrovertible evidence may suffice.  
-- Permanent escalation may only occur after independent verification, proportionality assessment, and a named decision-maker.  
-- Scheduled **periodic review every 12 months**; emergency interim review if new credible evidence emerges.
+- At least **two independent evidence types** are required to initiate permanent escalation unless a single incontrovertible evidence exists.  
+- Permanent measures require independent verification, proportionality assessment, and a named decision-maker.  
+- Scheduled **periodic review every 12 months**; emergency interim review if new credible evidence emerges.  
+- Interim containment extensions beyond initial emergency isolation require documented justification and independent review within 7 days.  
 
 ---
 
 ## §4. EVIDENCE STANDARD & DECISION-MAKERS
 
 - **Minimum standard:** "Clear and convincing evidence" for irreversible measures (permanent containment, denial of contact).  
+- Interim safety measures may be enacted on a lower threshold of credible and corroborated information but must be followed by full independent review within 14 days and meet the higher standard before any irreversible escalation.  
 - Named independent decision-makers or panels must be external to the immediate Circle.  
 - All rationales documented in writing.  
-- Interim measures must specify evidence relied upon, rationale for proportionality, and timeline for full review (≤14 days).
+- Decision-makers must log decisions, evidence summaries, timelines, and appeals outcomes in an auditable register.  
+- Aggregated, anonymized metrics on interventions, durations, and appeal outcomes must be published quarterly to Node safety dashboards.  
 
 ---
 
@@ -90,9 +94,10 @@ Protocol activates upon:
 - Default: respect the veto.  
 - **Panel consideration for veto override** only under extraordinary circumstances:
 
-  - New, independently verifiable evidence demonstrating material change.  
+  - New, independently verifiable evidence demonstrating material change that could not reasonably have been available at the time of the original veto.  
   - Supermajority required (≥3 of 4 panel members).  
-  - Full written documentation and additional appeals step mandatory.  
+  - Full written documentation of rationale.  
+  - Additional appeals step mandatory.  
 
 ---
 
@@ -104,7 +109,7 @@ Protocol activates upon:
   - High evidentiary standard (clear and convincing evidence).  
   - Transparent documentation of investigation process.  
   - Full appeal safeguards.  
-  - Sanctions must avoid chilling effects on good-faith reporting.
+  - Sanctions must avoid chilling effects on good-faith reporting.  
 
 ---
 
@@ -147,7 +152,8 @@ Protocol activates upon:
 
 - Document L×S×I and safety outcomes for victims.  
 - Track proportionality and duration of measures applied to perpetrators.  
-- Feed results into Node and regional safety dashboards.
+- Feed results into Node and regional safety dashboards.  
+- Publish aggregated anonymized metrics quarterly.
 
 ---
 
@@ -169,7 +175,5 @@ Permanent measures always require **independent verification**, **named decision
 **STATUS:** ACTIVE HARM BOUNDARY  
 **REVIEW:** Annually + after major incidents  
 **OATH:** We protect victims, enforce boundaries responsibly, and prevent harm through transparent, evidence-based action.
-
----
 
 **End of Protocol**
