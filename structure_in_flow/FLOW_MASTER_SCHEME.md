@@ -1,10 +1,8 @@
-%% FLOW – Radial-ish Node Map (Black Text)
+%% FLOW – Radial Node Map (Black Text)
 graph TD
 
 %% CENTRAL NODE
-subgraph CENTRAL
-    FN[Flow Node: 30+ people]
-end
+FN[Flow Node: 30+ people]
 
 %% SATELLITES (around FN)
 PT[Professional Team]
