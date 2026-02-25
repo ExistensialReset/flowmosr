@@ -57,7 +57,7 @@ Upon a verified or credible report of unforgivable harm:
 - Available only if the perpetrator **fully acknowledges the harm**, accepts relocation, and commits to intensive, documented healing work (minimum 2 years).  
 - Supervised participation is allowed **only in distant Circles**, never the victim’s Circle or region.  
 - **Zero contact** with the victim is the default safety condition while reintegration is considered. Any request for permanent denial of contact must be documented, justified by independent verification, and subject to formal review at defined intervals (minimum every 12 months) with a named review panel and an appeals pathway.  
-- Any **alleged relapse** must be supported by corroborating evidence meeting the stated evidence standard (“clear and convincing evidence”) and evaluated through independent verification, proportionality assessment, and a named decision-maker. Permanent measures include scheduled periodic review at least every 12 months, with emergency interim review if new credible evidence emerges.
+- **Definition of relapse:** a materially similar act or pattern that meets the policy's definition of Unforgivable Harm or a clear breach of documented containment conditions, corroborated by independent evidence. Any alleged relapse must meet the stated evidence standard and be evaluated through independent verification, documented proportionality assessment, and a named decision-maker. Permanent measures must include scheduled periodic review no less frequently than every 12 months and a mechanism for emergency interim review if new, credible evidence emerges.
 
 ### Option B: Refusal to Change or Repeat Offense
 - Denial, justification, or repeated boundary violations may lead to containment measures **proportionate to the harm** and supported by documented evidence.  
@@ -84,7 +84,7 @@ Upon a verified or credible report of unforgivable harm:
 
 - **Evidence thresholds:** Physical evidence, witnesses, or digital corroboration as appropriate.  
 - **Investigation process:** Temporary separation with independent, timely review. Irreversible measures **only after independent verification**.  
-- Allegations found to be intentionally false after thorough independent investigation may result in proportionate accountability measures. Any such measures require **high evidentiary standard (clear and convincing evidence of intentional falsehood)**, transparent documentation, and full appeal safeguards.  
+- Allegations found to be intentionally false after a thorough independent investigation may result in proportionate accountability measures. Any such measures require **high evidentiary standard (clear and convincing evidence of intentional falsehood)**, transparent documentation of the investigative process, and full appeal safeguards.  
 - Sanctions for false reporting must be **proportionate, narrowly tailored**, and designed to avoid chilling effects on good-faith reporting.
 
 ---
@@ -102,9 +102,9 @@ Upon a verified or credible report of unforgivable harm:
 ## §7. RATIONALE
 
 - Exile and separation enforce **boundaries**, not punishment.  
-- Perpetrators retain **Baseline support and humane conditions**; they are contained but not harmed.  
+- Perpetrators retain **Baseline support and humane conditions**; they are contained with access to necessary services.  
+- Any long-term or permanent restrictions must be **periodically reviewed** and may be modified if independent evidence and proportionality assessments justify change.  
 - Safety and autonomy of the victim are absolute.  
-- All long-term or permanent restrictions must be **periodically reviewed** and may be modified if independent evidence and proportionality assessments justify change.  
 
 ---
 
