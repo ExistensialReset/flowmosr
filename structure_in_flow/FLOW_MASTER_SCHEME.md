@@ -37,15 +37,4 @@ D3 --> D4
 
 %% OPTIONAL: LOOP BACK FOR SPIRAL FEEL
 D4 -.-> A
-
-%% COLORS
-classDef core fill:#ffe0b2,stroke:#ef6c00,stroke-width:2px,color:#000;
-classDef layer2 fill:#bbdefb,stroke:#1976d2,stroke-width:2px,color:#000;
-classDef layer3 fill:#c8e6c9,stroke:#388e3c,stroke-width:2px,color:#000;
-classDef layer4 fill:#f8bbd0,stroke:#c2185b,stroke-width:2px,color:#000;
-
-class A core;
-class B1,B2 layer2;
-class C1,C2,C3 layer3;
-class D1,D2,D3,D4 layer4;
 ```
