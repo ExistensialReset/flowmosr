@@ -79,7 +79,7 @@ Upon a verified report of unforgivable harm:
 
 ## §5. PROTECTION AGAINST FALSE ACCUSATIONS
 
-- **Evidence thresholds**: Physical evidence, witnesses, or digital corroboration as appropriate.  
+- **Evidence thresholds:** Physical evidence, witnesses, or digital corroboration as appropriate.  
 - **Investigation process:** Temporary separation with independent, timely review. Irreversible measures **only after independent verification**.  
 - False accusers may be subject to proportionate containment with oversight.
 
