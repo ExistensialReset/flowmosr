@@ -1,41 +1,65 @@
 flowchart TD
     %% CENTRAL FLOW SPIRAL
     IND[Individual]
-    IND --> MC[Micro-Circle\n2-5 people] 
-    MC --> BC[Baseline Circle\n10-30 people]
-    BC --> FN[Flow Node\n30+ people]
+    MC[Micro-Circle: 2-5 people]
+    BC[Baseline Circle: 10-30 people]
+    FN[Flow Node: 30+ people]
+
+    IND --> MC
+    MC --> BC
+    BC --> FN
 
     %% FLOW NODE SATELLITES (Radial)
-    FN --> PT[Professional Team]
-    FN --> VT[Volunteer/Research Team]
-    FN --> LY[Lyceum Musaeum]
-    FN --> BL[Baseline Resource Access]
+    PT[Professional Team]
+    VT[Volunteer/Research Team]
+    LY[Lyceum Musaeum]
+    BL[Baseline Resource Access]
 
-    %% Loop satellites to show circular relationship
+    FN --> PT
+    FN --> VT
+    FN --> LY
+    FN --> BL
+
+    %% Loop satellites (circular feel)
     PT -.-> VT
     VT -.-> LY
     LY -.-> BL
     BL -.-> PT
 
     %% INTER-NODE CONNECTIONS
-    FN --- FN2[Flow Node B]
-    FN --- FN3[Flow Node C]
+    FN2[Flow Node B]
+    FN3[Flow Node C]
 
-    BL --- BL2[Baseline B]
-    BL2 --- BL3[Baseline C]
+    FN --- FN2
+    FN --- FN3
+
+    BL2[Baseline B]
+    BL3[Baseline C]
+
+    BL --- BL2
+    BL2 --- BL3
     BL3 --- BL
 
-    PT --- PT2[Professional B]
-    PT2 --- PT3[Professional C]
+    PT2[Professional B]
+    PT3[Professional C]
+
+    PT --- PT2
+    PT2 --- PT3
     PT3 --- PT
 
-    LY --- LY2[Lyceum B]
-    LY2 --- LY3[Lyceum C]
+    LY2[Lyceum B]
+    LY3[Lyceum C]
+
+    LY --- LY2
+    LY2 --- LY3
     LY3 --- LY
 
     %% REGIONAL & GLOBAL
-    FN --> REG[Regional Network\n3-10 Nodes]
-    REG --> GLOB[Global Flow Network\nMultiple Regions]
+    REG[Regional Network: 3-10 Nodes]
+    GLOB[Global Flow Network: Multiple Regions]
+
+    FN --> REG
+    REG --> GLOB
 
     %% COLOR CLASSES (BLACK TEXT)
     classDef individual fill:#e0f7fa,stroke:#00796b,stroke-width:2px,color:#000;
