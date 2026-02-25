@@ -1,126 +1,174 @@
 # THE_HARM_BOUNDARY_PROTOCOL.md
 
-**Status:** ACTIVE / PROTECTIVE  
-**Principle:** The victim never moves. The perpetrator always moves.  
-**Core Axiom:** Flow tolerates all emotions, all failure, all struggle. Flow does not tolerate sadism, violence, or abuse.
+**Status:** ACTIVE HARM BOUNDARY  
+**Purpose:** Protect Node members from Unforgivable Harm; establish operational safeguards.  
+**Principle:** Victim-centered; permanent measures only after independent verification and due process.
 
 ---
 
-## §1. DEFINITION OF UNFORGIVABLE HARM
+## PREAMBLE
 
-Unforgivable harm is defined as intentional and systemic boundary violations through force, malice, or sustained harassment. This includes:
+Harmful acts within a Node threaten both individual safety and Flow integrity.  
+This protocol applies to all acts that qualify as **Unforgivable Harm**: physical, sexual, emotional abuse, or systemic exploitation.
 
-### 1.1 Sadistic Harm
-- **Intentional infliction of suffering** for the perpetrator’s satisfaction, not by accident, miscommunication, or temporary dysregulation.  
-- **Sustained pattern of behavior** despite clear communication of harm and requests to stop.  
-- **Absence of repair intent** — no attempt to restore trust or acknowledge harm.  
-- **Evidence requirement:** pattern documentation and corroborating evidence; independent review to assess context, collusion risk, and proportionality before irreversible measures.
-
-### 1.2 Physical and Weaponized Violence
-- **Any use of weapons** (guns, knives, blunt objects, improvised weapons) against another person may justify exclusion, but no irreversible exclusion may occur without documented, independent verification and a proportional process.  
-- **Temporary separation** may be enacted immediately for safety with a clear maximum duration, followed by independent review.  
-- **Sexual assault** of any form.  
-- **Severe physical attacks** causing injury that requires medical intervention.  
-- **Credible threats** to kill or seriously injure.  
-
-### 1.3 Digital and Psychological Abuse
-- **Doxxing, stalking, harassment** across digital platforms.  
-- **Non-consensual intimate imagery, deepfakes, or identity theft** intended to harm.  
-- **Coordinated campaigns** to damage reputation, livelihood, or safety.
+- Victims must always be prioritized.  
+- Interim safety measures may be enacted immediately, but all irreversible measures require structured review.  
+- All actions follow documented, independent verification and a named decision-maker.
 
 ---
 
-## §2. IMMEDIATE PROTECTIVE RESPONSE
+## §1. TRIGGER CONDITIONS
 
-Upon a verified or credible report of unforgivable harm:
+Protocol activates upon:
 
-### Step 1: Protect the Victim
-- **Victim remains in their home, Circle, and community.** Life and Flow must not be disrupted by the perpetrator.  
-- **Baseline is fully maintained.**  
-- **Support is offered** (Refugium Anima, trusted witnesses, advocacy) but never forced.  
-- **Temporary measures for immediate safety** may be applied if the perpetrator poses imminent risk, even when direct evidence is limited (e.g., solitary crimes). These measures are **proportionate, time-limited, and documented**, with independent verification required for continuation beyond the initial period.
+- Reports of Unforgivable Harm from any Node member.  
+- Observation of behaviors or patterns indicating potential risk.  
+- Disclosure from victim, guardian, or third-party witness.
 
-### Step 2: Temporary Separation
-- The perpetrator may be relocated or restricted **for immediate safety**, under a **clearly defined temporary duration**.  
-- **All temporary separation actions require:**  
-  - Documented rationale  
-  - Independent verification of the threat  
-  - Named human decision-maker  
-  - Transparent criteria for duration and scope  
-- **Recommended initial duration:** 24–72 hours for emergency isolation; extensions require documented justification and independent review.
+**Baseline Emergency Override:**
+
+- Immediate removal of the alleged perpetrator from victim proximity.  
+- Temporary isolation or containment for safety, **maximum 14 days** unless extended by independent review.  
+- Access to emergency services for victims.  
 
 ---
 
-## §3. PERPETRATOR PATHWAYS
+## §2. DETECTION & TRIAGE
 
-### Option A: Acknowledgment & Transformation Path
-- Available only if the perpetrator **fully acknowledges the harm**, accepts relocation, and commits to intensive, documented healing work (minimum 2 years).  
-- Supervised participation is allowed **only in distant Circles**, never the victim’s Circle or region.  
-- **Zero contact** with the victim is the default safety condition while reintegration is considered. Any request for permanent denial of contact must be documented, justified by independent verification, and subject to formal review at defined intervals (minimum every 12 months) with a named review panel and an appeals pathway.  
-- **Definition of relapse:** a materially similar act or pattern that meets the policy's definition of Unforgivable Harm or a clear breach of documented containment conditions, corroborated by independent evidence. Any alleged relapse must meet the stated evidence standard and be evaluated through independent verification, documented proportionality assessment, and a named decision-maker. Permanent measures must include scheduled periodic review no less frequently than every 12 months and a mechanism for emergency interim review if new, credible evidence emerges.
+### 2.1 Observation
 
-### Option B: Refusal to Change or Repeat Offense
-- Denial, justification, or repeated boundary violations may lead to containment measures **proportionate to the harm** and supported by documented evidence.  
-- **Permanent containment** may only be ordered after independent review, documented proportionality assessment, and with an explicit appeals process.  
-- Containment conditions must include minimum standards for humane treatment and Baseline support.  
-- **Baseline needs remain guaranteed** (food, housing, healthcare).  
-- **Permanent exile** is proportional, not punitive, and always documented with oversight and appeals pathways.  
+- All members are encouraged to report suspicious behaviors.  
+- Monitoring may include AI-assisted advisory tools; AI cannot independently enforce actions.
 
----
+### 2.2 Rapid Assessment
 
-## §4. WEAPON VIOLENCE
+- Trauma-informed screening for victim and witnesses.  
+- Preliminary assessment by at least one trained human observer.  
+- Immediate documentation of observations and evidence.
 
-- Using a weapon may justify permanent exclusion **but never automatically**.  
-- Requires:  
-  - Documented, independent verification  
-  - Proportionate response assessment  
-  - Named human decision-maker  
-  - Defined appeals process  
-- **Temporary separation for safety** may be enacted while review proceeds.
+### 2.3 Operative Triage & Interim Measures
+
+- Interim containment may be enacted to ensure immediate safety.  
+- All interim measures require:
+
+  - Written rationale.  
+  - Evidence cited (physical, digital, witness, forensic).  
+  - Maximum duration **7–14 days** pending full review.  
 
 ---
 
-## §5. PROTECTION AGAINST FALSE ACCUSATIONS
+## §3. DEFINING RELAPSE
 
-- **Evidence thresholds:** Physical evidence, witnesses, or digital corroboration as appropriate.  
-- **Investigation process:** Temporary separation with independent, timely review. Irreversible measures **only after independent verification**.  
-- Allegations found to be intentionally false after a thorough independent investigation may result in proportionate accountability measures. Any such measures require **high evidentiary standard (clear and convincing evidence of intentional falsehood)**, transparent documentation of the investigative process, and full appeal safeguards.  
-- Sanctions for false reporting must be **proportionate, narrowly tailored**, and designed to avoid chilling effects on good-faith reporting.
+**Relapse**: a materially similar act or pattern meeting the definition of Unforgivable Harm, or clear breach of documented containment conditions.
 
----
+**Evidence requirements:**
 
-## §6. VICTIM RIGHTS
+- At least two independent evidence types:  
+  1. Contemporaneous physical evidence.  
+  2. Authenticated digital records.  
+  3. Independent witness statements.  
+  4. Medical or forensic reports.  
 
-- **No forced contact**  
-- **No demanded forgiveness**  
-- **Absolute veto power** over re-entry petitions** is given decisive weight.**  
-- Requests to override a victim's veto may only be considered by a **named independent review panel** under extraordinary circumstances where **new, independently verifiable evidence** demonstrates material change; any such consideration requires **supermajority decision, full documentation, and an additional appeals step**.  
-- **Unlimited healing time**; no pressure to “move on”
-
----
-
-## §7. RATIONALE
-
-- Exile and separation enforce **boundaries**, not punishment.  
-- Perpetrators retain **Baseline support and humane conditions**; they are contained with access to necessary services.  
-- Any long-term or permanent restrictions must be **periodically reviewed** and may be modified if independent evidence and proportionality assessments justify change.  
-- Safety and autonomy of the victim are absolute.  
+- Exception: a single piece of incontrovertible evidence may suffice.  
+- Permanent escalation may only occur after independent verification, proportionality assessment, and a named decision-maker.  
+- Scheduled **periodic review every 12 months**; emergency interim review if new credible evidence emerges.
 
 ---
 
-## §8. SPECIAL CONSIDERATIONS FOR SOLITARY OR FAMILY-BASED OFFENSES
+## §4. EVIDENCE STANDARD & DECISION-MAKERS
 
-- If a crime occurs in private/solitary settings (e.g., child or family abuse), temporary protective measures may be initiated **immediately** to ensure victim safety.  
-- Investigation must rely on **indirect, corroborated evidence** (medical records, digital traces, witness observations, psychological assessments).  
-- AI outputs may inform risk assessment but **cannot trigger irreversible measures without human verification**.  
-- Temporary protective measures must be **time-limited, documented, and independently reviewed** before any extension or permanent action.
+- **Minimum standard:** "Clear and convincing evidence" for irreversible measures (permanent containment, denial of contact).  
+- Named independent decision-makers or panels must be external to the immediate Circle.  
+- All rationales documented in writing.  
+- Interim measures must specify evidence relied upon, rationale for proportionality, and timeline for full review (≤14 days).
 
 ---
 
-## §9. FINAL PRINCIPLE
+## §5. VICTIM VETO
 
-**The victim never moves. The perpetrator always moves.**  
-**All actions are subject to documented human verification, a named independent decision-maker, a stated evidence standard (minimum “clear and convincing”), documented proportionality assessment, and a defined appeals pathway with maximum timelines for review.**  
+- Core victim right: veto over re-entry petitions.  
+- Default: respect the veto.  
+- **Panel consideration for veto override** only under extraordinary circumstances:
+
+  - New, independently verifiable evidence demonstrating material change.  
+  - Supermajority required (≥3 of 4 panel members).  
+  - Full written documentation and additional appeals step mandatory.  
+
+---
+
+## §6. HANDLING FALSE ALLEGATIONS
+
+- Allegations intentionally false may trigger proportionate accountability measures **only after thorough independent investigation**.  
+- Requirements:
+
+  - High evidentiary standard (clear and convincing evidence).  
+  - Transparent documentation of investigation process.  
+  - Full appeal safeguards.  
+  - Sanctions must avoid chilling effects on good-faith reporting.
+
+---
+
+## §7. INTERVENTION PATHWAYS
+
+1. **Immediate Safety**  
+
+   - Remove alleged perpetrator from victim proximity.  
+   - Ensure access to emergency services.  
+   - Document all actions.
+
+2. **Investigation**  
+
+   - Independent verification of allegations.  
+   - Evidence collection and review.  
+   - Assign named decision-maker/panel for assessment.
+
+3. **Remediation**  
+
+   - Counseling and trauma support for victims.  
+   - Support reintegration or containment measures for perpetrator as justified.  
+   - Review proportionality and duration of measures regularly.
+
+4. **Escalation**  
+
+   - Any act qualifying as criminal: coordinate with **LEGAL_INTERFACE_PROTOCOL**.  
+   - Node systemic failure: consider **SLOW_EROSION_PROTOCOL** or **REGIONAL_DEADLOCK_PROTOCOL**.
+
+---
+
+## §8. PERPETRATOR BASELINE SUPPORT
+
+- Humane containment conditions with access to necessary services.  
+- Long-term or permanent restrictions require **periodic review** and may be modified based on independent evidence and proportionality assessments.  
+- Interim measures limited to **maximum 14 days** without review.
+
+---
+
+## §9. METRICS & FEEDBACK LOOP
+
+- Document L×S×I and safety outcomes for victims.  
+- Track proportionality and duration of measures applied to perpetrators.  
+- Feed results into Node and regional safety dashboards.
+
+---
+
+## §10. PHILOSOPHICAL GROUND
+
+- **Victim Baseline is inviolable.**  
+- **Prevention > remediation.**  
+- Early detection, transparent process, and independent verification save lives and trust.
+
+---
+
+## CLOSING PRINCIPLE
+
+Act **swiftly, transparently, and trauma-informed**, prioritizing the victim’s safety.  
+Permanent measures always require **independent verification**, **named decision-makers**, **clear evidence**, **documented proportionality**, and a **defined appeals pathway**.
+
+---
+
+**STATUS:** ACTIVE HARM BOUNDARY  
+**REVIEW:** Annually + after major incidents  
+**OATH:** We protect victims, enforce boundaries responsibly, and prevent harm through transparent, evidence-based action.
 
 ---
 
