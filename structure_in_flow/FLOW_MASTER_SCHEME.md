@@ -1,4 +1,3 @@
-%% FLOW – Radial-ish Node Map (Black Text)
 graph TD
 
     %% CENTRAL NODE
@@ -16,7 +15,7 @@ graph TD
     FN --> LY
     FN --> BL
 
-    %% LOOP SATELLITES (simulate circle)
+    %% LOOP SATELLITES (simulate circular layout)
     PT -.-> VT
     VT -.-> LY
     LY -.-> BL
