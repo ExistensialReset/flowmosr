@@ -1,7 +1,7 @@
 # THE_HARM_BOUNDARY_PROTOCOL.md
 
 ## Purpose
-This protocol establishes operational rules and safeguards for handling reports of harm, ensuring **victim safety** while maintaining **due process** for the alleged perpetrator. The guiding principle: **the victim never moves; the perpetrator is removed from proximity to the victim.**
+This protocol establishes operational rules and safeguards for handling reports of harm, ensuring **victim safety** while maintaining **due process** for the alleged perpetrator. Guiding principle: **the victim never moves; the perpetrator is removed from proximity to the victim.**
 
 ---
 
@@ -10,7 +10,8 @@ This protocol establishes operational rules and safeguards for handling reports 
 - Victim safety is the highest priority.  
 - Irreversible measures (permanent containment, denial of contact) require **clear and convincing evidence**, documented proportionality, and a **named independent decision-maker or panel**.  
 - All actions must be **documented**, timestamped, and subject to **appeals**.  
-- Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.
+- Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.  
+- Decisions must be **transparent, auditable, and traceable** to the responsible parties.
 
 ---
 
@@ -18,20 +19,29 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 - **Initiation**: Interim measures (temporary isolation, restriction, or separation) may be enacted immediately when a report is received.  
 - **Review deadline**: Full independent review must be **initiated and documented within 14 days** of enactment; the initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
-- **Extension**: Any extension beyond 14 days requires written justification, independent panel approval, and must be re-reviewed at least every 7 days until full review is complete. Maximum extension per interval: 7 days; total maximum extension before panel decision: 42 days.  
+- **Extension rules**:  
+  - Any single extension may last **up to 7 days**.  
+  - Cumulative extensions may not exceed **42 days** without a formal panel decision.  
+  - Each extension must be documented with timestamp, responsible person, and justification.  
+  - Panel approval is required for all extensions beyond 14 days.  
 - **Documentation**: Evidence relied upon, rationale for proportionality, and decisions must be logged with timestamps in an auditable register.
 
 ---
 
-## 3. Definition of Relapse
+## 3. Relapse Definition and Evidence
 
-- **Relapse** is a materially similar act or pattern that meets the policy's definition of **Unforgivable Harm**.  
+- **Relapse**: A materially similar act or pattern that meets the policy’s definition of **Unforgivable Harm**.  
 - **Operational evidence types** that may establish relapse include:  
   1. Contemporaneous physical evidence  
   2. Authenticated digital records  
   3. Independent witness statements  
   4. Medical or forensic reports  
-- **Evidence threshold**: At least **two independent evidence types** are required to initiate permanent escalation unless a **single incontrovertible evidence** exists. Examples of incontrovertible evidence: verified video recording, forensic DNA match, or authenticated system logs showing prohibited contact.  
+- **Evidence threshold**: Normally at least **two independent evidence types** are required to initiate permanent escalation.  
+- **Examples of sufficient combinations**:  
+  - Physical evidence + authenticated digital record  
+  - Authenticated digital record + medical/forensic report  
+  - Two independent witness statements + one digital trace  
+- **Incontrovertible evidence exception**: Single, incontrovertible evidence (e.g., verified video of the act, forensic DNA match, authenticated system logs showing prohibited contact) may be sufficient.  
 - **Interim containment extensions** beyond initial emergency isolation require documented justification and independent review within 7 days.
 
 ---
@@ -42,64 +52,62 @@ This protocol establishes operational rules and safeguards for handling reports 
 - **Extraordinary circumstances** for panel consideration include:  
   - Newly discovered forensic evidence  
   - Authenticated digital records previously inaccessible  
-  - Credible third-party evidence that materially alters the factual record  
-- **Panel requirements**: Supermajority of at least 3 of 4 members; full written documentation of rationale; an additional appeals step.  
+  - Credible third-party evidence materially altering the factual record  
+- **Panel requirements**: Supermajority of at least **3 of 4 members**, full written documentation of rationale, additional appeals step.  
 - **Default position**: Respect the victim's veto unless extraordinary circumstances are demonstrated with clear, independently verifiable evidence.
 
 ---
 
-## 5. Evidence Standards
+## 5. Panel Selection via Lottery
 
-- **Irreversible measures** (permanent containment, permanent denial of contact) require **clear and convincing evidence**.  
-- **Interim safety measures** may be enacted on **credible and corroborated information** but must undergo full independent review within 14 days and meet the higher standard before irreversible escalation.  
-- All evidence, rationales, and decisions must be logged with timestamps.
+- **Pool composition**: All qualified Node members **except those in the immediate Node** of the incident.  
+- **Qualification**: All pool members must complete **mandatory brief training** in trauma-informed assessment, conflict-of-interest screening, and bias awareness.  
+- **Conflict-of-interest screening**: Candidates with direct relation to the parties are automatically excluded.  
+- **Lottery mechanism**: Independent and auditable (cryptographic RNG or external service); documented with timestamp and seed in auditable register.  
+- **Recusal and anonymity**: Panelists may recuse themselves; recusal is logged. Individual votes may be anonymized in public reports.  
+- **Quorum and supermajority**: Minimum quorum 4 members; supermajority required for veto exceptions.  
+- **Rotation**: A member may not be selected more than X times per year (e.g., 2) to distribute responsibility.  
+- **Audit**: Lottery process and selections are fully auditable for independent review.
 
 ---
 
-## 6. Containment Conditions
+## 6. Evidence Standards
 
-- Perpetrators are **removed from proximity to the victim** while retaining **Baseline support** and humane treatment.  
-- Long-term or permanent restrictions must be **periodically reviewed** (at least every 12 months) and may be modified if independent evidence and proportionality assessments justify change.  
+- **Irreversible measures** require **clear and convincing evidence**.  
+- **Interim safety measures** may be enacted on **credible, corroborated information**, but must undergo full independent review within 14 days and meet higher standard before irreversible escalation.  
+- All evidence, rationales, and decisions must be **timestamped and logged**.
+
+---
+
+## 7. Containment Conditions
+
+- Perpetrators are **removed from proximity to the victim** while receiving **Baseline support** and humane treatment.  
+- Long-term or permanent restrictions must be **reviewed at least every 12 months** and may be modified if independent evidence and proportionality assessments justify change.  
 - Containment includes access to necessary services and guarantees against harm.
 
 ---
 
-## 7. Logging, Transparency, and Metrics
+## 8. Logging, Transparency, and Metrics
 
-- **Decision logs**: All actions must include a timestamped entry: report received, interim enacted, review started, decision issued, appeal filed, appeal outcome.  
-- **Auditable register**: Must be maintained with responsible decision-makers noted.  
-- **Quarterly reporting**: Aggregated, anonymized metrics on interventions, durations, and appeal outcomes must be published to Node safety dashboards.
-
----
-
-## 8. False Allegations
-
-- Allegations found intentionally false **after thorough independent investigation** may result in proportionate accountability measures.  
-- Any such measures require:  
-  - High evidentiary standard (clear and convincing evidence of intentional falsehood)  
-  - Transparent documentation of investigative process  
-  - Full appeal safeguards  
-- Sanctions for false reporting must be proportionate, narrowly tailored, and designed **to avoid chilling effects on good-faith reporting**.
+- **Decision logs**: Every action includes a timestamped entry: report received, interim enacted, review started, decision issued, appeal filed, appeal outcome. Fields: event_type, timestamp, responsible_person, evidence_summary, decision_text, next_deadline.  
+- **Auditable register**: Exportable for independent review; used for quarterly anonymized metrics reporting.  
+- **Quarterly reporting**: Aggregated, anonymized metrics on interventions, durations, and appeal outcomes published to Node safety dashboards.
 
 ---
 
-## 9. Appeals and Oversight
+## 9. False Allegations
 
-- All actions are subject to review by **named independent decision-makers or panels**.  
+- Allegations found intentionally false **after independent investigation** may result in proportionate accountability.  
+- Requirements: clear and convincing evidence of intentional falsehood, full documentation, and appeal safeguards.  
+- Sanctions must be proportionate, narrowly tailored, and designed to **avoid chilling good-faith reporting**.
+
+---
+
+## 10. Appeals and Oversight
+
+- All actions are subject to review by **named independent decision-makers or lottery-selected panels**.  
 - Appeals must be possible within defined timelines.  
-- Independent reviewers must document rationales, evidence relied upon, proportionality assessments, and timelines for resolution.  
-
----
-
-## 10. Panel Selection via Lottery
-
-- **Lottery mechanism**: Panel members are selected via a verifiable lottery from a pre-qualified pool of Node members.  
-- **Pool criteria**: Excludes members in the closest Node to the incident; all must complete short mandatory training in trauma-informed assessment and conflict-of-interest management.  
-- **Conflict-of-interest screening**: Candidates declare conflicts; anyone with direct relation to the parties is excluded automatically.  
-- **Secure lottery**: Must be cryptographically or independently auditable (e.g., published seed + RNG or external service) and logged with timestamp and selection details.  
-- **Quorum and supermajority**: Minimum 4 members selected; supermajority (≥3 of 4) required for exceptions to victim veto.  
-- **Recusal and rotation**: Panel members may recuse themselves; recusal is documented. Maximum number of selections per member per year (e.g., 2) to ensure rotation.  
-- **Audit and transparency**: All lottery draws and decisions are logged and available for independent review.
+- Independent reviewers document rationales, evidence relied upon, proportionality assessments, and resolution timelines.
 
 ---
 
@@ -109,21 +117,8 @@ This protocol establishes operational rules and safeguards for handling reports 
 2. **Interim measures** → Enact immediately if credible threat; log action and timeline.  
 3. **Full independent review** → Initiate within 14 days; review interim decisions; document evidence and proportionality.  
 4. **Permanent measures** → Only if review confirms evidence standard; document rationale; schedule periodic review (≤12 months).  
-5. **Appeal** → Allow petitioning party to appeal; panel documents outcome and update auditable register.  
+5. **Appeal** → Petitioning party may appeal; panel documents outcome and updates auditable register.  
 6. **Quarterly metrics** → Publish anonymized aggregate data for transparency and safety insights.  
-7. **Panel selection** → For reviews requiring panels, conduct lottery selection according to operational safeguards above.
-
----
-
-## 12. Remaining Risks and Mitigations
-
-- **Lottery panel manipulation and competence**: Without operational safeguards, the lottery could select unsuitable or unprepared panel members. Mitigation: enforce qualified pool, conflict-of-interest screening, mandatory short training, rotation limits, and verifiable lottery mechanism.  
-
-- **Prolonged interim measures**: Extensions beyond limits could create indefinite isolation. Mitigation: cap maximum extension per interval (7 days) and total maximum (42 days) before panel decision; require written justification and independent approval for every extension.  
-
-- **Interpretation of "incontrovertible evidence"**: Risk of subjective or inconsistent application. Mitigation: provide concrete examples in operational guidelines.  
-
-- **Auditability and log standardization**: Logs must be uniform to allow practical and rapid independent review. Mitigation: define timestamped fields, required metadata (decision-maker, evidence summary, action taken), and standardized log format for quarterly reporting and audits.
 
 ---
 
