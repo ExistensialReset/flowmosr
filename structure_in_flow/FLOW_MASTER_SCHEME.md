@@ -1,18 +1,17 @@
-%% FLOW – Radial Spiral Map with Nodes & Satellites
 flowchart TD
     %% CENTRAL FLOW SPIRAL
     IND[Individual]
-    IND --> MC[Micro-Circle<br>2-5 people]
-    MC --> BC[Baseline Circle<br>10-30 people]
-    BC --> FN[Flow Node<br>30+ people]
+    IND --> MC[Micro-Circle\n2-5 people] 
+    MC --> BC[Baseline Circle\n10-30 people]
+    BC --> FN[Flow Node\n30+ people]
 
-    %% FLOW NODE SATELLITES (Radial/Circular)
+    %% FLOW NODE SATELLITES (Radial)
     FN --> PT[Professional Team]
     FN --> VT[Volunteer/Research Team]
     FN --> LY[Lyceum Musaeum]
     FN --> BL[Baseline Resource Access]
 
-    %% Simulate circular layout by connecting satellites in a loop
+    %% Loop satellites to show circular relationship
     PT -.-> VT
     VT -.-> LY
     LY -.-> BL
@@ -34,9 +33,9 @@ flowchart TD
     LY2 --- LY3[Lyceum C]
     LY3 --- LY
 
-    %% REGIONAL & GLOBAL LAYERS
-    FN --> REG[Regional Network<br>3-10 Nodes]
-    REG --> GLOB[Global Flow Network<br>Multiple Regions]
+    %% REGIONAL & GLOBAL
+    FN --> REG[Regional Network\n3-10 Nodes]
+    REG --> GLOB[Global Flow Network\nMultiple Regions]
 
     %% COLOR CLASSES (BLACK TEXT)
     classDef individual fill:#e0f7fa,stroke:#00796b,stroke-width:2px,color:#000;
@@ -55,11 +54,3 @@ flowchart TD
     class LY,LY2,LY3 lyceum;
     class BL,BL2,BL3 baseline;
     class REG,GLOB network;
-
-    %% STYLE ARROWS & NODES
-    style IND stroke:#000,stroke-width:2px
-    style MC stroke:#000,stroke-width:2px
-    style BC stroke:#000,stroke-width:2px
-    style FN stroke:#000,stroke-width:2px
-    style REG stroke:#000,stroke-width:2px
-    style GLOB stroke:#000,stroke-width:2px
