@@ -8,18 +8,19 @@ This protocol establishes operational rules and safeguards for handling reports 
 ## 1. Principles
 
 - Victim safety is the highest priority.  
-- Irreversible measures (permanent containment, denial of contact) require **clear and convincing evidence**, documented proportionality, and a **named independent decision-maker or panel**.  
+- Irreversible measures (permanent containment, denial of contact) require **clear and convincing evidence**, documented proportionality, and a **named independent decision-maker or lottery-selected panel**.  
 - All actions must be **documented**, timestamped, and subject to **appeals**.  
-- Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.
+- Interim safety measures may be enacted immediately on **credible, corroborated information**, but must be followed by full independent review within **14 days**.  
+- **Panel members are selected by lottery** from eligible decision-makers; no one is permanently assigned. Panels must include at least one member independent of the immediate Node.
 
 ---
 
 ## 2. Interim Measures and Review
 
 - **Initiation**: Interim measures (temporary isolation, restriction, or separation) may be enacted immediately when a report is received.  
-- **Review deadline**: Full independent review must be **initiated and documented within 14 days** of enactment; the initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
+- **Full Review Deadline**: Full independent review must be **initiated and documented within 14 days** of enactment; the initiating decision-maker must record the review start date and responsible reviewer in the auditable register.  
 - **Extension**: Any extension beyond 14 days requires written justification, independent panel approval, and must be re-reviewed at least every 7 days until full review is complete.  
-- **Documentation**: Evidence relied upon, rationale for proportionality, and decisions must be logged with timestamps in an auditable register.
+- **Documentation**: Evidence relied upon, rationale for proportionality, decisions, and timelines must be logged with timestamps in an auditable register.
 
 ---
 
@@ -43,7 +44,7 @@ This protocol establishes operational rules and safeguards for handling reports 
   - Newly discovered forensic evidence  
   - Authenticated digital records previously inaccessible  
   - Credible third-party evidence that materially alters the factual record  
-- **Panel requirements**: Supermajority of at least 3 of 4 members; full written documentation of rationale; an additional appeals step.  
+- **Panel requirements**: Supermajority of at least 3 of 4 lottery-selected members; full written documentation of rationale; an additional appeals step.  
 - **Default position**: Respect the victim's veto unless extraordinary circumstances are demonstrated with clear, independently verifiable evidence.
 
 ---
@@ -85,7 +86,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ## 9. Appeals and Oversight
 
-- All actions are subject to review by **named independent decision-makers or panels**.  
+- All actions are subject to review by **named independent decision-makers or lottery-selected panels**.  
 - Appeals must be possible within defined timelines.  
 - Independent reviewers must document rationales, evidence relied upon, proportionality assessments, and timelines for resolution.  
 
@@ -97,10 +98,9 @@ This protocol establishes operational rules and safeguards for handling reports 
 2. **Interim measures** → Enact immediately if credible threat; log action and timeline.  
 3. **Full independent review** → Initiate within 14 days; review interim decisions; document evidence and proportionality.  
 4. **Permanent measures** → Only if review confirms evidence standard; document rationale; schedule periodic review (≤12 months).  
-5. **Appeal** → Allow petitioning party to appeal; panel documents outcome and update auditable register.  
+5. **Appeal** → Allow petitioning party to appeal; lottery-selected panel documents outcome and updates auditable register.  
 6. **Quarterly metrics** → Publish anonymized aggregate data for transparency and safety insights.
 
 ---
 
 **End of Protocol**
-
