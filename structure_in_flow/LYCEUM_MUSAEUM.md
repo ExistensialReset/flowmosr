@@ -1,10 +1,10 @@
-# LYCEUM & MUSAEUM – KNOWLEDGE, SKILLS, AND COMMUNITY IN FLOW
+# LYCEUM MUSAEUM – KNOWLEDGE, SKILLS, AND COMMUNITY IN FLOW
 
 ---
 
 ## Purpose
 
-The Lyceum & Musaeum are nodes for **learning, creation, and professional development**.  
+The Lyceum Musaeum are nodes for **learning, creation, and professional development**.  
 They connect people with tools, workshops, seminars, and knowledge resources.
 
 ---
