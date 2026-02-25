@@ -1,0 +1,6 @@
+*** Begin Patch
+*** Update File: core/RESOURCE_METRIC_STANDARDS.md
+@@
+-Baseline allocation is adjusted based on productivity index and contribution score.
++Baseline allocation is unconditional. Resource allocation beyond baseline (optional benefits) may consider contribution for discretionary programs, but baseline access must never be conditioned on productivity or contribution metrics.
+*** End Patch
