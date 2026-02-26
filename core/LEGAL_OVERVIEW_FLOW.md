@@ -120,12 +120,12 @@ This playbook provides a **structured, auditable, and legally defensible framewo
 
 ```mermaid
 flowchart TD
-    %% Top-down Legal Overview Flow
-    A[🟢 Legal Request Received] --> B[🟡 Intake & Logging]
-    B --> C[🟡 Triage Classification]
-    C --> D[🟢 Legal Analysis & Narrowing]
-    D --> E[🟢 Compliance Extraction & Redaction]
-    E --> F[🔵 LOTUS Attestation / Notification]
+    %% Top-down Legal Overview Flow (condensed)
+    A[🟢 Request Received] --> B[🟡 Intake & Log]
+    B --> C[🟡 Triage]
+    C --> D[🟢 Legal Review & Narrowing]
+    D --> E[🟢 Extract & Redact]
+    E --> F[🔵 LOTUS Attestation]
     F --> G[🔴 Audit & Follow-up]
 
     %% Styling for readability and wider nodes
