@@ -58,3 +58,29 @@ This specification ensures RNG operations used for lotteries, random selection, 
 **CSV example row**
 ```text
 evt-0001,2026-02-26T01:25:00Z,node-01,flow_lottery_2026-02-26,2026-02-26T01:25:00Z_node-01,3f2a...9b,HMAC-DRBG,winner_index=7,,initial_run
+```
+## JSON schema
+{
+  "event_id": "string",
+  "timestamp_iso": "string (ISO 8601 UTC)",
+  "node_id": "string",
+  "context_string": "string",
+  "public_nonce": "string",
+  "hash_of_H": "hex string",
+  "algorithm": "string",
+  "output_summary": "string",
+  "auditor_hash": "hex string (optional)",
+  "notes": "string (optional)"
+}
+
+## Retention and Compost Policy
+**Retention:** Encrypted RNG logs retained locally for 90 days by default.
+
+**Compost:** After 90 days, sensitive fields are anonymized or deleted; published hash records remain in the public archive for audit.
+
+## Verification Workflow
+1. Publish: After draw, publish public_nonce, context_string, hash_of_H, algorithm, output_summary.
+
+2. Audit: Auditor recomputes H from private_seed (if available under audit) and verifies SHA256(H) equals published hash_of_H.
+
+3. Dispute: On mismatch, freeze related actions and initiate FLOW_VERIFICATION_PROTOCOL.md audit.
