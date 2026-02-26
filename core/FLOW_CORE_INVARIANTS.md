@@ -36,13 +36,13 @@
 
 ```mermaid
 flowchart LR
-    🧭["Flow Core Compass"] --> 💛["Post-Monetary Existence"]
-    🧭 --> 🌱["Baseline as Human Default"]
-    🧭 --> ✨["Non-Coercion"]
-    🧭 --> 🔒["Personal Data Rights"]
-    🧭 --> 🌊["LxSxI: Calm × Spontaneity × Empathy"]
-    💛 --> 🌱
-    🌱 --> ✨
-    ✨ --> 🔒
-    🔒 --> 🌊
-    🌊 --> 🧭
+    Compass["Flow Core Compass"] --> PostMonetary["Post-Monetary Existence"]
+    Compass --> Baseline["Baseline as Human Default"]
+    Compass --> NonCoercion["Non-Coercion"]
+    Compass --> DataRights["Personal Data Rights"]
+    Compass --> LxSxI["LxSxI: Calm × Spontaneity × Empathy"]
+    PostMonetary --> Baseline
+    Baseline --> NonCoercion
+    NonCoercion --> DataRights
+    DataRights --> LxSxI
+    LxSxI --> Compass 
