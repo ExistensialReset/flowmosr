@@ -58,9 +58,18 @@
 ## 3. High-Level Relationships (Mermaid)
 
 ```mermaid
+# LEGAL_OVERVIEW_FLOW — File Structure Diagram
+
+**Status:** Draft  
+**Scope:** /core and /structure_in_flow repositories  
+**Purpose:** High-level visual overview of core and structure files, top-to-bottom, color-coded, legible, for INUTI display.
+
+---
+
+```mermaid
 flowchart TD
-    %% Core files (blå)
-    style CORE fill:#cce5ff,stroke:#333,stroke-width:2px
+    %% CORE FILES (Blå)
+    style CORE fill:#cce5ff,stroke:#004080,stroke-width:2px
     CORE["/core Files"]:::core
     CORE --> A[M-OS-R_SYS_MAP]
     CORE --> B[CORE_FLOW_PROTOCOLS]
@@ -69,8 +78,8 @@ flowchart TD
     CORE --> E[FLOW_GLOBAL_IMPLEMENTATION_GUIDE]
     CORE --> F[ETHOS_SAFEGUARDS]
 
-    %% Structure in flow files (lila)
-    style STRUCT fill:#e6ccff,stroke:#333,stroke-width:2px
+    %% STRUCTURE_IN_FLOW FILES (Lila)
+    style STRUCT fill:#e6ccff,stroke:#6600cc,stroke-width:2px
     STRUCT["/structure_in_flow Files"]:::structure
     STRUCT --> G[COMPLETE_LEGAL_RESPONSE_PLAYBOOK]
     STRUCT --> H[LEGAL_OVERVIEW_FLOW]
@@ -92,7 +101,7 @@ flowchart TD
     STRUCT --> X[FLOW_UNIVERSAL_REPORTING]
     STRUCT --> Y[NO_CURRENCY_RESOURCE_ALLOCATION_IN_FLOW]
 
-    %% Relationships (arrows mellan Core och Structure)
+    %% Relationships (Core → Structure)
     A --> B
     B --> D
     C --> B
@@ -115,5 +124,5 @@ flowchart TD
     W --> X
     Y --> X
 
-    classDef core fill:#cce5ff,stroke:#004080,stroke-width:2px,color:#000,font-size:16px;
-    classDef structure fill:#e6ccff,stroke:#6600cc,stroke-width:2px,color:#000,font-size:16px;
+    classDef core fill:#cce5ff,stroke:#004080,stroke-width:2px,color:#000,font-size:18px;
+    classDef structure fill:#e6ccff,stroke:#6600cc,stroke-width:2px,color:#000,font-size:18px;
