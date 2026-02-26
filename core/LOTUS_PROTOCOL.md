@@ -81,7 +81,7 @@ Implementation details are defined separately.
 
 # 4. MANDATE LIMITS
 
-- Maximum consecutive service: 6 months  
+- Maximum consecutive service: 9 months  
 - Maximum selections per calendar year: 2  
 - Extended mandates require documented justification  
 - Automatic rotation triggers when limits are reached  
