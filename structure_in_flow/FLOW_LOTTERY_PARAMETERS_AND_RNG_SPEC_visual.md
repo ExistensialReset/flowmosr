@@ -1,4 +1,4 @@
-### FLOW_LOTTERY_PARAMETERS_AND_RNG_SPEC.md (Visual Edition)
+# FLOW_LOTTERY_PARAMETERS_AND_RNG_SPEC.md (Visual Edition)
 
 **Status:** Draft  
 **Scope:** LOTUS Protocol, Global Node Governance  
