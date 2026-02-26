@@ -334,4 +334,4 @@ This matrix translates qualitative judgments into repeatable, auditable rules so
     "Train verifiers in trauma-informed procedures and evidence handling.",
     "Run tabletop exercises and red-team tests for legal compulsion scenarios."
   ]
-}```
+}
