@@ -59,41 +59,40 @@
 
 ```mermaid
 flowchart TD
-    style CORE fill:#f0f8ff,stroke:#333,stroke-width:2px
-    style STRUCTURE_IN_FLOW fill:#fff0f5,stroke:#333,stroke-width:2px
+    %% Core files (blå)
+    style CORE fill:#cce5ff,stroke:#333,stroke-width:2px
+    CORE["/core Files"]:::core
+    CORE --> A[M-OS-R_SYS_MAP]
+    CORE --> B[CORE_FLOW_PROTOCOLS]
+    CORE --> C[RESOURCE_METRIC_STANDARDS]
+    CORE --> D[FLOW_CORE_INVARIANTS]
+    CORE --> E[FLOW_GLOBAL_IMPLEMENTATION_GUIDE]
+    CORE --> F[ETHOS_SAFEGUARDS]
 
-    subgraph CORE
-        A[M-OS-R_SYSTEM_MAP]
-        B[CORE_FLOW_PROTOCOLS]
-        C[RESOURCE_METRIC_STANDARDS]
-        D[FLOW_CORE_INVARIANTS]
-        E[FLOW_GLOBAL_IMPLEMENTATION_GUIDE]
-        F[ETHOS_SAFEGUARDS]
-    end
+    %% Structure in flow files (lila)
+    style STRUCT fill:#e6ccff,stroke:#333,stroke-width:2px
+    STRUCT["/structure_in_flow Files"]:::structure
+    STRUCT --> G[COMPLETE_LEGAL_RESPONSE_PLAYBOOK]
+    STRUCT --> H[LEGAL_OVERVIEW_FLOW]
+    STRUCT --> I[EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM]
+    STRUCT --> J[UNFORGIVABLE_HARM_PROTOCOL]
+    STRUCT --> K[ANONYMOUS_VERIFICATION_WORKFLOW]
+    STRUCT --> L[FLOW_VERIFICATION_PROTOCOL]
+    STRUCT --> M[FLOW_NODES_AND_TEAMS_STRUCTURE]
+    STRUCT --> N[FLOW_MASTER_ARCHITECTURE]
+    STRUCT --> O[FLOW_MASTER_SCHEME]
+    STRUCT --> P[FLOW_SPIRAL_*]
+    STRUCT --> Q[FLOW_OVERVIEW]
+    STRUCT --> R[HARM_SUMMARY]
+    STRUCT --> S[ANONYMOUS_RESOURCE_TRACKING_IN_FLOW]
+    STRUCT --> T[RESOURCE_TRACKING_AND_COORDINATION_IN_FLOW]
+    STRUCT --> U[FLOW_GOVERNANCE_LOTTERIES]
+    STRUCT --> V[FLOW_LOTTERY_PARAMETERS_AND_RNG_SPEC_visual]
+    STRUCT --> W[NODE_DEFINITION]
+    STRUCT --> X[FLOW_UNIVERSAL_REPORTING]
+    STRUCT --> Y[NO_CURRENCY_RESOURCE_ALLOCATION_IN_FLOW]
 
-    subgraph STRUCTURE_IN_FLOW
-        G[COMPLETE_LEGAL_RESPONSE_PLAYBOOK]
-        H[LEGAL_OVERVIEW_FLOW]
-        I[EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM]
-        J[UNFORGIVABLE_HARM_PROTOCOL]
-        K[ANONYMOUS_VERIFICATION_WORKFLOW]
-        L[FLOW_VERIFICATION_PROTOCOL]
-        M[FLOW_NODES_AND_TEAMS_STRUCTURE]
-        N[FLOW_MASTER_ARCHITECTURE]
-        O[FLOW_MASTER_SCHEME]
-        P[FLOW_SPIRAL_*]
-        Q[FLOW_OVERVIEW]
-        R[HARM_SUMMARY]
-        S[ANONYMOUS_RESOURCE_TRACKING_IN_FLOW]
-        T[RESOURCE_TRACKING_AND_COORDINATION_IN_FLOW]
-        U[FLOW_GOVERNANCE_LOTTERIES]
-        V[FLOW_LOTTERY_PARAMETERS_AND_RNG_SPEC_visual]
-        W[NODE_DEFINITION]
-        X[FLOW_UNIVERSAL_REPORTING]
-        Y[NO_CURRENCY_RESOURCE_ALLOCATION_IN_FLOW]
-    end
-
-    %% Relationships
+    %% Relationships (arrows mellan Core och Structure)
     A --> B
     B --> D
     C --> B
@@ -115,3 +114,6 @@ flowchart TD
     U --> V
     W --> X
     Y --> X
+
+    classDef core fill:#cce5ff,stroke:#004080,stroke-width:2px,color:#000,font-size:16px;
+    classDef structure fill:#e6ccff,stroke:#6600cc,stroke-width:2px,color:#000,font-size:16px;
