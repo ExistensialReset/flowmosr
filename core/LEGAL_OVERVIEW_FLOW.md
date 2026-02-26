@@ -120,6 +120,7 @@ This playbook provides a **structured, auditable, and legally defensible framewo
 
 ```mermaid
 flowchart LR
+    %% Nodes
     A[🟢 Legal Request Received] -->|🟢 Low-Risk| B[🟡 Intake & Logging]
     B -->|🟡 Medium-Risk| C[🟡 Triage Classification]
     C -->|🟢 Low-Risk| D[🟢 Legal Analysis & Narrowing]
@@ -127,13 +128,18 @@ flowchart LR
     E -->|🔵 Oversight| F[🔵 LOTUS Attestation / Notification]
     F -->|🔴 High-Risk / Safety Critical| G[🔴 Audit & Follow-up]
 
-    %% Node styling
-    classDef green fill:#d4f8d4,stroke:#333,stroke-width:1px,color:#000;
-    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:1px,color:#000;
-    classDef red fill:#ffcccc,stroke:#333,stroke-width:1px,color:#000;
-    classDef blue fill:#cce0ff,stroke:#333,stroke-width:1px,color:#000;
+    %% Styling
+    classDef green fill:#d4f8d4,stroke:#333,stroke-width:1px,color:#000,font-size:18px,padding:20px;
+    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:1px,color:#000,font-size:18px,padding:20px;
+    classDef red fill:#ffcccc,stroke:#333,stroke-width:1px,color:#000,font-size:18px,padding:20px;
+    classDef blue fill:#cce0ff,stroke:#333,stroke-width:1px,color:#000,font-size:18px,padding:20px;
 
     class A,D,E green
     class B,C yellow
     class F blue
     class G red
+
+    %% General Mermaid config for bigger text
+    %% (Om din renderer stöder config-block)
+    %% mermaidConfig
+    %% { "flowchart": { "fontSize": 24, "nodeSpacing": 50, "rankSpacing": 50 } }
