@@ -1,4 +1,4 @@
-### ANONYMOUS_VERIFICATION_WORKFLOW.md
+# ANONYMOUS_VERIFICATION_WORKFLOW.md
 
 **Status:** Draft  
 **Scope:** Flow Universal Reporting Protocol; Node verification and corroboration for anonymous reports  
