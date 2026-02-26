@@ -31,30 +31,72 @@
 
 ```mermaid
 flowchart LR
-    FLOW["FLOW 🌿"] --> NODES["Nodes & Teams 🏢"]
-    FLOW --> LOTUS["LOTUS Protocol 🌸"]
-    FLOW --> BASELINE["Flow Baseline Knowledge 🌱"]
-    FLOW --> SPIRALS["Spiral Structure 🌀"]
-    FLOW --> DECISION["Decision & Audit 📝📊"]
-    FLOW --> RNG["RNG & Verification 🔑"]
+    %% MAIN FLOW NODE
+    FLOW["FLOW 🌿"]:::flow_main
 
-    LOTUS --> LOTTERY["Lottery Selection 🎲"]
-    LOTUS --> MANDATE["Mandate Rules 📜"]
-    LOTUS --> RECOVERY["Recovery & Social Attestation 🔄"]
+    %% SUBGRAPHS
+    subgraph NODES_Group["Nodes & Teams 🏢"]
+        NODES["Participating Nodes"]:::nodes
+    end
 
-    LOTTERY --> POOL["Qualified Pool 🧑‍💻"]
-    LOTTERY --> CONFLICT["Conflict Screening 🤝"]
-    LOTTERY --> TRAINING["Post-Selection Training 🏫"]
+    subgraph LOTUS_Group["LOTUS Protocol 🌸"]
+        LOTUS["LOTUS Core"]:::lotus
+        LOTTERY["Lottery Selection 🎲"]:::lotus
+        MANDATE["Mandate Rules 📜"]:::lotus
+        RECOVERY["Recovery & Social Attestation 🔄"]:::lotus
+        LOTUS --> LOTTERY
+        LOTUS --> MANDATE
+        LOTUS --> RECOVERY
+        LOTTERY --> POOL["Qualified Pool 🧑‍💻"]
+        LOTTERY --> CONFLICT["Conflict Screening 🤝"]
+        LOTTERY --> TRAINING["Post-Selection Training 🏫"]
+        MANDATE --> DURATION["Mandate Duration ⏳"]
+        MANDATE --> EXTENSIONS["Interim Extensions 🔄"]
+    end
 
-    MANDATE --> DURATION["Mandate Duration ⏳"]
-    MANDATE --> EXTENSIONS["Interim Extensions 🔄"]
+    subgraph RNG_Group["RNG & Verification 🔑"]
+        RNG["RNG Core"]:::rng
+        SEED["Seed & Nonce 🗝️"]:::rng
+        VERIFY["Deterministic Verification ✔️"]:::rng
+        RNG --> SEED
+        RNG --> VERIFY
+    end
 
-    DECISION --> LOGS["Decision Logs 🗂️"]
-    DECISION --> ANON["Anonymized Votes 🕵️‍♀️"]
+    subgraph DECISION_Group["Decision & Audit 📝📊"]
+        DECISION["Decision Logs & Anonymized Votes"]:::decision
+        LOGS["Decision Logs 🗂️"]:::decision
+        ANON["Anonymized Votes 🕵️‍♀️"]:::decision
+        DECISION --> LOGS
+        DECISION --> ANON
+    end
 
-    RNG --> SEED["Seed & Nonce 🗝️"]
-    RNG --> VERIFY["Deterministic Verification ✔️"]
+    subgraph BASELINE_Group["Flow Baseline Knowledge 🌱"]
+        BASELINE["Core Principles"]:::baseline
+        NONCOERCION["Non-Coercion 💛"]:::baseline
+        LxSxI["LxSxI: Calm×Spontaneity×Empathy 🧘"]:::baseline
+        POSTMONEY["Post-Monetary 🌍"]:::baseline
+        BASELINE --> NONCOERCION
+        BASELINE --> LxSxI
+        BASELINE --> POSTMONEY
+    end
 
-    BASELINE --> NONCOERCION["Non-Coercion 💛"]
-    BASELINE --> LxSxI["LxSxI: Calm×Spontaneity×Empathy 🧘"]
-    BASELINE --> POSTMONEY["Post-Monetary 🌍"]
+    subgraph SPIRAL_Group["Spiral Structure 🌀"]
+        SPIRALS["Project Spirals"]:::spiral
+    end
+
+    %% CONNECTIONS TO MAIN FLOW
+    FLOW --> NODES
+    FLOW --> LOTUS
+    FLOW --> BASELINE
+    FLOW --> SPIRALS
+    FLOW --> DECISION
+    FLOW --> RNG
+
+    %% STYLES
+    classDef flow_main fill:#A3E4D7,stroke:#2C3E50,stroke-width:3px,color:#2C3E50
+    classDef nodes fill:#F7DC6F,stroke:#B9770E,stroke-width:2px,color:#2C3E50
+    classDef lotus fill:#F5B7B1,stroke:#C0392B,stroke-width:2px,color:#2C3E50
+    classDef baseline fill:#ABEBC6,stroke:#196F3D,stroke-width:2px,color:#2C3E50
+    classDef decision fill:#AED6F1,stroke:#1B4F72,stroke-width:2px,color:#2C3E50
+    classDef rng fill:#D2B4DE,stroke:#6C3483,stroke-width:2px,color:#2C3E50
+    classDef spiral fill:#F9E79F,stroke:#B7950B,stroke-width:2px,color:#2C3E50```
