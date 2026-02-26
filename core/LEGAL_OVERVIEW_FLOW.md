@@ -6,6 +6,12 @@
 
 ---
 
+## Foreword
+
+This playbook provides a **structured, auditable, and legally defensible framework** for handling all lawful requests affecting Flow Node operations. It prioritizes victim safety, data minimization, and transparency where legally permissible. The document serves both as a **guideline for day-to-day operations** and as a **reference for audits, LOTUS oversight, and red-team testing**. All steps are designed to ensure consistency, reproducibility, and accountability across the network.
+
+---
+
 ## 1. Principles & Objectives
 
 | Principle | Description | Visual Cue |
@@ -107,3 +113,27 @@
 ---
 
 > ⚠️ **Note:** All compelled disclosures must follow this playbook unless explicitly overridden by court order; document any deviations with legal basis and publish attestation hash when permitted.
+
+---
+
+## 11. Mermaid Flow Diagram (Color-Coded)
+
+```mermaid
+flowchart LR
+    A[🟢 Legal Request Received] -->|🟢 Low-Risk| B[🟡 Intake & Logging]
+    B -->|🟡 Medium-Risk| C[🟡 Triage Classification]
+    C -->|🟢 Low-Risk| D[🟢 Legal Analysis & Narrowing]
+    D -->|🟢 Low-Risk| E[🟢 Compliance Extraction & Redaction]
+    E -->|🔵 Oversight| F[🔵 LOTUS Attestation / Notification]
+    F -->|🔴 High-Risk / Safety Critical| G[🔴 Audit & Follow-up]
+
+    %% Node styling
+    classDef green fill:#d4f8d4,stroke:#333,stroke-width:1px,color:#000;
+    classDef yellow fill:#fff3b0,stroke:#333,stroke-width:1px,color:#000;
+    classDef red fill:#ffcccc,stroke:#333,stroke-width:1px,color:#000;
+    classDef blue fill:#cce0ff,stroke:#333,stroke-width:1px,color:#000;
+
+    class A,D,E green
+    class B,C yellow
+    class F blue
+    class G red
