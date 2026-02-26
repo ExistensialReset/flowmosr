@@ -125,38 +125,86 @@
 
 ```mermaid 
 flowchart LR
-    %% 🪷 LOTUS Protocol – Maxad Flow‑version
-    LOTUS[" 🪷 LOTUS Protocol"] --> LOTTERY["🎲 Lottery Selection"]
-    LOTUS --> MANDATE["📜 Mandate Rules"]
-    LOTUS --> DECISION["📝 Decision Documentation"]
-    LOTUS --> RNG["🔑 RNG & Verification"]
-    LOTUS --> AUDIT["📊 Audit & Logs"]
-    LOTUS --> BASELINE["🌱 Flow Baseline Knowledge"]
+    %% 🌸 LOTUS Protocol – Flow Aesthetic Version
+
+    LOTUS["🌸 LOTUS Protocol"]
+
+    LOTTERY["🎲 Lottery Selection"]
+    MANDATE["📜 Mandate Rules"]
+    DECISION["📝 Decision Documentation"]
+    RNG["🔑 RNG & Verification"]
+    AUDIT["📊 Audit & Logs"]
+    BASELINE["🌱 Flow Baseline Knowledge"]
+
+    LOTUS --> LOTTERY
+    LOTUS --> MANDATE
+    LOTUS --> DECISION
+    LOTUS --> RNG
+    LOTUS --> AUDIT
+    LOTUS --> BASELINE
 
     %% Lottery
-    LOTTERY --> POOL["🧑‍💻 Qualified Pool"]
-    LOTTERY --> CONFLICT["🤝 Conflict Screening"]
-    LOTTERY --> TRAINING["🏫 Post-Selection Training"]
+    POOL["🧑‍💻 Qualified Pool"]
+    CONFLICT["🤝 Conflict Screening"]
+    TRAINING["🏫 Post-Selection Training"]
+
+    LOTTERY --> POOL
+    LOTTERY --> CONFLICT
+    LOTTERY --> TRAINING
 
     %% Mandate
-    MANDATE --> DURATION["⏳ Mandate Duration & Rotation"]
-    MANDATE --> EXTENSIONS["🔄 Interim Extensions"]
+    DURATION["⏳ Mandate Duration & Rotation"]
+    EXTENSIONS["🔄 Interim Extensions"]
+
+    MANDATE --> DURATION
+    MANDATE --> EXTENSIONS
 
     %% Decision
-    DECISION --> LOGS["🗂️ Decision Logs"]
-    DECISION --> ANON["🕵️‍♀️ Anonymized Votes"]
+    LOGS["🗂️ Decision Logs"]
+    ANON["🕵️ Anonymized Votes"]
+
+    DECISION --> LOGS
+    DECISION --> ANON
 
     %% RNG
-    RNG --> SEED["🗝️ Seed & Nonce"]
-    RNG --> VERIFY["✔️ Deterministic Verification"]
+    SEED["🗝️ Seed & Nonce"]
+    VERIFY["✔️ Deterministic Verification"]
+
+    RNG --> SEED
+    RNG --> VERIFY
 
     %% Audit
-    AUDIT --> EXPORT["💾 CSV/JSON Export"]
-    AUDIT --> QUARTERLY["🔍 Quarterly Audit"]
+    EXPORT["💾 CSV / JSON Export"]
+    QUARTERLY["🔍 Quarterly Audit"]
 
-    %% Baseline Knowledge
-    BASELINE --> NONCOERCION["💛 Non-Coercion"]
-    BASELINE --> LxSxI["🧘 LxSxI: Calm×Spontaneity×Empathy"]
-    BASELINE --> POSTMONEY["🌍 Post-Monetary"]
+    AUDIT --> EXPORT
+    AUDIT --> QUARTERLY
+
+    %% Baseline
+    NONCOERCION["💛 Non-Coercion"]
+    LxSxI["🧘 Calm × Spontaneity × Empathy"]
+    POSTMONEY["🌍 Post-Monetary Orientation"]
+
+    BASELINE --> NONCOERCION
+    BASELINE --> LxSxI
+    BASELINE --> POSTMONEY
+
+    %% 🎨 Styling
+
+    classDef core fill:#ffe6f2,stroke:#d63384,stroke-width:2px,color:#000;
+    classDef lottery fill:#fff3cd,stroke:#ff9800,stroke-width:2px,color:#000;
+    classDef mandate fill:#e3f2fd,stroke:#2196f3,stroke-width:2px,color:#000;
+    classDef decision fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px,color:#000;
+    classDef rng fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000;
+    classDef audit fill:#ede7f6,stroke:#5e35b1,stroke-width:2px,color:#000;
+    classDef baseline fill:#fff8e1,stroke:#f57f17,stroke-width:2px,color:#000;
+
+    class LOTUS core
+    class LOTTERY,POOL,CONFLICT,TRAINING lottery
+    class MANDATE,DURATION,EXTENSIONS mandate
+    class DECISION,LOGS,ANON decision
+    class RNG,SEED,VERIFY rng
+    class AUDIT,EXPORT,QUARTERLY audit
+    class BASELINE,NONCOERCION,LxSxI,POSTMONEY baseline
 
 
