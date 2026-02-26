@@ -1,4 +1,4 @@
-# FLOW_ID_v3.md
+# FLOW_ID.md
 
 **Status:** DRAFT  
 **Scope:** Global Node Protocol  
