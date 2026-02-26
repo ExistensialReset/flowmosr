@@ -66,7 +66,7 @@ in alignment with the *Rebirth Mandate*.
 If you experience or witness a violation, report it to the Project Maintainers  
 (the Rotating Council).
 
-> Contact: *(to be defined by the Circle)*
+> Contact: *elinor.frejd@proton.me*
 
 ### Consequences
 
