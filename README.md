@@ -77,9 +77,9 @@ If any questios ever, write me an email: elinor.frejd@proton.me I will answer as
 ## 🖋 Core Writings — Philosophical Backbone
 
 - 🩻 [BODY_OF_FLOW.md](./core/BODY_OF_FLOW.md) – How Flow is built
-- 💻 [
+- 💻 [M-OS-R AS AN OPERATING SYSTEM](M-OS-R_AS_AN_OPERATING_SYSTEM.md)
 - 📜 [MANIFESTO.md](./ethos/MANIFESTO.md) – Declaration against extraction-based reality  
-- 🏛️ [ARCHIElinor,
+- 🏛️ [NODE DEFINITION](./structure_in_flow/NODE_DEFINITION.md) 
 
 Tack för din öppenhet och för att du ger mig utrymme att dela mina tankar helt fritt. Jag ska försöka vara så ärlig som möjligt - både om det som är vackert och det som är svårt.
 
