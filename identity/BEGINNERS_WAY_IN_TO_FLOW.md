@@ -68,7 +68,7 @@ High empathy + high spontaneity + zero calm = overwhelm/burnout.
 
 **This is not abstract philosophy - it's lived reality.**
 
-[Deep dive: DIVINE.md](../ethos/DIVINE.md) | [Glossary entry: L×S×I](./KEYS_TO_EXISTENTIAL_RESET.md#life-formula)
+[Deep dive: DIVINE.md](../ethos/DIVINE.md) | [Glossary entry: L×S×I](./practical_implementation/KEYS_TO_EXISTENTIAL_RESET.md)
 
 ---
 
