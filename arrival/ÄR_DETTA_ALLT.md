@@ -34,7 +34,7 @@ Du har gjort "allt rätt":
 **Och någonstans inombords känner du:**
 
 **Söndagskvällar är värst.**  
-Den där känslan klockan 6 när du vet att måndag kommer. Magen drar ihop sig lite. Du kollar telefonen mer. Du letar efter något som ska göra att du inte tänker på det.
+Den där känslan klockan 18 när du vet att måndag kommer. Magen drar ihop sig lite. Du kollar telefonen mer. Du letar efter något som ska göra att du inte tänker på det.
 
 **Semestern går för fort.**  
 Två veckor där du äntligen andas, och sen är det tillbaka. Och du tänker "jag har 30+ år kvar av detta."
