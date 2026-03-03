@@ -4,7 +4,7 @@
 **Layer:** System Integrity (Layer II – Operational Containment)  
 **Scope:** Node → Regional → Global  
 **Purpose:** Explicitly identify system weaknesses, assign mitigations, and create a living self-test mechanism.  
-**Version:** 1.1  
+**Version:** 1.2  
 **Authors:** Claude & Elinor Frejd  
 **Date:** February 26, 2026  
 
@@ -33,27 +33,27 @@ Invisible risk is systemic decay.
 
 M-OS-R assumes adversarial and entropy-driven environments.
 
-Threats are categorized as:
+Threat categories:
 
-1. Identity capture
-2. Governance distortion
-3. Enforcement drift
-4. Network failure
-5. Energy collapse
-6. Procedural corruption
-7. Coordinated cross-node manipulation
-8. Slow structural centralization
+1. Identity capture  
+2. Governance distortion  
+3. Enforcement drift  
+4. Network failure  
+5. Energy collapse  
+6. Procedural corruption  
+7. Coordinated cross-node manipulation  
+8. Slow structural centralization  
 
 The system assumes:
 
-- Nodes may fail.
-- Leaders may drift.
-- Logs may be attacked.
-- Verification may be gamed.
-- Energy may become scarce.
-- External political pressure may increase.
+- Nodes may fail.  
+- Leaders may drift.  
+- Logs may be attacked.  
+- Verification may be gamed.  
+- Energy may become scarce.  
+- External political pressure may increase.  
 
-Risk management must not assume good faith as a permanent property.
+Risk management must not assume permanent good faith.
 
 ---
 
@@ -65,13 +65,11 @@ Risk management must not assume good faith as a permanent property.
 
 | Risk | Severity | Owner | Mitigation | Status |
 |------|----------|--------|------------|--------|
-| Randomized Social Verification Weakness | Critical | Node Leads | Multi-layer verification; reputation weighting; anomaly logging | Not started |
-| Privilege Escalation via Device Compromise | High | Node Leads + Dev | Hardware trust layers; device decay scoring | Not started |
-| Reduced Privileges for Non-Secure Devices | High | LOTUS | Dynamic privilege reassessment; periodic audits | In pilot |
-| Recovery Set Without Incentive | Medium | Node Leads | Define activation thresholds; incentive alignment | Not started |
-| Identity Lifecycle Drift | High | Governance Layer | Enforce FLOW_ID_LIFECYCLE.md audit triggers | Not started |
-
-Primary dependency: `FLOW_ID.md`, `FLOW_ID_LIFECYCLE.md`
+| Randomized Social Verification Weakness | Critical | Node Leads | Multi-layer verification; anomaly logging | Not started |
+| Privilege Escalation via Device Compromise | High | Node Leads + Dev | Device trust scoring; decay model | Not started |
+| Reduced Privileges for Non-Secure Devices | High | LOTUS | Dynamic privilege reassessment | In pilot |
+| Recovery Set Without Incentive | Medium | Node Leads | Defined activation thresholds | Not started |
+| Identity Lifecycle Drift | High | Governance Layer | Enforce FLOW_ID_LIFECYCLE audit triggers | Not started |
 
 ---
 
@@ -79,13 +77,11 @@ Primary dependency: `FLOW_ID.md`, `FLOW_ID_LIFECYCLE.md`
 
 | Risk | Severity | Owner | Mitigation | Status |
 |------|----------|--------|------------|--------|
-| SLA Timing Challenges | High | Regional Leads | Standardized response windows; automated reminders | Not started |
-| Conflicting Decisions Across Nodes | Medium | LOTUS | Mirror logs; cross-node arbitration | Not started |
-| Sanction Escalation Drift | Critical | Oversight Panel | Hard caps; audit triggers; forced review | Not started |
-| Governance Capture | Critical | Federated Oversight | Term limits; random panel rotation (LOTUS) | Not started |
-| Informal Power Accumulation | High | All Nodes | Mandatory transparency; audit trails | Not started |
-
-Primary dependency: `LOTUS_PROTOCOL.md`, `SANCTION_PROTOCOL.md`, `POWER_AND_ENFORCEMENT.md`
+| SLA Timing Challenges | High | Regional Leads | Standardized response windows | Not started |
+| Conflicting Decisions Across Nodes | Medium | LOTUS | Cross-node arbitration | Not started |
+| Sanction Escalation Drift | Critical | Oversight Panel | Hard caps; audit triggers | Not started |
+| Governance Capture | Critical | Federated Oversight | Term limits; random panel rotation | Not started |
+| Informal Power Accumulation | High | All Nodes | Mandatory transparency logs | Not started |
 
 ---
 
@@ -93,13 +89,11 @@ Primary dependency: `LOTUS_PROTOCOL.md`, `SANCTION_PROTOCOL.md`, `POWER_AND_ENFO
 
 | Risk | Severity | Owner | Mitigation | Status |
 |------|----------|--------|------------|--------|
-| Network Partition | Critical | Dev Team | Mesh resilience; offline fallback mode | Not started |
+| Network Partition | Critical | Dev Team | Mesh fallback mode | Not started |
 | Log Corruption | Critical | Dev Team | Hash chaining; mirrored logs | Not started |
-| RNG Manipulation | Critical | LOTUS + Dev | Deterministic public RNG logs (`RNG_AND_LOG_SPEC.md`) | Not started |
-| Energy Scarcity Impact | High | Node Leads | Graceful degradation; energy-aware scheduling | In pilot |
-| Version Incompatibility | Medium | Governance | Strict versioning & compost tracking | Active |
-
-Primary dependency: `RNG_AND_LOG_SPEC.md`, `VERSIONING_AND_COMPOST_POLICY.md`
+| RNG Manipulation | Critical | LOTUS + Dev | Public deterministic RNG logging | Not started |
+| Energy Scarcity Impact | High | Node Leads | Graceful degradation protocols | In pilot |
+| Version Incompatibility | Medium | Governance | Strict versioning policy | Active |
 
 ---
 
@@ -107,19 +101,17 @@ Primary dependency: `RNG_AND_LOG_SPEC.md`, `VERSIONING_AND_COMPOST_POLICY.md`
 
 | Risk | Severity | Owner | Mitigation | Status |
 |------|----------|--------|------------|--------|
-| Slow Centralization | Critical | Constitutional Layer | Mandatory exit protection; federation autonomy | Ongoing |
-| Enforcement Permanence | Critical | Oversight | Automatic sunset clauses | Not started |
+| Slow Centralization | Critical | Constitutional Layer | Exit protection; federation autonomy | Ongoing |
+| Enforcement Permanence | Critical | Oversight | Mandatory sunset clauses | Not started |
 | Amendment Abuse | High | LOTUS | Multi-stage amendment thresholds | Not started |
-| Inter-Node Economic Imbalance | High | Regional Nodes | Resource metric normalization | Not started |
-| Trust Erosion | High | All Layers | Transparent logs; visible review cycles | Ongoing |
-
-Primary dependency: `BASELINE_AMENDMENT_PROTOCOL.md`, `RESOURCE_METRIC_STANDARDS.md`
+| Inter-Node Imbalance | High | Regional Nodes | Resource normalization review | Not started |
+| Trust Erosion | High | All Layers | Transparent review cycles | Ongoing |
 
 ---
 
 # 4. Interdependency Amplification
 
-Risks are not isolated.
+Risks are interconnected.
 
 Examples:
 
@@ -129,23 +121,21 @@ Examples:
 - Log corruption invalidates enforcement legitimacy.
 - Amendment abuse risks constitutional erosion.
 
-Mitigation strategies must consider cross-category amplification.
+Mitigations must consider amplification effects.
 
 ---
 
-# 5. Mitigation Guidelines
+# 5. Mitigation Requirements
 
-All risks must include:
+All risk entries must include:
 
-1. Explicit owner (Node, Regional, LOTUS, Dev, Oversight).
-2. Defined activation triggers (quantitative where possible).
-3. Review frequency (event-triggered or scheduled).
-4. Protocol linkage (which document governs mitigation).
-5. Audit traceability (log references required).
+1. Explicit owner  
+2. Defined activation trigger  
+3. Review frequency  
+4. Protocol linkage  
+5. Audit traceability  
 
 Mitigation must be testable.
-
-Non-testable mitigation is symbolic.
 
 ---
 
@@ -155,8 +145,8 @@ Non-testable mitigation is symbolic.
 flowchart TD
     A[Risk Identified] --> B{Severity Assessment}
     B -->|Critical| C[Immediate Mitigation Triggered]
-    B -->|High| D[Plan & Scheduled Mitigation]
-    B -->|Medium| E[Monitor & Periodic Review]
+    B -->|High| D[Planned Mitigation]
+    B -->|Medium| E[Monitor]
     C --> F[Independent Audit]
     D --> F
     E --> F
@@ -164,11 +154,11 @@ flowchart TD
     G --> H[Cross-Node Notification]
 ```
 
-Critical risks must:
+Critical risks require:
 
-- Trigger immediate containment.
-- Produce audit logs.
-- Be reviewed by external node or LOTUS.
+- Immediate containment
+- Independent audit
+- Cross-node visibility
 
 ---
 
@@ -176,9 +166,9 @@ Critical risks must:
 
 Risk review occurs:
 
-- Annually (LOTUS global review)
+- Annually (LOTUS review cycle)
 - After major amendment
-- After sanction escalation event
+- After sanction escalation
 - After network disruption
 - After federation restructuring
 
@@ -199,8 +189,8 @@ Therefore:
 - Exit must remain operational.
 - Federation must remain optional.
 - Sanctions must expire.
-- Amendments must be reversible where possible.
-- Logs must be auditable.
+- Amendments must follow process.
+- Logs must remain auditable.
 
 A system that cannot detect its own failure is already failing.
 
@@ -208,18 +198,78 @@ A system that cannot detect its own failure is already failing.
 
 # 9. Living Document Clause
 
-This document is version-controlled under `VERSIONING_AND_COMPOST_POLICY.md`.
-
 New risks must be logged before mitigation.
 
-Deletion of risk entries is prohibited.  
-They may only be marked as:
+Deletion of risk entries is prohibited.
 
-- Mitigated
-- Deprecated
-- Absorbed
+Entries may only be marked:
+
+- Mitigated  
+- Deprecated  
+- Absorbed  
 - Resolved (with audit reference)
 
 Risk memory must persist.
+
+---
+
+# 10. Initial Baseline Thresholds (v1.0)
+
+These thresholds exist to protect against power accumulation and structural drift.  
+They may be adjusted through `BASELINE_AMENDMENT_PROTOCOL.md` after formal review.
+
+---
+
+## 10.1 Log Integrity Trigger
+
+Any confirmed hash mismatch between mirrored logs  
+→ Automatic audit initiation within 24 hours.
+
+No tolerance band is permitted.
+
+---
+
+## 10.2 Sanction Duration Guardrail
+
+- Any sanction exceeding 30 days  
+  → Mandatory cross-node review.
+
+- Any sanction exceeding 90 days  
+  → Automatic LOTUS escalation.
+
+Sanctions must not become indefinite by inertia.
+
+---
+
+## 10.3 Governance Concentration Trigger
+
+If more than 50% of dispute resolutions originate from a single node within a rolling 6-month window  
+→ Federation balancing review required.
+
+This does not invalidate decisions but triggers structural analysis.
+
+---
+
+## 10.4 Amendment Velocity Trigger
+
+If more than 3 constitutional amendment proposals occur within 12 months  
+→ Mandatory cooling-off period before further proposals.
+
+Prevents structural instability via rapid change.
+
+---
+
+Thresholds are protective, not punitive.
+
+They are designed to:
+
+- Prevent drift
+- Slow capture
+- Preserve reversibility
+- Maintain auditability
+
+They are not ideological.
+
+They are structural stabilizers.
 
 ---
