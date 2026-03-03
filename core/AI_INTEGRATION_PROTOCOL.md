@@ -131,3 +131,30 @@ Intelligence can assist governance.
 Only humans can legitimize it.  
 
 All AI usage must adhere to `FLOW_CORE_INVARIANTS.md` and `BASELINE_AMENDMENT_PROTOCOL.md`.
+
+```mermaid
+flowchart TD
+    subgraph AI_OVERSIGHT["AI Integration & Oversight"]
+        AI1[Data Verification]
+        AI2[Baseline Compliance Detection]
+        AI3[Surplus Calculation Auditing]
+        AI4[Simulation & Pattern Detection]
+        AI_OUTPUT[AI Outputs Advisory Only]
+        HUMAN[LOTUS / Human Oversight]
+    end
+
+    subgraph TRIGGERS["Risk & Threshold Triggers"]
+        Thresholds[RISK_MANAGEMENT.md Thresholds]
+        Audit[Audit & Technical Review]
+    end
+
+    %% Connections
+    AI1 --> AI_OUTPUT
+    AI2 --> AI_OUTPUT
+    AI3 --> AI_OUTPUT
+    AI4 --> AI_OUTPUT
+    AI_OUTPUT --> HUMAN
+    HUMAN --> Thresholds
+    AI_OUTPUT --> Thresholds
+    Thresholds --> Audit
+```
