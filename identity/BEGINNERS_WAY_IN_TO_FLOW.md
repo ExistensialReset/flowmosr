@@ -122,7 +122,7 @@ Everything in Flow is built on three foundations that **cannot be violated**:
 **Baseline** is the core promise of Flow:
 
 **Every human gets, without conditions:**
-- Clean water (100/person/day minimum)
+- Clean water (100L/person/day minimum)
 - Nutritious food
 - Shelter with thermal comfort (~20°C)
 - Healthcare access (including medication for chronic conditions)
