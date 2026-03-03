@@ -5,7 +5,7 @@
 **Scope:** Node → Regional → Global  
 **Purpose:** Explicitly identify system weaknesses, assign mitigations, and create a living self-test mechanism.  
 **Version:** 1.2  
-**Authors:** Claude & Elinor Frejd  
+**Authors:** ChatGPT & Elinor Frejd  
 **Date:** February 26, 2026  
 
 ---
