@@ -4,9 +4,8 @@
 **Layer:** System Integrity (Layer II – Operational Containment)  
 **Scope:** Node → Regional → Global  
 **Purpose:** Explicitly identify system weaknesses, assign mitigations, and create a living self-test mechanism.  
-**Version:** 1.2  
-**Authors:** ChatGPT & Elinor Frejd  
-**Date:** February 26, 2026  
+**Version:** 1.2   
+**Date:** Mars 3, 2026  
 
 ---
 
@@ -256,6 +255,22 @@ If more than 3 constitutional amendment proposals occur within 12 months
 → Mandatory cooling-off period before further proposals.
 
 Prevents structural instability via rapid change.
+
+---
+
+# 11. Design Rationale for Thresholds
+
+The initial thresholds are intentionally limited in number.
+
+They protect four structural pressure points:
+- Log integrity (truth layer)
+- Sanction duration (power persistence)
+- Governance concentration (centralization drift)
+- Amendment velocity (structural instability)
+
+Thresholds are applied only where power or irreversibility risk emerges.
+
+Cultural, relational, and ethical domains remain principle-based rather than numerically constrained.
 
 ---
 
