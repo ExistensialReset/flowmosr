@@ -2,7 +2,7 @@
 ## Your First Introduction to the M-OS-R / Flow / Existential Reset System
 
 **Version:** 1.1  
-**Updated:** 2026-03-01 (added diagrams, practical examples, synergy explanation)  
+**Updated:** 2026-03-03 (added diagrams, practical examples, synergy explanation)  
 **Purpose:** Explain what this system IS and how it works - structurally, philosophically, practically  
 **For:** Someone who just discovered this repository and wants to understand it  
 **Language Level:** Accessible but precise - we'll introduce terms as we go  
@@ -122,7 +122,7 @@ Everything in Flow is built on three foundations that **cannot be violated**:
 **Baseline** is the core promise of Flow:
 
 **Every human gets, without conditions:**
-- Clean water (50L/person/day minimum)
+- Clean water (100/person/day minimum)
 - Nutritious food
 - Shelter with thermal comfort (~20°C)
 - Healthcare access (including medication for chronic conditions)
