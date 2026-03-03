@@ -288,3 +288,43 @@ They are not ideological.
 They are structural stabilizers.
 
 ---
+```mermaid
+flowchart TD
+    subgraph ID["Identity & Verification"]
+        ID1[Randomized Social Verification]
+        ID2[Privilege Escalation]
+        ID3[Recovery Set Incentive]
+        ID1 --> LogTrigger[Log Integrity Trigger]
+    end
+
+    subgraph GOV["Governance & Compliance"]
+        GOV1[SLA Timing]
+        GOV2[Conflict Across Nodes]
+        GOV3[Sanction Escalation]
+        GOV4[Governance Capture]
+        GOV3 --> SanctionTrigger[Sanction Duration Guardrail]
+        GOV4 --> GovConcentration[Governance Concentration Trigger]
+    end
+
+    subgraph TECH["Technical & Operational"]
+        TECH1[Network Partition]
+        TECH2[Log Corruption]
+        TECH3[RNG Manipulation]
+        TECH2 --> LogTrigger
+    end
+
+    subgraph STRUCT["Structural Drift & Systemic Risks"]
+        STRUCT1[Slow Centralization]
+        STRUCT2[Amendment Abuse]
+        STRUCT3[Trust Erosion]
+        STRUCT2 --> AmendmentTrigger[Amendment Velocity Trigger]
+        STRUCT1 --> GovConcentration
+    end
+
+    %% Cross connections
+    LogTrigger --> Audit[Audit & Review]
+    SanctionTrigger --> Audit
+    GovConcentration --> Audit
+    AmendmentTrigger --> Audit
+    Audit --> Review[LOTUS / Cross-node Review]
+```
