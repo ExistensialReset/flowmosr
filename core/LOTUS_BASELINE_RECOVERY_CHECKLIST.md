@@ -59,3 +59,49 @@
 ---
 
 ✅ **All items checked → Baseline violation properly resolved and auditable**
+
+```mermaid
+flowchart TD
+    %% Subgraphs
+    subgraph LEVEL1["1️⃣ Node Self-Correction"]
+        direction TB
+        N1["🔹 Reallocate internal surplus"]:::medium
+        N2["🔹 Adjust distribution priorities"]:::medium
+        N3["🔹 Trigger voluntary surplus window"]:::medium
+        N4["⏱ 72h Time limit"]:::high
+    end
+
+    subgraph LEVEL2["2️⃣ Regional Recovery"]
+        direction TB
+        R1["🔹 Scan regional surplus & emergency pools"]:::medium
+        R2["🔹 Redistribute via FLOW_SURPLUS_PROTOCOL"]:::high
+        R3["⏱ 7-day limit"]:::high
+        R4["📊 Report to LOTUS"]:::medium
+    end
+
+    subgraph LEVEL3["3️⃣ Global Recovery"]
+        direction TB
+        G1["🔹 Activate only if regional insufficient OR multiple failures"]:::critical
+        G2["🔹 Prioritize: biological needs → energy → infrastructure"]:::high
+        G3["📋 Full audit & ledger update"]:::high
+        G4["🔁 Return authority to regional layer post-stabilization"]:::medium
+    end
+
+    subgraph EMERGENCY["4️⃣ Emergency Override"]
+        direction TB
+        E1["⚠️ Triggered by Crisis"]:::critical
+        E2["🗳️ Regional supermajority OR 66% Global LOTUS vote"]:::critical
+        E3["⏳ Automatic post-facto audit & ratification"]:::high
+    end
+
+    %% Connections
+    N1 --> N2 --> N3 --> N4 --> R1
+    R1 --> R2 --> R3 --> R4 --> G1
+    G1 --> G2 --> G3 --> G4
+    E1 --> E2 --> E3 --> G3
+
+    %% Styling
+    classDef critical fill:#ff6666,stroke:#900,stroke-width:2px,color:#fff;
+    classDef high fill:#ffcc66,stroke:#996600,stroke-width:2px,color:#000;
+    classDef medium fill:#66ccff,stroke:#006699,stroke-width:2px,color:#000;
+```
