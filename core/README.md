@@ -1,307 +1,178 @@
-# 🫧 BODY_OF_FLOW.md
-
-**Status:** Active  
-**Scope:** Flow Principles & Operations  
-
-**Purpose:** Define the living structure of Flow at micro → Node → Regional scales.  
-*Flow as movement, not just rules.* 🌊
-
----
-
-# ⚔️ BODY_OF_FLOW_UNDER_ATTACK.md
-
-**Status:** Alert  
-**Scope:** Security & Contingency  
-
-**Purpose:** Document observed stressors and attacks on Flow structures.  
-*Be prepared, stay calm, respond wisely.* 🛡️
-
----
-
-# 🧬 BODY_OF_HUMAN_MEASUREMENTS.md
-
-**Status:** Core Data  
-**Scope:** Biological & Cognitive Metrics  
-
-**Purpose:** Track human-related metrics relevant to Flow operations.  
-*Respect privacy. Measure responsibly.* 🔬
-
----
-
-# 🧭 CORE_FLOW_PROTOCOLS.md
-
-**Status:** Operational  
-**Scope:** Node → Regional → Global  
-
-**Purpose:** Standardize Flow operational protocols for coordination and consistency.  
-*Follow the flow, not the hierarchy.* 🌀
-
----
-
-# 🛤️ CORE_GUIDERAIL.md
-
-**Status:** Guidelines  
-**Scope:** Safety & Process  
-
-**Purpose:** Define guiding principles to prevent protocol deviation.  
-*Stay on track, keep safe.* 🚧
-
----
-
-# 🎶 CORE_RESONANCE.json
+# 🧠 `/core` — Constitutional & Operational Kernel
 
 **Status:** Live  
-**Scope:** Feedback Loops & Community Vibes  
+**Role:** Structural kernel of M-OS-R  
+**Scope:** Invariants, enforcement boundaries, identity mechanics, governance logic, version control  
 
-**Purpose:** Capture resonance metrics for systemic alignment.  
-*Tune in, don’t tune out.* 🎵
+`/core` defines the non-optional structural rules of the system.
 
----
+This directory functions as the kernel layer of M-OS-R.
 
-# 🪜 ENTRY_STRATEGIES_DOCUMENTATION.md
-
-**Status:** Draft  
-**Scope:** Onboarding & Access  
-
-**Purpose:** Document how new participants enter Flow safely and effectively.  
-*Welcoming, not overwhelming.* 🤝
+It does not define ideology.  
+It defines constraints.
 
 ---
 
-# 🛡️ ETHOS_SAFEGUARDS.md
+# 1. System Model
 
-**Status:** Core Security  
-**Scope:** Principles & Protections  
+M-OS-R is architected as a layered system:
 
-**Purpose:** Preserve ethical baseline for Flow operations.  
-*Guardians of the ethos.* 👁️‍🗨️
+```
+┌─────────────────────────────────────┐
+│ LAYER III — Adaptation & Versioning │
+│ Amendments, Recovery, Compost, RNG  │
+├─────────────────────────────────────┤
+│ LAYER II — Operational Infrastructure│
+│ Identity, Nodes, Sanctions, Exit    │
+├─────────────────────────────────────┤
+│ LAYER I — Constitutional Invariants │
+│ Structural & Ethical Non-Overrides  │
+└─────────────────────────────────────┘
+```
 
----
-
-# 🧪 FLOW_CORE_INVARIANTS.md
-
-**Status:** Reference  
-**Scope:** Universal Constants  
-
-**Purpose:** Define core invariants that never change across Flow operations.  
-*Immutable truths in a mutable world.* ⚛️
-
----
-
-# 🏗️ FLOW_CORE_STRUCTURE_OVERVIEW.md
-
-**Status:** Draft  
-**Scope:** Architecture  
-
-**Purpose:** Visualize structural layers of Flow system.  
-*Know your foundation.* 🏛️
+Layer I constrains Layer II.  
+Layer II executes within Layer I.  
+Layer III modifies Layer II — but never bypasses Layer I except through defined amendment procedures.
 
 ---
 
-# 🌐 FLOW_GLOBAL_IMPLEMENTATION_GUIDE.md
+# 2. Layer I — Constitutional Invariants
 
-**Status:** Operational  
-**Scope:** Global Deployment  
+**Purpose:** Define structural constraints that cannot be overridden by operational convenience.
 
-**Purpose:** Steps for implementing Flow across regions.  
-*From local roots to global canopy.* 🌳
+Files include:
 
----
+- `CONSTITUTION.md`
+- `FLOW_CORE_INVARIANTS.md`
+- `STRUCTURAL_INVARIANTS.md`
+- `CORE_GUIDERAIL.md`
+- `ETHOS_SAFEGUARDS.md`
 
-# 🧾 FLOW_ID.md
+These documents define:
 
-**Status:** Core Identity  
-**Scope:** Node Identification  
+- Anti-hierarchy constraints  
+- Non-extractive baseline  
+- Enforcement boundaries  
+- Audit requirements  
+- Structural rights (exit, federation, transparency)  
+- Limits on authority concentration  
 
-**Purpose:** Manage IDs consistently across Flow.  
-*Every node matters.* 🆔
+If a protocol violates these documents, the protocol is invalid.
 
----
-
-# 🧭 FLOW_ID_LIFECYCLE.md
-
-**Status:** Draft  
-**Scope:** Node Lifecycle  
-
-**Purpose:** Track ID from creation → activation → decommission.  
-*Lifecycle as guidance.* 🔄
+Layer I exists to prevent structural drift.
 
 ---
 
-# 📝 FLOW_ID_NODE_POLICY_TEMPLATE.md
+# 3. Layer II — Operational Infrastructure
 
-**Status:** Template  
-**Scope:** Node Policies  
+**Purpose:** Execute system behavior inside invariant boundaries.
 
-**Purpose:** Standardized template for local policies.  
-*Consistency breeds trust.* 📑
+### Identity & Node Mechanics
 
----
+- `FLOW_ID.md`
+- `FLOW_ID_LIFECYCLE.md`
+- `NODE_ROLES.md`
 
-# 💡 INFORMATION_FLOW_ARCHITECTURE.md
+### Information & Coordination
 
-**Status:** Core Specification  
-**Scope:** Micro → Node → Regional → Global  
+- `CORE_FLOW_PROTOCOLS.md`
+- `INFORMATION_FLOW_ARCHITECTURE.md`
 
-**Purpose:** Define how information flows while preserving dignity, energy, and anti-hierarchy.  
-*Flow the info, respect the people.* 🌊💬
+### Enforcement & Containment
 
----
+- `SANCTION_PROTOCOL.md`
+- `POWER_AND_ENFORCEMENT.md`
+- `RISK_MANAGEMENT.md`
+- `NODE_EXIT_PROTOCOL.md`
+- `FEDERATED_SUPPORT_PROTOCOL.md`
 
-# ⚖️ LEGAL_FLOW_SYSTEM_OVERVIEW.md
+Operational guarantees:
 
-**Status:** Operational  
-**Scope:** Legal Mechanisms  
+- No silent power accumulation  
+- Enforceable audit trails  
+- Defined sanction boundaries  
+- Explicit exit mechanics  
+- Optional federation  
+- Reversibility where structurally possible  
 
-**Purpose:** Map legal layers affecting Flow nodes.  
-*Know the rules to transcend them.* 🏛️
+No role is structurally sovereign.
 
----
-
-# ⚖️ LEGAL_OVERVIEW_FLOW.md
-
-**Status:** Reference  
-**Scope:** Legal Principles  
-
-**Purpose:** Summarize legal context for Flow operations.  
-*Law as guidance, not as cage.* 📚
+All authority must remain bounded, logged, and challengeable.
 
 ---
 
-# 🌸 compostandgrowth/LOTUS_PROTOCOL.md
+# 4. Layer III — Adaptation & Version Control
 
-**Status:** Draft  
-**Scope:** Global Node Governance  
+**Purpose:** Allow evolution without destabilizing invariants.
 
-**Purpose:** Lottery-based panel formation, mandate rules, fully auditable.  
-*Random yet fair, always Flow-aligned.* 🎲✨
+Active governance logic:
 
----
+- `BASELINE_AMENDMENT_PROTOCOL.md`
+- `BASELINE_RECOVERY_PROTOCOL.md`
+- `VERSIONING_AND_COMPOST_POLICY.md`
+- `LOTUS_PROTOCOL.md`
+- `RESOURCE_METRIC_STANDARDS.md`
+- `RNG_AND_LOG_SPEC.md`
 
-# 🖥️ M-OS-R_AS_AN_OPERATING_SYSTEM.md
+Archived or superseded documents are stored in:
 
-**Status:** Reference  
-**Scope:** System Architecture  
+```
+/compostandgrowth/
+```
 
-**Purpose:** Explain why M-OS-R functions like a literal operating system.  
-*Not metaphorical, literal.* 🖥️
+Deletion is avoided.  
+Structural history is preserved.
 
----
+Amendments must follow defined procedure.  
+No document self-modifies.  
+No structural override is implicit.
 
-# 🗺️ M-OS-R_SYSTEM_MAP.md
+Layer III ensures:
 
-**Status:** Operational  
-**Scope:** Visualization  
-
-**Purpose:** Map all components, flows, and relationships.  
-*See the forest and the trees.* 🌲🗺️
-
----
-
-# 🔋 NODE_ENERGY_PROFILES.md
-
-**Status:** Live  
-**Scope:** Energy Management  
-
-**Purpose:** Define energy states and their effect on communication.  
-*Conserve, communicate, survive.* ⚡
+- Deterministic amendment pathways  
+- Transparent randomness  
+- Historical traceability  
+- Memory without rigidity  
 
 ---
 
-# 👥 NODE_ROLES.md
+# 5. Kernel Properties
 
-**Status:** Draft  
-**Scope:** Node Responsibilities  
+The `/core` directory enforces:
 
-**Purpose:** Define roles within each Node.  
-*Clear roles, smooth operation.* 🧑‍🤝‍🧑
+- Deterministic governance mechanics  
+- Explicit power boundaries  
+- Transparent procedural randomness  
+- Defined exit and federation logic  
+- Non-permanent enforcement  
+- Observable failure states  
 
----
+Failure must remain detectable.
 
-# 🏛️ POLITICAL_REALISM_LAYER.md
+If `/core` becomes:
 
-**Status:** Draft  
-**Scope:** Power Dynamics  
+- Centralized  
+- Opaque  
+- Irreversible  
+- Hierarchical  
+- Self-protective beyond its own constraints  
 
-**Purpose:** Map realistic political constraints and leverage points.  
-*Understand influence, act ethically.* 🏹
-
----
-
-# 🔨 POWER_AND_ENFORCEMENT.md
-
-**Status:** Operational  
-**Scope:** Enforcement Mechanisms  
-
-**Purpose:** Define enforcement tools and authority boundaries.  
-*Firm, fair, Flow-aligned.* 🔨
+It violates its own invariants.
 
 ---
 
-# 📖 README.md
+# 6. Orientation for New Readers
 
-**Status:** Live  
-**Scope:** Overview  
+Recommended structural entry path:
 
-**Purpose:** Provide orientation for `/core`.  
-*Start here.* 🗺️
+1. `FLOW_CORE_STRUCTURE_OVERVIEW.md`
+2. `M-OS-R_SYSTEM_MAP.md`
+3. `CONSTITUTION.md`
+4. `FLOW_CORE_INVARIANTS.md`
+5. `RISK_MANAGEMENT.md`
 
----
+This directory is not a movement.
 
-# 📊 RESOURCE_METRIC_STANDARDS.md
+It is a constraint engine.
 
-**Status:** Reference  
-**Scope:** Metrics & Baselines  
-
-**Purpose:** Define resource measurement standards.  
-*Measure wisely.* 📏
-
----
-
-# ⚠️ RISK_MANAGEMENT.md
-
-**Status:** Draft  
-**Scope:** Systemic Risks  
-
-**Purpose:** Catalog risks, mitigation, and response mechanisms.  
-*Prepare, prevent, protect.* 🛡️
-
----
-
-# 🔑 RNG_AND_LOG_SPEC.md
-
-**Status:** Reference  
-**Scope:** Randomness & Audit  
-
-**Purpose:** Define RNG procedures and logging for transparency.  
-*Trust, verified.* 🔐
-
----
-
-# 🖼️ STRATEGIC_PREPARATION_FRAMEWORK_VISUAL.md
-
-**Status:** Draft  
-**Scope:** Visual Planning  
-
-**Purpose:** Diagram strategic preparation layers.  
-*See the plan.* 📈
-
----
-
-# 🗂️ STRATEGIC_PREPARATION_FRAMEWORK_v2.md
-
-**Status:** Draft  
-**Scope:** Strategic Steps  
-
-**Purpose:** Update and version strategic preparation.  
-*Step by step.* 🪜
-
----
-
-# 🏗️ STRUCTURAL_INVARIANTS.md
-
-**Status:** Reference  
-**Scope:** System Invariants  
-
-**Purpose:** Define what must never change.  
-*Immutable rules.* 🏛️
+Take time before forming conclusions.
