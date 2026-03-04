@@ -3,7 +3,7 @@
 **Version:** 3.4 — Unified System Specification (2026-03-04 Update)  
 **Status:** ACTIVE / CANONICAL  
 **Repository Location:** `/systemic/FLOW_SRS.md`  
-**Authors:** Elinor Frejd, Gemini, DeepSeek 
+**Authors:** Elinor Frejd, Gemini, DeepSeek, ChatGPT 
 
 ---
 
@@ -44,6 +44,22 @@ Professionals (doctors, nurses, engineers, teachers, artisans) work **for meanin
 - Education is free (Lyceum + integrated universities).  
 - Peer review and Node oversight maintain quality.  
 - Rotation ensures fairness and distributed expertise.
+
+### 3.3 Professional & Civic Labor Structure
+
+All capable adults participate in Node maintenance through time-based civic contribution (see LABOR_STRUCTURE_AND_INCENTIVE_MODEL.md).
+
+Professionals:
+- Train within free Lyceum systems (training time counts as contribution).
+- Operate within certified specialist tracks.
+- Are exempt from certain rotational duties.
+- Hold domain-weighted decision authority.
+
+No salaries exist.
+
+Labor is measured in contribution hours for logistical planning, not for survival access.
+
+Baseline remains unconditional. 
 
 ---
 
