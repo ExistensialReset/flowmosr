@@ -2,8 +2,8 @@
 
 **Version:** 1.0  
 **Status:** ACTIVE / CANONICAL  
-**Repository Location:** `/systemic/LABOR_STRUCTURE_AND_INCENTIVE_MODEL.md`  
-**Authors:** Elinor Frejd, Gemini, DeepSeek  
+**Repository Location:** `/implementation/LABOR_STRUCTURE_AND_INCENTIVE_MODEL.md`  
+**Authors:** Elinor Frejd, ChatGPT 
 
 ---
 
