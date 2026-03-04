@@ -1,4 +1,95 @@
-#  COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md
+#  COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md# COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md
+
+**Version:** 1.0  
+**Status:** ACTIVE / CANONICAL  
+**Location:** `/implementation/COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md`  
+**Authors:** Elinor Frejd & ChatGPT
+
+---
+
+## 1. PURPOSE
+
+This document estimates the 10-year costs for building, operating, and sustaining hydroponics-based Flow Nodes globally. Costs are calculated for Europe/North America, South America, Oceania, Asia, North Africa, and Sub-Saharan Africa, providing baseline planning for FLOW_SRS.
+
+---
+
+## 2. NODE PARAMETERS
+
+| Parameter | Description |
+|-----------|-------------|
+| Population per Node | 50–500 people |
+| Hydroponic area | 2–5 m² per person for leafy greens, scaled by Node population |
+| Energy autonomy | 100% renewable energy target (solar + wind + battery storage) |
+| Water recycling | 90–95% recovery and reuse |
+| Production target | 200–300 kg/year/person of leafy greens, herbs, and vegetables |
+
+---
+
+## 3. CAPITAL COST ESTIMATES (USD per Node)
+
+| Region | Construction & Infrastructure | Hydroponic Systems | Renewable Energy | Water Treatment & Pumps | Total per Node |
+|--------|------------------------------|------------------|-----------------|------------------------|----------------|
+| Europe/North America | 1,500,000 | 750,000 | 500,000 | 250,000 | 3,000,000 |
+| South America | 800,000 | 400,000 | 250,000 | 150,000 | 1,600,000 |
+| Oceania | 1,200,000 | 600,000 | 400,000 | 200,000 | 2,400,000 |
+| Asia | 900,000 | 450,000 | 300,000 | 150,000 | 1,800,000 |
+| North Africa | 700,000 | 350,000 | 200,000 | 120,000 | 1,370,000 |
+| Sub-Saharan Africa | 500,000 | 250,000 | 150,000 | 100,000 | 1,000,000 |
+
+---
+
+## 4. ANNUAL OPERATING COSTS (USD per Node)
+
+| Region | Staff & Expertise | Energy Maintenance | Nutrient & Inputs | Water Management | Miscellaneous | Total Annual |
+|--------|-----------------|-----------------|-----------------|----------------|---------------|--------------|
+| Europe/North America | 300,000 | 50,000 | 60,000 | 20,000 | 10,000 | 440,000 |
+| South America | 150,000 | 25,000 | 30,000 | 12,000 | 5,000 | 222,000 |
+| Oceania | 240,000 | 40,000 | 50,000 | 16,000 | 8,000 | 354,000 |
+| Asia | 180,000 | 30,000 | 40,000 | 15,000 | 7,000 | 272,000 |
+| North Africa | 140,000 | 25,000 | 30,000 | 12,000 | 5,000 | 212,000 |
+| Sub-Saharan Africa | 100,000 | 20,000 | 25,000 | 10,000 | 5,000 | 160,000 |
+
+---
+
+## 5. 10-YEAR TOTAL COST (CAPEX + OPEX)
+
+| Region | 10-Year Total Estimate |
+|--------|-----------------------|
+| Europe/North America | 7,400,000 |
+| South America | 3,820,000 |
+| Oceania | 6,940,000 |
+| Asia | 4,520,000 |
+| North Africa | 3,490,000 |
+| Sub-Saharan Africa | 2,600,000 |
+
+**Assumptions:**
+- CAPEX upfront in year 0  
+- OPEX annual, inflated at 2% per year  
+- Energy systems maintained for 10 years with minor replacements included  
+- Labor includes skilled hydroponics operators and Node coordinators  
+
+---
+
+## 6. NOTES AND CONSIDERATIONS
+
+1. **Scaling:** Costs scale linearly with Node population; economies of scale reduce per-person costs for Nodes above 200 people.  
+2. **Energy Dependence:** High renewable penetration increases CAPEX but reduces OPEX over time.  
+3. **Local Material Sourcing:** Cost variations depend on proximity to hydroponic hardware manufacturers.  
+4. **Risk Factors:** Political stability, water availability, import tariffs, and local expertise can significantly impact actual costs.  
+5. **Currency Fluctuation:** All costs expressed in USD; regional currencies may fluctuate affecting capital needs.  
+
+---
+
+## 7. NEXT STEPS
+
+- Integrate into `/systemic/FLOW_SRS.md` for global planning.  
+- Update annually with real-world data from deployed Nodes.  
+- Explore modular Node designs to reduce CAPEX in lower-income regions.  
+- Evaluate potential subsidies or material sharing between Nodes globally.  
+
+---
+
+*End of COST_ESTIMATE_HYDROPONICS_WORLDWIDE.md*
 
 **Version:** 1.0  
 **Status:** Active  
