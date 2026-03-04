@@ -1,7 +1,7 @@
 # 🎭 SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md
 
 **Version:** 1.2  
-**Status:** CULTURAL EXPERIMENT   
+**Status:** CULTURAL EXPERIMENT / DESIGN RITBOARD  
 **Location:** /systemic/SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md  
 **Subordinate to:** FLOW_SRS.md  
 
@@ -20,7 +20,7 @@ It is intended to:
 - Highlight the delicate balance between social acknowledgment and unintended hierarchies  
 - Serve as a **thought experiment**, a living model for discussion and refinement  
 
-Nothing in this document is operational. All mechanisms are **hypothetical**, meant to inform design thinking and future experiments, not to prescribe real-world mandates. 
+Nothing in this document is operational. All mechanisms are **hypothetical**, meant to inform design thinking and future experiments, not to prescribe real-world mandates.
 
 ---
 
@@ -28,33 +28,32 @@ Nothing in this document is operational. All mechanisms are **hypothetical**, me
 
 SRS (Social Recognition System) is not an incentive structure.
 
-It is a cultural practice of visible gratitude,
+It is a cultural practice of visible gratitude,  
 supported by light structural guardrails.
 
-SRS exists to help gratitude circulate.
-It must never replace relationships.
+SRS exists to help gratitude circulate.  
+It must never replace relationships.  
 It must never define worth.
 
-If it becomes heavy, competitive, or identity-forming,
+If it becomes heavy, competitive, or identity-forming,  
 it must be paused.
 
 ---
 
 # 2. CULTURAL CORE
 
-Before SRS, there is relationship.
-
+Before SRS, there is relationship.  
 Before points, there are words.
 
-Nodes are encouraged to practice:
+Designs may encourage practice of:
 
-- Verbal appreciation
-- Direct gratitude
-- Public acknowledgment in gatherings
-- Naming invisible labor
+- Verbal appreciation  
+- Direct gratitude  
+- Public acknowledgment in gatherings  
+- Naming invisible labor  
 - Thanking repair and care work
 
-SRS may follow.
+SRS may follow.  
 It must not substitute.
 
 SRS is applause that fades.
@@ -65,10 +64,10 @@ SRS is applause that fades.
 
 SRS is:
 
-- A small, temporary recognition token
-- Given peer-to-peer
-- Meant to circulate
-- Designed to decay
+- A small, temporary recognition token  
+- Given peer-to-peer  
+- Meant to circulate  
+- Designed to decay  
 - Symbolic, not economic
 
 It is a gesture made visible.
@@ -79,36 +78,35 @@ It is a gesture made visible.
 
 SRS must never become:
 
-- A measure of human value
-- A ranking system
-- A popularity contest
-- A political influence channel
-- A resource gatekeeper
-- A career ladder
+- A measure of human value  
+- A ranking system  
+- A popularity contest  
+- A political influence channel  
+- A resource gatekeeper  
+- A career ladder  
 - A proxy for belonging
 
-Status may exist socially.
+Status may exist socially.  
 SRS must never convert status into power.
 
 ---
 
 # 5. STRUCTURAL GUARDRAILS
 
-Structure exists only to keep SRS light.
-
+Structure exists only to keep SRS light.  
 These are protective boundaries, not optimization tools.
 
 ## 5.1 Baseline Immunity (Absolute)
 
 SRS has zero influence over:
 
-- Food
-- Housing
-- Water
-- Energy
-- Healthcare
-- Education
-- Safety
+- Food  
+- Housing  
+- Water  
+- Energy  
+- Healthcare  
+- Education  
+- Safety  
 - Governance participation
 
 Baseline is unconditional.
@@ -121,21 +119,20 @@ SRS must decay.
 
 Suggested:
 
-- Halving period: 3 months
+- Halving period: 3 months  
 - Expiration: 6 months maximum
 
-Recognition must remain temporary.
+Recognition must remain temporary.  
 
-No storage across years.
-No inheritance.
+No storage across years.  
+No inheritance.  
 No symbolic wealth.
 
 ---
 
 ## 5.3 Cap (Anti-Elite Safeguard)
 
-Individuals may hold only a limited amount at one time.
-
+Individuals may hold only a limited amount at one time.  
 Excess dissolves.
 
 This keeps recognition circulating.
@@ -144,35 +141,33 @@ This keeps recognition circulating.
 
 ## 5.4 Distribution Rhythm
 
-Instead of scarcity logic,
+Instead of scarcity logic,  
 SRS should feel replenishable.
 
-Nodes may:
+Design may encourage:
 
-- Provide small periodic replenishment
-- Encourage frequent small gestures
+- Small periodic replenishment  
+- Frequent small gestures  
 - Avoid making SRS feel rare or strategic
 
-Scarcity creates hoarding.
+Scarcity creates hoarding.  
 Flow creates generosity.
 
 ---
 
 # 6. INVISIBLE CONTRIBUTION CULTURE
 
-Nodes are encouraged to consciously recognize:
+Designs should consciously recognize:
 
-- Maintenance labor
-- Emotional labor
-- Quiet repair work
-- Long-term caretaking
-- Conflict mediation
+- Maintenance labor  
+- Emotional labor  
+- Quiet repair work  
+- Long-term caretaking  
+- Conflict mediation  
 - System upkeep
 
-Recognition culture must evolve intentionally.
-
-SRS cannot solve invisibility alone.
-Culture must.
+Recognition culture must evolve intentionally.  
+SRS cannot solve invisibility alone. Culture must.
 
 ---
 
@@ -185,8 +180,7 @@ Primary allocation:
 ~70% lottery or rotation  
 ~30% optional SRS prioritization  
 
-This keeps access universal while allowing recognition to matter lightly.
-
+This keeps access universal while allowing recognition to matter lightly.  
 SRS must never determine access to essentials.
 
 ---
@@ -195,12 +189,12 @@ SRS must never determine access to essentials.
 
 SRS must not become:
 
-- A validation dependency
-- A belonging metric
-- A performance pressure
+- A validation dependency  
+- A belonging metric  
+- A performance pressure  
 - A silent comparison engine
 
-Flow culture must repeatedly affirm:
+Flow culture must repeatedly affirm:  
 
 You are valued independent of recognition tokens.
 
@@ -212,9 +206,9 @@ SRS only expresses appreciation.
 
 Harmful behavior is addressed through:
 
-- Dialogue
-- Mediation
-- Restorative process
+- Dialogue  
+- Mediation  
+- Restorative process  
 - Governance protocol when necessary
 
 Recognition and accountability are separate systems.
@@ -223,12 +217,11 @@ Recognition and accountability are separate systems.
 
 # 10. STATUS REALITY
 
-Status cannot be eliminated.
-
+Status cannot be eliminated.  
 It can only be prevented from solidifying into power.
 
-If SRS begins amplifying social stratification,
-Nodes must intervene.
+If SRS begins amplifying social stratification,  
+intervention is required.
 
 Transparency, rotation, and open dialogue are preferred over new rules.
 
@@ -240,24 +233,26 @@ SRS is experimental and revocable.
 
 It exists only while it:
 
-- Feels light
-- Encourages gratitude
-- Strengthens relationships
+- Feels light  
+- Encourages gratitude  
+- Strengthens relationships  
 - Does not mechanize appreciation
 
-If it becomes a burden,
+If it becomes a burden,  
 it must dissolve.
 
 ---
 
 ## 12. SRS as a Living Social Art
 
-SRS is not a score, not a currency, not a ladder. It is a delicate, ephemeral social art, a ritual of recognition and gratitude within the Node. It exists to amplify connection, appreciation, and joy, while remaining light, temporary, and relational.
+SRS is not a score, not a currency, not a ladder.  
+It is a delicate, ephemeral social art, a ritual of recognition and gratitude within the design.  
+It exists to amplify connection, appreciation, and joy, while remaining light, temporary, and relational.
 
 - **Ephemeral gestures:** SRS flows like applause, a nod, a shared smile. Points appear, circulate, and fade—never permanent, never ownership-bound.  
 - **Peer-to-peer expression:** Every token is an intentional gift, given freely, received openly, and never demanded. The act of giving is as important as the act of receiving.  
-- **Ritualized creativity:** Nodes are encouraged to experiment—ceremonial acknowledgments, playful symbols, small privileges, or tokens of delight. Examples: front-row seat at a Node gathering, a special treat at communal coffee, a moment of recognition during a shared meal.  
-- **Bound by principle, liberated in form:** The structure ensures baseline immunity, ephemeral decay, and positive-only flows, but the form—how SRS is celebrated, displayed, or enacted—is left to the creativity of the Node.  
+- **Ritualized creativity:** Designs may experiment—ceremonial acknowledgments, playful symbols, small privileges, or tokens of delight. Examples: front-row seat at a gathering, a special treat at coffee, a moment of recognition during a shared meal.  
+- **Bound by principle, liberated in form:** Structure ensures baseline immunity, ephemeral decay, and positive-only flows, but the form—how SRS is celebrated, displayed, or enacted—is left to creativity.  
 - **A living conversation:** SRS is not measured by quantity alone. Its meaning emerges in the social weave—the gratitude shared, the joy sparked, the unseen contributions acknowledged.
 
 > In essence, SRS is a practice of communal artistry: small acts of recognition made visible, fleeting, and playful, always returning to the invisible heartbeat of mutual care that underpins Flow.
@@ -266,9 +261,6 @@ SRS is not a score, not a currency, not a ladder. It is a delicate, ephemeral so
 
 # Final Principle
 
-SRS must remain smaller than the relationships it celebrates.
-
-It is a cultural art form,
-with structural boundaries.
-
+SRS must remain smaller than the relationships it celebrates.  
+It is a cultural art form, with structural boundaries.  
 Nothing more.
