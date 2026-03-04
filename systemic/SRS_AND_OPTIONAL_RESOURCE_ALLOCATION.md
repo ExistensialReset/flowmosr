@@ -233,6 +233,20 @@ it must dissolve.
 
 ---
 
+## 12. SRS as a Living Social Art
+
+SRS is not a score, not a currency, not a ladder. It is a delicate, ephemeral social art, a ritual of recognition and gratitude within the Node. It exists to amplify connection, appreciation, and joy, while remaining light, temporary, and relational.
+
+- **Ephemeral gestures:** SRS flows like applause, a nod, a shared smile. Points appear, circulate, and fade—never permanent, never ownership-bound.  
+- **Peer-to-peer expression:** Every token is an intentional gift, given freely, received openly, and never demanded. The act of giving is as important as the act of receiving.  
+- **Ritualized creativity:** Nodes are encouraged to experiment—ceremonial acknowledgments, playful symbols, small privileges, or tokens of delight. Examples: front-row seat at a Node gathering, a special treat at communal coffee, a moment of recognition during a shared meal.  
+- **Bound by principle, liberated in form:** The structure ensures baseline immunity, ephemeral decay, and positive-only flows, but the form—how SRS is celebrated, displayed, or enacted—is left to the creativity of the Node.  
+- **A living conversation:** SRS is not measured by quantity alone. Its meaning emerges in the social weave—the gratitude shared, the joy sparked, the unseen contributions acknowledged.
+
+> In essence, SRS is a practice of communal artistry: small acts of recognition made visible, fleeting, and playful, always returning to the invisible heartbeat of mutual care that underpins Flow.
+
+---
+
 # Final Principle
 
 SRS must remain smaller than the relationships it celebrates.
