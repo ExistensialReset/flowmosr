@@ -1,9 +1,26 @@
 # 🎭 SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md
 
-Version: 1.2  
-Status: CULTURAL EXPERIMENT  
-Location: /systemic/SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md  
-Subordinate to: FLOW_SRS.md  
+**Version:** 1.2  
+**Status:** CULTURAL EXPERIMENT / DESIGN RITBOARD  
+**Location:** /systemic/SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md  
+**Subordinate to:** FLOW_SRS.md  
+
+---
+
+## 0. CONTEXT & ORIENTATION
+
+This document is **conceptual and experimental**.  
+
+SRS (Social Recognition System) exists **only as a design on the Flow drawing board**.  
+There are **no Nodes, pilots, or implemented communities** using this system yet.  
+
+It is intended to:
+
+- Explore how gratitude, recognition, and ephemeral rewards could circulate in a post-monetary society  
+- Highlight the delicate balance between social acknowledgment and unintended hierarchies  
+- Serve as a **thought experiment**, a living model for discussion and refinement  
+
+Nothing in this document is operational. All mechanisms are **hypothetical**, meant to inform design thinking and future experiments, not to prescribe real-world mandates. 
 
 ---
 
