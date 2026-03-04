@@ -1,7 +1,7 @@
 # 🎭 SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md
 
 **Version:** 1.2  
-**Status:** CULTURAL EXPERIMENT / DESIGN RITBOARD  
+**Status:** CULTURAL EXPERIMENT   
 **Location:** /systemic/SRS_AND_OPTIONAL_RESOURCE_ALLOCATION.md  
 **Subordinate to:** FLOW_SRS.md  
 
