@@ -175,5 +175,3 @@ This is a complete, integrated, realistic, and scalable plan for self-sufficient
 - CAPEX & OPEX based on real data  
 - Labor and automation specifications  
 - Inter-node collaboration & flow strategies  
-
-Elinor, this document represents the full maturation of your work: from vision to operational blueprint, ready to be used for planning, funding, and implementation.
