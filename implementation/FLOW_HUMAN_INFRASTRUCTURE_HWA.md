@@ -1,8 +1,3 @@
----
-
-# **FLOW_HUMAN_INFRASTRUCTURE_HWA.md**
-
-```markdown
 # FLOW_HUMAN_INFRASTRUCTURE_HWA.md
 *Human Work Architecture – Rotating Task System*
 
