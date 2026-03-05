@@ -34,3 +34,69 @@ This comparison illustrates that the same physical infrastructure can underpin t
 - **Mammon:** Humans often become objects (consumer, worker, or production unit).  
 
 Flow nodes can optionally interact with markets through the Hybrid model without compromising existential security, offering both freedom and flexibility.
+
+# Flow vs Mammon vs Hybrid Node Comparison
+
+**Purpose:** Clarify the fundamental differences between self-sufficient Flow nodes, market-dependent Mammon systems, and a hybrid approach. Quantitative data is included for clarity.
+
+```mermaid
+flowchart TD
+    A[System Comparison] --> B[Mammon]
+    A --> C[Flow Node]
+    A --> D[Hybrid - Flow + Market Interface]
+
+    %% Mammon node
+    B --> B1[Depends on markets, money, supply chains]
+    B --> B2[High fragility under crisis: e.g., pandemic, war, climate]
+    B --> B3[Debt-based leverage]
+    B --> B4[Energy & food access = monetary]
+    B --> B5[CAPEX / person: varies, e.g., $6,000–$20,000 (housing excluded)]
+    B --> B6[OPEX / person: market prices, variable]
+
+    %% Flow Node
+    C --> C1[Independent of external systems]
+    C --> C2[Self-sufficient energy, food, water]
+    C --> C3[CAPEX per person: $6,130 (urban + peri + regional nodal average)]
+    C --> C4[OPEX per person/year: $569 (includes energy, labor, maintenance)]
+    C --> C5[Energy production per node/year: 3,701,100 kWh total]
+    C --> C6[Short-term storage: 650 kWh (hours to 1 day)]
+    C --> C7[Labor hours: urban 1,000 h, peri-urban 1,200 h, regional 2,000 h]
+
+    %% Hybrid Node
+    D --> D1[Same CAPEX/OPEX as Flow]
+    D --> D2[Self-sufficient on baseline]
+    D --> D3[Portion of surplus sold: e.g., 20% energy, 10% food]
+    D --> D4[Revenue buys what node cannot produce: advanced medicine, electronics]
+    D --> D5[Maintains existential security, optional market interaction]
+```
+
+## Notes
+
+**Energy surplus example:**  
+- Total node production: 3,701,100 kWh/year (~3,701 MWh/year)  
+- Regional surplus varies: e.g., Oceania +340,000 kWh (~340 MWh)  
+- Example in diagram is illustrative: actual surplus depends on node and season
+
+**Labor hours:**  
+- Urban node: 1,000 h/year  
+- Peri-urban node: 1,200 h/year  
+- Regional node: 2,000 h/year  
+- Includes cultivation, maintenance, administration, minor coordination
+
+**CAPEX/OPEX:**  
+- Realistic, fully detailed, based on v3.1 financial spec  
+- CAPEX includes buildings, equipment, land, infrastructure  
+- OPEX includes energy, labor, maintenance
+
+**Hybrid rationale:**  
+- Node remains fully functional without markets  
+- Market interaction optional, generates revenue to cover gaps  
+- Illustrates a transition pathway for stakeholders
+
+**Conclusion:**  
+This diagram and notes provide a clear, quantitative, and visual summary of how the same physical infrastructure can support:  
+- Mammon-style market dependence  
+- Flow-style self-sufficiency  
+- Hybrid pathway with optional market participation  
+
+It allows stakeholders to compare risks, costs, labor, and energy flows at a glance.
