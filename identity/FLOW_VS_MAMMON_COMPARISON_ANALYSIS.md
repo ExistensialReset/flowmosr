@@ -9,7 +9,7 @@
 | Risk profile | Fragile under crises (pandemics, wars, climate events); inequitable access; debt leverage | Robust under crises; equitable access; zero debt dependency | Robust baseline, but partial exposure to market risk |
 | Production | Determined by market demand; subject to scarcity | Determined by node capacity; guaranteed self-sufficiency | Determined by node capacity; baseline self-sufficiency maintained |
 | Oversupply | Can be sold at profit, but not guaranteed | Can interact with Mammon if desired; 200 MWh example → ~$20,000/year (illustrative) | 20% energy, 10% food surplus systematically sold; generates additional revenue for non-local goods |
-| Cost considerations | Subject to inflation, energy, labor, and capital markets | CAPEX, OPEX fully accounted for; predictable per node type | CAPEX, OPEX same as Flow; added marginal cost for market interface |
+| Cost considerations | Subject to inflation, energy, labor, and capital markets | CAPEX $6,130/person, OPEX $569/person/year – fully predictable | Same as Flow + marginal interface cost |
 | Existential security | Dependent on external conditions | Independent; ensures baseline survival | Maintains 100% baseline security; optional economic engagement |
 | Scalability | Limited by market access and capital | Modular; nodes can scale regionally or globally | Modular; nodes scale, with revenue stream supporting expansion |
 
@@ -38,13 +38,19 @@
 - Market interaction optional, generates revenue to cover gaps  
 - Illustrates a transition pathway for stakeholders
 
-**Conclusion:**  
-This diagram and notes provide a clear, quantitative, and visual summary of how the same physical infrastructure can support:  
-- Mammon-style market dependence  
-- Flow-style self-sufficiency  
-- Hybrid pathway with optional market participation  
+**Mammon risks:**  
+- Supply chain disruption (pandemics, war, climate events) can halt food/energy access entirely  
+- Debt and leverage can exacerbate inequality  
+- Market volatility impacts affordability and availability
 
-It allows stakeholders to compare risks, costs, labor, and energy flows at a glance.
+**Summary / Reflection:**  
+- The table is concise, neutral, and clearly communicates existential security differences  
+- Mermaid diagram visually summarizes all key figures and relationships  
+- Notes provide the right level of detail: energy, labor, CAPEX/OPEX, hybrid rationale  
+- Document demonstrates three paths without hidden agenda: Mammon (market dependent), Flow (self-sufficient), Hybrid (optional market engagement)  
+- Serves multiple audiences: beginner, skeptic, and internal reference  
+- Can be placed next to `BEGINNERS_WAY_IN_TO_FLOW.md` as a complementary entry point  
+- Optional extension: "Choose your path" – stakeholders can select Mammon, Flow, or Hybrid depending on risk tolerance and goals
 
 ---
 
@@ -68,7 +74,7 @@ flowchart TD
     C --> C3[CAPEX per person: $6,130 (urban + peri + regional nodal average)]
     C --> C4[OPEX per person/year: $569 (includes energy, labor, maintenance)]
     C --> C5[Energy production per node/year: 3,701,100 kWh total]
-    C --> C6[Short-term storage: 650 kWh (hours to 1 day)]
+    C --> C6[Short-term storage: 650 kWh (hours to 1 day) (seasonal deficits require regional exchange)]
     C --> C7[Labor hours: urban 1,000 h, peri-urban 1,200 h, regional 2,000 h]
 
     %% Hybrid Node
