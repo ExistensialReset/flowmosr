@@ -87,3 +87,34 @@ To recognize and integrate **all forms of meaningful participation**, including 
 > “No contribution is too small, no participant is too limited. Flow values presence, creativity, care, and insight as much as labor. The system learns from all, and everyone can grow.”
 
 ---
+
+# FLOW_HWA_WITH_ALTERNATIVE_CONTRIBUTIONS.md
+*Human Work Architecture with Integrated Alternative Contributions*
+
+---
+
+## System Overview Diagram
+
+```mermaid
+flowchart LR
+    %% Baseline resources
+    Baseline[Baseline: Food, Housing, Energy, Healthcare, Tools] --> RotatingTasks
+    Baseline --> AlternativeContributions
+
+    %% Standard Rotating Tasks
+    RotatingTasks[Rotating Tasks: Heavy & Semi-Legit] --> Mentorship[Supervision & Mentorship]
+    Mentorship --> Lyceum[Lyceum Musaeum: Training & Skill Development]
+    Lyceum --> LegitProfessions[Legit Professions: Certified Roles]
+    LegitProfessions --> FlowSpiral[Flow Spiral: Feedback & Learning]
+
+    %% Alternative Contributions
+    AlternativeContributions[Alternative / Low-Intensity Contributions] --> PeerSupport[Peer Mentorship & Pairing]
+    PeerSupport --> Lyceum
+    AlternativeContributions --> SRS[Optional Positive Recognition (SRS)]
+    PeerSupport --> FlowSpiral
+
+    %% Feedback Loops
+    FlowSpiral --> RotatingTasks
+    FlowSpiral --> AlternativeContributions
+    FlowSpiral --> NodeImprovement[Node Learning & Process Improvement]
+    NodeImprovement --> Lyceum
