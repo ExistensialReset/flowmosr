@@ -1,6 +1,6 @@
 # FLOW VS MAMMON – SYSTEM COMPARISON
 
-**Purpose:** Clarify the fundamental differences between self-sufficient Flow nodes and market-dependent Mammon systems, and show why existential security is a design choice, not an accident.
+**Purpose:** Clarify the fundamental differences between self-sufficient Flow nodes, market-dependent Mammon systems, and a hybrid approach. Quantitative data is included for clarity.
 
 | Aspect | Mammon System | Flow Node | Hybrid – Flow Node with Market Interface |
 |--------|--------------|-----------|----------------------------------------|
@@ -14,61 +14,6 @@
 | Scalability | Limited by market access and capital | Modular; nodes can scale regionally or globally | Modular; nodes scale, with revenue stream supporting expansion |
 
 ---
-
-## Notes
-
-1. **Example values:** The 200 MWh figure in the Flow column is illustrative. Actual production depends on node type, location, and configuration (v3.1 totals 3,701,100 kWh/year across all nodes).  
-2. **Flow requirements:** Building a Flow Node requires CAPEX for construction, land allocation, coordination, and setup of infrastructure.  
-3. **Hybrid approach:** Enables Flow nodes to sell part of their surplus systematically while maintaining full self-sufficiency. Revenue can be used to purchase items the node cannot produce, such as advanced medicine or electronics.  
-4. **Mammon risks:**  
-   - Supply chain disruption (pandemics, war, climate events) can halt food/energy access entirely.  
-   - Debt and leverage can exacerbate inequality.  
-   - Market volatility impacts affordability and availability.  
-
----
-
-**Summary:**  
-This comparison illustrates that the same physical infrastructure can underpin two fundamentally different lifeways:
-
-- **Flow:** Humans are the subject; the system is the tool.  
-- **Mammon:** Humans often become objects (consumer, worker, or production unit).  
-
-Flow nodes can optionally interact with markets through the Hybrid model without compromising existential security, offering both freedom and flexibility.
-
-# Flow vs Mammon vs Hybrid Node Comparison
-
-**Purpose:** Clarify the fundamental differences between self-sufficient Flow nodes, market-dependent Mammon systems, and a hybrid approach. Quantitative data is included for clarity.
-
-```mermaid
-flowchart TD
-    A[System Comparison] --> B[Mammon]
-    A --> C[Flow Node]
-    A --> D[Hybrid - Flow + Market Interface]
-
-    %% Mammon node
-    B --> B1[Depends on markets, money, supply chains]
-    B --> B2[High fragility under crisis: e.g., pandemic, war, climate]
-    B --> B3[Debt-based leverage]
-    B --> B4[Energy & food access = monetary]
-    B --> B5[CAPEX / person: varies, e.g., $6,000–$20,000 (housing excluded)]
-    B --> B6[OPEX / person: market prices, variable]
-
-    %% Flow Node
-    C --> C1[Independent of external systems]
-    C --> C2[Self-sufficient energy, food, water]
-    C --> C3[CAPEX per person: $6,130 (urban + peri + regional nodal average)]
-    C --> C4[OPEX per person/year: $569 (includes energy, labor, maintenance)]
-    C --> C5[Energy production per node/year: 3,701,100 kWh total]
-    C --> C6[Short-term storage: 650 kWh (hours to 1 day)]
-    C --> C7[Labor hours: urban 1,000 h, peri-urban 1,200 h, regional 2,000 h]
-
-    %% Hybrid Node
-    D --> D1[Same CAPEX/OPEX as Flow]
-    D --> D2[Self-sufficient on baseline]
-    D --> D3[Portion of surplus sold: e.g., 20% energy, 10% food]
-    D --> D4[Revenue buys what node cannot produce: advanced medicine, electronics]
-    D --> D5[Maintains existential security, optional market interaction]
-```
 
 ## Notes
 
@@ -100,3 +45,35 @@ This diagram and notes provide a clear, quantitative, and visual summary of how 
 - Hybrid pathway with optional market participation  
 
 It allows stakeholders to compare risks, costs, labor, and energy flows at a glance.
+
+---
+
+```mermaid
+flowchart TD
+    A[System Comparison] --> B[Mammon]
+    A --> C[Flow Node]
+    A --> D[Hybrid - Flow + Market Interface]
+
+    %% Mammon node
+    B --> B1[Depends on markets, money, supply chains]
+    B --> B2[High fragility under crisis: e.g., pandemic, war, climate]
+    B --> B3[Debt-based leverage]
+    B --> B4[Energy & food access = monetary]
+    B --> B5[CAPEX / person: varies, e.g., $6,000–$20,000 (housing excluded)]
+    B --> B6[OPEX / person: market prices, variable]
+
+    %% Flow Node
+    C --> C1[Independent of external systems]
+    C --> C2[Self-sufficient energy, food, water]
+    C --> C3[CAPEX per person: $6,130 (urban + peri + regional nodal average)]
+    C --> C4[OPEX per person/year: $569 (includes energy, labor, maintenance)]
+    C --> C5[Energy production per node/year: 3,701,100 kWh total]
+    C --> C6[Short-term storage: 650 kWh (hours to 1 day)]
+    C --> C7[Labor hours: urban 1,000 h, peri-urban 1,200 h, regional 2,000 h]
+
+    %% Hybrid Node
+    D --> D1[Same CAPEX/OPEX as Flow]
+    D --> D2[Self-sufficient on baseline]
+    D --> D3[Portion of surplus sold: e.g., 20% energy, 10% food]
+    D --> D4[Revenue buys what node cannot produce: advanced medicine, electronics]
+    D --> D5[Maintains existential security, optional market interaction]
