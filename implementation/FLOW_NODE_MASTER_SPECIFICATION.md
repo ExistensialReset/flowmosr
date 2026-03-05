@@ -1,6 +1,4 @@
 # 🏛️ FLOW NODE MASTER SPECIFICATION v3.1
-
-**System:** Symbiotic Intelligence Node 1.6  
 **Project:** Flow Node Global Infrastructure  
 **Status:** CANONICAL / OPERATIONAL  
 **Target Population:** 500 Individuals (90 kg avg. weight)  
