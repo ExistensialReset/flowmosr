@@ -112,6 +112,8 @@ Annual Availability:
 
 Energy must be reliable and not structurally interruptible for coercive control.
 
+If the medical condition require it, the Baseline must be extended. 
+
 ---
 
 # VII. LIGHT
