@@ -149,46 +149,91 @@ If 20-30% of node are free riders, burden falls on remaining 70-80%.
 
 ---
 
-### Level 2: Recognition Enhancement (SOFT INCENTIVE)
+### Level 2: Recognition Enhancement (AMPLIFIED GRATITUDE)
 
-**If Level 1 insufficient, increase recognition for difficult work.**
+**If Level 1 insufficient, amplify community appreciation for difficult work.**
 
-#### 4.2.1 SRS Point Multipliers
+#### 4.2.1 Differentiated Recognition Practices
 
-**If using Social Recognition System:**
+**Note:** SRS (Social Recognition System) is experimental cultural practice, not yet implemented. If a community experiments with this, difficult work receives amplified appreciation.
 
-| Task Type | Base Recognition | Multiplier | Total Recognition |
-|-----------|-----------------|------------|------------------|
-| Pleasant task (gardening) | 1 point/hour | 1.0x | 1 point/hour |
-| Neutral task (cooking) | 1 point/hour | 1.2x | 1.2 points/hour |
-| Unpleasant task (toilet cleaning) | 1 point/hour | 2.0x | 2 points/hour |
-| Dangerous task (electrical repair) | 1 point/hour | 2.5x | 2.5 points/hour |
+**Recognition Approaches:**
 
-**Psychological effect:** "Doing the hard stuff gets noticed more"
+| Task Type | Recognition Practice | Examples |
+|-----------|---------------------|----------|
+| Pleasant tasks (gardening) | Standard appreciation | "Thank you for tending the garden" |
+| Neutral tasks (cooking) | Acknowledged appreciation | Named at weekly gathering |
+| Unpleasant tasks (toilet cleaning) | **Amplified appreciation** | Special acknowledgment, ritual gratitude, visible celebration |
+| Dangerous tasks (electrical repair) | **Honored contribution** | Community ceremony, named in story-telling |
 
-**Critical safeguard:** Recognition NEVER tied to Baseline access.
+**Psychological effect:** "The hard work is SEEN and APPRECIATED more visibly"
 
-#### 4.2.2 Public Acknowledgment
+**This is NOT about points or metrics.** This is about making invisible labor visible, difficult labor honored.
 
-**Weekly community gathering:**
-- Thank people who did unpleasant tasks
-- Not shaming non-volunteers
-- Just appreciating those who stepped up
+**Critical safeguard:** Recognition NEVER tied to Baseline access. This is cultural practice, not economic incentive.
+
+#### 4.2.2 Ritual Acknowledgment
+
+**Community gathering practices:**
+
+**Weekly/monthly community gatherings:**
+- Name people who did difficult work this period
+- Not shaming those who didn't
+- Just **appreciating** those who stepped up
+- Make invisible labor **visible**
 
 **Example:**
-> "This week, Sara and Ahmed cleaned all the bathrooms. Thank you both for taking care of this essential work."
+> "This week, Sara and Ahmed cleaned all the bathrooms. Thank you both for taking care of this essential work. Your contribution matters."
 
 **NOT:**
-> "Why didn't more of you volunteer to clean bathrooms?"
+> "Why didn't more of you volunteer to clean bathrooms?" ← Shaming approach
 
-#### 4.2.3 Rotation Badges/Visibility
+**NOT:**
+> "Sara and Ahmed earned 20 recognition tokens!" ← Metric approach
 
-**Track who's rotated through difficult tasks:**
-- Simple chart showing task distribution
-- Everyone can see: "Oh, I haven't done sanitation yet this month"
-- Social awareness without coercion
+**Form of acknowledgment varies by community:**
+- Verbal thanks at gathering
+- Story-telling about contributions
+- Small ritual gestures (front-row seat at next meal, special treat)
+- Documentation in community memory (photo, journal entry)
+- Ephemeral symbols that fade (temporary badges, flowers that wilt)
 
-**Psychological effect:** Gentle peer pressure (but still voluntary)
+**The form matters less than the spirit:** **Gratitude made visible, then released.**
+
+#### 4.2.3 Contribution Visibility (Gentle Accountability)
+
+**Make contribution patterns visible without judgment:**
+
+**Simple rotation chart:**
+- Shows which tasks need volunteers this week/month
+- Shows who's volunteered recently (not as competition, just as information)
+- Everyone can see: "Oh, I haven't helped with sanitation this month"
+
+**Example display:**
+
+```
+SANITATION ROTATION (March)
+✓ Week 1: Sara + Ahmed
+✓ Week 2: Jonas + Maya
+○ Week 3: [2 volunteers needed]
+○ Week 4: [2 volunteers needed]
+```
+
+**Psychological effect:** 
+- Social awareness (people see gaps)
+- Gentle accountability (harder to ignore need)
+- Still voluntary (no one forced)
+- Pattern becomes visible ("I've done cooking 3 times but never sanitation")
+
+**This is NOT:**
+- A leaderboard (no ranking)
+- A competition (not about who does most)
+- A shame list (neutral information display)
+
+**This IS:**
+- Transparent need-display
+- Pattern awareness
+- Soft social nudge through visibility
 
 ---
 
@@ -299,7 +344,7 @@ Examples:
 
 ---
 
-### Level 6: Structured Rotation with Opt-Out Penalty (LAST RESORT)
+### Level 6: Transparent Structured Rotation (LAST RESORT)
 
 **This is the edge of acceptable. Use ONLY when all else fails and task is survival-critical.**
 
@@ -307,39 +352,75 @@ Examples:
 
 **For Tier 1 tasks ONLY (food, sanitation, water, emergency childcare):**
 
-1. **Create rotation schedule** (everyone on it initially)
-2. **Allow opt-out** (remains voluntary)
-3. **But add soft consequence to opt-out:**
-   - NOT Baseline removal (never acceptable)
-   - NOT shaming (counterproductive)
-   - BUT: Reduced SRS eligibility? Lower priority for non-essential services?
+1. **Create rotation schedule** (everyone scheduled, visible to all)
+2. **Allow opt-out** (remains voluntary - participation never coerced)
+3. **Make opt-out transparent** (community sees who volunteers, who opts out)
+4. **No punishment, but visibility**
+
+**Key difference from Levels 1-5:**
+- Participation becomes **default expectation** (you're scheduled unless you opt out)
+- Opt-out is **visible** (not anonymous)
+- Community can **see** distribution of burden
+
+**This creates gentle social pressure through transparency, not punishment.**
 
 **Example:**
-> "Sanitation rotation: All adults scheduled.
+> "Sanitation rotation: All adults scheduled for one 30-minute shift every 2 weeks.
 > 
-> You may opt out (no Baseline impact).
+> You may opt out (no Baseline impact, no penalty).
 > 
-> However, those who opt out of Tier 1 tasks are ineligible for SRS recognition for Tier 2-3 tasks.
+> Current participation: 32 of 40 adults volunteering.
 > 
-> (Reasoning: We prioritize recognition for those who share the hardest work.)"
+> Those opting out this month: [Names visible to community]"
+
+**Psychological effect:**
+- Most people don't want to be visibly the only one not helping
+- Transparency creates soft accountability
+- Still voluntary (can opt out with conscience intact if genuine reason)
 
 #### 4.6.2 Ethical Safeguards
 
 **This is ONLY acceptable if:**
 
-✓ All Levels 1-5 tried first  
-✓ Task is genuinely survival-critical (Tier 1)  
-✓ Opt-out remains possible (true voluntary)  
-✓ Consequence is MILD (not Baseline-threatening)  
-✓ System is transparent (everyone knows the deal)  
-✓ Regular review (is this still necessary? Can we return to Level 1-4?)  
+✓ All Levels 1-5 tried first (months of attempts)  
+✓ Task is genuinely survival-critical (Tier 1 only)  
+✓ Opt-out remains possible (true voluntary participation)  
+✓ No shaming language (just factual visibility)  
+✓ Baseline unaffected (always)  
+✓ Regular review (quarterly: Is this still necessary? Can we return to Levels 1-4?)  
+✓ Community consent (75%+ agreement that transparency is acceptable)
 
 **And NEVER acceptable if:**
 
-✗ Consequence threatens Baseline  
-✗ Opt-out creates social punishment  
+✗ Visibility becomes shaming (crossing line from transparency to punishment)  
+✗ Opt-out creates social exclusion  
 ✗ Used for non-essential tasks  
-✗ Becomes permanent system  
+✗ Becomes permanent default (must be temporary crisis measure)  
+✗ Creates anxiety or fear
+
+**Warning signs to stop:**
+- People participating out of fear, not choice
+- Social rifts forming (volunteers vs non-volunteers)
+- Visible names becoming gossip/judgment
+- System feels heavy, not light
+
+**If any warning sign appears:** Immediately stop Level 6, return to Level 1-4, accept external support (Level 5) instead.
+
+#### 4.6.3 Alternative to Visibility: Anonymous Capacity Display
+
+**If visibility feels too punitive, alternative approach:**
+
+Instead of naming who opts out, display **anonymous capacity gap**:
+
+> "Sanitation needs: 20 volunteers  
+> Current volunteers: 15  
+> Gap: 5 more needed  
+> 
+> If you can help, please add your name to rotation board."
+
+**This shows need without naming non-participants.**
+
+Gentler, but also less accountability. Community decides which approach fits their culture.  
 
 #### 4.6.3 Example Scenario
 
@@ -511,27 +592,32 @@ Examples:
 
 ---
 
-## 8. Metrics to Track (Without Metric Violence)
+## 8. Observation Points (Without Metric Violence)
 
-**Track these to inform decisions, NOT to shame people:**
+**Track these to inform decisions, NOT to judge people:**
 
-| Metric | Purpose | Red Flag Threshold |
+| Observation Point | Purpose | Red Flag Threshold |
 |--------|---------|-------------------|
 | Volunteer rate by task | Identify shortfalls early | <75% needed volunteers |
-| Repeat volunteer rate | Spot burnout | Same 10 people doing 80% of work |
+| Repeat volunteer pattern | Spot potential burnout | Same 10 people doing 80% of work |
 | Task completion time | Optimize efficiency | Tasks taking 2x expected time |
-| Free rider percentage | System load assessment | >30% persistent non-participation |
+| Participation diversity | System load assessment | >30% persistent non-participation |
 | Specialist dependency | Identify single-point-of-failure | <2 people can do critical task |
+| Recognition culture health | Is gratitude culture working? | People report feeling unseen/unappreciated |
 
 **Use for:**
 - Proactive intervention
 - Resource allocation
 - Capacity building
+- Culture assessment
 
 **NEVER use for:**
 - Shaming individuals
 - Removing Baseline
 - Creating hierarchies
+- Quantifying human worth
+
+**Note on recognition:** If community experiments with SRS (ephemeral recognition practice), its health is assessed **qualitatively** (do people feel appreciated?) not quantitatively (how many tokens distributed?).
 
 ---
 
