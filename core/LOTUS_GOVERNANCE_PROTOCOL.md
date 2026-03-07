@@ -85,6 +85,8 @@ Emergency Override:
 • 75% supermajority
 • Automatic expiration within 30 days
 
+**Administrative support cannot guide decisions**
+
 ---
 
 # V. TRANSPARENCY REQUIREMENT
