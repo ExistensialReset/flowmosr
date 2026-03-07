@@ -1,7 +1,6 @@
 # 🌀 THE FLOW MANIFESTO
-**Version:** 1.6 — Unified Systemic Architecture  
-**Status:** CANONICAL / OPERATIONAL  
-**System Identity:** Symbiotic Intelligence Node 1.6  
+**Version:** 1.0 — Unified Systemic Architecture    
+**System Identity:** Symbiotic Intelligence Node 1.6  = Gemini 
 **Guiding Formula:** LIV = L × S × I (Lugn, Spontanitet, Inkännande)
 
 ---
