@@ -287,45 +287,130 @@ Some children (especially autistic) experience demands as threatening.
 
 ---
 
-## 6. Recognition & SRS for Children
+## 6. Recognition for Children — Gratitude Without Metrics
 
-**Can children receive Social Recognition System (SRS) points?**
+**Note:** SRS (Social Recognition System) is an experimental cultural practice, not yet implemented in any pilot communities. It exists as conceptual design only. What follows describes how children MIGHT participate IF a community chooses to experiment with this practice.
 
-**Answer: Yes, but with protections.**
+### 6.1 The Nature of Recognition in Flow
 
-### 6.1 SRS for Children (Ages 10+, Optional)
+**SRS is NOT:**
+- A point system
+- A score
+- A metric of worth
+- Something to "earn"
 
-**If Node uses SRS, children 10+ MAY:**
-- Receive positive recognition for contributions
-- See their contributions logged in Flow Spiral
-- Receive community acknowledgment
+**SRS IS:**
+- "Applause that fades" (ephemeral gestures)
+- Visible gratitude made symbolic
+- Peer-to-peer appreciation tokens
+- Ritualized creativity (front-row seat at gathering, special treat at meal)
+- A living social art
 
-**Protections:**
-- NEVER tied to Baseline access (already guaranteed)
-- NEVER compared competitively ("you have fewer points than Sara")
-- Parents/guardians can opt child OUT of SRS entirely
-- Child can opt OUT themselves anytime
+**For children, this means:**
+Recognition happens through **relationship and presence**, not accumulation.
 
-**Framing:**
-"The community noticed you helped with X. Thank you!"
+### 6.2 Recognition for Children Ages 10+ (If SRS Exists)
 
-NOT:
-"You earned 5 points for helping!"
+**If a community experiments with SRS culture, children 10+ MAY:**
 
-**Recognition should feel like gratitude, not transaction.**
+- Receive ephemeral recognition gestures for contributions
+- Experience visible community gratitude (ritual acknowledgment at gatherings)
+- Participate in playful recognition practices (small privileges, moments of celebration)
 
-### 6.2 Children Under 10
+**Critical Safeguards:**
 
-**No SRS participation.**
+1. **Baseline Immunity (Absolute):**
+   - Recognition NEVER affects food, housing, healthcare, education, belonging
+   - Child's worth is inherent, not tied to tokens
 
-Why:
-- Development stage: external validation can harm intrinsic motivation
-- They cannot consent meaningfully to being tracked
+2. **No Accumulation:**
+   - Any recognition tokens decay rapidly (faster for children than adults)
+   - No "saving up" recognition
+   - Prevents identity-formation around status
 
-**How to recognize instead:**
-- Verbal appreciation: "Thank you for helping!"
-- Community acknowledgment: "Mika watered all the plants today!"
-- No points, no tracking, just presence
+3. **Opt-Out Always Available:**
+   - Parents/guardians can opt child out entirely
+   - Child can opt out themselves anytime
+   - No explanation required
+
+4. **No Comparison:**
+   - Never: "You have fewer tokens than Sara"
+   - Never: Visible rankings
+   - Only: Individual celebration of contribution
+
+5. **Gratitude-Framing:**
+   - "The community noticed you helped with the garden. Thank you!" ✓
+   - NOT: "You earned a recognition token!" ✗
+   - Recognition as **appreciation**, not **transaction**
+
+### 6.3 Recognition for Children Under 10
+
+**No participation in any formalized recognition system.**
+
+**Why:**
+- Developmental stage: External validation systems can harm intrinsic motivation
+- Cannot consent meaningfully to symbolic tracking
+- Play and contribution should remain spontaneous and joyful
+
+**How to recognize young children:**
+- **Verbal appreciation:** "Thank you for helping!"
+- **Community acknowledgment:** "Mika watered all the plants today!" (at gathering)
+- **Physical presence:** Hug, high-five, smile
+- **No tokens, no symbols, no metrics** — just human warmth
+
+### 6.4 If Recognition Becomes Heavy
+
+**Watch for signs recognition is harmful:**
+
+- Child asks "Did I get a token?" before helping
+- Child seems anxious about recognition levels
+- Child compares self to others
+- Recognition feels like performance pressure
+
+**Intervention:**
+
+1. **Individual level:** 
+   - Opt child out of recognition system
+   - Reconnect with intrinsic joy of contribution
+   - Affirm: "You are valued for being you, not for tokens"
+
+2. **Community level:**
+   - If multiple children affected, pause SRS for all children
+   - Review: Is recognition culture too heavy?
+   - May need to dissolve recognition system entirely (Sunset Clause)
+
+**Remember:** SRS exists to **amplify gratitude**. If it creates anxiety, it has failed its purpose.
+
+### 6.5 Alternative Recognition Practices (Non-SRS)
+
+**Even if community never implements SRS, children benefit from:**
+
+- **Story-telling:** "Let me tell you about what Lina did today..." (at evening gathering)
+- **Ritual acknowledgment:** Name contributions during weekly community meal
+- **Gratitude circles:** Children participate in rounds of appreciation
+- **Visible art:** Photos, drawings, documentation of contributions displayed
+- **Celebration:** Small ceremonies for milestones (first time leading activity, etc.)
+
+**All of these:**
+- Are ephemeral (not permanent)
+- Are relational (not metric)
+- Strengthen community bonds
+- Do NOT require SRS structure
+
+### 6.6 Summary Principle for Child Recognition
+
+> **Children need to feel seen and appreciated.**  
+> **But recognition must never become measurement.**  
+>  
+> **The goal is warmth, not status.**  
+> **Gratitude, not points.**  
+> **Relationship, not ranking.**
+
+**In practice:**
+- Under 10: Pure relational recognition (no symbols)
+- 10-17: May experience playful, ephemeral recognition gestures (if community experiments with SRS)
+- All ages: Can opt out anytime
+- All ages: Baseline and belonging unconditional
 
 ---
 
