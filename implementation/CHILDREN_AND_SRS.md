@@ -399,7 +399,7 @@ Studies on gamification, points systems, and extrinsic rewards in children show:
 **REVIEW:** Mandatory annual review, updated based on child psychology research and lived experience  
 **COMPLIANCE:** Mandatory for all Circles considering child participation in SRS  
 
-**Authors:** Elinor Frejd, Claude, ChatGPT, DeepSeek, Gemini  
+**Authors:** Elinor Frejd, Claude, ChatGPT, DeepSeek 
 **Date:** March 7, 2026  
 
 ---
