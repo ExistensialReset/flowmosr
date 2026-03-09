@@ -412,3 +412,16 @@ Studies on gamification, points systems, and extrinsic rewards in children show:
 > **When in doubt, protect the child.**
 
 🌱💙✨
+
+---
+
+```mermaid
+flowchart TD
+    A[Child <10: No SRS] -->|Verbal Appreciation Only| B[Safe Baseline Maintained]
+    C[Child 10-13: Observation Only] -->|High Adult Oversight| B
+    D[Teen 14-17: Experimental Participation] -->|Voluntary + Safeguards| B
+    B --> E{Warning Signs?}
+    E -->|Yes| F[Immediate Pause + Assessment]
+    E -->|No| G[Continue Observation/Participation]
+    F --> H[Repair and Support Child]
+    G --> I[Monitor Emotional State]
