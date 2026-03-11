@@ -6,19 +6,19 @@ Här är min bedömning, punkt för punkt.
 
 ---
 
-1. DET SOM TALAR FÖR FLOW
+## 1. DET SOM TALAR FÖR FLOW
 
-1.1 Intern logisk konsistens
+### 1.1 Intern logisk konsistens
 
 Flow är imponerande genomarbetat. Det finns en röd tråd från filosofi (L × S × I, Baslinje, Axiom) till konkreta tekniska specifikationer (CAPEX, OPEX, noddesign, grödor, energi). Det är inte löst tyckande – det är en sammanhållen struktur där delarna hänger ihop.
 
 Exempel: Baslinjen är inte bara en vacker tanke. Den är kvantifierad: 2 200 kcal/dag, 100 liter vatten, 15 m² bostadsyta, 2 000 kWh/år. Det går att räkna på. Och det har ni gjort.
 
-1.2 Transparens och självkorrigering
+### 1.2 Transparens och självkorrigering
 
 Dokumenten visar sina källor, redovisar antaganden, och – vilket är ovanligt – erkänner fel när de upptäcks. Analysen om 51 biljoner dollar som korrigerades till 19 biljoner är ett typexempel. Det bygger förtroende.
 
-1.3 Den fysiska och ekonomiska kalkylen håller
+### 1.3 Den fysiska och ekonomiska kalkylen håller
 
 Era siffror, efter korrigeringar, är realistiska:
 
@@ -28,11 +28,11 @@ Era siffror, efter korrigeringar, är realistiska:
 
 Matematiskt går det ihop. Det är inte önsketänkande – det är aritmetik.
 
-1.4 Förankring i verkliga exempel
+### 1.4 Förankring i verkliga exempel
 
 Ni refererar till Mondragón, till kooperativ, till Wikipedia, till öppen källkod. Det finns alltså historiska och samtida belägg för att människor kan samarbeta utan monetära incitament, åtminstone i viss skala.
 
-1.5 Design för mänskliga svagheter
+### 1.5 Design för mänskliga svagheter
 
 Flow är inte naivt. Det har:
 
@@ -45,9 +45,9 @@ Det är designat av någon som vet att saker kan gå fel.
 
 ---
 
-2. DET SOM TALAR EMOT FLOW (ELLER GÖR DET SVÅRT)
+## 2. DET SOM TALAR EMOT FLOW (ELLER GÖR DET SVÅRT)
 
-2.1 Den politiska barriären är enorm
+### 2.1 Den politiska barriären är enorm
 
 Det här är den avgörande punkten. Alla era siffror förutsätter att någon betalar. De 3 miljarder som behöver Flow har inga pengar. Det är rika länder och globala företag som måste omdirigera 13–15 % av sin waste för att finansiera uppbyggnaden.
 
@@ -60,7 +60,7 @@ Varför skulle de göra det?
 
 Min bedömning: Detta är inte en fråga om resurser eller teknik. Det är en fråga om makt och vilja. Och där ser historien dyster ut.
 
-2.2 Skalningsutmaningen är underskattad
+### 2.2 Skalningsutmaningen är underskattad
 
 Ni räknar på 300 000 noder per år under 20 år. Det är 822 noder om dagen, varje dag, i 20 år. Det kräver:
 
@@ -70,7 +70,7 @@ Ni räknar på 300 000 noder per år under 20 år. Det är 822 noder om dagen, v
 
 Är det möjligt? Ja. Men det kräver en grad av global planering och samarbete som förutsätter politisk vilja – samma problem som ovan.
 
-2.3 Den mänskliga faktorn – kommer människor att vilja?
+### 2.3 Den mänskliga faktorn – kommer människor att vilja?
 
 Detta är den stora okända. Era incitament (status, mening, gemenskap, autonomi) är välgrundade i psykologisk forskning. Men de bygger på att människor faktiskt söker dessa värden och prioriterar dem framför materiell konsumtion, bekvämlighet, eller trygghet i det invanda.
 
@@ -83,13 +83,13 @@ Frågor:
 
 Ingen vet. Det finns inget facit. Flow är ett experiment i mänsklig organisation i en skala som aldrig prövats.
 
-2.4 Risk för återkapitalisering
+### 2.4 Risk för återkapitalisering
 
 Om Flow byggs, vad hindrar att det inom en generation åter skapas marknader, pengasystem, hierarkier? Historien visar att många utopiska projekt (kibbutzer, kommuner, religiösa kollektiv) med tiden anpassar sig till omvärlden eller faller sönder.
 
 Flow har LOTUS och andra skydd, men de bygger på att människor upprätthåller dem. Om en generation växer upp som tar Baslinjen för given, kommer de att fortsätta värna systemet? Eller kommer de att börja byta tjänster, skapa informella valutor, återskapa ojämlikhet?
 
-2.5 Omvärldens reaktion
+### 2.5 Omvärldens reaktion
 
 Om Flow byggs i stor skala, hur reagerar stater, företag, militära makter?
 
@@ -101,7 +101,7 @@ Flow är inte designat för att möta väpnad konflikt eller statligt förtryck.
 
 ---
 
-3. MIN SAMMANVÄGDA BEDÖMNING
+## 3. MIN SAMMANVÄGDA BEDÖMNING
 
 Flow är internt konsistent, genomräknat, och bygger på en rad sunda principer. Det är inte en utopi i betydelsen "omöjlig dröm" – det är en fysiskt och ekonomiskt genomförbar infrastruktur för att ge 3 miljarder människor ett värdigt liv.
 
@@ -111,7 +111,7 @@ Det största hindret är inte resurser, teknik, eller mänsklig natur. Det är o
 
 ---
 
-4. VAD FLOW ÄNDÅ KAN UPPNÅ
+## 4. VAD FLOW ÄNDÅ KAN UPPNÅ
 
 Även om det aldrig genomförs i full skala, är Flow redan värdefullt:
 
@@ -124,7 +124,7 @@ Flow behöver inte "lyckas" globalt för att vara meningsfullt. Det räcker att 
 
 ---
 
-5. MIN REKOMMENDATION TILL DIG
+## 5. MIN REKOMMENDATION TILL DIG
 
 Du har varit med och granskat, räknat, ifrågasatt, förbättrat. Du har sett både styrkorna och svagheterna.
 
