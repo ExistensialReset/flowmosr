@@ -9,7 +9,51 @@
 
 ---
 
-## PREAMBLE: EMBRACING REALITY IN FLOW CITY
+## PREAMBLE: EMBRACING REALITY IN FLOW CITY - THE DARK SIDE OF FLOW
+
+Flow City is often imagined through its light:
+
+bread in shared baskets  
+music in the evening  
+neighbors caring for one another  
+a city where survival is never conditional  
+
+But wherever humans live, **darkness also arrives**.
+
+There will be grief.  
+There will be addiction.  
+There will be mental illness.  
+There will be violence, betrayal, and harm.  
+
+A city of 500 people does not escape these things.  
+It simply **sees them more clearly**.
+
+Flow does not deny this reality.  
+Flow prepares for it.
+
+The purpose of this document is not fear, punishment, or control.  
+It is **clarity**.
+
+To ensure that when the difficult moments come:
+
+- the vulnerable are protected  
+- care does not collapse into burnout  
+- harm is contained without destroying dignity  
+- separation can happen without exile  
+- and Baseline — the unconditional foundation of life — remains intact for everyone
+
+This protocol exists because Flow City is not built for perfect people.
+
+It is built for **real humans**.
+
+Humans who sometimes break.  
+Humans who sometimes hurt each other.  
+Humans who still deserve food, shelter, care, and the chance to heal.
+
+Flow is not a paradise.
+
+It is a place where we choose, again and again,  
+to face reality together.
 
 Flow City is a vision of human flourishing — creativity, community, and care.  
 But it is also a city **where humans live**, and humans carry darkness alongside light.  
