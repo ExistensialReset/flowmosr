@@ -109,6 +109,9 @@ We wrote a **candid, no-pitch reflection** about why choosing Flow might matter 
 
 **These are optional. Choose what resonates. Skip what doesn't.**
 
+**If you have started a circle, please tell
+flowmosr@proton.me**
+
 ### Getting Started & Activation
 
 - 🛠️ **[NODE_ACT_1.md](./guides/activation/NODE_ACT_1.md)** — How to start living Flow (first steps)
