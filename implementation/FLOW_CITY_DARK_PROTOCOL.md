@@ -228,144 +228,455 @@ Example:
 
 ---
 
-### 2.3 SEXUAL ASSAULT & DOMESTIC VIOLENCE
+### 2.3 UNFORGIVABLE HARM: SEXUAL ASSAULT & DOMESTIC VIOLENCE
+
+**Source:** THE_HARM_BOUNDARY_PROTOCOL.md, UNFORGIVABLE_HARM_PROTOCOL.md, EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM.md
 
 **This is the hardest section.**
 
-**Because Flow's core principles collide:**
+**Because Flow's core principles must be held simultaneously:**
 - Baseline is unconditional (cannot revoke for perpetrator)
-- Victim safety is non-negotiable
-- No state violence available
-- Both parties in same 500-person Node
+- Victim safety is non-negotiable and highest priority
+- No state violence available (Flow operates autonomously)
+- Both parties often in same 500-person Node
 
-**There is no perfect solution.**
+**Flow's response is structured through established protocols.**
 
-**But there are protocols.**
+#### Core Principle
+
+**From THE_HARM_BOUNDARY_PROTOCOL:**
+> "The victim never moves; the perpetrator always does."
+
+This is absolute. Victim remains in their space. Perpetrator is relocated.
+
+#### Definition of Unforgivable Harm
+
+**Acts that constitute Unforgivable Harm:**
+1. Severe physical assault
+2. Sexual violence or coercion
+3. Threats with weapons or lethal intent
+4. Stalking or harassment that endangers life or wellbeing
+5. Other acts meeting Node-defined criteria for irreparable harm
+
+**Evidence Types Required (minimum 2 independent types):**
+1. Contemporaneous physical evidence
+2. Authenticated digital records
+3. Independent witness statements
+4. Medical or forensic reports
+
+**OR single incontrovertible evidence:**
+- Verified video/audio
+- Forensic DNA match
+- Authenticated system logs showing prohibited contact
 
 #### Immediate Response (0-72 hours)
 
-**Priority 1: Victim Safety**
-1. Immediate safe space (separate housing within Node or temporary relocation to adjacent Node)
-2. Medical care if needed
-3. Access to Refugium Anima
-4. Peer support (trained trauma-informed supporters)
+**From EVIDENCE_DECISION_MATRIX:**
 
-**Priority 2: Perpetrator Containment**
-1. Temporary separation from victim
-2. If violence risk: 24/7 supervision or relocation
-3. Contact crisis services if needed
-4. Document incident (with victim consent)
+**Tier A Evidence (Direct Corroborated) OR Tier B + imminent risk:**
+→ **Immediate Isolation / Emergency Intervention**
 
-**Critical:**
-> "Victim or Victim and perpetrator stay in same Node. Victim chooses. If victim wants perpetrator gone, perpetrator relocates (with Baseline intact but to different Node)."
+**Decision Authority:** Node Lead or On-site Verifier (must notify LOTUS within 1 hour)
 
-#### Medium-Term (1 week - 3 months)
+**Permitted Immediate Actions:**
+1. Isolate perpetrator from victim environment
+2. Call emergency services if needed
+3. Secure scene and preserve evidence
+4. Temporary suspension of Node privileges for perpetrator
+5. Immediate protective measures for victim
 
-**Restorative Justice (ONLY if victim wants):**
-- Facilitated process
-- External trained facilitator
-- Victim can stop at any time
-- Goal: Harm acknowledgment, accountability, repair
+**Victim Support:**
+- Immediate safe space (victim keeps their housing)
+- Medical care coordinated
+- Access to Refugium Anima
+- Trauma-informed support (trained responders)
+- Documentation only with victim consent
 
-**If victim does NOT want restorative justice:**
-- Permanent separation within Node (different living areas, different work schedules)
-- OR perpetrator permanent relocation to different Node
+**Required Audit Artifacts:**
+- VerificationEvent hash
+- Media hash (if applicable)
+- Chain-of-custody hash
+- Emergency action log
 
-**Baseline for Both:**
-- Perpetrator keeps Baseline even if relocated
-- But: Relocated permanently, cannot return to victim's Node
-- New Node informed (with consent of both parties where possible)
+#### Review Process (Within 14 Days)
 
-#### Long-Term
+**From THE_HARM_BOUNDARY_PROTOCOL:**
+
+**Interim measures must undergo full independent review within 14 days.**
+
+**Panel Selection:**
+- Via verifiable lottery from pre-qualified pool
+- Excluding those in nearest Node to incident
+- Post-selection trauma-informed training (30-60 min, timestamped)
+- Conflict-of-interest screening automatic
+- No member selected >2 times per year
+
+**Evidence Standards:**
+- **Interim safety measures:** Credible and corroborated information
+- **Irreversible measures:** Clear and convincing evidence (higher standard)
+
+**Extensions:**
+- Maximum 7 days per interval
+- Cannot exceed 42 days cumulative without formal panel decision
+- Every extension timestamped and justified in auditable register
+
+#### Victim Veto
+
+**From THE_HARM_BOUNDARY_PROTOCOL:**
+
+**Core principle:** Victim's veto over perpetrator re-entry or contact is decisive.
+
+**Override only possible if:**
+- Newly discovered forensic evidence
+- Authenticated digital records previously inaccessible
+- Credible third-party evidence materially altering factual record
+
+**Requirements for override:**
+- Supermajority (3 of 4 panel members)
+- Full written documentation of rationale
+- Additional appeals step available
+
+**Default: Respect victim's veto.**
+
+#### Long-Term Measures
+
+**Perpetrator Containment:**
+- Removed from proximity to victim
+- Baseline support maintained (food, water, shelter, healthcare)
+- Relocated to different Node (permanent)
+- Restrictions reviewed every 12 months minimum
+- Humane treatment guaranteed
 
 **Pattern Recognition:**
-- If same person involved in multiple assault reports across Nodes → regional network flagged
-- Not automatic exile, but: increased monitoring, therapy requirement, limited access to vulnerable populations
+- If same person involved in multiple Unforgivable Harm reports across Nodes
+- Regional network flagged via LOTUS
+- Not automatic exile, but:
+  - Enhanced monitoring
+  - Therapy/treatment requirement
+  - Limited access to vulnerable populations
+  - Possible permanent containment if pattern continues
 
-**From CHILDREN_HARD_CASES.md:**
+**From YOUTH_HARM_PROTOCOL:**
 > "Victim safety > aggressor autonomy."
 
-**This applies to adults too.**
+**This applies to all Unforgivable Harm cases.**
+
+#### Logging and Transparency
+
+**From THE_HARM_BOUNDARY_PROTOCOL:**
+
+**All actions must be:**
+- Documented with timestamps
+- Logged in auditable register
+- Exportable for independent review
+- Published quarterly as anonymized aggregate metrics
+
+**Decision logs include:**
+- Event type
+- Timestamp
+- Responsible person
+- Brief evidence summary
+- Decision text
+- Next deadline
+
+#### False Allegations
+
+**From THE_HARM_BOUNDARY_PROTOCOL:**
+
+**If allegations proven intentionally false after independent review:**
+- Proportionate accountability may apply
+- High evidentiary standard required
+- Transparent documentation
+- Full appeal rights
+- Sanctions must avoid chilling good-faith reporting
+
+**Critical:** The threshold for "intentionally false" is extremely high. Good-faith reports that cannot be substantiated are NOT penalized.
 
 ---
 
-### 2.4 CHILD ABUSE
+### 2.4 CHILD ABUSE & HARM
 
-**Source:** CHILDREN_HARD_CASES.md, EMERGENCY_SAFEGUARDING.md
+**Source:** YOUTH_HARM_PROTOCOL.md, CHILDREN_HARD_CASES.md, EMERGENCY_SAFEGUARDING.md
 
-**Immediate Actions:**
-1. Call protective services (legal requirement in most jurisdictions)
-2. Immediate separation of child from abuser if danger
-3. Temporary safe housing for child (foster within Node if possible, or Refugium)
-4. Document incident
-5. Professional assessment (social worker, child psychologist)
+**Preamble from YOUTH_HARM_PROTOCOL:**
+> "Minors are inherently vulnerable. Both slow, hidden harm and acute incidents are critical."
 
-**Decision Points:**
+**Harm may manifest as:**
+- Physical abuse
+- Emotional neglect
+- Exploitation
+- Exposure to dangerous resources or environments
 
-**If abuse is substantiated:**
+**Principle:** Youth Baseline is inviolable; early detection saves lives.
 
-**Scenario A: Non-parent household member**
+#### Trigger Conditions
+
+**Protocol activates when:**
+- Reports of harm or neglect from any Node member
+- Sudden or sustained drop in L×S×I among minors
+- Patterns of absenteeism, isolation, or fear
+
+#### Detection & Triage (Human-Verified)
+
+**From YOUTH_HARM_PROTOCOL:**
+
+**All protective interventions are human-verified; AI may assist as advisory only.**
+
+**Risk Levels:**
+- **Minor risk:** AI + 1 trained observer advisory review
+- **Medium risk:** AI + 2-3 trained humans, decisions confirmed by named human verifier
+- **High risk:** Full child protection team + external oversight; AI informs prioritization, but human verification required for all interventions
+
+#### Immediate Safety (Verified)
+
+**Actions (all with named human decision-maker documented):**
+1. Remove minor from harmful environment (only with human verification)
+2. Provide safe housing, food, healthcare under documented human oversight
+3. Notify regional child protection coordination
+4. Professional trauma-informed assessment
+5. All steps logged with named decision-maker assigned
+
+**Time Guidelines:**
+- Expedited human assessment required before activating housing/care/emergency support
+- Advisory targets (e.g., 24 hours) are operational goals, NOT automatic triggers
+- Human verification always required
+
+#### Investigation
+
+**Process:**
+- Determine source, duration, and type of harm
+- Map Node structures, caregivers, and exposure pathways
+- Psychological evaluation under human supervision
+- All findings documented for accountability
+
+#### Intervention Pathways
+
+**From CHILDREN_HARD_CASES.md:**
+
+**Scenario A: Non-parent household member abuser**
 - Abuser immediately relocated to different Node
 - No unsupervised contact with any children
 - Professional treatment required
 - Baseline intact but in different location
 
 **Scenario B: Parent is abuser**
-- Separation of child from parent (temporary)
-- Supervised contact only (if deemed safe)
-- Professional family therapy required
-- Regular assessment (monthly)
-- Reunification only if safe (child's assessment prioritized)
+- Primary rule: Child safety > parental autonomy
+- Immediate protective separation if necessary
+- Therapeutic or sensory support provided
+- Supervised contact only if deemed safe
+- Regular assessment (monthly minimum)
+- Reunification plan defined with clear criteria
+- Maintain dignity and care; do NOT label child as damaged
 
-**Scenario C: Both parents abusive or negligent**
+**Scenario C: Both parents abusive/negligent**
 - Child placed with trusted adult in Node (kinship care)
 - OR relocation to adjacent Node with willing caregivers
 - Parents maintain Baseline but not custody
 - Therapy required, reunification possible but not guaranteed
 
-**Principle:**
+#### Escalation
+
+**If criminal activity:**
+- Coordinate with LEGAL_INTERFACE_PROTOCOL
+- Verified by named human decision-maker
+- External authorities contacted as required by law
+
+**If systemic Node failure:**
+- Consider SLOW_EROSION_PROTOCOL or REGIONAL_DEADLOCK_PROTOCOL
+- Human-approved escalation
+
+**Critical Boundaries:**
+
+**From CHILDREN_HARD_CASES.md:**
+> "Love sometimes looks like limits."
 > "Freedom without capacity is not freedom. Limits without love are not care. Flow holds both."
 
-**Child's Baseline includes:**
-- Safety from harm
-- Stable caregivers
-- Shelter, food, healthcare, education
+**Children deserve:**
+- Protection without humiliation
+- Limits without fear
+- Care without abandonment
 
-**This overrides parental "rights" when necessary.**
+#### Competence Requirements
+
+**All child protection personnel must have:**
+- Child protection certification
+- Trauma-informed care knowledge
+- Ability to coordinate with AI monitoring advisory outputs
+- Access to regional support and escalation pathways
+
+**All interventions executed by competent, human-verified personnel.**
+
+#### Metrics & Learning
+
+**Document and record:**
+- L×S×I improvement for minor
+- Node environment remediation
+- Intervention speed and effectiveness
+- Feed data into regional/global child safety metrics (with human verification)
+
+**From YOUTH_HARM_PROTOCOL:**
+> "Every death carries lessons — but learning serves the living, not institutional efficiency."
+
+**Children are never exploited as data.**
 
 ---
 
 ### 2.5 SUICIDE & SELF-HARM
 
-**From SEVERE_MENTAL_ILLNESS_PROTOCOL.md:**
+**Source:** SEVERE_MENTAL_ILLNESS_PROTOCOL.md, PROTOCOL_CLOSURE.md
 
-**Immediate (0-24 hours):**
+**Flow's difficult truth:**
+> "We fight for life without imprisoning suffering."
+
+**Flow distinguishes between:**
+- Acute crisis (immediate intervention)
+- Long-term, informed, sovereign choice (complex process)
+
+#### Immediate Crisis Response (0-24 hours)
+
+**From SEVERE_MENTAL_ILLNESS_PROTOCOL:**
+
 1. Do not leave person alone
 2. Remove means (medications, weapons, heights, ropes)
 3. Call crisis hotline
 4. Contact emergency services if imminent danger
 5. Activate Ulysses Contract if exists
 
-**Short-term (1-7 days):**
+**Consent-based safety measures:**
+- Immediate presence and care
+- Forced hospitalization only in imminent danger
+- Long-term companionship over control
+
+#### Short-term (1-7 days)
+
 1. Daily check-ins (rotating caregivers to prevent burnout)
 2. Professional psychiatric assessment
 3. Medication review if applicable
 4. Refugium Anima access (quiet, low-stimulation space)
 5. Reduce all responsibilities to zero during acute phase
 
-**Medium-term (weeks-months):**
+**From SEVERE_MENTAL_ILLNESS_PROTOCOL:**
+> "Zero expectations are a temporary protective state, not a permanent identity."
+
+#### Medium-term (weeks-months)
+
 1. Ongoing therapy/psychiatric care
 2. Peer support groups
-3. Gradual reintegration of responsibilities
+3. Gradual reintegration of responsibilities (only when stable)
 4. Monitoring without surveillance
 
-**After Suicide (if it occurs):**
-1. Community grieving ritual
-2. Post-mortem (not blame-assignment, but: "What did we miss? What could we do differently?")
-3. Support for those close to the deceased
-4. Documentation for learning (anonymous case study)
+**Caregiver Protection:**
+- No single person responsible >20 hours/week
+- Refugium access for caregivers
+- Burnout is system failure, not personal failure
 
-**From CONFLICT_ESCALATION_PATHS_PROTOCOL.md:**
+#### Sovereign Choice to End (Long-term Process)
+
+**From PROTOCOL_CLOSURE (§6.2.2):**
+
+**Process for sovereign death:**
+
+1. **Verify capacity**
+   - Choice must be informed, voluntary, stable over time
+   - Not made during acute crisis
+   - Assessed in different emotional states
+
+2. **Offer support**
+   - Emotional, medical, relational, environmental options always offered
+   - Baseline conditions verified (not caused by deprivation)
+   - Refugium Anima access
+   - Treatment options explored
+
+3. **Witness continuity**
+   - Repeated informed choice over time
+   - Full support present
+   - Eventually honored if stable and persistent
+
+4. **Prepare consciously**
+   - Person chooses how, when, who is present
+   - Rituals that matter
+   - Legacy considerations
+
+5. **Witnessing**
+   - No one dies alone unless they choose to
+   - Presence without judgment
+
+**Choice is never rushed — but neither endlessly deferred.**
+
+**From PROTOCOL_CLOSURE:**
+> "Life is defended fiercely. Suffering is not owned by the system."
+
+#### After Suicide (if it occurs)
+
+**From PROTOCOL_CLOSURE (§6.1.2 - Non-Sovereign Death):**
+
+**If death occurred due to systemic failure:**
+
+**Mandatory systemic audit:**
+1. Was Baseline upheld?
+2. Was suffering preventable?
+3. Was choice respected?
+4. What conditions made life unlivable?
+
+**Response:**
+- Root causes identified
+- Safeguards redesigned
+- Responsibility placed on structures, not scapegoated individuals
+
+**Flow does not ask:** "Who failed?"
+**Flow asks:** "What conditions made life unlivable?"
+
+#### Grief Protocol
+
+**From PROTOCOL_CLOSURE (§6.4):**
+
+**Grief is not inefficiency.**
+
+Mammon grants days. Flow grants time.
+
+**Collective Grieving:**
+- Immediate gathering if desired
+- Storytelling, silence, ritual, presence
+- Ongoing check-ins without pressure to "move on"
+- Death ritual created by Circle
+
+**Individual Grief:**
+- Loud, quiet, angry, numb — all valid
+- Boundaries respected
+- No emotional performance required
+
+**Survivors and Guilt:**
+
+**From PROTOCOL_CLOSURE (§6.8.3):**
+
+> "Survivors are not blamed for what they could not control."
+
+Circle helps separate:
+- What was personal
+- What was systemic
+- What was inevitable
+
+**Ritual release of undue guilt offered.**
+
+**If harm occurred, restorative processes apply — after grief is held.**
+
+#### Documentation for Learning
+
+**From PROTOCOL_CLOSURE:**
+
+**Only anonymized, aggregate patterns are used.**
+
+**The dead are never exploited as data.**
+
+Learning serves the living, not institutional efficiency.
+
+#### Final Principle
+
+**From PROTOCOL_CLOSURE:**
+
+> "Death does not nullify life. Value is not measured by accumulation, but by resonance."
+
+**From CONFLICT_ESCALATION_PATHS_PROTOCOL:**
 > "Grief is not failure. Honor it."
 
 ---
@@ -850,30 +1161,100 @@ Rotate caregivers (prevent burnout)
 Review weekly
 ```
 
-### B. Interpersonal Violence
+### B. Unforgivable Harm (Assault, Sexual Violence)
 
 ```
-Violence occurred
+Report received
     ↓
-Is anyone injured?
-    YES → Medical care immediately
+Assess evidence tier (A/B/C)
     
-Separate parties immediately
-Document incident
-Cool-down period (24-72h minimum)
-
-First incident?
-    YES → Restorative circle
-    NO → Pattern recognized ↓
+Tier A or Tier B + imminent risk?
+    YES ↓
     
-Temporary relocation
-Therapy required
-If continues → Permanent relocation
-
-Baseline maintained throughout
+IMMEDIATE ISOLATION (notify LOTUS within 1 hour)
+    - Isolate perpetrator from victim
+    - Victim remains in place
+    - Secure evidence
+    - Document in auditable register
+    
+Within 14 days ↓
+    
+LOTTERY PANEL REVIEW
+    - Trauma-informed training
+    - Evidence assessment
+    - Victim veto honored
+    
+Clear and convincing evidence?
+    YES → Permanent relocation of perpetrator
+    NO → Release or continued monitoring
+    
+All decisions logged, timestamped, auditable
+Quarterly anonymized metrics published
 ```
 
-### C. Commons Depletion
+### C. Child Harm
+
+```
+Trigger detected (report, L×S×I drop, pattern)
+    ↓
+HUMAN-VERIFIED TRIAGE (AI advisory only)
+    
+High risk?
+    YES ↓
+    
+IMMEDIATE SAFETY (named decision-maker documented)
+    - Remove from harm if needed
+    - Safe housing
+    - Medical assessment
+    - Child protection team activated
+    
+Investigation (human-supervised)
+    - Source/duration of harm
+    - Professional assessment
+    
+Intervention based on situation:
+    - Non-parent abuser → Relocate permanently
+    - Parent abuser → Separation, supervised contact, therapy
+    - Both parents → Kinship care or relocation
+    
+Child safety > parental autonomy
+All decisions documented
+Regional coordination notified
+```
+
+### D. Suicide Crisis vs Sovereign Choice
+
+```
+Suicidal ideation reported
+    ↓
+Acute crisis or long-term informed choice?
+    
+ACUTE CRISIS ↓
+    - Never leave alone
+    - Remove means
+    - Call crisis services
+    - Ulysses Contract if exists
+    - Refugium access
+    - Daily rotating check-ins
+    - Professional assessment within 24h
+    
+LONG-TERM SOVEREIGN CHOICE ↓
+    (only if stable, informed, repeated over time)
+    
+    1. Verify capacity (not during crisis)
+    2. Offer all support options
+    3. Witness continuity (repeated choice)
+    4. Conscious preparation
+    5. Honored witnessing if persistent
+    
+If death occurs ↓
+    - Systemic audit (conditions, not blame)
+    - Grief protocol activated
+    - Community ritual
+    - Learning documented (anonymized)
+```
+
+### E. Commons Depletion
 
 ```
 Resource being depleted rapidly
@@ -895,6 +1276,167 @@ If continues despite support:
 
 Document learnings
 ```
+
+---
+
+## APPENDIX: COMPLETE PROTOCOL REFERENCE GUIDE
+
+**This document integrates and references the following M-OS-R protocols:**
+
+### Core Harm Response Protocols
+
+**THE_HARM_BOUNDARY_PROTOCOL.md** (`/ethos/`)
+- Operational rules for Unforgivable Harm
+- Guiding principle: "The victim never moves; the perpetrator always does"
+- Evidence standards, panel selection, victim veto
+- Logging, transparency, metrics
+- **Key sections referenced:** §1-12
+
+**UNFORGIVABLE_HARM_PROTOCOL.md** (`/structure_in_flow/`)
+- Single auditable protocol for harm incidents
+- Submission channels, verification workflow
+- SLA and escalation procedures
+- Anti-abuse safeguards
+- **Key sections referenced:** §1-10
+
+**EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM.md** (`/structure_in_flow/`)
+- Maps evidence types to decision thresholds
+- Three evidence tiers (A/B/C)
+- Decision authority and permitted actions
+- Audit artifacts required
+- **Key sections referenced:** §1-11, JSON schemas
+
+**YOUTH_HARM_PROTOCOL.md** (`/ethos/`)
+- Child protection framework
+- Detection, triage, intervention pathways
+- Human verification requirements
+- Competence standards
+- **Key sections referenced:** Preamble, §1-6
+
+### Mental Health & Crisis Protocols
+
+**SEVERE_MENTAL_ILLNESS_PROTOCOL.md** (`/guides/ethics_care/`)
+- Support for psychosis, mania, severe depression, BPD
+- Ulysses Contract mechanism
+- Circle role limits (containment and care-routing only)
+- Caregiver burnout prevention
+- **Key sections referenced:** §1-10
+
+**SUBSTANCE_USE_PROTOCOL.md** (`/guides/ethics_care/`)
+- Harm reduction approach (not abstinence)
+- Four usage categories with checklists
+- Community protections
+- Ethical vs punitive consequences
+- **Key sections referenced:** §0-6
+
+**PROTOCOL_CLOSURE.md** (`/guides/ethics_care/`)
+- End-of-life care, death, dying, grief
+- Distinction: sovereign vs non-sovereign death
+- Suicide & crisis response
+- Grief protocol (time, not efficiency)
+- Systemic learning from death
+- **Key sections referenced:** §6.1-6.11
+
+### Child Protection & Care
+
+**CHILDREN_HARD_CASES.md** (`/guides/ethics_care/`)
+- Child sovereignty vs protection tension
+- Digital addiction, aggression, educational refusal
+- "Love sometimes looks like limits"
+- Power acknowledgment, child voice
+- **Key sections referenced:** §1-7
+
+**EMERGENCY_SAFEGUARDING.md** (`/guides/ethics_care/`)
+- Physical safety, Baseline threats, Circle collapse
+- Immediate action checklists
+- 24-72 hour response protocols
+- **Key sections referenced:** §1-4
+
+### Conflict & Life Cycle Protocols
+
+**CONFLICT_ESCALATION_PATHS_PROTOCOL.md (CEPP)** (`/guides/life_cycle/`)
+- Last resort when all conflict resolution exhausted
+- Three levels: Structured Pause, Restructure, Dissolution
+- Graceful dissolution procedures
+- Prevention through early detection
+- **Key sections referenced:** Preamble, Parts I-IX
+
+**EXIT_AND_COMPOST.md** (`/guides/life_cycle/`)
+- Individual honorable exit (Bridge Baseline)
+- Circle dissolution (Compost Protocol)
+- "Exit is sovereignty; Failure is nutrient"
+- **Key sections referenced:** §1-4
+
+**SHARED_RESOURCE_CONFLICT.md** (`/guides/life_cycle/`)
+- Mediation for non-divisible resources
+- Resolution levels (exploration → simulation → mediation → coexistence)
+- Water Axiom (Baseline access non-negotiable)
+- **Key sections referenced:** §0-5
+
+### Neurodivergence & Care
+
+**NEURODIVERGENT_PROTOCOL.md** (`/guides/ethics_care/`)
+- 106-page comprehensive global guide
+- ADHD, autism, C-PTSD, chronic illness, OCD, Tourette's, bipolar, SPD
+- Regional implementation (8+ regions)
+- Intersectionality analysis
+- **Key quote:** "We are not broken sensors. We are highly calibrated instruments detecting that the world itself is broken."
+
+**NEURODIVERGENCE_EMERGENCY_GUIDE.md** (`/guides/ethics_care/`)
+- Crisis response for neurodivergent individuals
+- Sensory overload, meltdown, shutdown protocols
+
+**DISABILITY_AND_CHRONIC_ILLNESS_FLOW.md** (`/guides/ethics_care/`)
+- Spoon Theory integration
+- Accessibility as default design
+- Medical trauma-informed approach
+
+### Additional Referenced Protocols
+
+**FLOW_PEDAGOGY.md** (`/guides/ethics_care/`)
+- Education without coercion
+- Baseline includes learning
+
+**ECOLOGICAL_AXIOM_GUIDE.md** (`/guides/ethics_care/`)
+- 30% Wild mandate
+- Resource stewardship principles
+
+**CIRCLE_EVALUATION.md** (`/guides/ethics_care/`)
+- Health metrics for Circles
+
+**FALLBACK_PLAN_LOW_RESOURCE.md** (`/guides/ethics_care/`)
+- Operating in constrained environments
+
+---
+
+## HOW TO USE THIS REFERENCE GUIDE
+
+**When facing a crisis situation:**
+
+1. **Identify the type:** Mental health? Violence? Child harm? Conflict?
+2. **Consult the decision tree** (Appendix above)
+3. **Reference the specific protocol** for detailed procedures
+4. **Follow evidence standards** (especially for Unforgivable Harm)
+5. **Document everything** (timestamps, decision-maker, rationale)
+6. **Escalate as needed** (LOTUS, external services, regional network)
+
+**All protocols prioritize:**
+✓ Victim/vulnerable party safety
+✓ Baseline integrity
+✓ Human verification (AI advisory only)
+✓ Transparent documentation
+✓ Learning without exploitation
+
+**Critical principle across all protocols:**
+> "Baseline is unconditional. Even perpetrators, even those relocated, even those in crisis — food, water, shelter, healthcare remain guaranteed."
+
+---
+
+**For full protocol texts, see M-OS-R repository:**
+- `/ethos/` - Foundational harm and child protection
+- `/structure_in_flow/` - Operational frameworks
+- `/guides/ethics_care/` - Mental health, disability, substance use
+- `/guides/life_cycle/` - Conflict, exit, resource management
 
 ---
 
