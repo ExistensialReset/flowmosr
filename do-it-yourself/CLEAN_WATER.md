@@ -166,3 +166,58 @@ Explanation of Layers:
 
 > This diagram visualizes a simple, locally replicable water filtration system for Flow Node Circles. 
 > Combine with boiling or solar disinfection for microbial safety. 
+
+## 🌊 Flow Node Water Filter Guide (Expanded)
+
+```text
+Water Flow Through a Simple Filter (Top → Bottom):
+
+        ┌───────────────┐
+        │ Funnel / Neck │  ← guides water into filter
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ Cloth / Cotton│  ← traps fine debris, keeps sand in place
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  Fine Sand    │  ← captures smaller particles
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ Coarse Sand   │  ← supports fine sand, slows flow
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ Gravel / Stones│ ← prevents clogging, distributes water evenly
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  Collection   │  ← clean water collects here
+        └───────┬───────┘
+                │
+   ┌────────────┴────────────┐
+   │ Optional: Disinfect      │
+   │ 1. Boiling (≥1 min)     │
+   │ 2. SODIS (6h+ sunlight) │
+   └─────────────────────────┘
+```
+Explanation of Layers:
+
+1. Funnel / Bottle Neck – directs water into filter efficiently.
+2. Cloth / Cotton Layer – stops fine debris and prevents sand from escaping.
+3. Fine Sand Layer – removes smaller particles.
+4. Coarse Sand Layer – supports fine sand and slows water flow for better filtration.
+5. Gravel / Small Stones – prevents clogging and distributes water evenly across layers.
+6. Collection – water gathers here, ready for further microbial disinfection.
+7. Optional Disinfection – boiling or SODIS ensures water is safe to drink.
+
+💡 Notes:
+- Combine with **boiling or SODIS** for microbial safety.
+- Materials are locally available and replicable in Flow Node Circles.
+- System emphasizes **local capacity sufficiency**: anyone with energy, knowledge, and basic tools can implement it.
