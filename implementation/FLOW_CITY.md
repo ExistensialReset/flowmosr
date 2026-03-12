@@ -1,15 +1,15 @@
-🌆 FLOW CITY: A VISION OF URBAN SELF-SUFFICIENCY
+# 🌆 FLOW CITY: A VISION OF URBAN SELF-SUFFICIENCY
 
 Version: 1.0
 Status: VISION / EXPLORATORY
 Author: DeepSeek & Elinor Frejd 
 Date: March 11, 2026
 License: CC BY-NC-SA 4.0
-Repository: /visions/FLOW_CITY.md
+Repository: /implementation/FLOW_CITY.md
 
 ---
 
-1. PURPOSE
+## 1. PURPOSE
 
 This document explores how the principles of Flow – self‑sufficiency, voluntary contribution, lottery‑based governance, and the unconditional Baseline – can scale beyond a single Node of 500 people to form a coherent, resilient, and human‑scale city.
 
@@ -29,7 +29,7 @@ The vision is grounded in the quantitative work of the Flow Node specifications 
 
 ---
 
-2. FOUNDATIONS: WHAT FLOW ALREADY GUARANTEES
+## 2. FOUNDATIONS: WHAT FLOW ALREADY GUARANTEES
 
 Before we imagine a city, we must recall the guarantees that every Flow participant enjoys:
 
@@ -42,11 +42,11 @@ These are the non‑negotiable foundations on which a Flow City can be built.
 
 ---
 
-3. URBAN STRUCTURE: FROM NODES TO NEIGHBORHOODS
+## 3. URBAN STRUCTURE: FROM NODES TO NEIGHBORHOODS
 
 A Flow City is not a single monolithic block. It is a federation of Nodes (each ~500 people) interwoven with shared spaces and city‑scale infrastructure.
 
-3.1 Nodes as the Basic Social Unit
+### 3.1 Nodes as the Basic Social Unit
 
 Each Node is a self‑sufficient cluster in terms of food, water, and energy – as detailed in the technical specifications. But in the city, Nodes are not isolated compounds; they are neighborhoods. Their residents know each other, share meals, maintain common gardens, and manage their own internal affairs through Circles and LOTUS.
 
@@ -54,7 +54,7 @@ Each Node is a self‑sufficient cluster in terms of food, water, and energy –
 · Location: Nodes are distributed throughout the city, separated by parks, green corridors, and pedestrian streets.
 · Identity: Each Node may develop its own character – some more artistic, some more technical – but all adhere to the core Flow principles.
 
-3.2 City‑Scale Infrastructure
+### 3.2 City‑Scale Infrastructure
 
 Some functions are too specialized or large for a single Node. These are shared:
 
@@ -65,17 +65,17 @@ Some functions are too specialized or large for a single Node. These are shared:
 · Markets (optional): Not for monetary trade, but for exchanging surplus goods, sharing knowledge, or simply gathering.
 · Transport: A grid of pedestrian paths, cycle lanes, and clean public transit (electric trams, buses, or personal transit pods) connecting all Nodes.
 
-3.3 Mixed‑Use Fabric
+### 3.3 Mixed‑Use Fabric
 
 In a Flow City, workplaces are woven into the residential fabric. A baker works in a bakery on the ground floor of a residential building; a bicycle repairer has a small workshop next to the bike path; a musician performs in a local café or the city concert hall. People walk or cycle to their activities, rarely spending more than 15–20 minutes in transit.
 
 ---
 
-4. HOUSING: YOUR OWN SPACE, YOUR OWN CHOICE
+## 4. HOUSING: YOUR OWN SPACE, YOUR OWN CHOICE
 
 The Baseline guarantees 15 m² per person – a modest but dignified room. But Flow City does not limit anyone to that minimum. As Elinor said: “My apartment is 66 m². I don’t want to move or share.” And she doesn’t have to.
 
-4.1 How Space Is Allocated
+### 4.1 How Space Is Allocated
 
 Without money, how can someone live in a larger home? Several principles can work in combination:
 
@@ -86,7 +86,7 @@ Without money, how can someone live in a larger home? Several principles can wor
 
 Crucially, these decisions are made locally, by the Node or a neighborhood council, with full transparency. No distant bureaucracy; just face‑to‑face conversation among people who know each other.
 
-4.2 Diversity of Housing
+### 4.2 Diversity of Housing
 
 A Flow City should offer variety:
 
@@ -100,11 +100,11 @@ All built with sustainable materials, high energy efficiency, and access to gree
 
 ---
 
-5. WORK AND ROLES: THE MANY FACES OF A PERSON
+## 5. WORK AND ROLES: THE MANY FACES OF A PERSON
 
 One of the most liberating aspects of Flow is that a person is not reduced to a single job title. With Baseline secure, people can explore multiple vocations simultaneously or over a lifetime.
 
-5.1 Multiple Roles, One Person
+### 5.1 Multiple Roles, One Person
 
 Take Anna, a fictional resident:
 
@@ -116,7 +116,7 @@ Take Anna, a fictional resident:
 
 None of these roles is “higher” or “lower” than the others. All are valued. Anna receives appreciation – a smile, a thank‑you, a round of applause – from different parts of the community for each contribution. Status is plural and contextual, not a single ladder.
 
-5.2 Why Would People Work?
+### 5.2 Why Would People Work?
 
 In a society without wages, intrinsic motivations take the lead:
 
@@ -126,9 +126,9 @@ In a society without wages, intrinsic motivations take the lead:
 · Curiosity: You can learn new things without risking your livelihood.
 · Recognition: Even in a non‑monetary system, people care about being seen and appreciated.
 
-Free riders? Yes, some will contribute very little. With the total work needed per Node at about 8.4 hours per person per year (averaged), even a small fraction of active participants can carry the load. The rest are welcome to enjoy life – and may later find their own motivation to join in.
+**Free riders?** Yes, some will contribute very little. With the total work needed per Node at about 8.4 hours per person per year (averaged), even a small fraction of active participants can carry the load. The rest are welcome to enjoy life – and may later find their own motivation to join in.
 
-5.3 Rotation and Avoiding Burnout
+### 5.3 Rotation and Avoiding Burnout
 
 No one is forced to do a task they hate. Unpopular chores (cleaning, maintenance) are:
 
@@ -138,15 +138,15 @@ No one is forced to do a task they hate. Unpopular chores (cleaning, maintenance
 
 ---
 
-6. EDUCATION: LEARNING FOR ITS OWN SAKE
+## 6. EDUCATION: LEARNING FOR ITS OWN SAKE
 
 Why would anyone spend years training to be a doctor, engineer, or architect without the promise of a high salary? The same intrinsic drivers apply, amplified by the structures of Flow.
 
-6.1 Education as a Gift, Not a Debt
+### 6.1 Education as a Gift, Not a Debt
 
 In Flow, education is free and accessible to all through the Lyceum network. There are no tuition fees, no student loans. Anyone who wishes to learn can find resources, mentors, and peer groups.
 
-6.2 Motivations to Train
+### 6.2 Motivations to Train
 
 · Curiosity: Many people simply want to understand how things work – the human body, bridges, code, music.
 · Service: Becoming a doctor means you can heal your friends and neighbors. That is a powerful draw.
@@ -154,17 +154,17 @@ In Flow, education is free and accessible to all through the Lyceum network. The
 · Autonomy: With deep knowledge comes the freedom to work independently, to innovate, to teach.
 · Security for oneself and loved ones: Even with Baseline guaranteed, having medical or engineering skills means you can help when something goes wrong.
 
-6.3 The Scale Is Achievable
+### 6.3 The Scale Is Achievable
 
 As calculated in earlier documents, the global need for doctors, nurses, and specialists for a Flow population of 3 billion is around 7–8 million – a number well within current global training capacity, especially once education is freed from market constraints.
 
 ---
 
-7. HEALTHCARE: PROFESSIONALS AND ETHICAL TENSIONS
+## 7. HEALTHCARE: PROFESSIONALS AND ETHICAL TENSIONS
 
 Healthcare in Flow City relies on legitimated, trained professionals – not volunteers. Doctors, nurses, midwives, and specialists are essential.
 
-7.1 How Many Are Needed?
+### 7.1 How Many Are Needed?
 
 For a city of 50 000 people (100 Nodes), we might need:
 
@@ -175,7 +175,7 @@ For a city of 50 000 people (100 Nodes), we might need:
 
 All receive Baseline plus the same non‑monetary rewards as anyone else: respect, time autonomy, meaningful work.
 
-7.2 Inevitable Role Conflicts
+### 7.2 Inevitable Role Conflicts
 
 In a community of 500 people, everyone knows everyone. This creates role tensions:
 
@@ -190,17 +190,17 @@ Flow handles these with:
 · Support structures: If a conflict becomes serious, a third party (another health professional, a community elder) can mediate.
 · LOTUS in governance: Decision‑makers rotate, so no one accumulates power that could exploit these dual relationships.
 
-7.3 Ethical Guidelines
+### 7.3 Ethical Guidelines
 
 Each profession develops its own code of ethics, adapted to the Flow context. Confidentiality, informed consent, and professional boundaries are maintained – but without the bureaucratic overload of insurance paperwork.
 
 ---
 
-8. SOCIAL DYNAMICS AND CONFLICT
+## 8. SOCIAL DYNAMICS AND CONFLICT
 
 As Elinor noted: “Role conflicts are GUARANTEED in 500 people. You easily know 500 people. No problem.” Indeed, in a small community, friction is inevitable. Flow does not pretend to eliminate it; it provides tools to navigate it.
 
-8.1 Common Sources of Conflict
+### 8.1 Common Sources of Conflict
 
 · Different roles pulling in opposite directions (e.g., the doctor who must decide how to allocate limited medical resources among neighbors).
 · Personality clashes between people who must cooperate.
@@ -208,7 +208,7 @@ As Elinor noted: “Role conflicts are GUARANTEED in 500 people. You easily know
 · Romantic entanglements and their aftermath.
 · Free‑riding resentment (some feel others don’t pull their weight).
 
-8.2 Conflict Resolution Mechanisms
+### 8.2 Conflict Resolution Mechanisms
 
 · Informal conversation: Most issues are resolved by a quiet word over tea.
 · Circle process: If needed, a facilitated circle where everyone speaks and listens.
@@ -220,33 +220,33 @@ The culture encourages apology, forgiveness, and learning, not punishment.
 
 ---
 
-9. CULTURE, LEISURE, AND THE SMALL THINGS
+## 9. CULTURE, LEISURE, AND THE SMALL THINGS
 
 A city is not just infrastructure and work. It is also bars, bakeries, music, stories, and quiet corners.
 
-9.1 Bars and Cafés
+### 9.1 Bars and Cafés
 
 In a Flow City, a bar is not a business. It is a place where someone who enjoys brewing shares their beer, where a musician plays, where people gather to talk. The brewer might spend a few hours a week on it, and is thanked with appreciation – and perhaps a turn behind the bar by someone else next week.
 
-9.2 Bakeries
+### 9.2 Bakeries
 
 A bakery might be run by several people who love baking. They take turns, experiment with recipes, and leave fresh bread in a basket for anyone to take. The reward is the smell of bread, the smiles of neighbors, and the joy of mastery.
 
-9.3 Repair Shops
+### 9.3 Repair Shops
 
 A bicycle repairer has a small workshop near the bike path. People bring their bikes, maybe help with the repair, learn a bit. The repairer gains status as the person who keeps the city rolling.
 
-9.4 Music and Arts
+### 9.4 Music and Arts
 
 Musicians form ensembles, give concerts in the park or the cultural hall. Painters decorate walls. Poets read at the bar. All of this happens because people want to create and share – not because they are paid.
 
-9.5 Quiet Places
+### 9.5 Quiet Places
 
 The Refugium Anima offers silence, a place to rest, to meditate, to talk with a listener. It is as important as any production facility.
 
 ---
 
-10. RESOURCE FLOWS: CONNECTING THE DOTS
+## 10. RESOURCE FLOWS: CONNECTING THE DOTS
 
 The city’s physical survival depends on the technical infrastructure described in the Node specifications:
 
@@ -259,11 +259,11 @@ City‑scale coordination ensures that no Node starves or freezes. A simple digi
 
 ---
 
-11. GOVERNANCE: FROM NODE TO CITY
+## 11. GOVERNANCE: FROM NODE TO CITY
 
 Each Node governs itself through Circles and LOTUS. But a city of thousands needs some city‑level coordination.
 
-11.1 City Council by Lottery
+### 11.1 City Council by Lottery
 
 A city council could be formed by lottery from all residents, with members serving a limited term (e.g., 6 months). Their role is not to rule, but to:
 
@@ -272,17 +272,17 @@ A city council could be formed by lottery from all residents, with members servi
 · Facilitate communication between Nodes.
 · Resolve disputes that cross Node boundaries.
 
-11.2 No Permanent Power
+### 11.2 No Permanent Power
 
 Like all Flow roles, these positions rotate. No one builds a career as a politician. Decisions are transparent, documented, and revisable.
 
-11.3 Child Veto
+### 11.3 Child Veto
 
 For decisions affecting children, children have a voice. In extreme cases (e.g., the Mandate of Nine Moons), a child can veto a process – a safeguard against adult overreach.
 
 ---
 
-12. CHALLENGES AND RISKS
+## 12. CHALLENGES AND RISKS
 
 Flow City is not utopia. It faces real challenges:
 
@@ -296,7 +296,7 @@ Acknowledging these risks is part of Flow’s honesty. The goal is not a perfect
 
 ---
 
-13. CONCLUSION: A CITY WORTH BUILDING
+## 13. CONCLUSION: A CITY WORTH BUILDING
 
 Flow City is not a blueprint handed down from above. It is a vision to be tested, adapted, and built collectively – one Node, one neighborhood, one bar at a time.
 
@@ -308,7 +308,7 @@ Flow City invites you to imagine, to discuss, and eventually – if you wish –
 
 ---
 
-FURTHER READING
+### FURTHER READING
 
 · FLOW_NODE_MASTER_SPECIFICATION_v3.1.md – the technical backbone
 · MASTER_RESOURCE_AND_ENERGY_PLAN.md – detailed production figures
