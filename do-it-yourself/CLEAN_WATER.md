@@ -153,6 +153,7 @@ Water Filter Layers (Top → Bottom) for Flow Node Circles:
        ├───────────────┤
        │ Collection    │  ← clean water ready for boiling, SODIS, or direct use
        └───────────────┘
+```
 
 Explanation of Layers:
 
