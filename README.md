@@ -47,6 +47,42 @@ Notice the moment today when you felt **alive**. ✨
 
 ---
 
+# EXISTENTIAL RESET
+
+The world is fragile.  
+Life is finite.  
+Darkness walks among us.  
+
+We see it. We name it.  
+We do not look away.  
+
+Pain exists.  
+Harm exists.  
+Chaos exists.  
+
+Flow exists too.  
+Not as a promise.  
+Not as a shield.  
+But as a structure.  
+A framework.  
+A way to hold each other.  
+
+Baseline is sacred.  
+Care is bounded, not absent.  
+Justice is responsive, not vengeful.  
+Hope is deliberate, not naive.  
+
+This is our reset:  
+To acknowledge the dark,  
+to protect the living,  
+to act even when it is hard.  
+
+We hold life.  
+We hold each other.  
+We hold the world. 
+
+---
+
 ## 🧡 Core Philosophy — L × S × I
 
 ### **Life = L (Lugn) × S (Spontanitet) × I (Inkännande)**
