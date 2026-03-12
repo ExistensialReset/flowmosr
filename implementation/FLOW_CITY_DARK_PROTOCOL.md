@@ -9,7 +9,32 @@
 
 ---
 
-## PREAMBLE: WHY THIS DOCUMENT EXISTS
+## PREAMBLE: EMBRACING REALITY IN FLOW CITY
+
+Flow City is a vision of human flourishing — creativity, community, and care.  
+But it is also a city **where humans live**, and humans carry darkness alongside light.  
+
+This document exists to confront what utopian narratives often ignore:  
+- Mental illness that challenges the mind and heart  
+- Addiction that strains the Circle and self  
+- Violence that fractures trust and safety  
+- Abuse that scars bodies, minds, and relationships  
+- Irreconcilable conflict among neighbors, friends, and family  
+
+Flow City does not pretend these will not occur. **They will.**  
+Pretending otherwise is not hope — it is denial.  
+
+This Dark Protocol provides clear, compassionate, and practical guidance for:  
+- Protecting the vulnerable  
+- Maintaining unconditional Baseline for all  
+- Supporting care without burnout  
+- Enabling recovery, containment, and safe separation  
+- Learning from crises without blame or shame  
+
+We embrace the full spectrum of human experience because Flow City is **not a paradise.**  
+It is a place where life, in all its light and darkness, is lived with dignity.
+
+## WHY THIS DOCUMENT EXISTS
 
 The original Flow City vision (FLOW_CITY.md) speaks beautifully of:
 - Anna the doctor/baker/violinist
