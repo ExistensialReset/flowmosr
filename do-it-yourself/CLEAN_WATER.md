@@ -132,5 +132,36 @@ Explanation of Layers (Top → Bottom):
 5. Gravel / Small Stones – prevents clogging, distributes water evenly.
 6. Collection – clean water collects here, ready for boiling, SODIS, or direct use.
 
-This diagram visualizes a simple, locally replicable water filtration system for Flow Node Circles. 
-Combine with boiling or solar disinfection for microbial safety.
+> This diagram visualizes a simple, locally replicable water filtration system for Flow Node Circles. 
+> Combine with boiling or solar disinfection for microbial safety.
+
+## 🌊 Flow Node Water Filter Guide
+
+```text
+Water Filter Layers (Top → Bottom) for Flow Node Circles:
+
+       ┌───────────────┐
+       │ Funnel / Neck │  ← guides water into filter
+       ├───────────────┤
+       │ Cloth / Cotton│  ← traps fine debris, keeps sand in place
+       ├───────────────┤
+       │  Fine Sand    │  ← captures smaller particles
+       ├───────────────┤
+       │ Coarse Sand   │  ← supports fine sand, slows flow
+       ├───────────────┤
+       │ Gravel / Stones│ ← prevents clogging, distributes water evenly
+       ├───────────────┤
+       │ Collection    │  ← clean water ready for boiling, SODIS, or direct use
+       └───────────────┘
+
+Explanation of Layers:
+
+1. Funnel / Bottle Neck – guides water into the filter.
+2. Cloth / Cotton Layer – traps fine debris and prevents sand from escaping.
+3. Fine Sand Layer – captures smaller particles.
+4. Coarse Sand Layer – supports fine sand, slows flow.
+5. Gravel / Small Stones – prevents clogging, distributes water evenly.
+6. Collection – clean water collects here, ready for boiling, SODIS, or direct use.
+
+> This diagram visualizes a simple, locally replicable water filtration system for Flow Node Circles. 
+> Combine with boiling or solar disinfection for microbial safety. 
