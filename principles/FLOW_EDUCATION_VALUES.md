@@ -1,6 +1,6 @@
 # FLOW_EDUCATION_VALUES.md
 
-**Version:** 1.1  
+**Version:** 1.2  
 **Status:** ACTIVE / CANONICAL  
 **Repository Location:** `/principles/FLOW_EDUCATION_VALUES.md`  
 **Authors:** Elinor Frejd and ChatGPT  
@@ -101,41 +101,41 @@ Foundational skills like literacy and numeracy are treated as **gateways to furt
 
 ---
 
-## Lyceum Musaeum Knowledge Flow Diagram
+## Lyceum Musaeum Knowledge Flow Diagram (Visual)
 
 ```text
 ┌────────────────────┐
-│   Curiosity Spark  │
+│   🌟 Curiosity Spark  │
 └─────────┬──────────┘
           │
           ▼
 ┌────────────────────┐
-│ Self-Directed      │
-│ Exploration        │
+│ 🌟 Self-Directed      │
+│ 🌟 Exploration        │
 └─────────┬──────────┘
           │
           ▼
 ┌────────────────────┐
-│ Mentorship &       │
-│ Guidance           │
+│ 👩‍🏫 Mentorship &     │
+│ 👩‍🏫 Guidance        │
 └─────────┬──────────┘
           │
           ▼
 ┌────────────────────┐
-│ Practice &         │
-│ Application        │
+│ 🛠️ Practice &         │
+│ 🛠️ Application        │
 └─────────┬──────────┘
           │
           ▼
 ┌────────────────────┐
-│ Reflection &       │
-│ Sharing            │
+│ 🛠️ Reflection &      │
+│ 🛠️ Sharing            │
 └─────────┬──────────┘
           │
           ▼
 ┌────────────────────┐
-│ New Curiosity      │
-│ & Expanded         │
-│ Knowledge          │
+│ 🌟 New Curiosity      │
+│ & Expanded Knowledge │
 └────────────────────┘
 ```
+---
