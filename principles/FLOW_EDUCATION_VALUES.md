@@ -1,9 +1,17 @@
 # FLOW_EDUCATION_VALUES.md
 
-**Version:** 1.2  
+**Version:** 1.3  
 **Status:** ACTIVE / CANONICAL  
 **Repository Location:** `/principles/FLOW_EDUCATION_VALUES.md`  
 **Authors:** Elinor Frejd and ChatGPT  
+
+---
+
+## ICON LEGEND
+
+- 🌟 **Curiosity** – The driving force behind exploration and learning  
+- 🛠️ **Foundational Skills** – Skills that unlock new domains of knowledge  
+- 👩‍🏫 **Mentorship** – Guidance, feedback, and support to help learning flow
 
 ---
 
@@ -138,4 +146,3 @@ Foundational skills like literacy and numeracy are treated as **gateways to furt
 │ & Expanded Knowledge │
 └────────────────────┘
 ```
----
