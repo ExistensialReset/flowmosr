@@ -307,6 +307,12 @@ To publicly use the names **M-OS-R, Flow, or Existential Reset**, nodes must be 
 - I respond when I can (please be patient)  
 - I appreciate your thoughts, questions, and experiences  
 
+**Starting a Circle?** 
+flowmosr@proton.me 
+
+Please tell, and let's build a community worldwide 😃
+
+
 ### How to Contribute
 
 - **Share your experience** — If you've tried living Flow, document and share
