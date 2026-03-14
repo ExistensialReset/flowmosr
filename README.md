@@ -62,7 +62,7 @@ Current system forces you to:
 - 24 hours/person/year for complete Baseline
 - That's 28 minutes per week
 
-[Full calculations & sources: /data_validation/](/data_validation/) [And /implempentation](/implemmentation)
+[Full calculations & sources: /data_validation/](/data_validation/) [and /implempentation](/implemmentation)
 
 ---
 
