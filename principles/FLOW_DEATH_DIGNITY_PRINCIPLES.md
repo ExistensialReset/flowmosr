@@ -251,6 +251,131 @@ Our duty to the dead is:
 
 ---
 
+## SPECIAL CASE: CHILD DEATH
+
+**The death of a child is not the same as other deaths.**
+
+It violates the expected order of life. It shatters the world.
+
+Flow cannot fix this. Flow can only **hold** this.
+
+### 11.1 Parents' Baseline Is Over-Protected
+
+Not just "protected" — **over-protected**.
+
+- Parents are not expected to function
+- No timeline for "recovery" (there may never be one)
+- Baseline continues indefinitely, regardless of participation
+- Work contributions are suspended without question
+- Community presence is immediate and sustained
+
+**Parents may never be "the same" again. That is not failure.**
+
+### 11.2 Guilt Is Almost Universal
+
+Parents will almost always feel:
+> "I should have saved them. I failed."
+
+This guilt is **not logical, but it is real**.
+
+**Flow's response:**
+- Never tell parents "it's not your fault" (they cannot hear it yet)
+- Never rush them toward "acceptance"
+- Hold space for the unbearable without trying to fix it
+- Ritual release of guilt is offered, but never required
+- Therapeutic support available, never imposed
+
+**Some guilt will remain forever. We do not demand its removal.**
+
+### 11.3 Relationships May Fracture
+
+Partners often grieve in **incompatible ways**.
+
+- One needs silence; one needs to talk
+- One blames themselves; one blames systems
+- One seeks ritual; one cannot bear it
+
+**Flow's response:**
+- Both parents are held, even if they cannot hold each other
+- Separation is not abandonment
+- If the relationship ends, Baseline protects both
+- No judgment about how grief "should" look
+
+**Not all relationships survive this. Both people are still worthy of care.**
+
+### 11.4 Siblings Need Protection AND Space
+
+**Surviving children carry multiple burdens:**
+- Grief for their sibling
+- Witness to parents' collapse
+- Fear of being forgotten
+- Guilt for still being alive
+
+**What siblings need:**
+- Their own Baseline over-protected
+- Adults who can be present with THEM (not just grieving parents)
+- Permission to laugh, play, be "normal"
+- Not being defined only as "the one whose sibling died"
+
+**Normalcy is not betrayal. Life is allowed to continue.**
+
+### 11.5 Community Holds What Family Cannot
+
+When parents collapse (and they will), the Circle becomes:
+- Witness to siblings
+- Practical support (food, care, presence)
+- Memory-keeper when parents cannot speak
+- Buffer against isolation
+
+**The Circle does not replace the family. The Circle holds the family while they cannot hold themselves.**
+
+### 11.6 No Pressure to "Move Forward"
+
+**There is no timeline.**
+
+Some parents will:
+- Speak the child's name daily for decades
+- Keep the room unchanged
+- Mark every birthday and milestone that would have been
+
+**This is not pathological. This is love that has nowhere to go.**
+
+Others will:
+- Need to change everything
+- Rarely speak of it
+- Find new patterns
+
+**Both are valid. Neither is required.**
+
+### 11.7 Systemic Analysis Only After Care
+
+If the death was preventable, **rage will come**.
+
+Flow's response:
+1. **First: Hold the grief** (weeks, months, as long as needed)
+2. **Then: Listen to the rage**
+3. **Finally: Systemic analysis** (if and when parents are ready)
+
+**Justice matters. But care comes first.**
+
+Where prevention was impossible:
+- No analysis is forced
+- "Why" may never have an answer
+- Infinite compassion, no explanations
+
+### 11.8 Ritual Is Chosen, Never Imposed
+
+**Every family grieves differently.**
+
+- Some want burial; some want cremation
+- Some want ashes kept; some want them scattered
+- Some want public ceremony; some want privacy
+- Some want the child's name spoken often; some cannot bear to hear it
+
+**All choices are honored. None are judged.**
+
+---
+
 ## PRACTICAL QUESTIONS FOR CIRCLES
 
 1. Do we have end-of-life care plans for members?
@@ -260,6 +385,9 @@ Our duty to the dead is:
 5. Have we considered how to honor the unbefriended dead?
 6. Does Baseline truly extend through terminal illness?
 7. Can someone choose their own end without coercion or abandonment?
+8. **Are we prepared to hold parents who lose a child — indefinitely?**
+9. **Do surviving siblings have adults who can be present just for them?**
+10. **Can families grieve in incompatible ways and still be held?**
 
 **If you cannot answer "yes" to most of these, start the conversation now — before death arrives.**
 
