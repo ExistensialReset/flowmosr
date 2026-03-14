@@ -99,7 +99,7 @@ This isn't "let's all be nice" idealism. This is:
 
 **Want to build?**  
 → [HELIX_NODE](/scandinavia/HELIX_STORY.md) - Concrete Göteborg prototype  
-→ [MASTER_RESOURCE_PLAN](/implementation/) - Economics, energy, food
+→ [MASTER_RESOURCE_PLAN](/implementation/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) - Economics, energy, food
 
 **Philosopher?**  
 → [MANIFESTO](/ethos/MANIFESTO.md) - Why this matters  
