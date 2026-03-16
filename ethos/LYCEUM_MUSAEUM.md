@@ -209,6 +209,31 @@ Mentors exist to **witness and support**, never to control.
 
 ---
 
+## 6. Travel & Mobility for Youth
+
+Lyceum Musaeum includes **experiential exploration** as part of lifelong learning.  
+
+### Baseline Travel for Ages 7–25
+- Every child and young adult has the right to **at least two extended journeys** before age 25.  
+- Travel is ideally by **sustainable mass transit**: train, boat, or other low-impact public transport.  
+- Trips expose participants to **different cultures, ecosystems, and social contexts**, enhancing curiosity, empathy, and real-world learning.  
+- Duration and destination are flexible, but journeys should be **immersive, engaging, and safe**.  
+- Travel is considered a **fundamental Baseline entitlement**, not a privilege or reward.
+
+### Free and Universal Mass Transit
+- Mass transit access is **free and universally available** for all learners, enabling participation without economic barriers.  
+- Transit schedules and infrastructure must support accessibility for **mobility-limited individuals**.  
+- Ensures **consistent access to Lyceum Nodes and experiential learning opportunities** across regions.
+
+### Integration with Lyceum Musaeum
+- Journeys are **documented, reflected upon, and shared** back at the Lyceum, contributing to the community’s collective intelligence.  
+- Travel complements workshops, explorations, and mentorship, **extending learning beyond local Nodes**.  
+- Supports **Ψ elevation**: increases empathy, wonder, resilience, and spontaneous discovery.
+
+**Principle:** Every young human deserves to see the world, to connect, and to learn through real experience. Lyceum Musaeum makes this possible structurally, not optionally.
+
+---
+
 ## Accessibility as Foundation
 
 **Radically accessible.**  
@@ -307,8 +332,6 @@ It only **removes obstacles**.
 **VALIDATION:** Montessori, Sudbury, unschooling, Indigenous pedagogy, neuroscience  
 **COMMITMENT:** Learning without fear, coercion, or deprivation  
 
-
-
 # DIVINE_CROSSWALK  
 *How Lyceum Musaeum Generates High-Ψ Conditions*
 
@@ -380,4 +403,4 @@ It removes friction.
 **FUNCTION:** Living operationalization of DIVINE  
 **DEPENDENCY:** Baseline secured
 
-📚 ✏️ 🍀 
+📚 ✏️ 🍀
