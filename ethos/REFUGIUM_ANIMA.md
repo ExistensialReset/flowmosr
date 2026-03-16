@@ -38,7 +38,9 @@ Refugium Anima is **available for all humans**: children, adults, elders, and di
 - Adjustable-height furniture and fixtures.  
 - Sensory accommodations for neurodivergent individuals (quiet hours, dim lighting, fidget tools).  
 - Medical equipment (lift, adjustable bed) available without stigma.  
-- Absolutely no one is too young, too old, too heavy, or too disabled to be here.  
+- Absolutely no one is too young, too old, too heavy, or too disabled to be here. 
+
+Population density is intentionally limited to preserve quiet, safety, and sensory regulation. 
 
 ---
 
