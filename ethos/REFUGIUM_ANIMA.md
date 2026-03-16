@@ -22,6 +22,12 @@ This is not a place of diagnosis, correction, or rehabilitation.
 
 **Refugium Anima is sanctuary.**
 
+### No Forced Exit
+
+Individuals are never removed from Refugium due to slow recovery.
+
+Departure is self-determined or collaboratively agreed upon when stability returns.
+
 ---
 
 ### Accessibility & Inclusion
