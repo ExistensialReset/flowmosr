@@ -56,3 +56,13 @@
   - Psychological and social Baseline maintained as separate chapter  
 
 **Principle:** Baseline = floor, never ceiling. No human may fall below structural minimums for survival, dignity, and cognitive liberty.
+
+# RESOURCE_METRIC_STANDARDS — Version Timeline
+
+| Version | Date / Status | Key Changes & Additions |
+|---------|---------------|------------------------|
+| **1.7** | Operational Specification | Unified Baseline: water (50L/person/day), thermal adaptation, medical/disability support, hygiene & local chemistry, joy (spices, sweets, fermented foods), social baseline (3 meaningful interactions/week), guaranteed internet & mass transit. |
+| **2.0** | Draft | Introduced food and energy metrics: 2,200 kcal/day for adults, age-adjusted energy for children; clearer electricity/energy access; Baseline tied to rights, not coercion. |
+| **3.0** | Global Baseline Standard | Full SI-unit metrics: food, water, air, temperature, electricity, light, habitable space, time, information; verification protocols; non-revocability; revision requires LOTUS global majority. |
+| **4.0** | Draft | Weight-based caloric requirements (20–90 kg), activity-adjusted; children/youth travel included (2 extended trips ages 7–25); mass transit guaranteed free; electricity allocation for medical needs; travel separated from food Baseline. |
+| **5.0** | Draft / Consolidated | Consolidated version of v4.0: energy requirements weight- and activity-adjusted; children's/youth travel as dedicated Baseline chapter; electricity for medical/life-sustaining use; mass transit free; social/psychological Baseline separated for clarity. |
