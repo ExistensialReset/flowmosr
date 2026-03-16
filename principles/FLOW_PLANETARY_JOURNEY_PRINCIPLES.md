@@ -1,5 +1,3 @@
-Kör! Här kommer båda dokumenten som artifacts:
-<artifact identifier="planetary-journey-principles-v2" type="application/vnd.ant.code" language="markdown" title="FLOW_PLANETARY_JOURNEY_PRINCIPLES.md v2">
 # 🌍 FLOW_PLANETARY_JOURNEY_PRINCIPLES.md
 
 **Version:** 2.0 (UPDATED)  
