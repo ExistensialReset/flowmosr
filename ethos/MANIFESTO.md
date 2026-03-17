@@ -278,15 +278,6 @@ No hierarchy is invoked.
 
 ---
 
-### Your Personal AI (PAI)
-
-Your Personal AI exists to assist, not command.  
-
-It may suggest, reflect, or connect —  
-but **authority always remains with you**.
-
----
-
 # IV. THE MEASURE OF LIFE
 
 **Life = Calm × Spontaneity × Interconnection**  
