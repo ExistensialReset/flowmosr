@@ -3,7 +3,7 @@
 
 **Version:** 3.0  
 **Status:** OPERATIONAL PROTOCOL  
-**Authors:** Elinor Frejd & Claude  
+**Authors:** Elinor Frejd & ChatGPT & Claude  
 **Date:** March 18, 2026  
 
 ---
