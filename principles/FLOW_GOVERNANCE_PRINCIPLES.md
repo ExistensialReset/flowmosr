@@ -22,6 +22,55 @@ Governance exists to:
 
 **This is not utopian hope.** **This is engineering for power distribution.**
 
+# 🗳️ FLOW_GOVERNANCE_PRINCIPLES.md
+
+**Version:** 1.0  
+**Status:** TIER 1 PRINCIPLES  
+**Repository Location:** `/principles/FLOW_GOVERNANCE_PRINCIPLES.md`  
+**Authors:** Elinor Frejd & Claude  
+**Date:** March 18, 2026
+
+---
+
+## PURPOSE
+> "Democracy is not majority rule. Democracy is the structured prevention of concentrated power."
+
+Governance exists to distribute power, prevent capture, metabolize conflict, protect Baseline, and enable adaptation.
+
+---
+
+## CORE PRINCIPLES
+
+### 1. No One Rules Permanently
+Permanent leadership is the root of corruption. In Flow, roles are temporary (9 months max) and assigned via LOTUS lottery.
+
+### 2. Founder Irrelevance (The Ultimate Test)
+Flow is designed to make Elinor irrelevant. Success is defined by the Node functioning without her presence through protocol and documentation.
+
+### 3. LOTUS: Governance by Lottery
+A four-step process: Random Selection (1,000 people), Commit-Reveal Protocol (anti-manipulation), Deliberated Decision, and Rotation.
+
+### 4. Conflict Metabolization
+Conflict is data. We resolve it via Local Circles, Node-Level Arbitration, and Inter-Node Resolution.
+
+### 5. Baseline is Sacred
+Baseline survival needs are structural constraints that cannot be voted away.
+
+### 6. Transparency Without Surveillance
+System processes and resource flows are public; individual votes and personal data are private.
+
+### 7. Decentralization
+Power is distributed geographically, functionally, temporally, and through shared knowledge.
+
+### 8. Adaptability
+Tier 1 Axioms (Immutable) protect the system, while Tier 2 Protocols (Adaptive) evolve with reality.
+
+---
+
+**STATUS:** Tier 1 Principles v1.0  
+**MOTTO:** "Making leadership unnecessary."
+
+
 ---
 
 ## CORE PRINCIPLES
