@@ -2,6 +2,52 @@
 
 **Version:** 1.0  
 **Status:** TIER 1 PRINCIPLES  
+**Authors:** Elinor Frejd & Claude  
+**Date:** March 18, 2026
+
+---
+
+## PURPOSE
+> "Justice is not punishment. Justice is repair."
+
+---
+
+## CORE PRINCIPLES
+
+### 1. Harm Spectrum
+From Level 1 (Friction) to Level 4 (Unforgivable Harm).
+
+### 2. Restorative Justice
+Focus on identifying harm, unmet needs, and systemic prevention rather than retribution.
+
+### 3. Unforgivable Harm Protocol
+Severe violations result in permanent expulsion (exile), deactivating the Flow-ID while maintaining Baseline elsewhere.
+
+### 4. Sanctions
+Interventions like Process Correction or Node Suspension, not punitive measures.
+
+### 5. Baseline Never Revoked
+Access to survival resources is a human right, never a reward for behavior.
+
+### 6. Victim-Centered Justice
+Victims dictate engagement and receive trauma support via Refugium Anima.
+
+### 7. Perpetrator Accountability
+Holding individuals accountable without dehumanizing them.
+
+### 8. Systemic Analysis
+Harm reveals protocol failures; we update the system to prevent recurrence.
+
+---
+
+**STATUS:** Tier 1 Principles v1.0  
+**MOTTO:** "Justice is repair."
+
+
+# ⚖️ FLOW_JUSTICE_PRINCIPLES.md
+
+**Version:** 1.0  
+**Status:** TIER 1 PRINCIPLES  
 **Repository Location:** `/principles/FLOW_JUSTICE_PRINCIPLES.md`  
 **Authors:** Elinor Frejd & Claude  
 **Date:** March 18, 2026
