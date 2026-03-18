@@ -1,5 +1,3 @@
-```markdown
-<artifact identifier="childrens-council-protocol" type="application/vnd.ant.code" language="markdown" title="CHILDRENS_COUNCIL_PROTOCOL.md">
 # 👧🧒 CHILDRENS_COUNCIL_PROTOCOL.md
 
 **Version:** 1.0  
