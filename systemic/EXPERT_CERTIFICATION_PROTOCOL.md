@@ -68,7 +68,7 @@ Every decision begins from TWO parallel inputs:
 
 **Framing Synthesizer (rotating role):**
 - Combines community + expert framings
-- Must produce:
+- Produces:
   - 2–4 alternative problem definitions
   - Explicit trade-offs between them
 
@@ -76,8 +76,8 @@ Every decision begins from TWO parallel inputs:
 
 ## Safeguard
 
-- LOTUS can reject framing as “biased/incomplete”
-- Community can challenge framing BEFORE solutions begin
+- LOTUS can reject framing as biased or incomplete  
+- Community can challenge framing BEFORE solutions begin  
 
 ---
 
@@ -85,7 +85,7 @@ Every decision begins from TWO parallel inputs:
 
 ## Why
 
-Not all decisions need full protocol.
+Not all decisions require full protocol.
 
 ---
 
@@ -93,11 +93,12 @@ Not all decisions need full protocol.
 
 ### Tier 1: Low Impact (Fast Path)
 - Small scope, reversible
-- Expert provides quick recommendation
+- Expert provides recommendation
 - Minimal review
 
 ### Tier 2: Moderate Impact
-- Standard analysis + optional adversarial review
+- Standard analysis
+- Optional adversarial review
 - Community summary required
 
 ### Tier 3: High Impact (Full Protocol)
@@ -111,9 +112,8 @@ Not all decisions need full protocol.
 
 ## Result
 
-👉 System is:
-- Fast where possible  
-- Deep where necessary  
+👉 Fast where possible  
+👉 Deep where necessary  
 
 ---
 
@@ -121,47 +121,45 @@ Not all decisions need full protocol.
 
 ## Experts MUST:
 
-1. Provide analysis
-2. Express uncertainty explicitly
-3. Translate into accessible language
-4. Define limits of their knowledge
+1. Provide analysis  
+2. Express uncertainty explicitly  
+3. Translate into accessible language  
+4. Define limits of their knowledge  
 
 ---
 
 ## Experts CANNOT:
 
-- Define problem alone
-- Control which options exist
-- Block alternative proposals
+- Define the problem alone  
+- Control which options exist  
+- Block alternative proposals  
 
 ---
 
-## New Constraint
+## Required Section in Every Analysis
 
-> Every expert analysis must include:
-- “What we might be wrong about”
-- “What non-experts should question”
-
----
-
-# MECHANISM 3: ADVERSARIAL EXPERTISE (REFINED)
-
-## Upgrade from V2
-
-Adversarial is now:
-
-- Required ONLY in Tier 3
-- Optional in Tier 2
-- Skipped in Tier 1
+- What we might be wrong about  
+- What non-experts should question  
 
 ---
 
-## Additional Constraint
+# MECHANISM 3: ADVERSARIAL EXPERTISE
+
+## Application by Tier
+
+- Tier 3: Required  
+- Tier 2: Optional  
+- Tier 1: Not used  
+
+---
+
+## Requirements
 
 Adversarial expert must:
-- Challenge assumptions
-- Introduce at least ONE alternative path
-- Identify blind spots in framing
+
+- Challenge assumptions  
+- Introduce at least one alternative path  
+- Identify blind spots in framing  
 
 ---
 
@@ -169,7 +167,7 @@ Adversarial expert must:
 
 ## Problem
 
-People don’t read long analyses.
+People do not engage with long analyses.
 
 ---
 
@@ -178,55 +176,42 @@ People don’t read long analyses.
 Every proposal MUST include:
 
 ### Layer 1: Ultra-Simple Summary
-- 3–5 bullet points
-- No jargon
+- 3–5 bullet points  
+- No jargon  
 
 ### Layer 2: Trade-offs
-- What we gain
-- What we lose
-- Who is affected
+- What we gain  
+- What we lose  
+- Who is affected  
 
 ### Layer 3: Full Analysis
-- For experts and deep review
+- Technical detail  
 
 ---
 
-## Default Behavior Design (NEW)
+## Default Behavior
 
-If no engagement:
-- system follows **safest reversible option**
+If engagement is low:
 
-👉 Not “first proposal wins”
+> System selects the safest reversible option  
 
 ---
 
 # MECHANISM 5: UNCERTAINTY & DATA CONFIDENCE
 
-## Every analysis must include:
+Every analysis must include:
 
-- **Confidence Score (0–100%)**
+- **Confidence Score (0–100%)**  
 - **Data Quality Level:**
-  - High (verified, recent)
-  - Medium (partial, modeled)
-  - Low (uncertain, incomplete)
-
----
-
-## Visual Example:
-
-```python
-Water Infrastructure Proposal
-Confidence: 72%
-Data Quality: Medium
-
-Key Risk: Long-term pipe degradation unknown
-```
+  - High  
+  - Medium  
+  - Low  
 
 ---
 
 ## Rule
 
-Low confidence → automatic escalation to higher tier
+Low confidence → automatic escalation to higher tier  
 
 ---
 
@@ -234,123 +219,89 @@ Low confidence → automatic escalation to higher tier
 
 ## Problem
 
-Burnout from constant demand.
+Continuous demand leads to burnout.
 
 ---
 
 ## Solutions
 
-### 1. Rotating Responsibility
-- Experts are not always “on duty”
-- Scheduled participation windows
+### 1. Rotation
+Experts are scheduled, not always active  
 
-### 2. Contribution Limits
-- Max active cases per expert
+### 2. Limits
+Maximum concurrent cases per expert  
 
 ### 3. Support Roles
-- Non-experts assist with:
-  - formatting
-  - communication
-  - summaries
+Non-experts assist with:
+- formatting  
+- summaries  
+- communication  
 
 ---
 
 ## Cultural Rule
 
-> Experts are not public servants on demand.
+> Experts are not permanently on call  
 
 ---
 
 # MECHANISM 7: INFORMAL POWER CONSTRAINTS
 
-## New Safeguards
-
 ### 1. Presentation Rotation
-- Different person presents analysis (not always expert)
+Analysis is not always presented by the expert  
 
 ### 2. Alternative Injection
-- Community can submit alternative proposals BEFORE decision
+Community may submit alternatives before decision  
 
 ### 3. Meta-Review
-
-Periodic audits ask:
-- Did framing bias outcomes?
-- Were options artificially limited?
+Periodic audits examine:
+- framing bias  
+- limited option sets  
 
 ---
 
-# MECHANISM 8: OUTCOME TRACKING (REALISTIC VERSION)
+# MECHANISM 8: OUTCOME TRACKING
 
-## Change from V2
+## What is Evaluated
 
-We track:
-
-- **Decision quality under known conditions**
-- Not “absolute correctness”
+- Decision quality given available information  
+- Not absolute correctness  
 
 ---
 
 ## Categories
 
-- Good decision, good outcome
-- Good decision, bad outcome (uncertainty)
-- Poor decision (process failure)
+- Good decision / good outcome  
+- Good decision / bad outcome  
+- Poor decision (process failure)  
 
 ---
 
-## Experts evaluated on:
+## Expert Evaluation Based On
 
 - reasoning quality  
 - transparency  
 - adaptability  
 
-NOT just results
-
 ---
 
 # MECHANISM 9: TRUST GRADIENTS
 
-## Not all domains equal
+## Domain-Based Trust Levels
 
-### High Trust Domains:
-- highly technical, low value conflict  
-(e.g. electrical safety)
+### High Trust Domains
+- Technical, low value conflict  
+→ more expert influence  
 
-→ more expert influence
-
----
-
-### Low Trust Domains:
-- ethical, social, high impact  
-(e.g. housing allocation)
-
-→ more community weight
+### Low Trust Domains
+- Ethical, social, high impact  
+→ more community weight  
 
 ---
 
-## Defined per domain in advance
+## Defined Per Domain
 
----
-
-# FAILURE MODES & RESPONSES (UPDATED)
-
-| Failure | Response |
-|--------|---------|
-| Expert framing bias | Dual framing + synthesis |
-| Community disengagement | Default safe decisions |
-| Expert burnout | Rotation + limits |
-| Over-complex process | Tiered system |
-| False certainty | Confidence scoring |
-| Informal technocracy | Meta-review + rotation |
-
----
-
-# FINAL PRINCIPLE
-
-> "Expertise is a tool.  
-> The system decides how tools are used."
-
----
+Set in advance and transparent  
 
 ---
 
@@ -363,74 +314,65 @@ NOT just results
 
 ---
 
-## PURPOSE
+## Role in System
 
-Define how expertise is recognized without creating centralized authority, gatekeeping, or permanent expert classes.
+This mechanism feeds into:
+- MECHANISM 2 (Expert Roles)  
+- MECHANISM 3 (Adversarial Expertise)  
+- MECHANISM 9 (Trust Gradients)  
 
 ---
 
 ## SYSTEM OVERVIEW
 
-Expert certification in Flow is:
+Certification is:
 
-- **Distributed** (no central authority)
-- **Evidence-based** (practical competence required)
-- **Time-limited** (all expertise decays)
-- **Challengeable** (can be questioned at any time)
-- **Non-authoritative** (grants influence, not control)
+- Distributed  
+- Evidence-based  
+- Time-limited  
+- Challengeable  
+- Non-authoritative  
 
 ---
 
 ## STEP 1: SELF-NOMINATION
 
-Any individual may claim expertise in a domain.
+Any individual may claim expertise.
 
 **Requirements:**
-- Declare domain of competence
-- Submit evidence:
-  - Practical experience (projects, work)
-  - Training (formal or informal)
-  - Demonstrations (if required)
+- Domain declaration  
+- Evidence:
+  - Practical work  
+  - Training  
+  - Demonstration  
 
-**Note:**
-Self-nomination grants **zero influence** by default.
+**Note:**  
+No influence granted at this stage  
 
 ---
 
 ## STEP 2: RANDOMIZED PEER REVIEW
 
-A review panel is formed:
-
-- 3–5 certified individuals in the same domain
-- Selected randomly
-- No pre-selection or candidate influence
+Panel:
+- 3–5 certified individuals  
+- Randomly selected  
+- No candidate influence  
 
 ---
 
-## REVIEW PROCESS
+## REVIEW CRITERIA
 
-Panel evaluates:
-
-1. **Practical Competence**
-   - Can the person actually perform the task?
-
-2. **Understanding**
-   - Can they explain what they are doing and why?
-
-3. **Boundary Awareness**
-   - Do they understand limits of their knowledge?
-
-4. **Communication Ability**
-   - Can they translate expertise to non-experts?
+1. Practical competence  
+2. Understanding  
+3. Boundary awareness  
+4. Communication ability  
 
 ---
 
 ## OUTCOMES
 
-Panel votes:
-
-- **Certified** (assigned level)
-- **Not Certified** (reapply after cooldown)
+- Certified (with level)  
+- Not certified (cooldown required)  
 
 ---
 
@@ -441,96 +383,69 @@ Panel votes:
 | Novice | Basic competence | Minimal |
 | Competent | Reliable practitioner | Moderate |
 | Expert | Advanced capability | High (within limits) |
-| Master | Deep expertise + teaching | Capped maximum |
+| Master | Deep expertise | Capped |
 
 ---
 
-## CONSTRAINT
+## CRITICAL CONSTRAINT
 
-> Certification does NOT grant decision-making authority.  
-> It only enables participation in expert roles.
+> Certification grants participation, not authority  
 
 ---
 
 ## STEP 3: TEMPORAL DECAY
 
-All certifications expire over time.
-
-- Validity period (e.g. 5 years)
-- Gradual influence decay after expiration
-- Recertification required
-
----
-
-## PURPOSE OF DECAY
-
-- Prevent permanent expert class
-- Ensure up-to-date knowledge
-- Encourage continuous learning
+- Fixed validity period  
+- Gradual influence decay  
+- Mandatory recertification  
 
 ---
 
 ## STEP 4: PUBLIC TRANSPARENCY
 
 All certifications are:
-
-- Publicly visible
-- Auditable
-- Traceable to review panels and evidence
+- Visible  
+- Auditable  
+- Traceable  
 
 ---
 
 ## STEP 5: OPEN CHALLENGE
 
-Any certification can be challenged by:
-
-- Community members
-- Other experts
-- LOTUS system triggers
+Triggered by:
+- Community  
+- Experts  
+- LOTUS  
 
 ---
 
-## CHALLENGE PROCESS
+## PROCESS
 
-1. Challenge submitted with reasoning
-2. New randomized panel formed
-3. Re-evaluation conducted
-4. Certification upheld, downgraded, or revoked
+1. Challenge submitted  
+2. New random panel formed  
+3. Re-evaluation  
+4. Outcome applied  
 
 ---
 
 ## STEP 6: ANTI-CAPTURE SAFEGUARDS
 
-### 1. Randomized Panels
-Prevents formation of fixed expert groups
-
-### 2. No Self-Certification
-Experts cannot certify themselves
-
-### 3. No Central Authority
-No institution controls certification
-
-### 4. Time Limits
-Prevents long-term accumulation of influence
-
-### 5. Public Oversight
-Community visibility reduces hidden bias
+- Randomized panels  
+- No self-certification  
+- No central authority  
+- Time limits  
+- Public visibility  
 
 ---
 
-## STEP 7: FAILURE MODE AWARENESS
+## STEP 7: FAILURE MODES
 
-### Risk: Expert Cartels
-**Mitigation:** Randomization + transparency
-
-### Risk: Credential Inflation
-**Mitigation:** Standardized review criteria + challenges
-
-### Risk: Gatekeeping
-**Mitigation:** Open self-nomination + multiple pathways
-
-### Risk: False Experts
-**Mitigation:** Practical testing + re-evaluation
+| Risk | Mitigation |
+|------|-----------|
+| Cartels | Randomization |
+| Credential inflation | Standard review |
+| Gatekeeping | Open entry |
+| False experts | Practical testing |
 
 ---
 
@@ -540,7 +455,20 @@ Community visibility reduces hidden bias
 maintained through scrutiny,  
 and lost through stagnation."
 
---- 
+---
+
+# FAILURE MODES & RESPONSES (SYSTEM LEVEL)
+
+| Failure | Response |
+|--------|---------|
+| Expert framing bias | Dual framing |
+| Disengagement | Safe defaults |
+| Burnout | Rotation + limits |
+| Over-complexity | Tier system |
+| False certainty | Confidence scoring |
+| Informal technocracy | Meta-review |
+
+---
 
 # STATUS
 
