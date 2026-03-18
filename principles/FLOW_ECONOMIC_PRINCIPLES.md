@@ -1,3 +1,49 @@
+# 💸 FLOW_ECONOMIC_PRINCIPLES.md
+
+**Version:** 1.0  
+**Status:** TIER 1 PRINCIPLES  
+**Authors:** Elinor Frejd & Claude  
+**Date:** March 18, 2026
+
+---
+
+## PURPOSE
+> "Economy means household management. We manage the household of Earth to maximize life, not profit."
+
+---
+
+## CORE PRINCIPLES
+
+### 1. No Currency
+Elimination of money, debt, and prices in favor of direct resource allocation.
+
+### 2. Baseline First
+Priority order: Baseline (Survival) > Infrastructure > Services > Projects > Surplus.
+
+### 3. Resource Tracking
+System-wide transparent tracking of production/consumption; individual usage remains private.
+
+### 4. Contribution, Not Compensation
+Work is voluntary and driven by autonomy. Care work is economically equivalent to technical production.
+
+### 5. Surplus Redistribution
+Hoarding is prohibited; surplus is shared between Nodes or stored for community resilience.
+
+### 6. Mutualism
+Inter-Node exchange is based on functional need, not equivalent profit.
+
+### 7. Labor Structure
+Rotational civic duties for essential work, with protections for specialists against burnout.
+
+### 8. Repair Culture
+Modular design and durability over planned obsolescence.
+
+---
+
+**STATUS:** Tier 1 Principles v1.0  
+**MOTTO:** "Managing the household of life."
+
+
 # 💚 FLOW_ECONOMIC_PRINCIPLES.md
 
 **Version:** 1.0  
