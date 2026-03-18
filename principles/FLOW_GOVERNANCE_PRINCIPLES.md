@@ -57,10 +57,6 @@ Power is distributed geographically, functionally, temporally, and through share
 ### 8. Adaptability
 Tier 1 Axioms (Immutable) protect the system, while Tier 2 Protocols (Adaptive) evolve with reality.
 
----
-
-**STATUS:** Tier 1 Principles v1.0  
-**MOTTO:** "Making leadership unnecessary."
 
 
 ---
