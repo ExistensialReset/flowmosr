@@ -78,7 +78,7 @@ A standardized metric for every material/product showing:
 **Think:** Nutrition label but for resources.
 
 ### Example RIS Card:
-
+```
 ALUMINUM (per ton)
 ├─ Energy: 15,000 kWh (HIGH)
 ├─ Water: 500L (MEDIUM)
@@ -87,8 +87,8 @@ ALUMINUM (per ton)
 ├─ Recyclability: 95% (EXCELLENT)
 ├─ Scarcity: MODERATE
 └─ Recommendation: Use sparingly, prioritize recycling
-
-
+```
+```
 STEEL (per ton)
 ├─ Energy: 6,000 kWh (MEDIUM)
 ├─ Water: 200L (LOW)
@@ -97,7 +97,7 @@ STEEL (per ton)
 ├─ Recyclability: 90% (EXCELLENT)
 ├─ Scarcity: LOW
 └─ Recommendation: Preferred structural material
-
+```
 
 
 **How it works:**
@@ -174,7 +174,7 @@ Live dashboard showing current availability vs. demand for all tracked resources
 - Recommendation: Emergency protocols, LOTUS intervention
 
 ### Example Dashboard (Node-Level):
-
+```
 FOOD RESOURCES
 ├─ Grain: GREEN (6 months stock)
 ├─ Vegetables: YELLOW (2 months stock)
@@ -189,7 +189,7 @@ FOOD RESOURCES
 ├─ Copper: ORANGE (2 weeks stock) ⚠️
 ├─ Rare Earth Metals: RED (critically low) 🚨
 └─ Wood: GREEN (sustainable harvest)
-
+```
 
 **How it works:**
 
@@ -250,7 +250,7 @@ Direct communication channel from producers to consumers about constraints, bott
 
 ### Example Production Report
 
-
+```
 BAKERY PRODUCTION REPORT (Week 12)
 ─────────────────────────────────
 Current Output: 5,000 loaves/week
@@ -264,6 +264,8 @@ Potential Output: 8,000 loaves/week
 ├─ 2 trained bakers (urgent)
 ├─ 1 commercial oven (cost: 200 hours labor + materials)
 └─ Expansion of workspace (20m²)
+```
+
 ​IF CONSTRAINTS REMOVED:
 → Can increase output 60%
 → Reduce wait times for fresh bread
@@ -314,6 +316,7 @@ Public inventory data for all stored resources.
 ### Example Reserve Dashboard:
 
 GRAIN RESERVES (Node Level - 500 people)
+```
 ─────────────────────────────────────────
 Current Stock: 18,000 kg
 Baseline Requirement: 3,000 kg/month (6 kg/person/month)
@@ -329,7 +332,7 @@ WASTE: 2% (spoilage, within acceptable range)
 ├─ Surplus available for inter-Node sharing
 ├─ Consider rotating stock (use older grain first)
 └─ Storage conditions good, maintain current protocols
-
+```
 **How it works:**
 
 **Step 1: Inventory Tracking**
@@ -381,7 +384,7 @@ Democratic allocation decisions when resources scarce or contested.
 
 ### Example LOTUS Allocation Decision:
 
-
+```
 COPPER SHORTAGE - ALLOCATION DECISION
 ─────────────────────────────────────
 ​AVAILABLE COPPER: 500 kg
@@ -403,6 +406,8 @@ SHORTFALL: 150 kg
 ├─ Allocate 300 kg to solar panels ✓
 ├─ Allocate 200 kg to housing wiring ✓
 ├─ Defer workshop expansion (wait for next copper shipment)
+```
+
 ​REASONING PUBLISHED:
 "Baseline energy and shelter safety prioritized over quality-of-life expansion. Workshop expansion approved pending next inter-Node copper delivery (estimated 6 weeks)."
 
@@ -640,7 +645,6 @@ SHORTFALL: 150 kg
   "calculation_method": "v2.3",
   "audited_by": "regional_standards_committee"
 }
-
 Access:
 ​Public API (anyone can query)
 ​Local cache at each Node
