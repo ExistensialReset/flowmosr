@@ -675,6 +675,7 @@ def calculate_scarcity(current_stock, avg_consumption_rate, production_rate):
 ​Top-Level View (Node):
 
 ```
+```
 ╔════════════════════════════════════╗
 ║  RESOURCE DASHBOARD - Node Göteborg ║
 ╠════════════════════════════════════╣
