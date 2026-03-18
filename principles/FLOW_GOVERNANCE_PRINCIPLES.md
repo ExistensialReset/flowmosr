@@ -20,7 +20,7 @@ Governance exists to:
 - **Protect Baseline** (ensure survival needs are never bargained away)
 - **Enable adaptation** (change protocols as reality demands)
 
-**This is not utopian hope.** **This is engineering for power distribution.
+**This is not utopian hope.** **This is engineering for power distribution.**
 
 ---
 
