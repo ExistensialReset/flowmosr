@@ -643,6 +643,7 @@ SHORTFALL: 150 kg
   "calculation_method": "v2.3",
   "audited_by": "regional_standards_committee"
 }
+```
 Access:
 ​Public API (anyone can query)
 ​Local cache at each Node
