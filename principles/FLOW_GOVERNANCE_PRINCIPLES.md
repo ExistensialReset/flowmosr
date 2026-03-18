@@ -20,15 +20,7 @@ Governance exists to:
 - **Protect Baseline** (ensure survival needs are never bargained away)
 - **Enable adaptation** (change protocols as reality demands)
 
-**This is not utopian hope.** **This is engineering for power distribution.**
-
-# 🗳️ FLOW_GOVERNANCE_PRINCIPLES.md
-
-**Version:** 1.0  
-**Status:** TIER 1 PRINCIPLES  
-**Repository Location:** `/principles/FLOW_GOVERNANCE_PRINCIPLES.md`  
-**Authors:** Elinor Frejd & Claude  
-**Date:** March 18, 2026
+**This is not utopian hope.** **This is engineering for power distribution.
 
 ---
 
