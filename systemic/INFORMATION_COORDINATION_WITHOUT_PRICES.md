@@ -406,11 +406,9 @@ SHORTFALL: 150 kg
 ├─ Allocate 300 kg to solar panels ✓
 ├─ Allocate 200 kg to housing wiring ✓
 ├─ Defer workshop expansion (wait for next copper shipment)
-```
-
 ​REASONING PUBLISHED:
 "Baseline energy and shelter safety prioritized over quality-of-life expansion. Workshop expansion approved pending next inter-Node copper delivery (estimated 6 weeks)."
-
+```
 **How it works:**
 
 **Step 1: Scarcity Detected**
