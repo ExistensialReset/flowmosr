@@ -36,7 +36,7 @@ LOTUS designed for large-scale governance:
 
 > "LOTUS is for SCALE. Small groups don't need lottery democracy - they need conversation democracy."
 
-"If it's 3 Circles of 10 people each, you just talk and vote. LOTUS becomes relevant at 5,000+."
+If it's 3 Circles of 10 people each, you just talk and vote. LOTUS becomes relevant at 5,000+.
 
 **Flow's scaling principle:**
 - **Tiny (10-50):** Direct democracy, everyone participates
