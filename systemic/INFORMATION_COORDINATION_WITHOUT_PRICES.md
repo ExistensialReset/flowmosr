@@ -665,6 +665,7 @@ def calculate_scarcity(current_stock, avg_consumption_rate, production_rate):
         return "RED"
 ```
 
+
 **Triggers:**
 ​RED for 48 hours → Automatic LOTUS alert
 ​ORANGE for 7 days → Production increase request
