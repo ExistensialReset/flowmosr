@@ -24,39 +24,9 @@ Governance exists to:
 
 ---
 
-## PURPOSE
 > "Democracy is not majority rule. Democracy is the structured prevention of concentrated power."
 
 Governance exists to distribute power, prevent capture, metabolize conflict, protect Baseline, and enable adaptation.
-
----
-
-## CORE PRINCIPLES
-
-
-
-### 2. Founder Irrelevance (The Ultimate Test)
-Flow is designed to make Elinor irrelevant. Success is defined by the Node functioning without her presence through protocol and documentation.
-
-### 3. LOTUS: Governance by Lottery
-A four-step process: Random Selection (1,000 people), Commit-Reveal Protocol (anti-manipulation), Deliberated Decision, and Rotation.
-
-### 4. Conflict Metabolization
-Conflict is data. We resolve it via Local Circles, Node-Level Arbitration, and Inter-Node Resolution.
-
-### 5. Baseline is Sacred
-Baseline survival needs are structural constraints that cannot be voted away.
-
-### 6. Transparency Without Surveillance
-System processes and resource flows are public; individual votes and personal data are private.
-
-### 7. Decentralization
-Power is distributed geographically, functionally, temporally, and through shared knowledge.
-
-### 8. Adaptability
-Tier 1 Axioms (Immutable) protect the system, while Tier 2 Protocols (Adaptive) evolve with reality.
-
-
 
 ---
 
@@ -91,6 +61,8 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 
 ### 2. Founder Irrelevance (The Ultimate Test)
 
+Success is defined by the Node functioning without her presence through protocol and documentation.
+
 **A system that needs its founder to survive has already failed.**
 
 **Flow is designed to make Elinor irrelevant.**
@@ -122,7 +94,8 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 
 ---
 
-### 3. LOTUS: Governance by Lottery
+### 3. LOTUS: Governance by lottery 
+A four-step process: Random Selection (1,000 people), Commit-Reveal Protocol (anti-manipulation), Deliberated Decision, and Rotation.
 
 **How it works:**
 
@@ -160,6 +133,8 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 
 ### 4. Conflict Metabolization (Not Suppression)
 
+We resolve it via Local Circles, Node-Level Arbitration, and Inter-Node Resolution.
+
 **Conflict is not failure. Conflict is data.**
 
 **Bad governance:** Suppress disagreement, enforce consensus, punish dissent  
@@ -188,6 +163,10 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 
 ### 5. Baseline is Sacred (Non-Negotiable)
 
+**Baseline is Sacred**
+
+Baseline survival needs are structural constraints that cannot be voted away. 
+
 **No decision can revoke Baseline.**
 
 **Baseline = kernel panic protection.**
@@ -203,6 +182,8 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 ---
 
 ### 6. Transparency Without Surveillance
+
+System processes and resource flows are public; individual votes and personal data are private.
 
 **The system is transparent. Individuals are private.**
 
@@ -222,6 +203,8 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 
 ### 7. Decentralization (Anti-Capture Architecture)
 
+Power distributed geographically, functionally, temporally, and through shared knowledge.
+
 **Centralization = single point of failure = inevitable capture.**
 
 **Flow prevents centralization through:**
@@ -233,6 +216,8 @@ Permanent leadership is the root of corruption. In Flow, roles are temporary (9 
 ---
 
 ### 8. Adaptability (Protocols Change, Axioms Don't)
+
+Tier 1 Axioms (Immutable) protect the system, while Tier 2 Protocols (Adaptive) evolve with reality.
 
 **Reality changes. Protocols must adapt.**
 
