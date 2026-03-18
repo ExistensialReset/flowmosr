@@ -33,8 +33,7 @@ Governance exists to distribute power, prevent capture, metabolize conflict, pro
 
 ## CORE PRINCIPLES
 
-### 1. No One Rules Permanently
-Permanent leadership is the root of corruption. In Flow, roles are temporary (9 months max) and assigned via LOTUS lottery.
+
 
 ### 2. Founder Irrelevance (The Ultimate Test)
 Flow is designed to make Elinor irrelevant. Success is defined by the Node functioning without her presence through protocol and documentation.
@@ -64,6 +63,8 @@ Tier 1 Axioms (Immutable) protect the system, while Tier 2 Protocols (Adaptive) 
 ## CORE PRINCIPLES
 
 ### 1. No One Rules Permanently
+
+Permanent leadership is the root of corruption. In Flow, roles are temporary (9 months max) and assigned via LOTUS lottery.
 
 **The fundamental corruption is not evil leaders.** **The fundamental corruption is permanent leadership.**
 
