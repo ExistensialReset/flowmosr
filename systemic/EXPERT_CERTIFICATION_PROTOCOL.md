@@ -352,6 +352,196 @@ NOT just results
 
 ---
 
+---
+
+# MECHANISM 10: DISTRIBUTED EXPERT CERTIFICATION
+
+## Core Principle
+
+> "No one is an expert by title.  
+> Expertise is a temporary, testable, and challengeable state."
+
+---
+
+## PURPOSE
+
+Define how expertise is recognized without creating centralized authority, gatekeeping, or permanent expert classes.
+
+---
+
+## SYSTEM OVERVIEW
+
+Expert certification in Flow is:
+
+- **Distributed** (no central authority)
+- **Evidence-based** (practical competence required)
+- **Time-limited** (all expertise decays)
+- **Challengeable** (can be questioned at any time)
+- **Non-authoritative** (grants influence, not control)
+
+---
+
+## STEP 1: SELF-NOMINATION
+
+Any individual may claim expertise in a domain.
+
+**Requirements:**
+- Declare domain of competence
+- Submit evidence:
+  - Practical experience (projects, work)
+  - Training (formal or informal)
+  - Demonstrations (if required)
+
+**Note:**
+Self-nomination grants **zero influence** by default.
+
+---
+
+## STEP 2: RANDOMIZED PEER REVIEW
+
+A review panel is formed:
+
+- 3–5 certified individuals in the same domain
+- Selected randomly
+- No pre-selection or candidate influence
+
+---
+
+## REVIEW PROCESS
+
+Panel evaluates:
+
+1. **Practical Competence**
+   - Can the person actually perform the task?
+
+2. **Understanding**
+   - Can they explain what they are doing and why?
+
+3. **Boundary Awareness**
+   - Do they understand limits of their knowledge?
+
+4. **Communication Ability**
+   - Can they translate expertise to non-experts?
+
+---
+
+## OUTCOMES
+
+Panel votes:
+
+- **Certified** (assigned level)
+- **Not Certified** (reapply after cooldown)
+
+---
+
+## CERTIFICATION LEVELS
+
+| Level | Description | Influence |
+|------|------------|----------|
+| Novice | Basic competence | Minimal |
+| Competent | Reliable practitioner | Moderate |
+| Expert | Advanced capability | High (within limits) |
+| Master | Deep expertise + teaching | Capped maximum |
+
+---
+
+## CONSTRAINT
+
+> Certification does NOT grant decision-making authority.  
+> It only enables participation in expert roles.
+
+---
+
+## STEP 3: TEMPORAL DECAY
+
+All certifications expire over time.
+
+- Validity period (e.g. 5 years)
+- Gradual influence decay after expiration
+- Recertification required
+
+---
+
+## PURPOSE OF DECAY
+
+- Prevent permanent expert class
+- Ensure up-to-date knowledge
+- Encourage continuous learning
+
+---
+
+## STEP 4: PUBLIC TRANSPARENCY
+
+All certifications are:
+
+- Publicly visible
+- Auditable
+- Traceable to review panels and evidence
+
+---
+
+## STEP 5: OPEN CHALLENGE
+
+Any certification can be challenged by:
+
+- Community members
+- Other experts
+- LOTUS system triggers
+
+---
+
+## CHALLENGE PROCESS
+
+1. Challenge submitted with reasoning
+2. New randomized panel formed
+3. Re-evaluation conducted
+4. Certification upheld, downgraded, or revoked
+
+---
+
+## STEP 6: ANTI-CAPTURE SAFEGUARDS
+
+### 1. Randomized Panels
+Prevents formation of fixed expert groups
+
+### 2. No Self-Certification
+Experts cannot certify themselves
+
+### 3. No Central Authority
+No institution controls certification
+
+### 4. Time Limits
+Prevents long-term accumulation of influence
+
+### 5. Public Oversight
+Community visibility reduces hidden bias
+
+---
+
+## STEP 7: FAILURE MODE AWARENESS
+
+### Risk: Expert Cartels
+**Mitigation:** Randomization + transparency
+
+### Risk: Credential Inflation
+**Mitigation:** Standardized review criteria + challenges
+
+### Risk: Gatekeeping
+**Mitigation:** Open self-nomination + multiple pathways
+
+### Risk: False Experts
+**Mitigation:** Practical testing + re-evaluation
+
+---
+
+## FINAL PRINCIPLE
+
+> "Expertise is earned through demonstration,  
+maintained through scrutiny,  
+and lost through stagnation."
+
+--- 
+
 # STATUS
 
 **Operational Protocol v3.0**
