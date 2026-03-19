@@ -1,4 +1,4 @@
-# 🌊 Flow Node Water Filtration Guide
+# 🌊 Water Filtration Guide
 **Ensuring Local Clean Water Without Profit Barriers**
 
 ---
