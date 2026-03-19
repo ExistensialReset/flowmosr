@@ -104,7 +104,28 @@ And in the spirit of Existential Reset, repair resets your relationship with the
 
 ## PART II: WHAT TO REPAIR FIRST
 
+BROKEN THING
+     ↓
+Can I diagnose it? → NO → Ask/learn/YouTube
+     ↓ YES
+Can I fix it with tools I have? → NO → Borrow/buy/swap
+     ↓ YES
+Do I have time/energy now? → NO → Schedule it
+     ↓ YES
+REPAIR
+     ↓
+Did it work? → NO → Document lesson, try again or compost
+     ↓ YES
+Celebrate. Use. Teach someone.
+
 Start with easy wins.
+
+### For neurodivergent minds:
+
+- **ADHD:** Use timers. Do 10 minutes of repair, then pause. Celebrate small wins. Don't force completion in one sitting.
+- **Autism:** Follow the diagram exactly. Write your own step-by-step. Repair alone if groups are overwhelming.
+- **Dyspraxia:** Use tools with larger grips. Work seated. Ask someone to hold things steady.
+- **Burnout:** Repair only when you want to. No pressure. Broken things can wait.
 
 ### TIER 1: Very Easy (No Special Tools)
 
