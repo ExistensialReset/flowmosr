@@ -104,19 +104,19 @@ And in the spirit of Existential Reset, repair resets your relationship with the
 
 ## PART II: WHAT TO REPAIR FIRST
 
-BROKEN THING
+**BROKEN THING**
      ↓
-Can I diagnose it? → NO → Ask/learn/YouTube
-     ↓ YES
-Can I fix it with tools I have? → NO → Borrow/buy/swap
-     ↓ YES
-Do I have time/energy now? → NO → Schedule it
-     ↓ YES
-REPAIR
+Can I diagnose it? → **NO** → Ask/learn/YouTube
+     ↓ **YES**
+Can I fix it with tools I have? → **NO** → Borrow/buy/swap
+     ↓ **YES**
+Do I have time/energy now? → **NO** → Schedule it
+     ↓ **YES**
+**REPAIR**
      ↓
-Did it work? → NO → Document lesson, try again or compost
-     ↓ YES
-Celebrate. Use. Teach someone.
+Did it work? → **NO** → Document lesson, try again or compost
+     ↓ **YES**
+**Celebrate. Use. Teach someone.**
 
 Start with easy wins.
 
