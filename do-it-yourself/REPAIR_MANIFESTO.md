@@ -449,6 +449,15 @@ Knowledge multiplies.
 
 ---
 
+
+**Street-level actions:*' Fix a bench. Tape a torn poster. Report broken lights.
+**Public repair stations:** Simple tool stands in parks.
+**Repair as visibility:** When you fix something in public, you show others it's possible.
+
+***This turns repair from private act to public demonstration.***
+
+---
+
 **Step 6: Document & amplify**
 
 Take photos.
@@ -463,6 +472,16 @@ Inspire others.
 ---
 
 ## PART VII: WHEN REPAIR ISN'T POSSIBLE
+
+**THE REPAIR ARCHIVE – DOCUMENTING FAILURE**
+
+A call to document failed repairs as much as successful ones:
+
+- What did you try?
+- Why didn't it work?
+- What would you do differently?
+
+Shared failure prevents others from repeating mistakes. It also normalizes that repair is trial and error, not magic.
 
 Sometimes things are truly dead.
 
@@ -656,6 +675,12 @@ You tried.
 And that is plus.
 
 ***Repair is not just practical. It is emotional archaeology.***
+
+And remember: You do not need permission to fix your own things.
+You do not need a license to understand your own tools.
+You do not need a company to tell you when something is dead.
+
+**Repair is not maintenance. Repair is taking back.**
 
 
 **Expand the Manifesto:** This guide is living—fork it on GitHub, add your repairs, translate it, and evolve it collectively. Share your stories with #RepairManifesto.
