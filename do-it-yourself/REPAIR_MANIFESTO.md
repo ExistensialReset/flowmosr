@@ -655,6 +655,9 @@ You tried.
 
 And that is plus.
 
+***Repair is not just practical. It is emotional archaeology.***
+
+
 **Expand the Manifesto:** This guide is living—fork it on GitHub, add your repairs, translate it, and evolve it collectively. Share your stories with #RepairManifesto.
 
 💛🔧✨
