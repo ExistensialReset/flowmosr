@@ -10,7 +10,7 @@
 
 ## 🌍 Introduction: What is GCCS?
 
-GCCS is a macro-economic redistribution framework aiming to provide:
+Global Charter of Collective (GCCS) is a macro-economic redistribution framework aiming to provide:
 
 - **Universal Dividend:** unconditional basic income globally  
 - **Commons Capture:** land, carbon, and natural resources managed as shared assets  
