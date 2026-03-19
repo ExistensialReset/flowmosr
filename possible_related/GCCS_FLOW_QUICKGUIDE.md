@@ -103,6 +103,31 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 5. **Follow Flow protocols:** LOTUS governance, conflict mediation, care infrastructure  
 6. **Experiment locally:** collect data, iterate, fork if needed  
 
+## Your First Week (Concrete Steps)
+
+**Day 1-2: Learn**
+- Read: ARRIVAL.md (Flow)
+- Read: GCCS Strategy page
+
+**Day 3-4: Find people**
+- Post on local community boards
+- Reddit: r/Solarpunk, r/intentionalcommunity
+- Ask: "Anyone interested in starting a Flow Circle?"
+
+**Day 5-7: First meeting**
+- Gather 5-10 people
+- Location: Someone's home, park, library
+- Agenda:
+  1. Introduce Flow + GCCS (10 min)
+  2. Share why each person came (20 min)
+  3. Decide: weekly meetings? (10 min)
+  4. First practical step: shared meal next week
+
+**Week 2+: Build habits**
+- Weekly meetings (same day/time)
+- Try one Flow protocol (e.g., talking piece)
+- Discuss: Would pooling UBIS help us? (when GCCS launches)
+
 ---
 
 ## 7. Key Principles to Remember
