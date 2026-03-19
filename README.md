@@ -160,7 +160,7 @@ So! Maybe you want to **repair** your old stuff?
          
        🚲💻
 
-**Repair is not just practical. It is emotional archaeological and hurts Mammon right in the heartbeat.**
+**Repair is not just practical. It is emotional archaeology and hurts Mammon right in the heartbeat.**
 
 ---
 
