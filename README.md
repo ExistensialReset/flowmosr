@@ -109,22 +109,6 @@ This isn't "let's all be nice" idealism. This is:
 
 ---
 
-### ⚡ Try it (24h experiment)
-
-You don't need land, money, or permission to start.
-
-Try this:
-
-1. Gather 2–5 people
-2. Share one meal (no transactions)
-3. Ask: "What do we actually need to feel okay this week?"
-4. Distribute tasks voluntarily
-5. Notice what changes
- 
-
-
----
-
 ### 💙 Now, Slow Down
 
 You are not a resource.  
@@ -147,6 +131,20 @@ That's not fluff. That's **structural design**.
 Because a system that ignores nervous systems will always collapse into violence.
 
 Welcome home. 🏡
+
+---
+
+### ⚡ Try it (24h experiment)
+
+You don't need land, money, or permission to start.
+
+Try this:
+
+1. Gather 2–5 people
+2. Share one meal (no transactions)
+3. Ask: "What do we actually need to feel okay this week?"
+4. Distribute tasks voluntarily
+5. Notice what changes
 
 ---
 
