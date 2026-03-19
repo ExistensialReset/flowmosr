@@ -80,7 +80,9 @@ This guide focuses on **practical, locally replicable methods** using inexpensiv
 ***For water filtration, medicine, and soil regeneration.***
 
 **Materials:** Wood (hardwood preferred), metal container with lid, fire source
+
 **Time:** 4-6 hours (mostly waiting)
+
 **Difficulty:** Medium (requires fire safety)
 
 ---
