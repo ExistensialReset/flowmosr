@@ -20,6 +20,24 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 
 ---
 
+## Why This Matters to You
+
+**Tired of:**
+- Working just to survive?
+- Burnout with no rest allowed?
+- Communities that fragment under stress?
+- Feeling powerless against systems you didn't choose?
+
+**GCCS + Flow offers:**
+- Unconditional income (GCCS UBIS)
+- Right to rest without shame (Flow Refugium)
+- Communities you can actually live in (Flow Circles)
+- Exit when it stops working (both systems guarantee this)
+
+**This is not theory. This is blueprints.**
+
+---
+
 ## 2. Core Concepts
 
 | Layer | Purpose | Key Features |
@@ -101,7 +119,25 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 
 ---
 
-## 8. Resources & Links
+## 8. Reality Check
+
+**Current Status:**
+- GCCS: Published proposal, no nations ratified yet
+- Flow: 7 months development, no Nodes operational yet
+- Both: Early experimental phase
+
+**What this means:**
+- You will be a pioneer, not a consumer
+- Failure is likely, data is valuable
+- Iteration required, not perfection
+- Your experience shapes the system
+
+**Join if:** You want to build alternatives, not wait for them
+**Skip if:** You need guarantees before trying
+
+---
+
+## 9. Resources & Links
 
 - **GCCS:** [https://gccsproject.pages.dev](https://gccsproject.pages.dev)  
 - **Flow Repository:** [github.com/ExistensialReset/manifesto](https://github.com/ExistensialReset/manifesto)  
