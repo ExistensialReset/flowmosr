@@ -38,7 +38,7 @@ Current system forces you to:
 - No campaigns, no elections, no personality cults
 - Constitutional constraints (axioms cannot be changed)
 
-**Formula:** Life = Lugn (Calm) × Spontanitet (Spontaneity) × Inkännande (Empathy)  
+**Formula:** Life = **Lugn** (Calm) × **Spontanitet** (Spontaneity) × **Inkännande** (Empathy)  
 
 *If any factor = 0, quality of life collapses to 0*
 
@@ -54,16 +54,16 @@ Current system forces you to:
 - 2.5-10x current demand (viable renewables, not Sahara fantasies)
 - Source: IEA World Energy Outlook 2025
 
-**Estimated cost per Person:**
+**Estimated cost per person:**
 - CAPEX: $11,579 (one-time investment)
 - OPEX: **$74/month** (vs $1,300 Swedish baseline)
 - 94% cost reduction, 100% dignity increase
 
-**Labor Required:**
+**Labor required:**
 - 24 hours/person/year 
 - That's 28 minutes per week
 
-[Full calculations & sources: /data_validation/](/data_validation/) [and /implempentation](/implemmentation)
+[Full calculations & sources: /data_validation/](/data_validation/) [and /implenpetation](/implementation)
 
 You don’t have to believe this works. Just check if it’s internally consistent.
 
@@ -152,7 +152,9 @@ Want more ideas?
 
        🫧❤️🍀 
 
-#### Or! Maybe you want to **repair** your old stuff? 
+***Flow isn't just about building new systems. It's also about repairing what already exists.*** 
+
+So! Maybe you want to **repair** your old stuff? 
 
 [Repair Manifesto](./do-it-yourself/REPAIR_MANIFESTO.md)
          
@@ -222,7 +224,7 @@ Why: Because "the normal life" is killing us
 
 ---
 
-### 🌊 Final Word
+### 🌊 Not Really Final Words, but Still... 
 
 If you've made it this far, you already know something's wrong with how we live.
 
@@ -243,8 +245,8 @@ Worth attempting.
 ---
 
 *Status: Living document*  
-*Version: probably ~12 (March 2026)*  
-*Last updated: March 14, 2026*
+*Version: probably ~15 (March 2026)*  
+*Last updated: March 19, 2026*
 
 ---
 
@@ -259,9 +261,9 @@ Worth attempting.
 **Keywords:** nervous system-aware, trauma-informed, intentional community, mutual aid, post-scarcity, commons, collective living, open-source society, social architecture, solarpunk, degrowth, care economy, neurodiversity, systems thinking, Flow, human flourishing, co-living, Ubuntu, regenerative society
 
 
-## 🌸 One last note
+## 🌸 One Last, Final Note 🫧
 
-This repository is a **gift**.
+This repository is a **gift** from me to you.
 
 Not a product to sell.  
 Not a framework to optimize you.  
@@ -271,9 +273,9 @@ It is an **invitation** to remember:
 
 > You are not a resource.  
 > You are not a problem to solve.  
-> You are not late.  
-> You are not behind.  
+> You are **not late.**  
+> You are **not behind.**  
 > 
 > You are **alive**.  
 > 
-> *And that is enough.*
+> **And that is enough.**
