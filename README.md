@@ -152,11 +152,12 @@ Want more ideas?
 
        🫧❤️🍀 
 
-### Or! Maybe you want to **repair** your old stuff? 
+#### Or! Maybe you want to **repair** your old stuff? 
 
 [Repair Manifesto](./do-it-yourself/REPAIR_MANIFESTO.md)
-         🚲💻
-**Repair is not just practical. It is emotional archaeological and hurts Mammon in the heartbeat.**
+         
+       🚲💻
+**Repair is not just practical. It is emotional archaeological and hurts Mammon right in the heartbeat.**
 
 ---
 
