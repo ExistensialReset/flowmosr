@@ -47,7 +47,7 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 | **Interface Layer** | How GCCS funding supports Flow | UBIS → optional pooling → Node infrastructure → daily operations |
 
 ```
-┌─────────────────────────────┐
+       ┌─────────────────────────────┐
        │         GCCS (Macro)        │
        │  Universal Dividend & UBIS  │
        │  Legal protections          │
