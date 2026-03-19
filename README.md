@@ -156,8 +156,7 @@ Want more ideas?
 
 [Repair Manifesto](./do-it-yourself/REPAIR_MANIFESTO.md)
          🚲💻
-
-
+**Repair is not just practical. It is emotional archaeological and hurts Mammon in the heart.**
 
 ---
 
