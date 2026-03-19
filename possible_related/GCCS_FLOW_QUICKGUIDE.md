@@ -122,9 +122,9 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 ## 8. Reality Check
 
 **Current Status:**
-- GCCS: Published proposal, no nations ratified yet
-- Flow: 7 months development, no Nodes operational yet
-- Both: Early experimental phase
+- **GCCS:** Published proposal, no nations ratified yet
+- **Flow:** 7 months development, no Nodes operational yet
+- **Both:** Early experimental phase
 
 **What this means:**
 - You will be a pioneer, not a consumer
