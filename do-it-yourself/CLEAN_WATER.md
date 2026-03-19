@@ -75,6 +75,175 @@ This guide focuses on **practical, locally replicable methods** using inexpensiv
 
 ---
 
+🔥 HOW TO MAKE ACTIVATED CHARCOAL
+
+For water filtration, medicine, and soil regeneration
+
+Status: Practical DIY Protocol
+Materials: Wood (hardwood preferred), metal container with lid, fire source
+Time: 4-6 hours (mostly waiting)
+Difficulty: Medium (requires fire safety)
+
+---
+
+WHY MAKE YOUR OWN ACTIVATED CHARCOAL?
+
+Activated charcoal is a powerful, natural filter. It:
+
+- Binds chemical contaminants (pesticides, chlorine, some heavy metals)
+- Removes bad tastes and odors
+- Can be used in water filters, for first aid (poison absorption), and to improve soil
+
+Store-bought activated charcoal is expensive and often packaged in plastic.
+Making your own is cheap, low-tech, and uses materials you already have.
+
+---
+
+THE SCIENCE IN ONE SENTENCE
+
+Wood contains microscopic pores. When heated without oxygen (pyrolysis), it turns into charcoal.
+Activation opens those pores further, creating a massive surface area—a single gram can have over 1,000 square meters of surface area. That's what makes it so effective at trapping impurities.
+
+---
+
+STEP 1: MAKE CHARCOAL (Pyrolysis)
+
+You cannot just burn wood in open air—that gives you ash, not charcoal. You need to heat the wood without oxygen.
+
+What you need:
+
+- Hardwood (oak, birch, maple, fruit tree wood – no softwoods like pine, they contain resins)
+- A metal container with a tight-fitting lid (old paint can, large tin can, metal bucket)
+- A fire source (campfire, barbecue grill, outdoor fire pit)
+- Long metal tongs or thick gloves
+
+Method A: The Can Method (Small Batches)
+
+1. Cut wood into small pieces (2-5 cm thick). Remove bark if possible.
+2. Fill the metal container with wood pieces. Pack tightly, but leave a little space.
+3. Put the lid on TIGHTLY. The goal is to keep oxygen out. If you have a small hole, cover it with clay or mud.
+4. Place the container in the middle of a hot fire. Build the fire around it.
+5. Let it burn for 3-5 hours. You'll see smoke and possibly flames from the container – that's normal. Gases are escaping.
+6. Remove the container with tongs. Let it cool COMPLETELY before opening (several hours). If you open it while hot, the charcoal will catch fire.
+
+Method B: The Hole Method (Larger Batches)
+
+1. Dig a hole in the ground (about 50 cm deep).
+2. Line the bottom with dry wood and light it.
+3. Add more wood as the fire builds. Let it burn until you have a bed of red-hot coals.
+4. Cover the coals completely with a thick layer of dry soil (5-10 cm). This cuts off oxygen.
+5. Wait 12-24 hours. The coals will slowly turn to charcoal underground.
+6. Dig it up. You now have charcoal.
+
+---
+
+STEP 2: CRUSH THE CHARCOAL
+
+Once the charcoal is completely cool:
+
+1. Put it in a strong bag (old pillowcase, burlap sack).
+2. Crush it with a hammer or heavy object. You want small pieces, not powder.
+3. Sieve it. Keep pieces between 1-5 mm for water filters. Save the powder for other uses (soil, medicine).
+
+Wear a dust mask – charcoal dust is not good for your lungs.
+
+---
+
+STEP 3: ACTIVATE THE CHARCOAL (The Critical Step)
+
+Raw charcoal has some filtering ability. Activation makes it 100x more effective by opening the pores.
+
+What you need:
+
+- Crushed charcoal
+- Calcium chloride (can be bought as de-icer, or made by boiling eggshells in vinegar – see appendix)
+- OR lemon juice (weak but works)
+- Water
+- A metal container (old pot you don't care about)
+- Fire source
+
+Method:
+
+1. Make an activating solution:
+   - Mix 25% calcium chloride with 75% water.
+          Example: 250g calcium chloride + 750ml water.
+   - OR use concentrated lemon juice (not as strong, but works in emergencies).
+2. Soak the charcoal:
+   - Put crushed charcoal in the container.
+   - Pour the activating solution over it until fully covered.
+   - Stir well.
+   - Let it soak for 24 hours. Stir occasionally.
+3. Drain and rinse:
+   - Pour off the liquid (can be reused once or twice).
+   - Rinse the charcoal thoroughly with clean water to remove any remaining chemical.
+4. Dry the charcoal:
+   - Spread it on a tray in the sun, or
+   - Dry it in an oven at very low heat (100°C) until completely dry.
+5. Re-activate with heat (optional but recommended):
+   - Put the dry charcoal back in a sealed metal container.
+   - Heat it in a fire for another 1-2 hours.
+   - Let it cool completely before opening.
+
+This last heating step drives off anything absorbed during soaking and fully opens the pores.
+
+---
+
+STEP 4: TEST YOUR ACTIVATED CHARCOAL
+
+Simple test: Put a teaspoon of your charcoal in a glass of water with a few drops of food coloring. Stir for 5 minutes. If the water becomes clear, your charcoal works. If not, repeat the activation process.
+
+---
+
+HOW TO USE IT IN A WATER FILTER
+
+In the Flow Node Water Filter Guide, place your activated charcoal:
+
+- Between the fine sand and the cloth/cotton layer.
+- Make sure water flows SLOWLY through the charcoal layer (fast flow = less filtering).
+
+Replace the charcoal every 2-3 months, or sooner if water flow slows down (pores are clogged).
+
+---
+
+OTHER USES FOR ACTIVATED CHARCOAL
+
+- First aid: Mix with water to make a paste for poison emergencies (see Emergency Medicine guide).
+- Soil improvement: Mix into garden soil – it improves water retention and provides habitat for beneficial microbes.
+- Odor removal: Place dry charcoal in a cloth bag in the fridge, closet, or bathroom.
+
+---
+
+APPENDIX: MAKE YOUR OWN CALCIUM CHLORIDE
+
+If you can't buy calcium chloride, you can make a weak version:
+
+1. Save eggshells. Clean and dry them.
+2. Crush them into small pieces.
+3. Cover with white vinegar in a glass jar.
+4. Let it sit for 24 hours. It will bubble (that's the reaction).
+5. Strain out the liquid. This liquid contains calcium acetate – not as strong as calcium chloride, but works for emergency activation.
+
+---
+
+SAFETY NOTES
+
+- Work outdoors or in very well-ventilated areas.
+- Wear gloves and eye protection when handling chemicals.
+- Never open the hot container – the charcoal can ignite instantly.
+- Store activated charcoal in a dry place. Once activated, it will absorb moisture from the air.
+
+---
+
+FINAL WORD
+
+Making your own activated charcoal is not difficult. It takes time and attention, but the result is a powerful, reusable tool for clean water, health, and soil.
+
+Every batch you make increases your skills and your independence.
+
+"The best filter is the one you can make yourself."
+
+🌿🔥💧
+
 ### E. Maintenance
 
 - Replace sand and gravel regularly  
