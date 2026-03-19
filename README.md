@@ -53,16 +53,18 @@ Current system forces you to:
 - 2.5-10x current demand (viable renewables, not Sahara fantasies)
 - Source: IEA World Energy Outlook 2025
 
-**Cost per Person:**
+**Estimated cost per Person:**
 - CAPEX: $11,579 (one-time investment)
 - OPEX: **$74/month** (vs $1,300 Swedish baseline)
 - 94% cost reduction, 100% dignity increase
 
 **Labor Required:**
-- 24 hours/person/year for complete Baseline
+- 24 hours/person/year 
 - That's 28 minutes per week
 
 [Full calculations & sources: /data_validation/](/data_validation/) [and /implempentation](/implemmentation)
+
+You don’t have to believe this works. Just check if it’s internally consistent.
 
 ---
 
@@ -104,6 +106,22 @@ This isn't "let's all be nice" idealism. This is:
 **Philosopher?**  
 → [MANIFESTO](/ethos/MANIFESTO.md) - Why this matters  
 → [AXIOMS](/ethos/AXIOMS.md) - The unchangeable principles
+
+---
+
+### ⚡ Try it (24h experiment)
+
+You don't need land, money, or permission to start.
+
+Try this:
+
+1. Gather 2–5 people
+2. Share one meal (no transactions)
+3. Ask: "What do we actually need to feel okay this week?"
+4. Distribute tasks voluntarily
+5. Notice what changes
+ 
+
 
 ---
 
