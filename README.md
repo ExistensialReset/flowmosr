@@ -147,6 +147,14 @@ Try this:
 4. Distribute tasks voluntarily
 5. Notice what changes
 
+Want more ideas? 
+[Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md)
+
+       🫧❤️🍀 
+
+### Or! Maybe you want to **repair** your old stuff? 
+
+[REPAIR MANIFESTO] 
 ---
 
 Notice the moment today when you felt **alive**. ✨  
