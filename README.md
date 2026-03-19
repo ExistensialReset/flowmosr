@@ -1,4 +1,4 @@
-# 🌍 M-OS-R / Flow / Existential Reset 
+#  M-OS-R / Flow / Existential Reset 🌍
 ## A Complete Operating System for Human Flourishing
 
 **What if survival wasn't conditional? What if we stopped wasting 64% of human potential on bullshit?**
