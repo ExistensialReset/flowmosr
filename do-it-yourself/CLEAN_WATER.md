@@ -75,7 +75,7 @@ This guide focuses on **practical, locally replicable methods** using inexpensiv
 
 ---
 
-🔥 HOW TO MAKE ACTIVATED CHARCOAL
+**🔥 HOW TO MAKE ACTIVATED CHARCOAL**
 
 For water filtration, medicine, and soil regeneration
 
