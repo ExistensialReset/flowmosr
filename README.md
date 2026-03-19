@@ -154,7 +154,11 @@ Want more ideas?
 
 ### Or! Maybe you want to **repair** your old stuff? 
 
-[REPAIR MANIFESTO] 
+[Repair Manifesto](./do-it-yourself/REPAIR_MANIFESTO.md)
+         🚲💻
+
+
+
 ---
 
 Notice the moment today when you felt **alive**. ✨  
