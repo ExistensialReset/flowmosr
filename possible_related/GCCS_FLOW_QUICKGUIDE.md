@@ -46,6 +46,33 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 | **Flow (Micro)** | Local community execution | Circles & Nodes, LOTUS governance, Refugium Anima (care), Lyceum Musaeum (learning), Pooling modes, Exit & Fork rights |
 | **Interface Layer** | How GCCS funding supports Flow | UBIS → optional pooling → Node infrastructure → daily operations |
 
+```
+┌─────────────────────────────┐
+       │         GCCS (Macro)        │
+       │  Universal Dividend & UBIS  │
+       │  Legal protections          │
+       │  Planetary coordination     │
+       └─────────────┬──────────────┘
+                     │
+       ┌─────────────▼──────────────┐
+       │      Interface Layer        │
+       │ Optional pooling & voting  │
+       │ Transparency, exit rights  │
+       └─────────────┬──────────────┘
+                     │
+       ┌─────────────▼──────────────┐
+       │       Flow Node (Micro)     │
+       │ Circles & LOTUS governance │
+       │ Refugium Anima (care)      │
+       │ Lyceum Musaeum (learning)  │
+       │ Daily operations           │
+       └────────────────────────────┘ 
+```
+**Key:**  
+- GCCS provides resources & legal framework  
+- Interface layer handles **pooling, voting, transparency**  
+- Flow Node executes daily life, care, governance  
+
 ---
 
 ## 3. Flow Node Integration (Simple)
