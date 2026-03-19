@@ -30,10 +30,10 @@ Current system forces you to:
 
 **Baseline (Unconditional):**
 - Food, housing, healthcare, internet, energy
-- Lyceum Musaeum (learning/creation without credentials)  
-- Refugium Anima (rest/recovery without diagnosis)
+- [Lyceum Musaeum(./ethos/LYCEUM_MUSAEUM.md)  (learning/creation without credentials)  
+- [Refugium Anima](./ethos/REFUGIUM_ANIMA.md) (rest/recovery without diagnosis)
 
-**LOTUS Governance (Sortition = Lottery):**
+**[LOTUS Governance](./LOTUS_GOVERNANCE_PROTOCOL_v2.md) (Sortition = Lottery):**
 - Random selection, time-limited (max 9 months)
 - No campaigns, no elections, no personality cults
 - Constitutional constraints (axioms cannot be changed)
