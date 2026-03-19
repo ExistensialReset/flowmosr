@@ -77,7 +77,7 @@ This guide focuses on **practical, locally replicable methods** using inexpensiv
 
 **🔥 HOW TO MAKE ACTIVATED CHARCOAL**
 
-***For water filtration, medicine, and soil regeneration. ***
+***For water filtration, medicine, and soil regeneration.***
 
 **Materials:** Wood (hardwood preferred), metal container with lid, fire source
 **Time:** 4-6 hours (mostly waiting)
