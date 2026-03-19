@@ -32,12 +32,13 @@
 ## 🏗️ Layered Model
 
 LAYERED ARCHITECTURE
-
+```
 MACRO (GCCS) - Infrastructure
            |
     INTERFACE - Flow Node integration
            |
     MICRO (Flow) - Local execution, community governance
+```
 
 **Key Points:**
 
