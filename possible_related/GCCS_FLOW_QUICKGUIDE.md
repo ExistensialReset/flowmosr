@@ -133,6 +133,7 @@ Flow can operate without GCCS; GCCS accelerates scaling.
 - Your experience shapes the system
 
 **Join if:** You want to build alternatives, not wait for them
+
 **Skip if:** You need guarantees before trying
 
 ---
