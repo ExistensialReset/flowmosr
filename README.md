@@ -70,7 +70,7 @@ You don’t have to believe this works. Just check if it’s internally consiste
 ---
 
 
-### 🧠 Built Different
+### 🧠 Built different
 
 This isn't "let's all be nice" idealism. This is:
 
@@ -81,7 +81,7 @@ This isn't "let's all be nice" idealism. This is:
 
 **Trauma-Informed:**
 - Refugium Anima (screaming room without judgment)
-- Neurodivergent protocols (142K lines - environment adapts, not you)
+- Extensive [Neurodivergent global protocols](./guides/ethics_care/NEURODIVERGENT_PROTOCOL_GLOBAL.md) (140k+ lines - environment adapts, not you)
 - Children's rights (anti-cult safeguards built in)
 
 **Nervous System First:**
@@ -159,6 +159,7 @@ So! Maybe you want to **repair** your old stuff?
 [Repair Manifesto](./do-it-yourself/REPAIR_MANIFESTO.md)
          
        🚲💻
+
 **Repair is not just practical. It is emotional archaeological and hurts Mammon right in the heartbeat.**
 
 ---
