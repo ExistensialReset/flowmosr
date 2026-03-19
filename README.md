@@ -39,6 +39,7 @@ Current system forces you to:
 - Constitutional constraints (axioms cannot be changed)
 
 **Formula:** Life = Lugn (Calm) × Spontanitet (Spontaneity) × Inkännande (Empathy)  
+
 *If any factor = 0, quality of life collapses to 0*
 
 ---
