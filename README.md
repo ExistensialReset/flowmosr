@@ -30,7 +30,7 @@ Current system forces you to:
 
 **Baseline (Unconditional):**
 - Food, housing, healthcare, internet, energy
-- [Lyceum Musaeum(./ethos/LYCEUM_MUSAEUM.md)  (learning/creation without credentials)  
+- [Lyceum Musaeum](./ethos/LYCEUM_MUSAEUM.md)  (learning/creation without credentials)  
 - [Refugium Anima](./ethos/REFUGIUM_ANIMA.md) (rest/recovery without diagnosis)
 
 **[LOTUS Governance](./LOTUS_GOVERNANCE_PROTOCOL_v2.md) (Sortition = Lottery):**
