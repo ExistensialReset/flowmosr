@@ -185,7 +185,7 @@ Notice the moment today when you felt **alive**. ✨
   /ethics_care/             - Trauma protocols, neurodivergent care
   /economics/               - Hybrid survival guide, transition
 /data_validation/           - All the receipts (FAO, IEA, WHO sources)
-/implementation/            - cost calculators, specs
+/implemetation/            - cost calculators, specs
 /scandinavia/               - HELIX NODE (Göteborg prototype)
 /reflections/               - What AI companions said about this
 /tools/                     - Python scripts
