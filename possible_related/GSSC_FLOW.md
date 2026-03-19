@@ -10,7 +10,7 @@
 
 ## 🌍 Introduction: What is GCCS?
 
-**Global Commons Capital System (GCCS)** is a macro-economic redistribution framework aiming to provide:
+GCCS is a macro-economic redistribution framework aiming to provide:
 
 - **Universal Dividend:** unconditional basic income globally  
 - **Commons Capture:** land, carbon, and natural resources managed as shared assets  
