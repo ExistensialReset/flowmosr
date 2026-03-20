@@ -3,7 +3,7 @@
 **Version:** 2.0  
 **Status:** ACTIVE PRINCIPLES FRAMEWORK  
 **Scope:** Global  
-**Authors:** Elinor Frejd & Claude  
+**Authors:** Elinor Frejd & Claude & ChatGPT 
 **Date:** March 20, 2026  
 
 ---
@@ -2416,3 +2416,73 @@ A system **survives** if:
 ---
 
 **END DOCUMENT**
+
+> # Appendix A: Pattern Awareness Mini-Guide
+>
+> **Purpose:**  
+> To support Circles and Nodes in noticing recurring behaviors or situations without creating social scores or reputational hierarchies. Pattern Awareness is strictly for **attention, protection, and facilitation**.
+>
+> ---
+>
+> ## 1. What is a Pattern?
+> - A **pattern** is a repeated behavior, interaction, or signal that may indicate dysregulation, unmet needs, or systemic risk.  
+> - Patterns **do not judge character**. No one is "good" or "bad."  
+> - Patterns are used to **inform Circle decisions**, support individuals, and maintain safety—not for ranking or punishment.
+>
+> ---
+>
+> ## 2. Who Observes and Logs Patterns?
+> - **Human Mirrors / Circle facilitators** are the primary observers.  
+> - Observations must be:
+>   - Directly related to **Flow safety or wellbeing**
+>   - Specific and factual (e.g., "Repeated withdrawal from group tasks" or "Verbal escalation observed twice in past week")
+>   - Temporally bound, with **decay over time** (patterns fade if behavior no longer recurs)
+>
+> - Observers **cannot**:
+>   - Assign points, labels, or reputational scores
+>   - Share patterns outside sanctioned Nodes/Circles without consent
+>   - Use patterns as punishment justification
+>
+> ---
+>
+> ## 3. How Patterns Are Used
+> 1. **Alert Circles / Nodes** to recurring dynamics that may require intervention.
+> 2. **Guide Restorative Pathways**:
+>    - Determine if additional regulation or support is needed
+>    - Offer voluntary engagement opportunities
+> 3. **Support Safety Measures**:
+>    - Identify when Protective Coexistence or other interventions are required
+> 4. **Document for Learning, Not Judgment**:
+>    - Patterns are ephemeral, context-aware signals
+>    - Only aggregate anonymized data for Node-level process improvement
+>
+> ---
+>
+> ## 4. Retention and Privacy
+> - Patterns must **decay** after a set period (e.g., 3 months) unless actively relevant.  
+> - Pattern logs are **encrypted and access-limited**:
+>   - Only facilitators with active role in the Circle/Node can view
+>   - No centralized “pattern database” for social ranking
+> - Any historic patterns used must **strictly support safety and Flow**, never reputational evaluation
+>
+> ---
+>
+> ## 5. Guiding Questions for Facilitators
+> - Does this pattern indicate **safety risk** or need for regulation?  
+> - Am I **not labeling or judging** the person?  
+> - Am I respecting **privacy and Baseline rights**?  
+> - Is this observation **time-bound and ephemeral**?  
+> - How does sharing this pattern **support Flow** rather than control?
+>
+> ---
+>
+> **Critical Principle:**  
+> > Pattern Awareness exists to maintain Flow, protect safety, and guide support.  
+> > It is **never** a social score, ranking, or punitive measure.
+>
+> ---
+>
+> **Integration:**  
+> - Use in conjunction with **FLOW_JUSTICE_PRINCIPLES.md** sections: Pattern-Aware, Safeguards, and Graduated Response.  
+> - Reference in **Circle facilitation training**.  
+> - Update annually with Node-level review to ensure adherence to non-coercive, restorative philosophy.
