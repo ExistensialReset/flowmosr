@@ -584,6 +584,35 @@ Containment in Flow means:
 
 **Separation is for safety, not punishment.**
 
+## REPEAT SEVERE HARM — CONTAINMENT ESCALATION
+
+**Principle:**
+***When a person demonstrates repeated, severe harm with high likelihood of recurrence, Flow prioritizes long-term safety through structured containment rather than punishment.***
+
+**Response:**
+Flow may initiate **Permanent Protective Containment (PPC)** when:
+- Multiple Level 3 harms are confirmed
+- Pattern similarity is present
+- Independent review assesses high recurrence risk
+
+**PPC Characteristics:**
+
+- Full Baseline maintained
+- No incarceration or cages
+- Movement and access restricted
+- Structured, high-support environments
+- Ongoing (but stringent) review
+
+**Purpose:**
+- Prevent further harm
+- Preserve dignity
+- Avoid dehumanization
+- Maintain system integrity
+
+**Principle:***
+> ***Freedom is  preserved where possible.
+> Safety is preserved where necessary.***
+
 ---
 
 # V. INTEGRATION WITH FLOW SYSTEMS
