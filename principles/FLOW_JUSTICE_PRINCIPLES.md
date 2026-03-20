@@ -12,6 +12,8 @@
 
 This document defines the foundational principles of justice within Flow.
 
+This system uses constrained, transparent, minimal coercive force for safety.
+
 Justice in Flow is not retribution.  
 Justice is not punishment.  
 Justice is not pain exchanged for pain.
