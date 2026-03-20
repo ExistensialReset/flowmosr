@@ -2366,6 +2366,361 @@ A system **survives** if:
 
 ---
 
+## XIII. INTERSECTIONALITY: WHEN DIMENSIONS COLLIDE
+
+### PURPOSE
+
+This section addresses what happens when multiple vulnerable dimensions overlap in a single case.
+
+**The problem:**
+Flow has separate frameworks for:
+- Children (Section X.1)
+- Mental health/disability (Section X.2)
+- Cultural context (Section X.3)
+
+But reality doesn't respect category boundaries.
+
+**The question:**
+A child with psychosis in a culture where psychosis is understood as spiritual attack—which framework governs?
+
+**The answer:**
+All of them, simultaneously, with clear prioritization principles.
+
+---
+
+### FOUNDATIONAL PRINCIPLE
+
+**Intersectionality is not addition—it's multiplication.**
+
+A child + mental health crisis + cultural trauma ≠ three separate issues.  
+It's a **single lived reality** requiring **integrated response**.
+
+Flow does not ask: "Which category does this belong to?"  
+Flow asks: "What does safety require right now, given all dimensions present?"
+
+---
+
+### CORE PRIORITIZATION HIERARCHY
+
+When dimensions conflict, Flow uses this hierarchy:
+
+**1. Immediate physical safety** (always first)  
+**2. Baseline inviolability** (never suspended)  
+**3. Developmental protection** (children's neurological vulnerability)  
+**4. Capacity assessment** (can the person regulate enough to participate?)  
+**5. Cultural adaptation** (within axiom boundaries)
+
+This is not rigid.  
+Context shifts priorities within this framework.
+
+---
+
+### SCENARIO 1: CHILD WITH PSYCHOSIS IN COLLECTIVIST CULTURE
+
+**Situation:**
+14-year-old in active psychosis caused harm during an episode. Family culture views mental health intervention as shameful and prefers traditional healing.
+
+**Intersecting dimensions:**
+- Child (developmental protection applies)
+- Mental health (capacity assessment needed)
+- Cultural (traditional healing practices valued)
+
+**Flow response:**
+
+**Step 1: Immediate safety**
+- Child separated from situation, not from care
+- Baseline maintained (food, shelter, medical care)
+- No punitive language, no shaming
+
+**Step 2: Capacity assessment**
+- Independent psychiatric evaluation (not family-selected)
+- Somatic testimony alongside clinical assessment
+- Determination: capacity was absent during episode
+
+**Step 3: Developmental protection**
+- Youth Harm Protocol activates (no adult accountability framework)
+- Child never labeled as perpetrator
+- Focus on regulation, not punishment
+
+**Step 4: Cultural adaptation**
+- Traditional healing offered *alongside* psychiatric care, not instead of
+- Family involved in care decisions *within safety boundaries*
+- Cultural context honored *as long as it doesn't deny medical intervention*
+
+**Decision logic:**
+- Cultural preference for traditional healing: **honored**
+- Cultural resistance to psychiatric evaluation: **overridden** (developmental protection + capacity assessment take priority)
+- Family involvement: **maximized within safety constraints**
+
+**Key principle:**  
+Culture shapes *how* care is delivered, not *whether* evidence-based care happens.
+
+---
+
+### SCENARIO 2: DISABLED ADULT IN CULTURAL CONTEXT WITH STRICT GENDER NORMS
+
+**Situation:**
+Adult with intellectual disability caused harm. Their culture has strict gender separation, and victim requests same-gender facilitators only. Person who caused harm is opposite gender, limiting facilitator pool.
+
+**Intersecting dimensions:**
+- Disability (capacity assessment needed)
+- Cultural (gender norms must be respected for victim safety)
+- Victim protection (veto rights apply)
+
+**Flow response:**
+
+**Step 1: Victim protection**
+- Victim's request for same-gender facilitators: **honored absolutely**
+- Victim comfort is non-negotiable
+
+**Step 2: Capacity assessment**
+- Evaluate if person understands harm caused
+- Determine if cognitive disability affected capacity during incident
+- Decision: partial capacity—understood action, not consequence
+
+**Step 3: Adapted process**
+- External LOTUS panel selected with gender constraints respected
+- Smaller facilitator pool accepted as operational cost
+- Timeline extended if needed to find appropriate panel
+
+**Step 4: Cultural integration**
+- Gender separation maintained throughout process
+- Cultural representatives can observe/advise
+- Restorative pathway adapted to cultural communication norms
+
+**Key principle:**  
+Victim safety determines process structure.  
+Disability determines accountability framework.  
+Culture determines *how* both are implemented.
+
+---
+
+### SCENARIO 3: CHILD FROM MARGINALIZED CULTURE ACCUSED OF HARM
+
+**Situation:**
+12-year-old from marginalized ethnic group accused of stealing from dominant-culture family. Historical context: systemic discrimination, over-policing of this group.
+
+**Intersecting dimensions:**
+- Child (Youth Harm Protocol applies)
+- Cultural (power differential and historical trauma)
+- Potential pattern bias (is this child being targeted?)
+
+**Flow response:**
+
+**Step 1: Pattern check**
+- Review: Are children from this group disproportionately accused?
+- External review panel examines case for bias
+- Historical context explicitly named in process
+
+**Step 2: Evidence threshold**
+- Higher evidence standard applied due to historical discrimination
+- Independent verification of theft claim
+- Somatic testimony from both child and accuser
+
+**Step 3: Youth protection**
+- If theft occurred: Youth Harm Protocol, not adult accountability
+- Focus on need (why did child take resources?) not punishment
+- Baseline assessment: Is child's family under resource stress?
+
+**Step 4: Structural response**
+- If pattern bias confirmed: systemic intervention, not individual case only
+- Resource redistribution to affected community
+- Dominant-culture education on historical harm
+
+**Key principle:**  
+Individual justice cannot ignore structural injustice.  
+Historical trauma context is *required data*, not optional.
+
+---
+
+### SCENARIO 4: ELDER WITH DEMENTIA CAUSES HARM
+
+**Situation:**
+Elder with advancing dementia becomes aggressive, causes physical harm to caregiver. Family culture emphasizes elder care at home, resists institutional placement.
+
+**Intersecting dimensions:**
+- Cognitive disability (dementia progression)
+- Cultural (family obligation to care for elders)
+- Caregiver safety (Baseline violation)
+
+**Flow response:**
+
+**Step 1: Safety**
+- Immediate separation to protect caregiver
+- Elder maintains Baseline (not sent to institution as punishment)
+- Caregiver gets medical care, rest, support
+
+**Step 2: Capacity assessment**
+- Medical evaluation: dementia has eliminated capacity for accountability
+- No restorative process (person cannot engage)
+- Focus shifts entirely to care, not justice
+
+**Step 3: Cultural adaptation**
+- Family's wish for home care: honored *if caregiver safety can be ensured*
+- Resources provided: professional home care support, respite care, safety training
+- If home care unsafe: protective coexistence with family *visiting* elder in care setting
+
+**Step 4: Ongoing care**
+- No "case closure"—this is permanent care coordination
+- Regular reassessment as dementia progresses
+- Caregiver's Baseline protected (they cannot be required to sacrifice safety)
+
+**Key principle:**  
+When capacity is absent, justice becomes care.  
+Cultural values honored *within safety limits*.  
+Caregiver protection is not elder abandonment.
+
+---
+
+### SCENARIO 5: NEURODIVERGENT CHILD IN ZERO-TOLERANCE SCHOOL CULTURE
+
+**Situation:**
+8-year-old autistic child has meltdown in school, throws object, accidentally injures teacher. School culture has zero-tolerance violence policy. School threatens expulsion.
+
+**Intersecting dimensions:**
+- Child (developmental + neurological)
+- Disability (autism-related regulation challenges)
+- Institutional culture (punitive school norms)
+
+**Flow response:**
+
+**Step 1: Immediate reframe**
+- This is not "violence"—this is dysregulation
+- Meltdown is involuntary nervous system response
+- Capacity was absent during incident
+
+**Step 2: Developmental protection**
+- Child is *never* labeled violent or dangerous
+- Focus on regulation support, not punishment
+- Expulsion is Baseline violation (education is Baseline right)
+
+**Step 3: Disability accommodation**
+- School required to provide sensory-safe space
+- Staff trained in autism-informed de-escalation
+- Triggers identified and minimized
+- Child not responsible for school's lack of accommodation
+
+**Step 4: Cultural intervention**
+- School's zero-tolerance policy: **incompatible with Flow**
+- Education on disability justice required
+- If school refuses accommodation: child relocated to different school, *school* held accountable for Baseline violation
+
+**Key principle:**  
+Disability is not a behavioral problem requiring punishment.  
+Institutions that cannot accommodate disability are the problem.  
+Child's right to education cannot be suspended.
+
+---
+
+### WHEN FRAMEWORKS CONFLICT: DECISION MATRIX
+
+| **If dimension A says:** | **And dimension B says:** | **Flow prioritizes:** |
+|---|---|---|
+| Child protocol: restore child to family | Safety protocol: family is source of harm | **Safety** (child protected first, family reunification only if safe) |
+| Cultural norm: forgiveness required | Victim protection: no pressure to forgive | **Victim autonomy** (culture informs, does not compel) |
+| Disability: person lacked capacity | Pattern tracking: repeat offender | **Capacity assessment** (if capacity absent, pattern tracking informs *care* not punishment) |
+| Cultural healing: traditional ceremony only | Medical necessity: psychiatric intervention needed | **Medical safety** (traditional *and* medical, not either/or) |
+| Youth protocol: restorative only | Severe harm: LOTUS review required | **Harm severity** (youth-adapted LOTUS, not adult framework, not no accountability) |
+
+---
+
+### OPERATIONAL GUIDANCE FOR FACILITATORS
+
+**When facing intersectional cases:**
+
+**1. Name all dimensions explicitly**  
+Don't pretend complexity doesn't exist.  
+State: "This involves a child, cognitive disability, and cultural context. All three matter."
+
+**2. Consult specialists from each domain**  
+One facilitator cannot hold all expertise.  
+Convene: child development specialist + disability advocate + cultural liaison.
+
+**3. Apply prioritization hierarchy**  
+Safety → Baseline → Development → Capacity → Culture  
+Not as rigid rule, but as decision guide.
+
+**4. Document decision logic**  
+Explain which framework took priority and why.  
+Transparency prevents bias from hiding in "judgment calls."
+
+**5. Adapt process, not principles**  
+Process can flex.  
+Axioms cannot.
+
+**Example log entry:**
+"Cultural preference for family-only mediation noted and honored. However, child's developmental need for external witness overrides cultural preference in this case. Family participates, external facilitator required. Cultural liaison present to ensure respect throughout."
+
+---
+
+### INTERSECTIONAL EQUITY PRINCIPLE
+
+**Privilege is invisible to those who have it.**
+
+Flow explicitly names power differentials:
+- Adult/child
+- Neurotypical/neurodivergent
+- Dominant culture/marginalized culture
+- Able-bodied/disabled
+- Economically secure/precarious
+
+**In intersectional cases, the question is always:**
+> Who holds structural power here, and how does that shape what "fairness" looks like?
+
+Equality ≠ treating everyone the same.  
+Equity = adjusting for existing imbalance.
+
+---
+
+### FORBIDDEN INTERSECTIONAL MOVES
+
+**❌ "This is too complicated, let's simplify to one framework."**  
+Complexity is the reality. Ignoring it creates harm.
+
+**❌ "Cultural relativism means we accept all cultural practices."**  
+Culture is honored *within axiom boundaries*.  
+Practices that violate Baseline or safety are not protected by cultural context.
+
+**❌ "Disability explains everything, so there's no accountability."**  
+Disability affects *how* accountability happens, not *whether*.  
+Care and accountability coexist.
+
+**❌ "We treated everyone equally."**  
+Equal treatment of unequal situations is injustice.
+
+---
+
+### FINAL INTERSECTIONAL PRINCIPLE
+
+**The person in front of you is not a category.**  
+They are a **whole human** experiencing multiple realities simultaneously.
+
+Flow does not ask: "Which box do they belong in?"  
+Flow asks: "What does this specific human need right now to be safe, seen, and held accountable in a way their nervous system can integrate?"
+
+**Justice is not checklist compliance.**  
+**Justice is adaptive precision.**
+
+---
+
+### CROSS-DIMENSIONAL INTEGRATION CHECKLIST
+
+For every intersectional case, facilitators must verify:
+
+✓ All relevant dimensions identified  
+✓ Specialists from each domain consulted  
+✓ Prioritization hierarchy applied transparently  
+✓ Cultural context honored within safety boundaries  
+✓ Capacity assessment completed before accountability framework chosen  
+✓ Developmental needs protected (if child involved)  
+✓ Power differentials explicitly named  
+✓ Decision logic documented  
+✓ Victim safety prioritized throughout  
+✓ Baseline maintained for all parties  
+
+ 
+---
+
 ## STATUS
 
 **Operational Principles Framework v2.0**  
