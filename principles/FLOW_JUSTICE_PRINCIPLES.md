@@ -2417,6 +2417,8 @@ A system **survives** if:
 
 **END DOCUMENT**
 
+---
+
 > # Appendix A: Pattern Awareness Mini-Guide
 >
 > **Purpose:**  
