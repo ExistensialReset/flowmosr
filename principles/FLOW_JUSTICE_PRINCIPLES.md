@@ -974,7 +974,7 @@ If process harms child more than helps, it stops.
 ### Integration with Other Frameworks
 
 **See Also:**
-- **YOUTH_HARM_PROTOCOL.md** (if exists - comprehensive youth-specific procedures)
+- **YOUTH_HARM_PROTOCOL.md** (comprehensive youth-specific procedures)
 - **CHILDREN_RIGHTS_IN_FLOW.md** (child's right to incomprehensibility)
 - **CHILDREN_PARTICIPATION_PLAYBOOK.md** (age-appropriate engagement)
 - **REFUGIUM_ANIMA.md** (sections 3, 4, 5 - child-specific protections)
