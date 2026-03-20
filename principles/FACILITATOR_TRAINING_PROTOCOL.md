@@ -1115,14 +1115,14 @@ You create the conditions for youth to:
 **END DOCUMENT**
 
 > [!NOTE] 
-
-
-# APPENDIX A: CHILD WITNESS SPECIALIST CERTIFICATION PROGRAM
-
-**Program Duration:** 60-80 hours initial training + supervised practice  
-**Role:** Support children through Level 3 LOTUS processes involving severe harm  
-**Status:** Advanced Specialization  
-**Prerequisites:** Professional background in child trauma or mental health required
+>
+>
+> # APPENDIX A: CHILD  WITNESS SPECIALIST  CERTIFICATION PROGRAM
+>
+> **Program Duration:** 60-80 hours initial training + supervised practice  
+> **Role:** Support children through Level 3 LOTUS processes involving severe harm  
+> **Status:** Advanced Specialization  
+> **Prerequisites:**  Professional background in child trauma or mental health required
 
 ---
 
