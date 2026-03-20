@@ -2419,6 +2419,7 @@ A system **survives** if:
 
 ---
 
+[!NOTE]
 > # Appendix A: Pattern Awareness Mini-Guide
 >
 > **Purpose:**  
