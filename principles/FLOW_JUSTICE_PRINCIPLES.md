@@ -1,6 +1,6 @@
 # FLOW_JUSTICE_PRINCIPLES.md
 
-**Version:** 2.0  
+**Version:** 1.0  
 **Status:** ACTIVE PRINCIPLES FRAMEWORK  
 **Scope:** Global  
 **Authors:** Elinor Frejd & Claude  
@@ -872,6 +872,668 @@ That society is Flow.
 
 ---
 
+# X. SPECIAL POPULATIONS AND CONTEXTS
+
+## A. CHILDREN AND JUSTICE
+
+### Core Principle
+Children's brains are developing. Harm caused by children is treated as developmental need, not criminal behavior.
+
+### When Children Cause Harm
+
+**Age-Appropriate Accountability:**
+
+**Under 7 years:**
+- No formal accountability process
+- Treated as adult supervision failure
+- Focus on caregiver support and child safety
+- Circle addresses what systems failed to protect child
+
+**Ages 7-12:**
+- Restorative process only, highly simplified
+- Child-witness present (trauma-informed specialist)
+- Language developmentally appropriate
+- Shorter timeframes (attention span limits)
+- Parent/caregiver involved but not controlling
+- Focus on learning, not punishment
+- Circle may include peers if appropriate and safe
+
+**Ages 13-17:**
+- Graduated response available but heavily adapted
+- Longer attention spans but still developing prefrontal cortex
+- Peer accountability may be stronger than adult
+- Future-oriented rather than past-focused
+- Educational component emphasized
+- Transition planning for adulthood
+
+**Universal Protections (All Ages):**
+- Never: Isolation of child under 12
+- Never: Removal from family without Baseline crisis
+- Never: Incarceration at any age
+- Never: Baseline withdrawal
+- Never: Public shaming or humiliation
+- Never: Permanent records that follow into adulthood
+
+**Adaptations in Process:**
+
+**Language:**
+- Concrete rather than abstract
+- "What happened" not "Why did you do it"
+- Body-based ("Where do you feel this?")
+- Age-appropriate metaphors
+
+**Timeframes:**
+- Multiple short sessions, not marathon meetings
+- Breaks every 20-30 minutes for young children
+- Child signals when they need to stop
+- Process can pause indefinitely if child dysregulated
+
+**Roles:**
+- Child-witness mandatory (not same as advocate)
+- Witness protects child's nervous system
+- Witness can pause process if child distressed
+- Witness ensures no re-traumatization
+
+**Restorative Pathways for Children:**
+- Apology (if genuine and not coerced)
+- Making amends through age-appropriate action
+- Learning new skills to prevent recurrence
+- Art/creative expression of understanding
+- Peer mediation if appropriate
+
+### When Children Are Harmed
+
+**Additional Victim Protections:**
+
+**Immediate Response:**
+- Child-witness assigned immediately
+- Refugium access prioritized
+- No requirement to report/testify immediately
+- Parent/caregiver support (unless they are perpetrator)
+
+**Testimony Adaptations:**
+- Play therapy observation (child shows through play)
+- Art/drawing methods
+- Doll/figure demonstration
+- Somatic questioning (body-based)
+- Video testimony (never in room with perpetrator)
+- Multiple modalities honored
+
+**Ongoing Support:**
+- Extended timeline accommodations
+- Developmental assessment included
+- Family system evaluation
+- Therapeutic support integrated
+- No pressure for "closure" or forgiveness
+
+**Critical Principle:**
+> A child's peace is more important than procedural completion.
+
+If process harms child more than helps, it stops.
+
+### Integration with Other Frameworks
+
+**See Also:**
+- **YOUTH_HARM_PROTOCOL.md** (if exists - comprehensive youth-specific procedures)
+- **CHILDREN_RIGHTS_IN_FLOW.md** (child's right to incomprehensibility)
+- **CHILDREN_PARTICIPATION_PLAYBOOK.md** (age-appropriate engagement)
+- **REFUGIUM_ANIMA.md** (sections 3, 4, 5 - child-specific protections)
+- **THE_MANDATE_OF_NINE_MOONS.md** (§4.3 - child's veto power)
+
+---
+
+## B. MENTAL HEALTH AND ACCOUNTABILITY
+
+### Core Principle
+Mental illness does not eliminate accountability, but it fundamentally changes the process and our understanding of what "accountability" means.
+
+### Key Questions
+
+When harm and mental illness intersect, we ask:
+- Was the person capable of understanding their actions at the time?
+- Was the person in acute psychiatric crisis?
+- What support systems failed before harm occurred?
+- How do we prevent similar failures in the future?
+
+### Acute Psychiatric Crisis
+
+**Conditions:** Acute psychosis, mania, severe dissociation, catatonic depression, acute PTSD flashback
+
+**Immediate Response:**
+- Medical stabilization first (not punishment)
+- Refugium + psychiatric care
+- Accountability process paused until person stabilized
+- Assessment of capacity at time of harm
+
+**Capacity Assessment:**
+
+If person **lacked capacity** at time of harm:
+- Primary accountability shifts to *system* that failed to provide adequate support
+- Questions become: "What early warning signs were missed?" "What resources were unavailable?" "How do we prevent this system failure?"
+- Person may still be separated if safety requires, but framed as care containment not punishment
+- Focus on treatment and support, not restorative justice process
+
+If person **had capacity** despite mental illness:
+- Standard graduated response applies
+- With comprehensive accommodations for ongoing mental health needs
+- Medication/therapy never contingent on justice compliance
+- Regular psychiatric monitoring during process
+
+### Chronic Mental Illness
+
+**Conditions:** Schizophrenia, bipolar disorder, severe depression, PTSD, etc.
+
+**Process Adaptations:**
+
+**Communication:**
+- Written documentation of all agreements
+- Clear, concrete language (avoid abstractions)
+- Frequent check-ins on understanding
+- Multiple channels (verbal + written + visual)
+
+**Environment:**
+- Sensory accommodations in all proceedings
+- Quiet spaces available
+- Stimming/fidgeting allowed
+- Extended processing time
+- Medication schedules honored
+
+**Pattern Recognition:**
+- Focus on *system failure* not individual failure
+- "What support was missing that could have prevented this?"
+- Increased care resources, not increased isolation
+- Proactive crisis planning for future
+
+**Medication Access:**
+- Never conditional on compliance with justice process
+- Never withheld as leverage
+- Privacy around psychiatric treatment maintained
+- Refugium access includes psychiatric care
+
+### Neurodivergence
+
+**Conditions:** Autism, ADHD, learning disabilities, acquired brain injury, dementia
+
+**Universal Accommodations:**
+- Communication adaptations (AAC devices, visual supports, extra processing time)
+- Sensory accommodations (lighting, sound, texture)
+- Executive function support (written checklists, reminders, simplified steps)
+- Stimming and self-regulation behaviors welcomed
+- Literal interpretation acknowledged (avoid sarcasm, metaphors without explanation)
+
+**Autism-Specific:**
+- Social communication differences recognized (may not make eye contact, may have flat affect)
+- Special interests may be incorporated in restorative pathway
+- Sensory overwhelm = valid reason to pause process
+- Scripts and predictability reduce anxiety
+
+**ADHD-Specific:**
+- Shorter meeting segments
+- Movement breaks built in
+- Written summaries after verbal discussions
+- Impulsivity acknowledged in understanding harm
+- Executive function coaching in restorative plan
+
+### The Capacity Spectrum
+
+**We recognize:**
+- Capacity is not binary (capable/incapable)
+- Capacity fluctuates (good days/bad days)
+- Capacity is domain-specific (capable of X but not Y)
+- Medication, sleep, stress all affect capacity
+
+**Assessment Approach:**
+- Focus on capacity *at time of harm* not current capacity
+- Consider: Did person understand? Could they control actions? Did they appreciate consequences?
+- Involve psychiatric professionals in assessment
+- Document fluctuating capacity patterns
+
+### Restorative Pathways with Mental Illness
+
+**When person had capacity:**
+- Standard pathways available
+- Adaptations as needed
+- Support intensified throughout
+- Mental health treatment parallel to justice process
+
+**When capacity was compromised:**
+- Focus shifts to: What treatment/support needed?
+- What system changes prevent recurrence?
+- How do we keep all parties safe?
+- Restorative conversation possible later if/when capacity returns
+
+### Critical Distinction
+
+**Dysregulation vs Mental Illness:**
+
+**Dysregulation** (anyone can experience):
+- Temporary nervous system overwhelm
+- Triggered by stress, trauma, exhaustion
+- Refugium restores regulation
+- Universal human experience
+
+**Mental Illness** (chronic condition):
+- Persistent alteration in brain function
+- May require medication, therapy, ongoing support
+- Refugium helps but doesn't "cure"
+- Medical condition, not character flaw
+
+Both deserve compassion. Both may intersect with harm.  
+Approach differs based on chronicity and capacity impact.
+
+### Integration with Other Systems
+
+**See Also:**
+- **MENTAL_HEALTH_DISABILITY_ACCOUNTABILITY_INTEGRATION.md** (comprehensive framework)
+- **REFUGIUM_ANIMA.md** (psychiatric care infrastructure)
+- **FLOW_HEALTHCARE_PRINCIPLES.md** (mental health as Baseline right)
+- **BASELINE_EMERGENCY_BYPASS.md** (psychiatric crisis protocols)
+
+---
+
+## C. CULTURAL ADAPTATION AND IMPLEMENTATION
+
+### Core Principle
+Justice principles are universal. Implementation methods are culturally adapted.
+
+### What Cannot Change (Universal Principles)
+
+These are grounded in Axioms and cannot be altered for cultural reasons:
+
+1. **Baseline Inviolability** — No one starved, homeless, or denied healthcare as punishment
+2. **No Incarceration** — Bodies never in cages
+3. **Victim Never Moves** — Perpetrator isolated, not victim
+4. **Trauma-Informed Process** — Regulation before dialogue
+5. **No Coercion** — Voluntary participation
+6. **No Value Ranking** — Humans not scored or ranked
+7. **Exit Rights** — Anyone can leave Flow
+8. **Proportionate Response** — Minimum intervention necessary
+
+**These are structural constraints, not cultural preferences.**
+
+### What Can Adapt (Implementation Methods)
+
+These can and should vary based on cultural context:
+
+**Human Mirrors / Circle Facilitators:**
+- May be elders in some cultures
+- May be peers in others
+- May be trained specialists
+- May be religious/spiritual leaders (if consented)
+- May be family matriarchs/patriarchs
+
+**Ceremonial Elements:**
+- Smudging, prayer, ritual opening/closing
+- Specific cultural healing practices
+- Traditional music, food, symbolic objects
+- Seasonal or lunar timing considerations
+- Sacred spaces vs neutral spaces
+
+**Language and Metaphors:**
+- Concepts translated into local worldview
+- Examples from local ecology, stories, history
+- Communication styles (direct vs indirect)
+- Formality levels
+- Use of silence
+
+**Role of Family/Community:**
+- Some cultures involve entire extended family in Circle
+- Some prioritize nuclear family privacy
+- Some emphasize community accountability
+- Some focus on individual healing
+- Definitions of "family" vary
+
+**Timeline Expectations:**
+- Some cultures process quickly (hours/days)
+- Some require extended time (weeks/months)
+- Seasonal considerations (harvest, ceremonies)
+- Lunar cycles may matter
+- No "universal" timeline imposed
+
+**Public vs Private:**
+- Some cultures process harm publicly (community witness)
+- Some require privacy (shame/honor dynamics)
+- Some use staged disclosure (private first, public later)
+- Media/documentation practices vary
+
+**Repair and Amends:**
+- Gift-giving traditions
+- Formal apologies vs demonstrated change
+- Material restitution customs
+- Community service expectations
+- Symbolic vs practical repair
+
+### Examples of Cultural Variation in Practice
+
+**Indigenous/Communal Cultures:**
+- Often involve entire extended family in restorative Circle
+- May use traditional healing ceremonies (sweat lodge, talking circle)
+- Elders typically serve as Human Mirrors
+- Community harmony may take precedence over individual closure
+- Connection to land and ancestors integrated
+- Consensus decision-making natural fit
+
+**East Asian Cultures:**
+- Face-saving and honor considerations critical
+- Indirect communication may be preferred
+- Family reputation considerations acknowledged
+- Filial piety impacts accountability dynamics
+- Private resolution often preferred
+- Formal apology rituals may be expected
+
+**Middle Eastern Cultures:**
+- Extended family involvement typical
+- Gender separation may be requested
+- Religious leaders may serve as mediators
+- Honor and shame dynamics explicit
+- Restorative practices may include formal reconciliation meals
+- Compensation customs vary by region
+
+**Western Individualist Cultures:**
+- May focus on one-to-one dialogue (victim-perpetrator)
+- Professional mediators often preferred
+- Therapeutic language common
+- Individual healing timelines prioritized
+- Privacy often emphasized
+- Legal framework integration considered
+
+**African Ubuntu Philosophy:**
+- "I am because we are" - communal focus
+- Family and community central to process
+- Traditional dispute resolution mechanisms respected
+- Reconciliation and reintegration emphasized
+- Ancestral consultation may occur
+- Music, dance, ritual integrated
+
+### Implementation Requirements
+
+**Every Node documents:**
+
+1. **Universal Principles Maintained** — List which non-negotiable principles are honored (should be all)
+
+2. **Cultural Adaptations Applied** — Specific implementation methods chosen
+
+3. **Rationale** — Why these adaptations serve the local community
+
+4. **Alignment Check** — How adaptations still honor core principles
+
+5. **Community Consent** — Who was involved in designing local implementation
+
+**Annual Review:**
+- Are universal principles still protected?
+- Do cultural adaptations serve justice or perpetuate harm?
+- Are marginalized voices within culture heard?
+- Do adaptations evolve as culture evolves?
+
+### Red Lines (Violations Disguised as Culture)
+
+**Not acceptable as "cultural adaptation":**
+
+- Coerced marriage to "restore honor"
+- Physical punishment as "traditional discipline"
+- Exclusion from Baseline as "community decision"
+- Incarceration as "protective custody"
+- Forced confessions as "saving face"
+- Victim silencing as "family privacy"
+- Gender-based differential treatment that violates Baseline
+
+**Critical Distinction:**
+
+Culture is **living and evolving**.  
+Oppression is **static and coercive**.
+
+If a practice violates Axioms (especially Non-Coercion and Baseline Primacy), it is not culture—it is harm.
+
+### Navigating Cultural Conflicts
+
+**When cultural practice conflicts with universal principle:**
+
+1. **Dialogue** — Understand the cultural value being protected
+2. **Creative Adaptation** — Can the value be honored without violating principle?
+3. **Community Voice** — Especially marginalized members within culture
+4. **Documentation** — Why was specific adaptation chosen
+5. **Review** — Regular assessment of whether adaptation serves justice
+
+**Example:**
+- Culture values public apology, but victim has PTSD and cannot face perpetrator
+- Adaptation: Video apology viewed by victim privately, then shared publicly if victim consents
+- Value honored (public acknowledgment) + Principle protected (victim trauma-informed care)
+
+### Epistemic Humility
+
+**We acknowledge:**
+- Western restorative justice is not the only model
+- Indigenous practices have thousands of years of wisdom
+- Multiple justice paradigms can coexist
+- We learn from all traditions
+- No single culture has monopoly on justice
+
+**We commit to:**
+- Listening to local knowledge
+- Adapting implementation respectfully
+- Protecting universal principles absolutely
+- Evolving our understanding continuously
+
+### Integration with Other Frameworks
+
+**See Also:**
+- **CULTURAL_ADAPTION_FRAMEWORK.md** (in /AI-fundamentals)
+- **EPISTEMOLOGICAL_PLURALISM.md** (multiple valid truths)
+- **CHILDREN_CULTURAL_ADAPTATION_GUIDE.md** (child participation across cultures)
+- **INDIGENOUS_WISDOM.md** (in /annex - honoring traditional practices)
+
+---
+
+## D. CHILDREN AS WITNESSES
+
+### Core Principle
+Children who witness harm are harmed. They require protection and support equivalent to direct victims.
+
+### Immediate Response
+
+**When child witnesses any level of harm:**
+
+**Priority 1: Child's Safety**
+- Remove from ongoing harm immediately
+- Ensure child is physically safe
+- Assess for injuries (physical or emotional)
+- Provide comfort without interrogation
+
+**Priority 2: Nervous System Regulation**
+- Immediate access to Refugium Anima
+- Child-witness assigned (trauma-informed specialist)
+- Somatic regulation prioritized over information gathering
+- No requirement to give testimony immediately
+- Comfort items, safe space, familiar person present
+
+**Priority 3: Assessment (Not Interrogation)**
+- What did child see/hear/experience?
+- Is child in immediate danger?
+- Are other children at risk?
+- What support does child need now?
+
+**What NOT to do:**
+- Bombard with questions
+- Force child to "tell what happened"
+- Dismiss child's fear as "overreaction"
+- Promise things that can't be guaranteed
+- Use child to gather evidence against adult
+
+### Special Considerations: Unforgivable Harm
+
+**When child witnesses severe violence, sexual abuse, weapons, life-threatening situations:**
+
+**Enhanced Protections:**
+- Immediate trauma specialist involvement
+- Medical evaluation if child might have been physically harmed
+- Child never questioned by multiple people repeatedly
+- Child's testimony NEVER as sole evidence (corroboration required)
+- Forensic interview protocols if testimony needed (trained specialists only)
+
+**Perpetrator Separation:**
+- If perpetrator is family member, child protected first
+- Baseline for child maintained (housing, food, stability)
+- Child not removed from home unless absolutely necessary for safety
+- If removal needed, kinship care prioritized over institutional placement
+
+### Testimony Process (If Needed)
+
+**Guiding Principle:**  
+Child's wellbeing > information gathering > case outcomes
+
+**Age-Appropriate Methods:**
+
+**Very Young Children (Under 7):**
+- Play therapy observation (child plays out what they saw)
+- Art/drawing (child draws the event, therapist interprets)
+- Doll/figure play (child shows with toys)
+- Minimal verbal questioning
+- Multiple sessions, very short (15-20 min)
+
+**School-Age Children (7-12):**
+- Somatic questioning (body-based, not just narrative)
+- Art/drawing still valuable
+- Gentle verbal questions, child-paced
+- Video testimony option (child not in room with perpetrator)
+- Written/drawn timeline if helpful
+- Sessions 30-45 min max
+
+**Adolescents (13-17):**
+- More verbal capacity but still developing
+- Multiple modalities still helpful (drawing, writing, speaking)
+- May want control over how they share
+- Privacy crucial (peers, social media concerns)
+- Sessions can be longer but breaks still needed
+
+**Universal Standards (All Ages):**
+
+**Never:**
+- Child forced to confront perpetrator
+- Leading questions ("He hurt you, didn't he?")
+- Repeated questioning by multiple people
+- Marathon sessions without breaks
+- Child's testimony as sole evidence
+- Promises that can't be kept ("Nothing bad will happen")
+
+**Always:**
+- Parent/caregiver present (unless they are perpetrator)
+- Breaks allowed anytime child signals distress
+- Child can stop process permanently if desired
+- Multiple short sessions, not one long interrogation
+- Child's language and concepts used, not adult legal terms
+
+### During Justice Process
+
+**Child's Role (Limited and Protected):**
+
+**Child may:**
+- Share what they saw/heard/felt (if they want to)
+- Express how the event affected them
+- Ask questions about what happens next
+- Request specific accommodations (not seeing perpetrator, having support person)
+
+**Child should NEVER:**
+- Carry responsibility for outcome ("Your testimony will save/condemn someone")
+- Feel pressure to "help catch bad person"
+- Be told their testimony "saved someone" (burden)
+- Be made to feel like miniature adult
+- Participate in LOTUS panel or decision-making
+- Confront perpetrator or speak in their presence
+
+**The system carries the burden, not the child.**
+
+### Protection from Perpetrator
+
+**During Process:**
+- Child never in same space as perpetrator
+- Child's identity protected if possible
+- Video testimony or written statements used
+- Separate entrances/exits at proceedings if needed
+- Child's schedule accommodated, not vice versa
+
+**After Process:**
+- No contact orders enforced strictly
+- Child's location kept confidential
+- Monitoring of perpetrator if they're released
+- Safety plan for child and family
+- Ongoing protection even after case closed
+
+### Long-Term Support
+
+**Ongoing Care (Not Just During Process):**
+
+**Therapeutic Support:**
+- Play therapy, art therapy, EMDR, somatic therapy
+- Family therapy if appropriate
+- Peer support groups (other children who witnessed harm)
+- Not contingent on cooperation with justice process
+
+**Refugium Access:**
+- Extended access as needed
+- No time limits on healing
+- Can return to Refugium anytime
+- Ongoing relationship with child-witness if helpful
+
+**Developmental Monitoring:**
+- Trauma can affect development
+- Educational accommodations if needed
+- Social/emotional support at school
+- Regular check-ins (not interrogations)
+
+**No Performance Requirements:**
+- Child not expected to "get over it"
+- No timeline on healing
+- Regression is normal and accepted
+- Ongoing symptoms don't mean "failure"
+
+### Child's Voice vs Child's Burden
+
+**Critical Balance:**
+
+We honor child's voice WITHOUT placing adult burden on child.
+
+**Child has right to:**
+- Be heard if they want to share
+- Have their experience acknowledged
+- Ask questions and receive age-appropriate answers
+- Influence their own support plan
+
+**Child does NOT have:**
+- Responsibility for justice outcomes
+- Duty to testify
+- Obligation to forgive or reconcile
+- Burden of "saving" others from perpetrator
+
+**If conflict arises:**  
+Child's peace > procedural completion
+
+If gathering testimony harms child more than it helps, process stops.
+
+### Integration with Other Protections
+
+**See Also:**
+- **CHILDREN_RIGHTS_IN_FLOW.md** (right to incomprehensibility, right to say no)
+- **REFUGIUM_ANIMA.md** (sections 3, 4 - child-specific protections and witnesses)
+- **THE_MANDATE_OF_NINE_MOONS.md** (§4 - child's veto power as ultimate protection)
+- **CHILDREN_PARTICIPATION_PLAYBOOK.md** (age-appropriate engagement guidelines)
+- **YOUTH_HARM_PROTOCOL.md** (if exists - comprehensive youth procedures)
+
+### Final Principle: The Child's Peace
+
+> **A child's peace is more important than any procedure, any testimony, any outcome.**
+
+If protecting child's wellbeing means case is harder to prove—so be it.
+
+If honoring child's healing timeline means justice is delayed—so be it.
+
+If respecting child's "no" means we have less information—so be it.
+
+**The child's nervous system, safety, and developmental trajectory take absolute precedence.**
+
+A society that sacrifices children's wellbeing for "justice" has already failed.
+
+---
+
 ## STATUS
 
 **Operational Principles Framework v2.0**  
@@ -895,10 +1557,21 @@ That society is Flow.
 - **GRACE_OF_IMPERFECTION.md** — Mistake-friendly culture
 - **EPISTEMOLOGICAL_PLURALISM.md** — Multiple valid truths
 
+### Special Populations (Section X):
+- **YOUTH_HARM_PROTOCOL.md** — Youth-specific justice procedures (if exists)
+- **CHILDREN_RIGHTS_IN_FLOW.md** — Child agency and protections
+- **CHILDREN_PARTICIPATION_PLAYBOOK.md** — Age-appropriate engagement
+- **MENTAL_HEALTH_DISABILITY_ACCOUNTABILITY_INTEGRATION.md** — Mental health and accountability framework
+- **CULTURAL_ADAPTION_FRAMEWORK.md** — Cultural implementation guidance (in /AI-fundamentals)
+- **INDIGENOUS_WISDOM.md** — Traditional practices (in /annex)
+- **THE_MANDATE_OF_NINE_MOONS.md** — Child's veto power
+
 ### Implementation Guides:
 - **FACILITATOR_TRAINING_PROTOCOL.md** — How to facilitate restorative circles
 - **FLOW_VERIFICATION_PROTOCOL.md** — Evidence and verification standards
 - **EXIT_AND_COMPOST.md** — Graceful departure if coexistence fails
+- **BASELINE_EMERGENCY_BYPASS.md** — Crisis protocols
+- **FLOW_HEALTHCARE_PRINCIPLES.md** — Mental health as Baseline right
 
 ---
 
