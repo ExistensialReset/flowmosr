@@ -179,6 +179,53 @@ We protect others without dehumanizing the source.
 
 ---
 
+## 🔹 PATTERN AWARENESS PROTOCOL
+
+**Purpose:**  
+To notice repeated events or situations without creating social scores, ranking, or centralized surveillance. The system exists solely to direct human attention where needed, with Human Mirrors or Circle facilitators acting as the filter.
+
+---
+
+### 1. Inputs and Signals
+- Only observations from actual processes may be recorded:
+  - Restorative Circles  
+  - Node-level separation & review  
+  - Witness observations (Human Mirrors)  
+- Not allowed: unverified allegations, subjective judgments, or background logging
+
+---
+
+### 2. What May Be Recorded
+- Only event-linked facts in context  
+- Examples of allowed entries:
+  - “Three separate conflicts in different Circles within 6 months”  
+- Examples of prohibited entries:
+  - “Person X is manipulative”  
+  - “This person has high risk level”
+
+---
+
+### 3. How Patterns Emerge
+- Patterns become visible only when multiple independent events converge in the same context  
+- No individual or actor “owns” a pattern  
+- Patterns are visible **only in active review or incident context**  
+
+---
+
+### 4. Use
+- Limited to facilitators at Level 1–3 and LOTUS panels  
+- Only in the context of an active case  
+- No automatic labeling, judgment, or trigger  
+
+---
+
+### 5. Protection and Decay
+- Permanent profiles, point systems, or centralized databases are forbidden  
+- All pattern notices decay over time and remain tied to the active context  
+- Purpose is **attention, not definition** of an individual
+
+---
+
 ## 7. RESTORATIVE PATHWAYS OFFERED
 
 **Principle:**  
