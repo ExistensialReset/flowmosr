@@ -874,7 +874,7 @@ That society is Flow.
 
 ## STATUS
 
-**Operational Principles Framework v1.0**  
+**Operational Principles Framework v2.0**  
 **Effective:** March 20, 2026
 
 ---
