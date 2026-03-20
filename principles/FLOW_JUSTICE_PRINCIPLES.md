@@ -210,7 +210,7 @@ Process held by small circle of Human Mirrors who:
 ## 8. IRREVERSIBILITY WITHOUT COERCION
 
 **Principle:**  
-Some harms cannot be fully undone. Flow does not demand impossible reconciliation.
+Some harms cannot be fully undone. Flow does not demand impossible reconciliation. We practice, if needed, non-carceral containment. 
 
 **Application:**
 - Goal becomes containment, remembrance, and prevention
