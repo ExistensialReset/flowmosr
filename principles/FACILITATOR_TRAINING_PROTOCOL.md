@@ -649,4 +649,466 @@ You create the conditions for youth to:
 
 ---
 
+### Module 9: Restorative Justice Circle Facilitation (8-10 hours)
+
+**Purpose:**  
+Train journey facilitators to also facilitate **Level 1 Restorative Circles** for minor harm within Flow's justice system.
+
+**Note:** This is NOT training for severe harm cases (Level 3/LOTUS). This module covers only minor interpersonal conflicts, resource disputes, and broken agreements where both parties can participate voluntarily.
+
+---
+
+## PREREQUISITE
+
+**Facilitators MUST complete Modules 1-8 before this module.**
+
+This module builds on:
+- Module 1 (Child Development & Autonomy)
+- Module 5 (Conflict Resolution & Emotional Support)
+- Module 8 (Trauma Response & Child Protection)
+
+---
+
+## LEARNING OBJECTIVES
+
+By end of this module, facilitators will be able to:
+
+1. Assess whether a situation qualifies for Level 1 Restorative Circle
+2. Prepare both harmed party and person who caused harm for dialogue
+3. Facilitate somatic testimony (body-based truth-telling)
+4. Guide voluntary gift as healing process
+5. Hold container without imposing judgment
+6. Recognize when escalation to Level 2 or 3 is needed
+7. Document process transparently
+
+---
+
+## CONTENT STRUCTURE
+
+### Part 1: Restorative Philosophy (2 hours)
+
+**Core principles from FLOW_JUSTICE_PRINCIPLES:**
+
+**Justice is restoration, not retribution**
+- Goal is repair and return to Flow
+- Punishment does not restore what was broken
+- Pain does not heal pain
+
+**The Kintsugi Principle**
+- What has broken is repaired with care and visibility
+- The scar is not erased—it becomes site of learning
+- Cracks filled with gold are where light enters
+
+**Harm as signal, not verdict**
+- Harm indicates rupture in L (Calm), I (Interconnectedness)
+- Often signals that person's own Baseline has collapsed
+- Not moral failure—evidence of dysregulation
+
+**Victim-centered protection**
+- Victim never moves; perpetrator always does
+- Victim veto is decisive
+- No pressure to forgive
+- No forced reconciliation
+
+**Trauma-informed process**
+- Justice moves at speed of nervous system
+- No truth can be accessed in fight/flight/freeze
+- Regulation before dialogue
+- Breath comes before accountability
+
+---
+
+**Discussion questions:**
+- How is this different from punishment-based justice?
+- What does "repair" actually mean in practice?
+- Why does nervous system regulation come before dialogue?
+
+---
+
+### Part 2: When to Use Level 1 (vs. Level 2 or 3) (1 hour)
+
+**Level 1 Restorative Circle is ONLY for:**
+- Minor harm (interpersonal conflict, resource disputes, broken agreements)
+- First-time incidents (or very rare pattern)
+- No immediate safety threat
+- Both parties regulated enough to participate voluntarily
+
+**Examples of Level 1 cases:**
+- Two youth argue over shared space, one damages other's belongings
+- Adult promises to help with project, repeatedly fails to show up
+- Circle member takes more than fair share of communal resources
+- Miscommunication leads to hurt feelings and broken trust
+
+---
+
+**Escalate to Level 2 (Protective Coexistence) if:**
+- Repeated harm despite Level 1 intervention
+- Pattern emerging across multiple incidents
+- Voluntary participation not genuinely possible
+- Safety requires separation
+
+**Escalate to Level 3 (LOTUS) if:**
+- Physical assault
+- Sexual violence
+- Weapons involved
+- Life-endangering threats
+- Child safety at immediate risk
+
+---
+
+**Critical assessment skill:**  
+*If you are unsure whether case is Level 1, consult with experienced facilitator or Circle governance before proceeding.*
+
+**When in doubt, protect safety first.**
+
+---
+
+### Part 3: Preparing Participants (1.5 hours)
+
+**Before bringing parties together, facilitator meets each separately.**
+
+#### Meeting with Harmed Party
+
+**Questions to ask:**
+- "Are you physically safe right now?"
+- "Do you want to participate in this process, or would you prefer distance?"
+- "What would repair look like for you?"
+- "Is there anything that would make you feel unsafe in this conversation?"
+
+**Facilitator explains:**
+- Process is voluntary—you can stop at any time
+- You will not be pressured to forgive
+- Your veto is final if person wants to re-enter your space later
+- Facilitator will interrupt if conversation becomes harmful
+
+**Red flags (do NOT proceed with Level 1):**
+- Harmed party is terrified of other person
+- Harmed party feels pressured to participate
+- Harmed party is still in acute trauma response
+
+**If red flags present:** Escalate to Level 2 (separation without forcing dialogue).
+
+---
+
+#### Meeting with Person Who Caused Harm
+
+**Questions to ask:**
+- "Do you understand what happened and how it affected the other person?"
+- "Can you take responsibility without making excuses?"
+- "Are you willing to listen to how your actions impacted them?"
+- "What would you offer to repair this?"
+
+**Facilitator explains:**
+- This is not punishment—it's opportunity to repair
+- You will hear how your actions affected someone
+- You will be asked to contribute to healing (voluntary gift)
+- Goal is restoration, not shame
+
+**Red flags (do NOT proceed with Level 1):**
+- Person denies harm occurred
+- Person blames victim
+- Person is defensive and unable to listen
+- Person shows signs of manipulation or coercion
+
+**If red flags present:** Escalate to Level 2 or 3 depending on severity.
+
+---
+
+**Practice exercise:**  
+Role-play preparation meetings with both parties. Practice recognizing red flags.
+
+---
+
+### Part 4: Somatic Testimony – Body-Based Truth (2 hours)
+
+**Why somatic testimony?**
+- Narrative can be manipulated; body cannot convincingly lie
+- Trauma lives in nervous system, not just in story
+- Regulating body allows access to empathy and accountability
+
+**The nervous system is the primary witness.**
+
+---
+
+#### Body-Based Questions (instead of narrative extraction)
+
+**For harmed party:**
+- "Where in your body does this event reside?"
+- "How has your breathing changed since this happened?"
+- "Does your skin feel safe?"
+- "What sensations come up when you think about this person?"
+
+**For person who caused harm:**
+- "Where do you feel this in your body right now?"
+- "What happens to your breath when you think about what you did?"
+- "Can you sense how your actions might have landed in their body?"
+
+**Facilitator observes:**
+- Breathing patterns (shallow, rapid, holding breath)
+- Muscle tension (shoulders raised, fists clenched, jaw tight)
+- Eye contact (avoidance, staring, dissociation)
+- Skin changes (flushing, pallor, sweating)
+- Postural shifts (collapsing, armoring, fidgeting)
+
+---
+
+**Somatic regulation techniques facilitator can offer:**
+
+**If someone is hyperaroused (fight/flight):**
+- "Let's take three deep breaths together."
+- "Can you feel your feet on the ground?"
+- "Would it help to step outside for a moment?"
+
+**If someone is hypoaroused (freeze/shutdown):**
+- "Can you wiggle your fingers and toes?"
+- "Would you like to stand up and stretch?"
+- "Let's get you some water."
+
+**No dialogue can proceed if nervous systems are dysregulated.**
+
+---
+
+**Practice exercise:**  
+Partner practice: One person tells story of minor conflict. Other person listens for somatic cues, asks body-based questions. Switch roles.
+
+---
+
+### Part 5: Holding the Container (1.5 hours)
+
+**Facilitator's role is NOT to:**
+- Judge who is right/wrong
+- Impose outcome
+- Control conversation
+- Take sides
+
+**Facilitator's role IS to:**
+- Hold safety for both parties
+- Interrupt domination, coercion, manipulation
+- Protect nervous systems
+- Maintain boundary clarity
+- Witness without escalation
+
+---
+
+#### What "holding container" looks like in practice:
+
+**Interrupting domination:**
+- *Person who caused harm talks over victim*
+- Facilitator: "Hold on. Let's give [harmed party] space to finish."
+
+**Interrupting coercion:**
+- *Person pressures victim to forgive*
+- Facilitator: "There's no pressure to forgive. Repair can happen without forgiveness."
+
+**Interrupting narrative manipulation:**
+- *Person makes excuses, deflects responsibility*
+- Facilitator: "I hear that you were stressed. And, how did your actions land on [harmed party]?"
+
+**Protecting nervous systems:**
+- *Victim starts crying, breath becomes shallow*
+- Facilitator: "Let's pause. Would you like to take a break?"
+
+**Maintaining boundary clarity:**
+- *Person who caused harm tries to physically approach victim*
+- Facilitator: "Please stay in your seat. Physical distance is important right now."
+
+---
+
+**The container is not rigid. It breathes.**
+
+If someone needs to leave, they can.  
+If someone needs silence, they get it.  
+If nervous systems need regulation, dialogue pauses.
+
+**Facilitator serves the process, not the timeline.**
+
+---
+
+**Practice exercise:**  
+Role-play difficult moments (victim blaming, deflection, emotional flooding). Practice interrupting without shaming.
+
+---
+
+### Part 6: Voluntary Gift as Healing (1.5 hours)
+
+**After somatic testimony and accountability, person who caused harm offers repair.**
+
+**Three pathways (person chooses):**
+
+#### A. Logistical Reset
+Resources taken or damaged are returned or replaced.
+
+**Example:**
+- Youth broke another's guitar → offers to repair or replace it
+- Adult failed to show up for agreed task → completes task plus extra
+
+**This is not punishment. This is ritual restoration of physical Baseline.**
+
+---
+
+#### B. Resonance Contribution
+Person offers their gifts (skill, time, care, creativity) in service of restoring trust.
+
+**Example:**
+- Person who spread rumors about someone → publicly acknowledges truth and offers skilled labor (gardening, coding, art) to harmed person's project
+- Adult who violated boundary → offers 10 hours of service to Circle (not to harmed party directly if they don't want contact)
+
+**This is voluntary, specific, and finite.**
+
+**NOT forced labor.**  
+**A reclaiming of sovereignty through usefulness without shame.**
+
+---
+
+#### C. Witnessing and Collective Holding
+Sometimes logistical or skill-based gifts aren't appropriate.
+
+Repair happens through:
+- Person who caused harm listens to full impact of their actions
+- Circle witnesses the harm and repair process
+- Trust is rebuilt slowly through consistent changed behavior over time
+
+**Example:**
+- Emotional harm that cannot be "fixed" with objects or tasks
+- Victim doesn't want anything from person—just wants them to understand impact
+- Person commits to changed behavior, Circle monitors over time
+
+---
+
+**Facilitator's role:**
+- Help person identify what they can genuinely offer
+- Ensure gift is voluntary, not coerced
+- Check with harmed party: "Does this feel like repair to you?"
+- Document agreement clearly
+
+**Harmed party can decline gift.**  
+Repair is offered, not imposed.
+
+---
+
+**Practice exercise:**  
+Given case study, brainstorm possible voluntary gifts. Discuss what makes a gift meaningful vs. performative.
+
+---
+
+### Part 7: Documentation & Transparency (0.5 hours)
+
+**Facilitator documents:**
+- Date and participants
+- Brief description of harm
+- Somatic observations (without interpretation)
+- Agreement reached (or not reached)
+- Timeline for gift completion
+- Follow-up plan
+
+**Example log entry:**
+> "March 20, 2026. Restorative Circle between A and B. Harm: A damaged B's shared workspace during argument. Somatic testimony: A showed accountability (lowered shoulders, steady breath during listening). B expressed hurt (tears, voice shaking). Agreement: A will repair workspace and contribute 5 hours to Circle maintenance. Follow-up in 2 weeks to confirm completion. Both parties consented to process."
+
+**Transparency requirements:**
+- Log is accessible to both parties
+- Log is available to Circle governance (for pattern tracking)
+- Log is NOT public (privacy protected)
+- Log decays after 1 year if no repeat incidents
+
+---
+
+**What NOT to document:**
+- Subjective judgments ("A is manipulative")
+- Unverified claims
+- Unnecessary personal details
+- Anything that could be used punitively
+
+---
+
+### Part 8: When Restorative Circle Fails (1 hour)
+
+**Level 1 does not always work.**
+
+**Signs that repair is not happening:**
+- Person who caused harm refuses accountability
+- Victim does not feel safe even after process
+- Pattern continues despite agreement
+- Voluntary gift is not completed
+- Trust is not rebuilding
+
+**Facilitator response:**
+1. **Document failure honestly** (no shame, just facts)
+2. **Escalate to Level 2** (Protective Coexistence—separation without incarceration)
+3. **Support both parties** (failure doesn't mean either person is bad)
+4. **Systemic learning:** "What could have been different? Was this case actually Level 2 from start?"
+
+---
+
+**Important truth:**
+Some harm cannot be resolved through dialogue.  
+Some people are not ready for repair.  
+Some nervous systems need distance, not reconciliation.
+
+**That is okay.**
+
+**Level 1 is an invitation, not a requirement.**
+
+---
+
+**Case study discussion:**  
+Analyze failed restorative circle. What went wrong? Should it have been Level 2 from start? What did facilitator learn?
+
+---
+
+## ASSESSMENT
+
+### Written Component
+- Short essay: "What is the difference between restorative justice and punishment?"
+- Case analysis: Given scenario, determine if it's Level 1, 2, or 3 and explain why
+
+### Practical Component
+- Role-play full restorative circle (30-40 minutes)
+- Demonstrate somatic testimony questions
+- Practice interrupting domination without shaming
+- Document process transparently
+
+### Peer Feedback
+- Observing facilitators provide feedback
+- Self-reflection: "What felt hard? What surprised me?"
+
+---
+
+## CERTIFICATION ADDITION
+
+**Upon completion of Module 9:**
+- Facilitator can facilitate Level 1 Restorative Circles
+- Must observe 2-3 circles led by experienced facilitator before leading independently
+- Ongoing peer support required (monthly check-ins)
+
+**This certification is voluntary.**  
+Not all journey facilitators need to facilitate restorative circles.
+
+---
+
+## FINAL PRINCIPLE
+
+**Restorative justice is not about being nice.**
+
+It's about:
+- Holding people accountable while maintaining their dignity
+- Protecting victims without creating more harm
+- Repairing what can be repaired
+- Accepting what cannot
+
+**It is courageous work.**
+
+You will witness pain.  
+You will see people fail to take accountability.  
+You will hold space for what cannot be fixed.
+
+**And you will also see:**
+- People who thought they were irredeemable find their way back
+- Victims who reclaim their power through being witnessed
+- Circles that grow stronger through honest repair
+
+**That is why this work matters.**
+
+---
+
+
 **END DOCUMENT**
