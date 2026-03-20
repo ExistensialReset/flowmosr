@@ -1516,7 +1516,7 @@ If gathering testimony harms child more than it helps, process stops.
 - **REFUGIUM_ANIMA.md** (sections 3, 4 - child-specific protections and witnesses)
 - **THE_MANDATE_OF_NINE_MOONS.md** (§4 - child's veto power as ultimate protection)
 - **CHILDREN_PARTICIPATION_PLAYBOOK.md** (age-appropriate engagement guidelines)
-- **YOUTH_HARM_PROTOCOL.md** (if exists - comprehensive youth procedures)
+- **YOUTH_HARM_PROTOCOL.md** (comprehensive youth procedures)
 
 ### Final Principle: The Child's Peace
 
@@ -1558,7 +1558,7 @@ A society that sacrifices children's wellbeing for "justice" has already failed.
 - **EPISTEMOLOGICAL_PLURALISM.md** — Multiple valid truths
 
 ### Special Populations (Section X):
-- **YOUTH_HARM_PROTOCOL.md** — Youth-specific justice procedures (if exists)
+- **YOUTH_HARM_PROTOCOL.md** — Youth-specific justice procedures
 - **CHILDREN_RIGHTS_IN_FLOW.md** — Child agency and protections
 - **CHILDREN_PARTICIPATION_PLAYBOOK.md** — Age-appropriate engagement
 - **MENTAL_HEALTH_DISABILITY_ACCOUNTABILITY_INTEGRATION.md** — Mental health and accountability framework
