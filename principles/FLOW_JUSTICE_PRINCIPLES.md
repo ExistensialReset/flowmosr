@@ -1566,6 +1566,17 @@ A society that sacrifices children's wellbeing for "justice" has already failed.
 
 ---
 
+## TRANSITION: FROM CARE TO STRESS CONDITIONS
+
+The previous sections describe how Flow adapts to human complexity.
+
+The following sections test whether Flow holds under pressure, ambiguity, and adversarial conditions.
+
+Care must remain intact not only in ideal circumstances—
+but when the system is stressed, exploited, or uncertain.
+
+---
+
 ## XI. EDGE CASES & STRESS CONDITIONS
 
 ### PURPOSE
