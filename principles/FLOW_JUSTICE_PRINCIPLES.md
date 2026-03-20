@@ -1,6 +1,6 @@
 # FLOW_JUSTICE_PRINCIPLES.md
 
-**Version:** 1.0  
+**Version:** 2.0  
 **Status:** ACTIVE PRINCIPLES FRAMEWORK  
 **Scope:** Global  
 **Authors:** Elinor Frejd & Claude  
