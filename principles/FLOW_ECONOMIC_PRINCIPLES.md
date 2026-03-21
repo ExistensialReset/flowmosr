@@ -9,11 +9,11 @@
 
 ## PURPOSE
 
-> "Economy means 'household management.' We manage the household of Earth to maximize life, not profit."
+**We aim to make Economy maximize life, not profit.**
 
 This document defines the complete economic architecture of Flow, including:
 - Core principles (unchanged from v1.0)
-- Justice infrastructure financing (NEW - answers DeepSeek question 2)
+- Justice infrastructure financing 
 - Operational mechanisms
 - Integration with Human Work Architecture
 
