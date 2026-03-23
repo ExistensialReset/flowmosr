@@ -1237,6 +1237,7 @@ This document does NOT yet address:
 
 ---
 
+> [!NOTE] 
 > ## APPENDIX B: SOCIAL STRUCTURE REALITY PATCH
 >
 > **Status:** CLARIFICATION / STRUCTURAL CORRECTION  
@@ -1384,3 +1385,230 @@ This document does NOT yet address:
 > ---
 >
 > **END APPENDIX B** 
+>
+> ## APPENDIX C: TRUST DECAY OVER TIME PATCH
+>
+> **Status:** STRUCTURAL RISK MITIGATION  
+> **Scope:** Long-term stability of all Flow Nodes
+>
+> ---
+>
+> ### PURPOSE
+>
+> All social systems experience **trust decay over time**.
+>
+> Flow must not assume:
+>
+> - Stable long-term trust
+> - Permanent cultural alignment
+> - Persistent goodwill between participants
+>
+> Instead, Flow must be designed to function under conditions where:
+>
+> > Trust fluctuates, degrades, fragments, and must be continuously regenerated.
+>
+> ---
+>
+> ### C.1 WHAT IS TRUST DECAY
+>
+> Trust decay is the gradual erosion of:
+>
+> - Shared norms
+> - Perceived fairness
+> - Willingness to contribute
+> - Confidence in system integrity
+>
+> It emerges from:
+>
+> - Conflicts and unresolved tensions
+> - Perceived unfairness (real or imagined)
+> - Social fragmentation (clusters diverging)
+> - Burnout in key roles
+> - Accumulation of small negative experiences
+>
+> **Trust does not fail all at once.**  
+> It degrades slowly, then collapses suddenly if unaddressed.
+>
+> ---
+>
+> ### C.2 FAILURE PATTERN (IF UNMITIGATED)
+>
+> Without structural countermeasures:
+>
+> 1. Small fairness doubts emerge  
+> 2. Contribution motivation drops in subsets of the Node  
+> 3. Informal groups begin diverging in norms  
+> 4. Suspicion increases (“others are not contributing”)  
+> 5. Social cohesion weakens  
+> 6. System reliance shifts from trust → pressure → conflict  
+> 7. Node instability or fragmentation
+>
+> **This pattern is historically universal.**
+>
+> ---
+>
+> ### C.3 CORE DESIGN PRINCIPLE
+>
+> Replace implicit assumption:
+>
+> > “Trust is the foundation of the system”
+>
+> With:
+>
+> > “Trust is a fluctuating variable the system must continuously regenerate”
+>
+> ---
+>
+> ### C.4 TRUST REGENERATION MECHANISMS
+>
+> Flow maintains stability through continuous trust renewal:
+>
+> #### 1. STRUCTURAL FAIRNESS (VISIBLE AT SYSTEM LEVEL)
+>
+> - Transparent aggregate resource flows
+> - Clear prioritization (Baseline → Infrastructure → Services → Projects)
+> - Visible capacity gaps (“we need 5 people here”)
+>
+> **Effect:** Reduces suspicion of hidden exploitation
+>
+> ---
+>
+> #### 2. ROTATION & ROLE DISTRIBUTION
+>
+> - No permanent control over critical roles
+> - Regular rotation in visible functions
+> - Shared exposure to system responsibilities
+>
+> **Effect:** Prevents power consolidation and perceived unfairness
+>
+> ---
+>
+> #### 3. RANDOMIZED OVERSIGHT (LOTUS)
+>
+> - Random panel selection
+> - Cross-cluster participation
+> - External reviewers for high-stakes cases
+>
+> **Effect:** Maintains legitimacy even when local trust is low
+>
+> ---
+>
+> #### 4. REFUGIUM ACCESS (PSYCHOLOGICAL RESET)
+>
+> - Spaces for nervous system regulation
+> - Decompression after conflict or stress
+> - Support for burnout and overload
+>
+> **Effect:** Prevents emotional accumulation from degrading trust
+>
+> ---
+>
+> #### 5. LYCEUM (SHARED UNDERSTANDING)
+>
+> - Continuous education in system principles
+> - Open discussion of tensions and failures
+> - Cultural renewal through learning
+>
+> **Effect:** Re-aligns mental models across the Node
+>
+> ---
+>
+> #### 6. PATTERN DETECTION (NON-PERSONAL)
+>
+> - Detects systemic imbalances (not individuals)
+> - Identifies repeated friction points
+> - Enables early intervention
+>
+> **Effect:** Prevents small issues from compounding into distrust
+>
+> ---
+>
+> #### 7. GRADUATED RESPONSE TO IMBALANCE
+>
+> When contribution or fairness concerns arise:
+>
+> - Conversation (local)
+> - Adjustment (roles, expectations)
+> - Structural response (rotation, support, redesign)
+>
+> **Never:**
+> - Punitive escalation
+> - Baseline removal
+>
+> **Effect:** Maintains stability without triggering adversarial dynamics
+>
+> ---
+>
+> ### C.5 TRUST FLOOR (CRITICAL CONCEPT)
+>
+> Flow does NOT require high trust to function.
+>
+> It requires:
+>
+> > A minimum viable level of system trust ("trust floor")
+>
+> Below this level:
+> - Participation collapses
+> - Conflict escalates
+> - Coordination fails
+>
+> Above this level:
+> - System functions even with disagreement
+>
+> **Design goal:**
+> Maintain trust above the floor through structure, not assumption.
+>
+> ---
+>
+> ### C.6 EARLY WARNING SIGNALS
+>
+> Indicators of trust decay:
+>
+> - Repeated comments about unfairness
+> - Drop in voluntary participation
+> - Increased cluster isolation
+> - Resistance to rotation
+> - Increased conflict in low-stakes situations
+>
+> **Response requirement:**
+> These signals must trigger structural attention, not dismissal.
+>
+> ---
+>
+> ### C.7 TIME HORIZON REALITY
+>
+> Flow must remain stable across:
+>
+> - Initial formation (high trust)
+> - Growth phase (variable trust)
+> - Long-term operation (trust cycles)
+>
+> **Trust will:**
+> - Rise and fall
+> - Fragment and reconnect
+> - Require periodic renewal
+>
+> The system must function across all phases.
+>
+> ---
+>
+> ### C.8 FINAL PRINCIPLE
+>
+> Flow is not built on permanent trust.
+>
+> Flow is built on:
+>
+> > Structures that continue to function when trust is incomplete, uneven, or temporarily low.
+>
+> ---
+>
+> ### FINAL NOTE
+>
+> Systems that assume trust eventually fail.  
+> Systems that regenerate trust can endure.
+>
+> Flow is designed for the latter.
+>
+> ---
+>
+> **END APPENDIX C**
