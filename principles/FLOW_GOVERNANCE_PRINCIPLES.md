@@ -230,6 +230,168 @@ Tier 1 Axioms (Immutable) protect the system, while Tier 2 Protocols (Adaptive) 
 
 **Tier 2: Protocols (Adaptive)**
 - LOTUS parameters, resource allocation methods, conflict resolution procedures.
+---
+
+## APPENDIX: GOVERNANCE SYSTEM BOUNDARIES & IMPLEMENTATION LAYERS
+
+**Status:** STRUCTURAL CLARIFICATION / NON-TIER-1 EXTENSIONS  
+**Scope:** Defines critical governance system questions that are intentionally outside Tier 1 but required for full implementation  
+
+---
+
+### PURPOSE
+
+This appendix clarifies the boundary between:
+
+- **Tier 1 (This document):** Inviolable governance principles  
+- **Tier 2–3 (Separate documents):** Operational governance systems, infrastructure, and safeguards  
+
+The goal is to:
+
+- Preserve clarity and stability of core principles  
+- Prevent hidden power structures emerging in implementation  
+- Explicitly assign responsibility for unresolved system-level questions  
+
+---
+
+### G.1 LOTUS INFRASTRUCTURE OWNERSHIP
+
+LOTUS depends on:
+
+- Cryptographic randomness  
+- Secure infrastructure  
+- Auditable processes  
+
+**Risk:**
+Control over infrastructure = potential concentration of power  
+
+**Principle:**
+- LOTUS infrastructure must be **distributed, transparent, and independently verifiable**  
+- No single Node or group may control selection mechanisms  
+
+**Implementation requirement:**
+- Multi-node verification  
+- Public auditability of selection process  
+- Redundant infrastructure across regions  
+
+**Status:** To be defined in technical governance protocols  
+
+---
+
+### G.2 EXPERTISE WEIGHTING SAFEGUARDS
+
+Flow allows expertise weighting for technical decisions.
+
+**Risk:**
+- Credential capture  
+- Emergence of permanent expert class  
+
+**Constraints:**
+- Expertise must be **context-specific and time-limited**  
+- No permanent authority granted through expertise  
+- Criteria for expertise must be transparent and challengeable  
+
+**Mitigation:**
+- Periodic re-validation of expertise status  
+- Mixed panels (experts + non-experts)  
+- Ability to challenge classification through governance process  
+
+---
+
+### G.3 LOTUS ROLE SEPARATION (DECISION vs APPEAL)
+
+To ensure procedural fairness:
+
+- Decision-making, arbitration, and appeal must not be handled by the same panel  
+
+**Minimum separation:**
+- Initial decision (LOTUS panel)  
+- Arbitration (separate LOTUS selection)  
+- Appeal (independent LOTUS or external neutral panel)  
+
+**Goal:**
+Prevent self-reinforcing authority loops  
+
+---
+
+### G.4 CONFLICT SYSTEM ABUSE PREVENTION
+
+Flow treats conflict as signal, not failure.
+
+**Risk:**
+- Weaponization of escalation pathways  
+- Bad-faith reporting or overload of mediation systems  
+
+**Mitigation principles:**
+- Pattern detection for repeated bad-faith escalation  
+- Escalation thresholds requiring justification  
+- Temporary limits on escalation rights in cases of proven abuse  
+
+**Constraint:**
+- Access to conflict resolution must never be fully removed  
+
+---
+
+### G.5 INFORMAL POWER ACCUMULATION
+
+Flow prevents formal concentration of power, but acknowledges:
+
+> Informal influence (charisma, communication ability, visibility) will always exist.
+
+**Risk:**
+- De facto hierarchy emerging through social dominance  
+
+**Mitigation:**
+- Rotation of facilitation roles  
+- Structured speaking protocols in deliberation  
+- Pattern detection of dominance in decision spaces  
+- Triggered reflection when imbalance is detected  
+
+---
+
+### G.6 AUTOMATION & GOVERNANCE SYSTEMS
+
+Governance relies on:
+
+- Selection systems (LOTUS)  
+- Pattern detection  
+- Resource visibility  
+
+**Risk:**
+- Technical system becomes hidden authority  
+
+**Constraints:**
+- All governance-related algorithms must be transparent and auditable  
+- Decision logic must be explainable to non-technical participants  
+
+**Proposed mechanism:**
+- Periodic governance system audits  
+
+---
+
+### G.7 TRANSITIONAL CONTEXT
+
+Flow governance is expected to initially operate within external systems.
+
+Therefore:
+
+- Legal, institutional, and infrastructural interfaces must exist  
+- Full autonomy is not assumed at initial deployment  
+
+**This document defines governance principles, not transition strategy.**
+
+---
+
+### FINAL NOTE
+
+This appendix makes explicit:
+
+> Governance in Flow is not only about distributing power.  
+> It is about preventing power from re-emerging through implementation.
+
+Tier 1 defines the structure.
+
+System design enforces it.
 
 ---
 
