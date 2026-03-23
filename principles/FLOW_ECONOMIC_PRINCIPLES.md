@@ -185,7 +185,7 @@ Flow assumes:
 **Enforcement:**  
 - Social conversation → Circle review  
 - Reduced influence on Node-level governance decisions (e.g., voting weight reduced by 50%, or temporary ineligibility for LOTUS panels)  
-- **Overklagande:** Affected person may appeal to LOTUS or a neutral external panel; appeal heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
+- **Appeal:** Affected person may appeal to LOTUS or a neutral external panel; appeal heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
 - **Baseline never affected**
 
 ---
