@@ -1,9 +1,9 @@
 # FLOW_ECONOMIC_PRINCIPLES.md
 
-**Version:** 2.2  
+**Version:** 2.3  
 **Status:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK)  
 **Authors:** Elinor Frejd & Claude & ChatGPT  
-**Date:** March 23, 2026
+**Date:** March 24, 2026
 
 ---
 
@@ -72,11 +72,13 @@ This document defines the complete economic architecture of Flow, including:
 **Principle:** Persistent imbalance is made visible; regional dialogue is triggered; support or adjustment strategies are co-developed.
 
 **Escalation if dialogue fails:**  
-- Temporary reduction in access to **non-essential regional resources** (defined as resources above Baseline allocation, excluding infrastructure maintenance or essential services)  
+- Temporary reduction in access to **non-essential regional resources** (resources above Baseline allocation, excluding infrastructure maintenance or essential services)  
 - Limited restriction on non-critical inter-Node exchanges  
 - Baseline is never affected  
 
 **Goal:** Maintain long-term reciprocity without coercion
+
+**Monitoring & Oversight:** Pattern detection monitored by LOTUS panels and regional coordinators to prevent informal power concentration. Escalation triggers are logged and visible to all relevant parties.
 
 ---
 
@@ -185,7 +187,7 @@ Flow assumes:
 **Enforcement:**  
 - Social conversation → Circle review  
 - Reduced influence on Node-level governance decisions (e.g., voting weight reduced by 50%, or temporary ineligibility for LOTUS panels)  
-- **Appeal:** Affected person may appeal to LOTUS or a neutral external panel; appeal heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
+- **Appeal:** The affected person may appeal to LOTUS or a neutral external panel; appeal must be heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
 - **Baseline never affected**
 
 ---
@@ -215,10 +217,14 @@ Flow assumes:
 
 **Specialist Redundancy Rule:**  
 - Minimum 2–3 trained per critical role **OR access to regional specialist pool**  
-- Training/maintenance: 1.5h/person/year  
+- Training & maintenance: 1.5h/person/year for core skills  
 - Apprenticeship pipeline maintained  
 - Mandatory rest cycles  
-- Regional support activated if redundancy falls below threshold
+- Regional support activated if redundancy falls below threshold  
+- **Priority for local redundancy:** critical specialists (doctors, engineers, psychologists)  
+- **Regional pool option:** other skilled roles may share specialists across Nodes
+
+**Oversight:** LOTUS and regional coordinators monitor specialist distribution; pattern detection flags gaps or potential over-concentration.
 
 ---
 
@@ -266,7 +272,8 @@ System tolerates 20–30% free-riders. Interventions are social (Conversation �
 
 - Participation <50% for 3 months  
 - ≥3 reports of exhaustion/conflict  
-- Triggers Node reflection, temp reduction of non-essential load, increased transparency
+- Triggers Node reflection, temp reduction of non-essential load, increased transparency  
+- Escalation includes LOTUS procedural review
 
 ---
 
@@ -288,16 +295,18 @@ System tolerates 20–30% free-riders. Interventions are social (Conversation �
 - Natural clusters of 10–50 people  
 - Local visibility + structured cross-cluster interaction  
 - Anti-capture via LOTUS rotation, cross-cluster assignments  
-- Pattern detection flags repeated role concentration/cluster dominance
+- Pattern detection flags repeated role concentration/cluster dominance  
+- Oversight handled by LOTUS and regional coordinators
 
 ### APPENDIX C: TRUST DECAY OVER TIME PATCH
 
 **Principle:** Trust fluctuates; system maintains "trust floor"  
 **Mechanisms:** Structural fairness, rotation, LOTUS oversight, Refugium access, Lyceum education  
-**Response triggers:** reflection, temporary load reduction, transparency, LOTUS procedural review
+**Response triggers:** reflection, temporary load reduction, transparency, LOTUS procedural review  
+**Early warning thresholds:** participation <50% for 3 months, ≥3 exhaustion/conflict reports, any critical resource imbalance  
 
 ---
 
-**STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.2)  
+**STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.3)  
 **Authors:** Elinor Frejd & Claude & ChatGPT  
-**Date:** March 23, 2026
+**Date:** March 24, 2026
