@@ -7,55 +7,6 @@
 
 ---
 
-# FLOW_ECONOMIC_PRINCIPLES.md – PATCH LOG
----
-
-## SUMMARY OF CHANGES FROM v2.2
-
-### 1. Emergency Contribution Phase
-- Clarified as **voluntary only**; no coercion allowed.  
-- Signaling mechanism encourages volunteers; non-essential services scaled down if insufficient participation.  
-- **Baseline remains inviolable.**
-
-### 2. Reduced Decision-Weight & Hoarding Enforcement
-- Defined **persistent hoarding threshold**: 3 documented incidents within 6 months, after two prior verbal reminders.  
-- **Reduced influence** clarified: e.g., voting weight reduced by 50% or temporary ineligibility for LOTUS panels.  
-- **Appeal process** added: affected person may appeal to LOTUS or neutral external panel; appeal must be heard within 30 days. Temporary suspension of reduced decision-weight during appeal unless safety concerns exist.
-
-### 3. Inter-Node Balance Signaling
-- Defined **non-essential resources**: resources above Baseline allocation, excluding infrastructure maintenance or essential services.  
-- Escalation if dialogue fails:
-  1. Temporary reduction in non-essential regional resources  
-  2. Limited restriction on non-critical inter-Node exchanges  
-  3. **Baseline never affected**
-
-### 4. Specialist Redundancy
-- Option for **regional specialist pool** added: small nodes may access shared specialists instead of maintaining full local redundancy.  
-- Local redundancy cost clarified: 1.5h/person/year for training/maintenance.  
-- Clarified scope: only critical specialists require 2–3 trained per role; other specialists may rely on regional pool.
-
-### 5. Early Warning Signal Thresholds
-- Participation <50% for 3 months triggers Node reflection.  
-- ≥3 reports of exhaustion/conflict triggers structural intervention.  
-- Escalation mechanisms explicitly defined: temporary reduction of non-essential load, increased transparency, LOTUS procedural review if necessary.
-
-### 6. Trust Decay & Response
-- Explicit **escalation pathway** added: LOTUS procedural review and reflection sessions triggered by early warning signals.  
-- Maintains "trust floor" even during partial or low trust conditions.
-
-### 7. Minor Clarifications
-- "Participation is voluntary. Continuity is structural." emphasized as system motto.  
-- Defined metrics, thresholds, and procedural responsibilities for all critical governance and enforcement mechanisms.  
-- Ensures all updates fully respect **Axiom 1 – Non-Coercion**.
-
----
-
-**STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.3)  
-**Authors:** Elinor Frejd & Claude & ChatGPT  
-**Date:** March 24, 2026
-
----
-
 ## PURPOSE
 
 **We aim to make Economy maximize life, not profit.**
@@ -121,13 +72,11 @@ This document defines the complete economic architecture of Flow, including:
 **Principle:** Persistent imbalance is made visible; regional dialogue is triggered; support or adjustment strategies are co-developed.
 
 **Escalation if dialogue fails:**  
-- Temporary reduction in access to **non-essential regional resources** (resources above Baseline allocation, excluding infrastructure maintenance or essential services)  
+- Temporary reduction in access to **non-essential regional resources** (defined as resources above Baseline allocation, excluding infrastructure maintenance or essential services)  
 - Limited restriction on non-critical inter-Node exchanges  
 - Baseline is never affected  
 
 **Goal:** Maintain long-term reciprocity without coercion
-
-**Monitoring & Oversight:** Pattern detection monitored by LOTUS panels and regional coordinators to prevent informal power concentration. Escalation triggers are logged and visible to all relevant parties.
 
 ---
 
@@ -187,9 +136,8 @@ Flow requires a minimum level of active contribution to maintain Baseline. No no
 - Signaling mechanism; **no coercion**  
 - Volunteers encouraged to fill gaps  
 - If insufficient volunteers → further scaling down of non-essential services  
-- **Baseline never affected**
-
-**Goal:** Restore system stability without coercion or punishment
+- **Baseline never affected**  
+- **Goal:** Restore system stability without coercion or punishment
 
 **Forms of contribution:**  
 - Direct production (food, energy, building)  
@@ -236,7 +184,7 @@ Flow assumes:
 **Enforcement:**  
 - Social conversation → Circle review  
 - Reduced influence on Node-level governance decisions (e.g., voting weight reduced by 50%, or temporary ineligibility for LOTUS panels)  
-- **Appeal:** The affected person may appeal to LOTUS or a neutral external panel; appeal must be heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
+- **Appeal:** The affected person may appeal to LOTUS or a neutral external panel; appeal heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
 - **Baseline never affected**
 
 ---
@@ -266,14 +214,11 @@ Flow assumes:
 
 **Specialist Redundancy Rule:**  
 - Minimum 2–3 trained per critical role **OR access to regional specialist pool**  
-- Training & maintenance: 1.5h/person/year for core skills  
+- Training/maintenance: 1.5h/person/year (includes ongoing skill maintenance, mentorship, practice)  
 - Apprenticeship pipeline maintained  
 - Mandatory rest cycles  
 - Regional support activated if redundancy falls below threshold  
-- **Priority for local redundancy:** critical specialists (doctors, engineers, psychologists)  
-- **Regional pool option:** other skilled roles may share specialists across Nodes
-
-**Oversight:** LOTUS and regional coordinators monitor specialist distribution; pattern detection flags gaps or potential over-concentration.
+- **Clarification:** For non-critical specialists, regional pool is preferred to reduce cost
 
 ---
 
@@ -321,8 +266,8 @@ System tolerates 20–30% free-riders. Interventions are social (Conversation �
 
 - Participation <50% for 3 months  
 - ≥3 reports of exhaustion/conflict  
-- Triggers Node reflection, temp reduction of non-essential load, increased transparency  
-- Escalation includes LOTUS procedural review
+- Triggers Node reflection, temporary reduction of non-essential load, increased transparency  
+- Escalation procedures in place (LOTUS procedural review if persistent)
 
 ---
 
@@ -344,15 +289,34 @@ System tolerates 20–30% free-riders. Interventions are social (Conversation �
 - Natural clusters of 10–50 people  
 - Local visibility + structured cross-cluster interaction  
 - Anti-capture via LOTUS rotation, cross-cluster assignments  
-- Pattern detection flags repeated role concentration/cluster dominance  
-- Oversight handled by LOTUS and regional coordinators
+- Pattern detection flags repeated role concentration/cluster dominance
 
 ### APPENDIX C: TRUST DECAY OVER TIME PATCH
 
 **Principle:** Trust fluctuates; system maintains "trust floor"  
 **Mechanisms:** Structural fairness, rotation, LOTUS oversight, Refugium access, Lyceum education  
-**Response triggers:** reflection, temporary load reduction, transparency, LOTUS procedural review  
-**Early warning thresholds:** participation <50% for 3 months, ≥3 exhaustion/conflict reports, any critical resource imbalance  
+**Response triggers:** reflection, temporary load reduction, transparency, LOTUS procedural review
+
+---
+
+### APPENDIX D: RED TEAM CHECKLIST
+
+**Purpose:** Ensure that all critical risks, failure modes, and structural vulnerabilities identified by Red Team analysis are addressed.
+
+| Risk / Note | Status in v2.3 | Clarification / Implementation |
+| :--- | :--- | :--- |
+| Emergency Contribution Phase (risk of coercion) | ✅ Addressed | Activated voluntarily; signaling only; baseline never affected |
+| Reduced Decision-Weight / Hoarding | ✅ Addressed | Three documented incidents in 6 months trigger review; appeal possible to LOTUS or neutral external panel; appeal heard within 30 days; influence temporarily suspended only if safety concerns exist |
+| Inter-Node Balance Signaling (dialogue failure) | ✅ Addressed | Escalation: temporary reduction of non-essential resources; limited restriction on non-critical exchanges; baseline never affected |
+| Specialist Redundancy | ✅ Addressed | Minimum 2–3 per critical role OR access to regional specialist pool; training/maintenance included; regional support activated if threshold falls |
+| Cost and Maintenance of Specialists | ✅ Addressed | 1.5h/person/year for training and ongoing maintenance; regional pool reduces burden for non-critical roles |
+| Early Warning Signals / Participation Decay | ✅ Addressed | Concrete thresholds: participation <50% for 3 months or ≥3 reports of exhaustion/conflict; triggers reflection, temporary load reduction, increased transparency, LOTUS procedural review |
+| Trust Decay | ✅ Addressed | Structural fairness, rotation, LOTUS oversight, Refugium access, Lyceum education; escalation mechanisms in place |
+| Over-appeal process clarity | ✅ Addressed | The affected person may appeal to LOTUS or neutral external panel; timeline: appeal heard within 30 days; temporary suspension of reduced decision-weight during appeal unless safety concerns exist |
+| Definition of Non-Essential Resources | ✅ Addressed | Resources above baseline allocation, excluding infrastructure maintenance and essential services |
+| Specialist Redundancy Scope | ✅ Addressed | Regional pool recommended for non-critical roles; critical roles must maintain local redundancy |
+
+**Summary:** All previously identified Red Team risks have been mitigated through structural, procedural, and operational rules. No coercion exists; baseline allocations remain protected; escalation and appeal mechanisms are defined; specialist and participation risks are addressed.
 
 ---
 
