@@ -478,6 +478,68 @@ Implementation evolves.
 
 ---
 
+```
+
+┌─────────────────────┐
+                   │     Baseline        │
+                   │ (Food, Water, Energy│
+                   │  Shelter, Healthcare)│
+                   └─────────┬──────────┘
+                             │
+                             ▼
+               ┌─────────────────────────┐
+               │  Contribution Hours     │
+               │ (Voluntary, Non-monetary│
+               │  work: production, care,│
+               │  professional, civic)  │
+               └─────────┬─────────────┘
+                         │
+                         ▼
+              ┌──────────────────────────┐
+              │  Surplus Redistribution  │
+              │ (Node reserves, inter-  │
+              │  Node sharing, community│
+              │  abundance)             │
+              └─────────┬──────────────┘
+                        │
+                        ▼
+           ┌─────────────────────────────┐
+           │ Inter-Node Balance Signaling│
+           │ (Aggregate tracking, dialogue│
+           │  escalation if imbalance)   │
+           └─────────┬──────────────────┘
+                     │
+                     ▼
+            ┌─────────────────────┐
+            │ LOTUS Oversight     │
+            │ Detection → Review →│
+            │ Appeal (Independent)│
+            └─────────┬──────────┘
+                      │
+       ┌──────────────┴───────────────┐
+       │                              │
+       ▼                              ▼
+┌───────────────┐             ┌───────────────┐
+│ Specialist    │             │ Trust Decay   │
+│ Redundancy    │             │ Mechanisms    │
+│ (Min 2-3 per  │             │ (Rotation,   │
+│ critical role │             │ reflection,  │
+│ or regional   │             │ Lyceum, LOTUS│
+│ pool access)  │             │ oversight)   │
+└───────────────┘             └───────────────┘
+
+                      │
+                      ▼
+             ┌─────────────────────┐
+             │ Non-Monetary Economy │
+             │ (No currency, no    │
+             │ salaries, no wealth │
+             │ accumulation)       │
+             └─────────────────────┘
+```
+
+---
+
 **STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.3)  
 **Authors:** Elinor Frejd & Claude & ChatGPT  
 **Date:** March 23, 2026
