@@ -72,6 +72,17 @@ This document defines the complete economic architecture of Flow, including:
 
 **Operational:** If resources become scarce, Items 4-5 pause before Item 1 is touched. Justice infrastructure (Item 3) is protected because safety is prerequisite for all else.
 
+### INTER-NODE BALANCE SIGNALING
+
+While no debt exists:
+
+- Persistent imbalance is made visible
+- Regional dialogue is triggered
+- Support or adjustment strategies are co-developed
+
+**Goal:**
+Maintain long-term reciprocity without coercion
+
 ---
 
 ### 3. RESOURCE TRACKING (AGGREGATED, ANONYMOUS)
