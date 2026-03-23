@@ -1386,6 +1386,8 @@ This document does NOT yet address:
 >
 > **END APPENDIX B** 
 >
+> ---
+>
 > ## APPENDIX C: TRUST DECAY OVER TIME PATCH
 >
 > **Status:** STRUCTURAL RISK MITIGATION  
