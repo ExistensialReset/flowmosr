@@ -7,6 +7,55 @@
 
 ---
 
+# FLOW_ECONOMIC_PRINCIPLES.md – PATCH LOG
+---
+
+## SUMMARY OF CHANGES FROM v2.2
+
+### 1. Emergency Contribution Phase
+- Clarified as **voluntary only**; no coercion allowed.  
+- Signaling mechanism encourages volunteers; non-essential services scaled down if insufficient participation.  
+- **Baseline remains inviolable.**
+
+### 2. Reduced Decision-Weight & Hoarding Enforcement
+- Defined **persistent hoarding threshold**: 3 documented incidents within 6 months, after two prior verbal reminders.  
+- **Reduced influence** clarified: e.g., voting weight reduced by 50% or temporary ineligibility for LOTUS panels.  
+- **Appeal process** added: affected person may appeal to LOTUS or neutral external panel; appeal must be heard within 30 days. Temporary suspension of reduced decision-weight during appeal unless safety concerns exist.
+
+### 3. Inter-Node Balance Signaling
+- Defined **non-essential resources**: resources above Baseline allocation, excluding infrastructure maintenance or essential services.  
+- Escalation if dialogue fails:
+  1. Temporary reduction in non-essential regional resources  
+  2. Limited restriction on non-critical inter-Node exchanges  
+  3. **Baseline never affected**
+
+### 4. Specialist Redundancy
+- Option for **regional specialist pool** added: small nodes may access shared specialists instead of maintaining full local redundancy.  
+- Local redundancy cost clarified: 1.5h/person/year for training/maintenance.  
+- Clarified scope: only critical specialists require 2–3 trained per role; other specialists may rely on regional pool.
+
+### 5. Early Warning Signal Thresholds
+- Participation <50% for 3 months triggers Node reflection.  
+- ≥3 reports of exhaustion/conflict triggers structural intervention.  
+- Escalation mechanisms explicitly defined: temporary reduction of non-essential load, increased transparency, LOTUS procedural review if necessary.
+
+### 6. Trust Decay & Response
+- Explicit **escalation pathway** added: LOTUS procedural review and reflection sessions triggered by early warning signals.  
+- Maintains "trust floor" even during partial or low trust conditions.
+
+### 7. Minor Clarifications
+- "Participation is voluntary. Continuity is structural." emphasized as system motto.  
+- Defined metrics, thresholds, and procedural responsibilities for all critical governance and enforcement mechanisms.  
+- Ensures all updates fully respect **Axiom 1 – Non-Coercion**.
+
+---
+
+**STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.3)  
+**Authors:** Elinor Frejd & Claude & ChatGPT  
+**Date:** March 24, 2026
+
+---
+
 ## PURPOSE
 
 **We aim to make Economy maximize life, not profit.**
