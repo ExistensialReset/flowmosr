@@ -207,6 +207,35 @@ System functions with 20-30% free-riders. Interventions are social (Conversation
 
 ---
 
+## APPENDIX A: QUICK REFERENCE COSTS
+
+**Status:** DATA SUMMARY / OPERATIONAL BENCHMARK  
+**Scope:** Per Node (500 people), annually
+
+### A.1 JUSTICE INFRASTRUCTURE SUMMARY
+
+| Item | Annual Cost | Notes |
+| :--- | :--- | :--- |
+| **Human hours** | 680h (1.36h/person) | Level 1-3 facilitation & review |
+| **Technology** | $90 ($0.18/person) | Pattern detection & logging |
+| **Training (amortized)** | 50h (0.1h/person) | Specialist certification (Lyceum) |
+| **Regional coordination**| 0.8h/person | Cross-Node reviewer requests |
+| **TOTAL** | **~1.5h/person + $0.18/person**| **Complete restorative system** |
+
+### A.2 COMPARISON TO OTHER NODE SYSTEMS
+
+| System | Hours/Person/Year | % of Total Node Labor |
+| :--- | :--- | :--- |
+| Food Production | 20.7h | 58.6% |
+| Education | 8.0h | 22.6% |
+| Healthcare | 4.0h | 11.3% |
+| Infrastructure | 3.0h | 8.5% |
+| **Justice** | **1.5h** | **4.2%** |
+| Other | 2.0h | 5.7% |
+| **TOTAL LABOR** | **35.3h/person/year** | **100%** |
+
+---
+
 ## APPENDIX B: SOCIAL STRUCTURE REALITY PATCH
 
 **Status:** CLARIFICATION / STRUCTURAL CORRECTION  
