@@ -628,6 +628,250 @@ However:
 
 ---
 
+APPENDIX F: SECOND-ORDER GOVERNANCE RISKS & STABILITY CLARIFICATIONS (v2.5 PATCH)
+
+Status: ADDITIVE CLARIFICATION (NO PRINCIPLE CHANGES)
+Scope: Governance + Economic + System Interaction Layer
+Purpose: Address second-order systemic tensions that cannot be fully eliminated, only managed structurally
+
+---
+
+F.1 EXTERNAL INTERFACE GRAVITY (DEPENDENCY CONCENTRATION)
+
+Problem
+
+Even with controlled External Interface Nodes (EINs):
+
+- Access to external resources (hardware, medicine, infrastructure) creates asymmetrical strategic importance
+- Certain Nodes may become persistent gateways to external systems
+- Over time, this can create dependency concentration
+
+Risk
+
+- Indirect power accumulation through resource access
+- Structural reliance on specific Nodes or Circles
+- Reduced resilience if interface Nodes fail or drift
+
+Safeguard Principle
+
+Dependency concentration is treated as a systemic risk signal.
+
+Response Mechanisms
+
+- Diversification of External Interface roles across Nodes
+- Rotation of EIN responsibilities
+- Transparency of all external inflows/outflows
+- Periodic review of dependency patterns at regional level
+
+Principle
+
+External access must never solidify into structural leverage.
+
+---
+
+F.2 ALGORITHMIC LEGIBILITY VS REAL UNDERSTANDING
+
+Problem
+
+Even when systems are:
+
+- Open
+- Documented
+- Technically transparent
+
+They may still remain functionally opaque to most participants.
+
+Risk
+
+- Trust without understanding
+- Symbolic audits instead of real accountability
+- Emergence of de facto technocratic authority
+
+Safeguard Principle
+
+Participants must be able to challenge outcomes, not just inspect systems.
+
+Implementation Clarification
+
+- Any participant may flag:
+  - Unexpected outcomes
+  - Perceived misalignment with principles
+- Such challenges trigger:
+  - Human review (Circle or LOTUS depending on scope)
+  - Explanation in plain language
+- Outcome disputes are treated as valid governance input, regardless of technical literacy
+
+Principle
+
+A system is not accountable if only experts can question it.
+
+---
+
+F.3 EVERYDAY POWER VS FORMAL POWER (CIRCLE PRIMACY REALITY)
+
+Observation
+
+Flow defines:
+
+- Circles → everyday coordination (≈8%)
+- LOTUS → constitutional and conflict resolution (≈2%)
+
+Structural Reality
+
+- Repeated, local decisions shape norms and behavior
+- Over time, Circles become the primary site of power formation
+
+Risk
+
+- Drift between local norms and global principles
+- Informal standard-setting without visibility
+
+Clarification
+
+Everyday governance (Circles) is the primary site of power formation.
+LOTUS exists to correct systemic drift, not replace local decision-making.
+
+Safeguard
+
+- LOTUS review triggered when:
+  - Pattern drift across Circles is detected
+  - Axiom misalignment is suspected
+
+Principle
+
+Power forms where decisions are frequent, not where authority is formalized.
+
+---
+
+F.4 INFORMAL POWER IS INEVITABLE (EXPOSURE OVER ELIMINATION)
+
+Problem
+
+Even with:
+
+- Rotation
+- Structured facilitation
+- Anonymous voting
+
+Individuals with:
+
+- High communication ability
+- Charisma
+- Social trust
+
+…will accumulate influence.
+
+Clarification
+
+Flow does not eliminate influence. It continuously exposes and redistributes it.
+
+Safeguard Approach
+
+- Make influence patterns visible (without personal targeting)
+- Trigger reflection, not punishment
+- Continuously rotate structural roles
+
+Principle
+
+Invisible power is dangerous. Visible power can be balanced.
+
+---
+
+F.5 EXIT COST REALITY (VOLUNTARY ≠ COSTLESS)
+
+Observation
+
+Flow guarantees:
+
+- Voluntary participation
+- Voluntary exit
+
+However:
+
+- Social relationships
+- Local trust
+- Recognition
+
+…are not portable.
+
+Structural Tension
+
+Exit is:
+
+- Formally free
+- Socially and psychologically costly
+
+Clarification
+
+Flow does not eliminate the cost of leaving.
+It ensures that staying is never enforced through structural coercion.
+
+Principle
+
+Freedom of exit is defined by absence of coercion, not absence of consequence.
+
+---
+
+F.6 IMPLICIT VALUE FORMATION (HOURS, INFRASTRUCTURE, AND SCALE)
+
+Observation
+
+Even without currency:
+
+- Infrastructure requires coordinated labor investment
+- Time is used for planning and system capacity
+
+This creates:
+
+- Implicit value relationships (e.g., large projects require large collective effort)
+
+Risk
+
+- Reintroduction of value logic through interpretation
+- External systems attempting to map Flow into price equivalents
+
+Clarification
+
+Flow does not eliminate value.
+It removes value from governing access and power.
+
+Safeguard
+
+- No conversion between:
+  - Hours ↔ resources
+  - Effort ↔ entitlement
+- All allocations remain:
+  - Need-based
+  - System-coordinated
+
+Principle
+
+Value may exist descriptively. It must never exist as a control mechanism.
+
+---
+
+FINAL NOTE
+
+This appendix acknowledges:
+
+Some systemic tensions cannot be designed away.
+
+They can only be:
+
+- Made visible
+- Structurally constrained
+- Continuously monitored
+
+Flow remains stable not by eliminating complexity,
+but by refusing to hide it.
+
+---
+
+STATUS: ADDITIVE PATCH v2.5
+DATE: March 23, 2026
+
+---
+
 ## FINAL NOTE
 
 This appendix does not introduce new principles.
