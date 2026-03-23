@@ -125,6 +125,20 @@ Flow does not require full participation.
 
 **Continuity is structural.**
 
+#### 4.2 SYSTEM CAPACITY THRESHOLD
+
+Flow requires a minimum level of active contribution to maintain Baseline.
+
+If total contribution falls below sustainable levels:
+
+1. System signals capacity strain (visible at Node level)
+2. Non-essential services automatically scale down
+3. Rotation frequency increases proportionally
+4. Emergency contribution phase may be activated (temporary, bounded)
+
+**Goal:**
+Restore system stability without coercion or punishment.
+
 **Principle:** Everyone receives Baseline regardless of work. Contribution is voluntary and varied.
 
 **What this means:**
