@@ -157,6 +157,18 @@ Restore system stability without coercion or punishment.
 
 **All forms valued equally in principle.**
 
+### BURDEN BALANCING PRINCIPLE
+
+Unpleasant tasks must be:
+
+- Evenly distributed
+- Time-bounded
+- Reduced through system design where possible
+
+If resistance increases:
+- Task redesign is prioritized
+- Automation or simplification explored
+
 ---
 
 ### 5. SURPLUS REDISTRIBUTION (NO HOARDING)
