@@ -850,6 +850,338 @@ Value may exist descriptively. It must never exist as a control mechanism.
 
 ---
 
+APPENDIX G: BEHAVIORAL STABILITY LAYER (v3.0 PATCH)
+
+Status: ADDITIVE CLARIFICATION (NO PRINCIPLE CHANGES)
+Scope: Cross-system (Governance + Economic + Circle + Social Dynamics)
+Purpose: Provide minimal structural countermeasures to known behavioral failure modes identified through Red Team v3
+
+---
+
+G.0 CORE POSITION
+
+Flow does not assume perfect behavior.
+
+Flow assumes:
+
+- Uneven participation
+- Informal influence
+- Social pressure
+- Fatigue
+- Drift over time
+
+This appendix defines lightweight structural responses to ensure:
+
+- Stability without coercion
+- Adaptation without collapse
+- Power redistribution without denial of human dynamics
+
+---
+
+G.1 INFLUENCE DIFFUSION PROTOCOL (IDP)
+
+Problem
+
+Informal influence accumulates through:
+
+- competence
+- trust
+- communication ability
+
+Trigger Signals
+
+- Same individuals repeatedly influence decisions
+- Delegation concentrates around specific people
+- Discussion outcomes correlate strongly with specific participants
+
+Mechanisms
+
+1. Step-Back Rule (Soft Constraint)
+Participants who have strongly influenced 3+ recent decisions:
+
+- Refrain temporarily from leading proposals
+- Speak later in discussions (not first phase)
+
+2. Reverse Delegation
+High-trust individuals must delegate outward rather than accumulate responsibility
+
+3. First-Voice Rotation
+Initial discussion phase prioritizes randomly selected, lower-frequency speakers
+
+Principle
+
+Influence must circulate, not accumulate.
+
+---
+
+G.2 CIRCLE RESET PROTOCOL (CRP)
+
+Problem
+
+Repeated behavior becomes invisible norm.
+
+Requirement
+
+Every Circle conducts a quarterly reset session.
+
+Core Questions
+
+- What are we doing out of habit?
+- What would a new member find unusual?
+- Are we aligned with Flow principles?
+
+Structural Constraint
+
+At least one existing norm must be:
+
+- consciously reaffirmed, or
+- experimentally modified
+
+Principle
+
+No norm becomes permanent without reflection.
+
+---
+
+G.3 EXTERNAL INTERFACE ROTATION LOCK (EIN-RL)
+
+Problem
+
+External interface roles create strategic asymmetry.
+
+Constraints
+
+- No individual may serve in EIN roles:
+  - consecutively
+  - more than once per year
+
+Knowledge Requirement
+
+Each cycle must include:
+
+- documentation of actions
+- knowledge transfer session
+
+Redundancy
+
+- Minimum 3 trained individuals per Node
+
+Principle
+
+External access must not become structural leverage.
+
+---
+
+G.4 OUTCOME CHALLENGE PROTOCOL (OCP)
+
+Problem
+
+Technically correct systems can produce misaligned outcomes.
+
+Rule
+
+Any participant may challenge an outcome by stating:
+
+«“This outcome feels misaligned.”»
+
+No technical justification required.
+
+Response
+
+- Trigger review (Circle or LOTUS depending on scope)
+- Produce plain-language explanation
+- Compare outcome to principles
+
+Escalation
+
+Repeated similar challenges → mandatory audit
+
+Principle
+
+Reality feedback overrides system abstraction.
+
+---
+
+G.5 FAIRNESS REFLECTION SIGNAL (FRS)
+
+Problem
+
+Perceived unfairness destabilizes participation faster than actual imbalance.
+
+Mechanism
+
+Monthly anonymous signal:
+
+- “Does contribution feel roughly fair?”
+  - Yes / Mostly / No
+
+Trigger
+
+If negative responses exceed threshold:
+
+- Structured Circle reflection activated
+
+Constraint
+
+- No individual attribution
+- Focus on structure, not blame
+
+Principle
+
+Fairness must be felt, not just calculated.
+
+---
+
+G.6 DECISION ENERGY PROTOCOL (DEP)
+
+Problem
+
+Fatigue leads to passive or low-quality decisions.
+
+Requirement
+
+Each proposal must declare:
+
+- Low / Medium / High energy requirement
+
+Safeguard
+
+If >30% of participants indicate low energy:
+
+- Decision postponed or simplified
+
+Principle
+
+Decision quality depends on human capacity, not just process.
+
+---
+
+G.7 EXIT REFLECTION PROTOCOL (ERP)
+
+Problem
+
+Silent exit removes critical system feedback.
+
+Mechanism
+
+Exiting participants are invited (optional) to provide:
+
+- reason categories
+- friction points
+- improvement signals
+
+Handling
+
+- Aggregated
+- Pattern-detected
+- Non-attributable
+
+Trigger
+
+Recurring exit patterns → mandatory reflection
+
+Principle
+
+Exit is system feedback when captured.
+
+---
+
+G.8 INTER-CIRCLE SYNC PULSE (ISP)
+
+Problem
+
+Local optimization creates fragmentation.
+
+Mechanism
+
+Quarterly cross-Circle exchange:
+
+- Random representatives
+- Share practices, differences, insights
+
+Purpose
+
+- Maintain system awareness
+- Detect divergence early
+
+Constraint
+
+- No forced standardization
+
+Principle
+
+Awareness preserves coherence without enforcing uniformity.
+
+---
+
+G.9 SOFT PRESSURE ACKNOWLEDGMENT RULE (SPAR)
+
+Problem
+
+Social pressure can reintroduce coercion.
+
+Mechanism
+
+Any participant may state:
+
+«“This feels like pressure, not choice.”»
+
+Response
+
+- Discussion pauses
+- Reframing required:
+  - expectation → invitation
+
+Principle
+
+Coercion must remain visible to remain non-structural.
+
+---
+
+G.10 EXPERIMENTATION REQUIREMENT (ER)
+
+Problem
+
+Successful systems resist change.
+
+Requirement
+
+Each Circle must conduct:
+
+- At least one small experiment per quarter
+
+Constraints
+
+- Reversible
+- Evaluated after execution
+
+Principle
+
+Adaptation must be practiced continuously.
+
+---
+
+FINAL NOTE
+
+This appendix does not eliminate behavioral risk.
+
+It ensures that:
+
+- Drift is visible
+- Power is interruptible
+- Feedback is continuous
+- Adaptation is structural
+
+Flow remains stable not by controlling people,
+but by responding to how people actually behave.
+
+---
+
+STATUS: ADDITIVE PATCH v3.0
+DATE: March 23, 2026
+
+---
+
 FINAL NOTE
 
 This appendix acknowledges:
