@@ -11,6 +11,13 @@
 
 **We aim to make Economy maximize life, not profit.**
 
+> **NOTE:**
+> This document defines the **core economic principles of Flow**.
+> It is part of a larger system architecture.
+>
+> Detailed implementations, edge cases, and protocols are defined in
+> supporting documents referenced throughout this file.
+
 This document defines the complete economic architecture of Flow, including:
 - Core principles (unchanged from v1.0)
 - Justice infrastructure financing 
