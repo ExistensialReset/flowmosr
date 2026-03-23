@@ -129,7 +129,7 @@ Flow does not require full participation.
 
 #### 4.2 SYSTEM CAPACITY THRESHOLD
 
-Flow requires a minimum level of active contribution to maintain Baseline.
+Flow requires a minimum level of active contribution to maintain Baseline. No node member may be coerced or shamed into participation beyond personal comfort levels.
 
 **Emergency contribution phase (clarified):**  
 - Activated **voluntarily** only  
