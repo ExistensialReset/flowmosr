@@ -106,6 +106,25 @@ This document defines the complete economic architecture of Flow, including:
 
 ### 4. CONTRIBUTION, NOT COMPENSATION
 
+#### 4.1 PARTICIPATION REALITY
+
+Flow does not require full participation.
+
+**Flow is designed to function under:**
+- Partial contribution
+- Uneven motivation
+- Periods of low engagement
+
+**System stability is achieved through:**
+- Structural redundancy
+- Rotation systems
+- Social dynamics
+- Adaptive scaling
+
+**Participation is voluntary.**
+
+**Continuity is structural.**
+
 **Principle:** Everyone receives Baseline regardless of work. Contribution is voluntary and varied.
 
 **What this means:**
