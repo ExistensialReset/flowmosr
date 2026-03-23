@@ -204,6 +204,18 @@ Restore system stability without coercion or punishment.
 **Civic duty hours:**
 - Average 6-12 hours/week for rotating tasks, adjusted for health and age.
 
+### SPECIALIST REDUNDANCY RULE
+
+No critical function may depend on a single individual.
+
+Each Node must maintain:
+- Minimum 2–3 trained individuals per critical role
+- Active apprenticeship pipeline
+- Mandatory rest cycles for high-load roles
+
+If redundancy falls below threshold:
+- Regional support is activated immediately
+
 ---
 
 ### 8. REPAIR CULTURE (NO PLANNED OBSOLESCENCE)
