@@ -7,22 +7,6 @@
 
 ---
 
-## CHANGELOG – FLOW_ECONOMIC_PRINCIPLES.md
-
-**Version 2.2** – March 23, 2026  
-**Authors:** Elinor Frejd & Claude & ChatGPT
-
-### Key Updates from v2.1
-1. **Emergency Contribution Phase** – Explicitly voluntary; no coercion; volunteers encouraged; non-essential services scaled down if insufficient volunteers. Baseline unaffected.
-2. **Reduced Decision-Weight** – Clear thresholds (3 incidents/6 months) and appeal process to LOTUS or neutral external panel; clarified practical effect (e.g., voting weight reduction or panel ineligibility).
-3. **Inter-Node Balance Signaling** – Escalation steps clarified: dialogue → temporary reduction of non-essential resource access → limited restriction on non-critical exchanges → Baseline always protected.
-4. **Specialist Redundancy** – Regional specialist pool option added; clarified which roles require local redundancy versus regional sharing; local training cost included (1.5h/person/year).
-5. **Early Warning Signal Thresholds** – Participation <50% for 3 months or ≥3 reports of exhaustion/conflict now triggers action.
-6. **Trust Decay Response** – Response and escalation mechanisms clarified with LOTUS involvement.
-7. **Additional Clarifications** – Defined “non-essential resources”; specified timelines for appeals (30 days); clarified what constitutes a “hoarding incident.”
-
----
-
 ## PURPOSE
 
 **We aim to make Economy maximize life, not profit.**
@@ -48,13 +32,13 @@ This document defines the complete economic architecture of Flow, including:
 
 **Rationale:** Currency was invented to solve exchange across time and space when direct coordination was impossible. Flow solves coordination through transparent resource tracking and voluntary contribution. Currency becomes unnecessary.
 
-**Implementation:**
+**Implementation:**  
 - No buying/selling within Flow  
 - No wages or salaries  
 - No wealth accumulation  
-- Direct resource allocation based on need and availability
+- Direct resource allocation based on need and availability  
 
-**What replaces money:**
+**What replaces money:**  
 - Resource tracking (aggregate, not individual)  
 - Contribution hours (for coordination, not compensation)  
 - Social recognition (for appreciation, not payment)  
@@ -66,7 +50,7 @@ This document defines the complete economic architecture of Flow, including:
 
 **Principle:** Priority order for resource allocation:
 
-1. **Baseline (Survival)** - ALWAYS FIRST
+1. **Baseline (Survival)** - ALWAYS FIRST  
    - Food (2,200 kcal/day)  
    - Water (100L/day)  
    - Energy (2,000 kWh/year)  
@@ -79,24 +63,20 @@ This document defines the complete economic architecture of Flow, including:
 4. **Community Projects** - Lyceum, Refugium, cultural activities  
 5. **Surplus Distribution** - Shared between Nodes or stored  
 
-**Critical rule:** Baseline can NEVER be suspended as punishment, withheld for debt, or traded for compliance. This is non-negotiable.
+**Critical rule:** Baseline can NEVER be suspended as punishment, withheld for debt, or traded for compliance. Non-negotiable.
 
 **Operational:** If resources become scarce, Items 4–5 pause before Item 1 is touched. Justice infrastructure (Item 3) is protected because safety is prerequisite for all else.
 
 ### INTER-NODE BALANCE SIGNALING
 
-While no debt exists:
-
-- Persistent imbalance is made visible  
-- Regional dialogue is triggered  
-- Support or adjustment strategies are co-developed  
+**Principle:** Persistent imbalance is made visible; regional dialogue is triggered; support or adjustment strategies are co-developed.
 
 **Escalation if dialogue fails:**  
-- Temporary reduction in access to **non-essential resources** (defined as resources above Baseline allocation, excluding infrastructure maintenance and essential services)  
+- Temporary reduction in access to **non-essential regional resources** (defined as resources above Baseline allocation, excluding infrastructure maintenance or essential services)  
 - Limited restriction on non-critical inter-Node exchanges  
 - Baseline is never affected  
 
-**Goal:** Maintain long-term reciprocity without coercion  
+**Goal:** Maintain long-term reciprocity without coercion
 
 ---
 
@@ -104,29 +84,26 @@ While no debt exists:
 
 **Principle:** Track system totals, not individuals.
 
-**What IS tracked (system-wide):**
+**Tracked (system-wide):**  
 - Total food production per Node  
 - Total energy generation per Node  
 - Total water consumption per Node  
 - Number of residents per Node  
-- Service availability (doctors, teachers, etc.)  
+- Service availability (doctors, teachers, etc.)
 
-**What is NOT tracked (individual level):**
+**Not tracked (individual level):**  
 - Who takes how much food  
 - Individual energy consumption  
 - Who visits which therapist  
 - Personal usage patterns  
-- Consumption rankings or comparisons  
+- Consumption rankings or comparisons
 
-**Technical architecture:**
-- **Local Node:** Totals only, stored locally, no external access  
+**Technical architecture:**  
+- **Local Node:** Totals only, stored locally  
 - **Regional Coordination:** Aggregated production/consumption per Node  
 - **Global Network:** Continental-scale flows of specialty resources  
 
-**Privacy protection:**
-- Individual entries deleted after 30 days  
-- No permanent personal consumption records  
-- Transparency applies to SYSTEM, not PEOPLE  
+**Privacy protection:** Individual entries deleted after 30 days; no permanent personal records; transparency applies to **system**, not **people**.
 
 ---
 
@@ -136,90 +113,80 @@ While no debt exists:
 
 Flow does not require full participation.
 
-**Flow is designed to function under:**
+**System is designed to function under:**  
 - Partial contribution  
 - Uneven motivation  
 - Periods of low engagement  
 
-**System stability is achieved through:**
+**System stability is achieved through:**  
 - Structural redundancy  
 - Rotation systems  
 - Social dynamics  
 - Adaptive scaling  
 
 **Participation is voluntary.**  
-**Continuity is structural.**  
+**Continuity is structural.**
 
 #### 4.2 SYSTEM CAPACITY THRESHOLD
 
 Flow requires a minimum level of active contribution to maintain Baseline.
 
-If total contribution falls below sustainable levels:
+**Emergency contribution phase (clarified):**  
+- Activated **voluntarily** only  
+- Signaling mechanism; **no coercion**  
+- Volunteers encouraged to fill gaps  
+- If insufficient volunteers → further scaling down of non-essential services  
+- **Baseline never affected**
 
-1. System signals capacity strain (visible at Node level)  
-2. Non-essential services automatically scale down  
-3. Rotation frequency increases proportionally  
-4. **Emergency contribution phase activated voluntarily**: signaling mechanism only; no coercion. Volunteers encouraged to fill gaps. If insufficient volunteers → further non-essential services scaled down. Baseline is never affected.  
+**Goal:** Restore system stability without coercion or punishment
 
-**Goal:** Restore system stability without coercion or punishment.
-
-**Principle:** Everyone receives Baseline regardless of work. Contribution is voluntary and varied.
-
-**Forms of contribution:**
+**Forms of contribution:**  
 - Direct production (food, energy, building)  
 - Care work (childcare, eldercare, emotional support)  
 - Professional services (healthcare, teaching, engineering)  
 - Creative work (art, music, documentation)  
 - Cognitive work (research, design, coordination)  
-- Civic participation (Circle governance, conflict resolution)  
+- Civic participation (Circle governance, conflict resolution)
 
 **All forms valued equally in principle.**
 
 ### BURDEN BALANCING PRINCIPLE
 
-Unpleasant tasks must be:
-
+Unpleasant tasks must be:  
 - Evenly distributed  
 - Time-bounded  
-- Reduced through system design where possible  
+- Reduced through system design  
 
 If resistance increases:  
-- Task redesign is prioritized  
-- Automation or simplification explored  
+- Task redesign prioritized  
+- Automation or simplification explored
 
 ### ENGAGEMENT DECAY PRINCIPLE
 
-**Flow assumes that:**
+Flow assumes:  
 - Motivation fluctuates  
 - Engagement decreases periodically  
 - Not all participants will remain active  
 
-**System resilience is achieved through:**
+**System resilience:**  
 - Redundancy in contribution  
 - Reduced dependency on individual motivation  
 - Structural adaptation to lower engagement levels  
-
-Flow does not require constant high participation.  
-It is designed to function under degraded engagement conditions.  
 
 ---
 
 ### 5. SURPLUS REDISTRIBUTION (NO HOARDING)
 
-**Principle:** Surplus goes to reserves, inter-Node sharing, or community abundance. Individual hoarding is prohibited.
+**Principle:** Surplus goes to reserves, inter-Node sharing, or community abundance.
 
-**Individual level:**
-- Taking more food than you need: Socially visible (gentle accountability)  
-- Stockpiling resources in private: Against principles  
-- Hoarding specialist knowledge: Discouraged (Lyceum encourages sharing)  
+**Persistent hoarding definition:**  
+- Three documented instances of hoarding behavior (taking significantly more than personal need) within 6 months, after two prior verbal reminders
 
-**Persistent hoarding**: Three documented instances of hoarding behavior (taking significantly more than personal need) within 6 months, after two prior verbal reminders.  
-
-**Enforcement:**
-- Social conversation, then Circle review  
-- Reduced influence on Node-level governance decisions (e.g., voting weight reduced by 50%, or ineligibility for LOTUS panels for a defined period)  
-- Appeal may be made by the affected person to LOTUS or a neutral external panel, to be heard within 30 days. During appeal, reduced decision-weight is temporarily suspended unless safety concerns exist.  
-- Never: Removal of Baseline  
+**Enforcement:**  
+- Social conversation → Circle review  
+- Reduced influence on Node-level governance decisions (e.g., voting weight reduced by 50%, or temporary ineligibility for LOTUS panels)  
+- **Overklagande:** Affected person may appeal to LOTUS or a neutral external panel; appeal heard within 30 days; reduced decision-weight temporarily suspended unless safety concerns exist  
+- **Baseline never affected**
 
 ---
 
@@ -227,204 +194,110 @@ It is designed to function under degraded engagement conditions.
 
 **Principle:** "You need this, I have extra. I need that, you have extra." No calculation of equivalence or profit extraction.
 
-**Coordination mechanism:**
-- Regional coordination Node tracks aggregate flows  
-- Imbalances flagged if persistent (not punished, just noticed)  
+**Coordination mechanism:**  
+- Regional Node tracks aggregate flows  
+- Imbalances flagged if persistent (not punished)  
 - Global Flow network coordinates specialty resources  
-- Focus on reciprocity and long-term balance, not transaction-by-transaction equivalence  
+- Focus on reciprocity, long-term balance
 
 ---
 
 ### 7. LABOR STRUCTURE (ESSENTIAL WORK GUARANTEED)
 
-**Principle:** Combination of rotation (for essential tasks) and specialization (for skilled work).
+**Principle:** Rotation for essential tasks; specialization for skilled work.
 
-**Three categories:**
+**Categories:**  
+**A. Fully Rotating Tasks:** food prep, sanitation, maintenance  
+**B. Semi-Legit Professions:** teachers, junior techs, coordinators  
+**C. Legit Professions:** doctors, licensed therapists, engineers, lab specialists  
 
-**A. Fully Rotating Tasks (everyone participates):**
-- Food preparation, sanitation, basic maintenance  
+**Civic duty hours:** avg 6–12h/week, adjusted for health/age
 
-**B. Semi-Legit Professions (partial rotation, supervision required):**
-- Teachers, junior technicians, Node coordinators  
-
-**C. Legit Professions (no rotation, but protected from overload):**
-- Doctors, licensed therapists, engineers, lab specialists  
-
-**Civic duty hours:**  
-- Average 6–12 hours/week for rotating tasks, adjusted for health and age  
-
-### SPECIALIST REDUNDANCY RULE
-
-No critical function may depend on a single individual.
-
-Each Node must maintain:  
-- Minimum 2–3 trained individuals per critical role **OR access to regional specialist pool**  
-- Active apprenticeship pipeline  
-- Mandatory rest cycles for high-load roles  
-
-**Local redundancy cost:** 1.5h/person/year for specialist training and maintenance, included in contribution hours  
-
-If redundancy falls below threshold:  
-- Regional support is activated immediately  
+**Specialist Redundancy Rule:**  
+- Minimum 2–3 trained per critical role **OR access to regional specialist pool**  
+- Training/maintenance: 1.5h/person/year  
+- Apprenticeship pipeline maintained  
+- Mandatory rest cycles  
+- Regional support activated if redundancy falls below threshold
 
 ---
 
-### 8. REPAIR CULTURE (NO PLANNED OBSOLESCENCE)
+### 8. REPAIR CULTURE
 
-**Principle:** Design for durability, repairability, and longevity. Waste is structural failure.
+**Principle:** Design for durability, repairability, longevity. Waste is structural failure.
 
-**Implementation:**
-- Modular design, open schematics, and tool libraries at every Node  
+**Implementation:** Modular design, open schematics, Node-level tool libraries
 
 ---
 
 ## II. JUSTICE INFRASTRUCTURE FINANCING
 
-### 2.1 JUSTICE AS ESSENTIAL SERVICE
-Justice falls under Priority 3. It comes BEFORE community projects and surplus distribution. It is a structural prerequisite.
+### 2.1 Justice as Essential Service
 
-### 2.2 COSTS PER NODE (500 PEOPLE)
-- **Human Time:** ~680 hours/year (1.36h/person/year)  
-- **Technology:** ~$90/year (energy/hardware)  
-- **Justice is 5.3% of Node operating cost**  
+Priority 3; structural prerequisite; precedes community projects/surplus distribution
 
-### 2.3 COMPENSATION
-Justice work is contribution. Specialists (Child Witness Specialists, Human Mirrors) receive Baseline and social status, motivated by intrinsic value and safety.  
+### 2.2 Costs per Node (500 people)
+
+- Human time: 680h/year (1.36h/person)  
+- Technology: $90/year ($0.18/person)  
+- Justice is 5.3% of Node operating cost  
+
+### 2.3 Compensation
+
+Justice work = contribution. Specialists (Child Witness, Human Mirrors) receive Baseline + social status
 
 ---
 
 ## III. OPERATIONAL MECHANISMS
 
-### 3.1 RESOURCE FLOW
-Direct access to Baseline at Node level. Regional Nodes balance surplus through reciprocity, not debt.
+### 3.1 Resource Flow
 
-### 3.2 HOUR TRACKING
-Logged for capacity planning and fairness monitoring, never for payment. Individual data remains private to the Circle.
+Direct access to Baseline at Node; regional Nodes balance surplus through reciprocity, not debt
 
-### 3.3 FREE RIDER MANAGEMENT
-System functions with 20–30% free-riders. Interventions are social (Conversation -> Adjustment -> Governance weight), never involving Baseline removal.
+### 3.2 Hour Tracking
+
+Logged for capacity/fairness; individual data private to Circle
+
+### 3.3 Free Rider Management
+
+System tolerates 20–30% free-riders. Interventions are social (Conversation → Adjustment → Governance weight); Baseline never removed
+
+### 3.4 Early Warning Signals
+
+- Participation <50% for 3 months  
+- ≥3 reports of exhaustion/conflict  
+- Triggers Node reflection, temp reduction of non-essential load, increased transparency
 
 ---
 
 ## IV. APPENDICES
 
----
-
-## APPENDIX A: QUICK REFERENCE COSTS
-
-**Status:** DATA SUMMARY / OPERATIONAL BENCHMARK  
-**Scope:** Per Node (500 people), annually
-
-### A.1 JUSTICE INFRASTRUCTURE SUMMARY
+### APPENDIX A: QUICK REFERENCE COSTS
 
 | Item | Annual Cost | Notes |
 | :--- | :--- | :--- |
-| **Human hours** | 680h (1.36h/person) | Level 1-3 facilitation & review |
-| **Technology** | $90 ($0.18/person) | Pattern detection & logging |
-| **Training (amortized)** | 50h (0.1h/person) | Specialist certification (Lyceum) |
-| **Regional coordination**| 0.8h/person | Cross-Node reviewer requests |
-| **TOTAL** | **~1.5h/person + $0.18/person**| **Complete restorative system** |
+| Human hours | 680h (1.36h/person) | Justice facilitation & review |
+| Technology | $90 ($0.18/person) | Pattern detection/logging |
+| Training (amortized) | 50h (0.1h/person) | Specialist certification |
+| Regional coordination | 0.8h/person | Cross-Node review requests |
+| **TOTAL** | **~1.5h/person + $0.18/person** | Complete restorative system |
 
-### A.2 COMPARISON TO OTHER NODE SYSTEMS
+### APPENDIX B: SOCIAL STRUCTURE REALITY PATCH
 
-| System | Hours/Person/Year | % of Total Node Labor |
-| :--- | :--- | :--- |
-| Food Production | 20.7h | 58.6% |
-| Education | 8.0h | 22.6% |
-| Healthcare | 4.0h | 11.3% |
-| Infrastructure | 3.0h | 8.5% |
-| **Justice** | **1.5h** | **4.2%** |
-| Other | 2.0h | 5.7% |
-| **TOTAL LABOR** | **35.3h/person/year** | **100%** |
+- Nodes of 500 are not fully cohesive  
+- Natural clusters of 10–50 people  
+- Local visibility + structured cross-cluster interaction  
+- Anti-capture via LOTUS rotation, cross-cluster assignments  
+- Pattern detection flags repeated role concentration/cluster dominance
 
----
+### APPENDIX C: TRUST DECAY OVER TIME PATCH
 
-## APPENDIX B: SOCIAL STRUCTURE REALITY PATCH
-
-**Status:** CLARIFICATION / STRUCTURAL CORRECTION  
-**Scope:** Applies to ALL Node-level social assumptions in Flow
-
-### PURPOSE
-This appendix corrects a critical implicit assumption: **A Node of ~500 people is NOT a fully socially cohesive unit.** The system must not rely on universal mutual familiarity.
-
-### B.1 CORE REALITY
-A Node naturally forms overlapping social clusters of ~10–50 people. This is the default human structure.
-
-### B.2 DESIGN CORRECTION
-Flow does NOT assume everyone knows everyone. It assumes local visibility within clusters and structured interaction between them.
-
-### B.3 ACCOUNTABILITY MODEL (REVISED)
-1. **Local (Cluster Level):** Norms and gentle accountability  
-2. **Cross-Cluster (Structured):** Rotation and shared infrastructure create overlap  
-3. **System-Level (Formal):** LOTUS panels and external reviewers  
-
-### B.4 ANTI-CAPTURE MECHANISMS
-Randomized selection (LOTUS) and rotation prevent social capture by tight-knit groups or informal hierarchies
-
-### B.5 INFORMATION FLOW REALITY
-Information spreads unevenly. Therefore, Flow requires structured verification for high-stakes cases rather than relying on reputation alone
-
-### ANTI-CAPTURE DISTRIBUTION
-To prevent informal power concentration:
-
-- High-influence roles must rotate across clusters  
-- Cross-cluster task assignment is required  
-- No stable group may dominate coordination roles over time  
-
-Pattern detection flags:  
-- Repeated role concentration  
-- Cluster dominance in decision processes  
-
----
-
-## APPENDIX C: TRUST DECAY OVER TIME PATCH
-
-**Status:** STRUCTURAL RISK MITIGATION  
-**Scope:** Long-term stability of all Flow Nodes
-
-### PURPOSE
-All social systems experience trust decay. Flow must be designed to function where trust fluctuates, degrades, and must be continuously regenerated.
-
-### C.1 WHAT IS TRUST DECAY
-The gradual erosion of shared norms and perceived fairness due to unresolved tensions, burnout, or perceived exploitation
-
-### C.2 FAILURE PATTERN
-Doubts → Dropped motivation → Suspicion → Conflict → Collapse. This is historically universal
-
-### C.3 CORE DESIGN PRINCIPLE
-Trust is a fluctuating variable the system must continuously regenerate
-
-### C.4 TRUST REGENERATION MECHANISMS
-1. **Structural Fairness:** Visible resource flows reduce suspicion  
-2. **Rotation:** Prevents power consolidation  
-3. **Randomized Oversight (LOTUS):** Maintains legitimacy when local trust is low  
-4. **Refugium Access:** Prevents emotional accumulation from degrading trust  
-5. **Lyceum:** Re-aligns mental models through continuous education  
-
-### C.5 TRUST FLOOR
-Flow does not require high trust; it maintains a "trust floor" through structure, ensuring coordination even during disagreement
-
-### C.6 EARLY WARNING SIGNALS
-- Participation <50% for 3 months  
-- ≥3 reports of exhaustion/conflict  
-
-### C.7 FINAL PRINCIPLE
-Flow is built on structures that continue to function when trust is incomplete, uneven, or temporarily low
-
-### TRUST DECAY RESPONSE TRIGGERS
-If early warning signals appear:  
-- Node reflection session triggered  
-- Temporary reduction non-essential load  
-- Increased transparency of system metrics  
-- Escalation: procedural mechanisms for review and LOTUS involvement  
-
-**Goal:** Intervene before trust drops below functional threshold  
+**Principle:** Trust fluctuates; system maintains "trust floor"  
+**Mechanisms:** Structural fairness, rotation, LOTUS oversight, Refugium access, Lyceum education  
+**Response triggers:** reflection, temporary load reduction, transparency, LOTUS procedural review
 
 ---
 
 **STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.2)  
 **Authors:** Elinor Frejd & Claude & ChatGPT  
 **Date:** March 23, 2026
-
-**Key Quote:**  
-"Participation is voluntary. Continuity is structural."
