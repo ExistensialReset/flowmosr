@@ -320,6 +320,164 @@ System tolerates 20–30% free-riders. Interventions are social (Conversation �
 
 ---
 
+## APPENDIX E: SYSTEM BOUNDARIES & FUTURE SPECIFICATION LAYERS
+
+**Status:** STRUCTURAL CLARIFICATION / NON-TIER-1 EXTENSIONS  
+**Scope:** Defines what is intentionally OUTSIDE this document but REQUIRED for full system implementation  
+
+---
+
+### PURPOSE
+
+This appendix clarifies the boundary between:
+
+- **Tier 1 (This document):** Inviolable economic principles  
+- **Tier 2–3 (Separate documents):** Implementation, governance, and infrastructure systems  
+
+The goal is to prevent:
+- Overloading Tier 1 with implementation detail  
+- Leaving critical system questions unowned  
+
+---
+
+### E.1 TECHNOLOGY & INFRASTRUCTURE (EXTERNAL DEPENDENCIES)
+
+Flow assumes:
+
+- Technology is part of resource flow, not external to it  
+- Maintenance and operation are accounted for in contribution hours  
+
+However:
+
+**Acquisition of complex technology (e.g., chips, servers, medical equipment) is a system-level challenge not solved at Tier 1.**
+
+This requires a dedicated specification covering:
+
+- Interfacing with external (non-Flow) systems  
+- Transitional exchange mechanisms (if operating within a currency-based world)  
+- Long-term strategies for technological autonomy or federated production  
+
+**Status:** To be defined in `FLOW_TECHNOLOGY_AND_INFRASTRUCTURE.md`
+
+---
+
+### E.2 AUTOMATION & ALGORITHMIC GOVERNANCE
+
+Flow uses automation for:
+
+- Resource prioritization  
+- Capacity signaling  
+- Pattern detection (e.g., hoarding, role concentration)  
+
+**Critical constraint:**
+Automation must never become a hidden power structure.
+
+Therefore:
+
+- All prioritization logic must be transparent and publicly inspectable  
+- Decision rules must be explainable to non-technical participants  
+- Regular review processes must exist  
+
+**Proposed mechanism:**
+- Periodic “Algorithm Audit” via LOTUS or equivalent oversight body  
+
+**Status:** To be defined in `FLOW_AUTOMATION_AND_AUDIT_PROTOCOLS.md`
+
+---
+
+### E.3 LOTUS ROLE SEPARATION (DETECTION VS APPEAL)
+
+To prevent concentration of procedural power:
+
+- Detection, review, and appeal functions must not be handled by the same group  
+
+**Minimum separation:**
+- Detection (pattern flagging)  
+- Initial review (Circle / Node-level)  
+- Appeal (LOTUS or external neutral panel)  
+
+Appeal must remain:
+
+- Independent  
+- Time-bounded  
+- Accessible to the affected party  
+
+**Status:** To be further specified in governance protocols
+
+---
+
+### E.4 SOCIAL POWER ACCUMULATION (NON-FORMAL INFLUENCE)
+
+Flow explicitly prevents **formal power concentration**, but acknowledges:
+
+> Informal influence (charisma, competence, visibility) will always exist.
+
+This creates a structural risk:
+- Individuals with high contribution or visibility may accumulate disproportionate influence  
+
+**Mitigation principles:**
+
+- Rotation of facilitation roles  
+- Structured speaking formats in governance  
+- Pattern detection for dominance in decision processes  
+- Triggered reflection if influence concentration is detected  
+
+**Goal:**
+Prevent drift from “equal voice” to “informal hierarchy dominance”
+
+---
+
+### E.5 CONTRIBUTION HOURS – NON-VALORIZATION GUARANTEE
+
+Contribution hours are:
+
+- Used for capacity planning  
+- Used for system-level coordination  
+
+They must NEVER be used for:
+
+- Ranking individuals  
+- Determining access to resources  
+- Creating implicit or explicit exchange value  
+
+**Acknowledged tension:**
+Any quantified metric risks becoming social currency.
+
+**Mitigation:**
+- No publication of individual contribution comparisons  
+- No cumulative lifetime tracking  
+- No conversion between hours and resources  
+
+---
+
+### E.6 TRANSITIONAL REALITY
+
+Flow is expected to initially exist within a broader non-Flow environment.
+
+Therefore:
+
+- Transitional interfaces (legal, economic, technological) are required  
+- Full autonomy is not assumed at initial deployment  
+
+**This document defines the target state, not the transition path.**
+
+**Status:** Transition strategy to be defined separately
+
+---
+
+### FINAL NOTE
+
+This appendix exists to make explicit:
+
+> Flow does not ignore these complexities.  
+> It deliberately assigns them to the correct layer of the system.
+
+Tier 1 remains stable.
+
+Implementation evolves. 
+
+---
+
 **STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.3)  
 **Authors:** Elinor Frejd & Claude & ChatGPT  
 **Date:** March 23, 2026
