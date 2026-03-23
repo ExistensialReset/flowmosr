@@ -313,6 +313,18 @@ Randomized selection (LOTUS) and rotation prevent social capture by tight-knit g
 ### B.5 INFORMATION FLOW REALITY
 Information spreads unevenly. Therefore, Flow requires structured verification for high-stakes cases rather than relying on reputation alone.
 
+### ANTI-CAPTURE DISTRIBUTION
+
+To prevent informal power concentration:
+
+- High-influence roles must rotate across clusters
+- Cross-cluster task assignment is required
+- No stable group may dominate coordination roles over time
+
+Pattern detection flags:
+- Repeated role concentration
+- Cluster dominance in decision processes
+
 ---
 
 ## APPENDIX C: TRUST DECAY OVER TIME PATCH
