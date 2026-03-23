@@ -372,6 +372,17 @@ Increased isolation, resistance to rotation, or dropped participation must trigg
 ### C.7 FINAL PRINCIPLE
 Flow is built on structures that continue to function when trust is incomplete, uneven, or temporarily low.
 
+### TRUST DECAY RESPONSE TRIGGERS
+
+If early warning signals appear:
+
+- Immediate Node-level reflection session triggered
+- Temporary reduction in non-essential load
+- Increased transparency of system metrics
+
+**Goal:**
+Intervene before trust drops below functional threshold
+
 ---
 
 **STATUS:** TIER 1 PRINCIPLES (COMPLETE OPERATIONAL FRAMEWORK v2.0)  
