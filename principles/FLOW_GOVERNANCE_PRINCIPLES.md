@@ -382,6 +382,271 @@ Therefore:
 
 ---
 
+## APPENDIX E: IMPLEMENTATION STRESSORS & GOVERNANCE SAFEGUARDS (v2.4 PATCH)
+
+**Status:** ADDITIVE CLARIFICATION (NO PRINCIPLE CHANGES)  
+**Scope:** Cross-document (Economic + Governance + Circle + Constitution)  
+**Purpose:** Address second-order risks identified through external critique (DeepSeek) and internal Red Teaming
+
+---
+
+## E.1 TECHNOLOGY ACQUISITION IN A NON-CURRENCY SYSTEM
+
+### Problem
+
+Flow eliminates currency internally, but exists within a world where:
+- Hardware (chips, servers, infrastructure) requires global supply chains
+- External systems still operate on currency
+
+### Clarification
+
+Flow distinguishes between:
+
+**Internal Economy (Currency-Free):**
+- All resource allocation inside Flow Nodes
+- Contribution-based, no pricing
+
+**External Interface Layer (Transitional):**
+- Managed interaction with non-Flow systems
+- Limited, transparent, and structurally constrained
+
+### Implementation
+
+**1. Designated External Interface Nodes (EINs):**
+- Specific Nodes or Circles handle external trade
+- Rotating roles (anti-capture)
+- Full transparency of inflow/outflow
+
+**2. Export Mechanisms (Optional):**
+- Knowledge (open-source systems, research)
+- High-skill services (engineering, design, etc.)
+- Physical surplus (where ethically aligned)
+
+**3. Import Allocation:**
+- Treated as **Infrastructure Input**, not commodity
+- Prioritized under:
+  - Infrastructure Maintenance
+  - Essential Services
+
+**4. Structural Constraint:**
+- No internal price mapping
+- External currency never enters internal accounting
+- Imports converted into **resource availability**, not value units
+
+### Principle
+
+**Flow can interface with currency systems without becoming one.**
+
+---
+
+## E.2 AUTOMATION GOVERNANCE (ANTI-TECHNOCRATIC SAFEGUARD)
+
+### Problem
+
+Automated prioritization (RIS, resource allocation logic) risks:
+- Hidden power concentration in technical actors
+- Algorithmic drift from principles
+
+### Safeguards
+
+**1. Full Transparency Requirement:**
+- All allocation logic must be:
+  - Publicly documented
+  - Explainable in plain language
+  - Auditable by non-specialists
+
+**2. Dual-Layer Validation:**
+- Technical validation (engineers)
+- Human validation (LOTUS or Circle review)
+
+**3. Annual Algorithm Audit:**
+- Randomly selected LOTUS panel reviews:
+  - Whether outputs align with principles
+  - Whether bias or drift has emerged
+- Audit results published
+
+**4. Override Mechanism:**
+- Circles may override automated decisions locally
+- LOTUS may override systemically if misalignment detected
+
+### Principle
+
+**Automation assists coordination. It does not govern reality.**
+
+---
+
+## E.3 LOTUS ROLE SEPARATION (DETECTION VS APPEAL)
+
+### Problem
+
+Risk of conflict of interest if the same structure:
+- Detects violations
+- Judges appeals
+
+### Structural Separation
+
+LOTUS is divided into distinct functional roles:
+
+**1. Detection Layer:**
+- Pattern detection systems + initial flagging
+- No enforcement authority
+
+**2. Review Layer:**
+- First-level LOTUS panel evaluates case
+- Applies protocol
+
+**3. Appeal Layer (Separate Panel):**
+- Independently selected LOTUS panel
+- No overlap with Review Layer
+- Final decision authority
+
+**Alternative Path:**
+- External neutral panel may be selected by affected individual
+
+### Safeguard
+
+- Mandatory separation between Review and Appeal participants
+- Full audit trail of process (without violating personal privacy)
+
+### Principle
+
+**No system should judge its own decisions without structural separation.**
+
+---
+
+## E.4 SOCIAL POWER ACCUMULATION (NON-INSTITUTIONAL)
+
+### Problem
+
+Even without formal hierarchy:
+- High contributors
+- Charismatic individuals
+- Frequent speakers
+
+…can accumulate **informal power**
+
+### Mitigation Mechanisms
+
+**1. Rotating Facilitation (MANDATORY):**
+- No fixed facilitators
+- Random or scheduled rotation
+
+**2. Speaking Balance Protocols:**
+- Facilitators track speaking time
+- Intervene if dominance detected
+
+**3. Optional Anonymous Voting:**
+- Used for sensitive or high-pressure decisions
+- Reduces social influence bias
+
+**4. Pattern Detection (Soft Signals):**
+Triggers reflection if:
+- Same individuals dominate discussions repeatedly
+- Decision outcomes correlate strongly with specific individuals
+
+**5. Reflection Trigger:**
+- If pattern persists → Circle-level reflection session
+- Not punitive — structural adjustment
+
+### Principle
+
+**Power is not eliminated. It is continuously redistributed.**
+
+---
+
+## E.5 CONTRIBUTION HOURS – ANTI-VALUE TRANSFORMATION
+
+### Problem
+
+Even if not designed as currency, hours may:
+- Become status markers
+- Influence social hierarchy
+
+### Clarification
+
+**Contribution hours are strictly limited to:**
+- Capacity planning
+- Load balancing
+- System sustainability tracking
+
+**They are NOT used for:**
+- Ranking individuals
+- Access to resources
+- Governance weighting (except in extreme behavioral cases like hoarding)
+
+### Additional Safeguards
+
+**1. No Public Leaderboards**  
+**2. No Lifetime Accumulation Tracking**  
+**3. No Conversion Mechanisms (hours → influence/resources)**  
+
+### Principle
+
+**Tracking capacity must never become measuring human worth.**
+
+---
+
+## E.6 FREE-RIDER THRESHOLD ESCALATION
+
+### Clarification
+
+If free-rider levels exceed ~30% **persistently**:
+
+**Escalation Path:**
+1. Social reflection
+2. Load adjustment
+3. Task redesign
+4. Structural adaptation:
+   - Reduced complexity
+   - Increased automation
+   - Lower system expectations
+
+**Final Constraint:**
+- System adapts downward before coercion is introduced
+
+### Principle
+
+**If people disengage, the system must change — not force people to comply.**
+
+---
+
+## E.7 SYSTEM BOUNDARY CLARIFICATION
+
+Flow operates under:
+
+- **Voluntary Entry**
+- **Voluntary Exit**
+- **Non-Coercion internally**
+
+However:
+
+- External reality may impose constraints (resource access, geopolitics, infrastructure dependencies)
+
+### Principle
+
+**Flow is internally coherent but externally adaptive.**
+
+---
+
+## FINAL NOTE
+
+This appendix does not introduce new principles.
+
+It clarifies:
+
+- How Flow interacts with external systems
+- How hidden power structures are prevented
+- How implementation risks are metabolized
+
+**Core Axioms remain unchanged.**
+
+---
+
+**STATUS:** ADDITIVE PATCH v2.4  
+**DATE:** March 23, 2026
+
+---
+
 ### FINAL NOTE
 
 This appendix makes explicit:
