@@ -1,11 +1,11 @@
 # 🗳️ FLOW_GOVERNANCE_PRINCIPLES.md
 
-**Version:** 1.0  
-**Status:** TIER 1 PRINCIPLES  
+**Version:** 1.1  
+**Status:** TIER 1 PRINCIPLES (CONSOLIDATED)  
 **Repository Location:** `/principles/FLOW_GOVERNANCE_PRINCIPLES.md`  
 **Authors:** Elinor Frejd & Claude  
 **Based on:** STRUCTURAL_INVARIANTS.md, LOTUS_GOVERNANCE_PROTOCOL.md, FLOW_CORE_INVARIANTS.md, POWER_AND_ENFORCEMENT.md  
-**Date:** March 18, 2026
+**Date:** March 23, 2026
 
 ---
 
@@ -27,221 +27,241 @@ Governance exists to:
 ## CORE PRINCIPLES
 
 ### 1. No One Rules Permanently
-
 Permanent leadership is the root of corruption. In Flow, roles are temporary (9 months max) and assigned via LOTUS lottery.
 
 **In Flow:**
-- No president, CEO, or central committee
-- Decisions made through LOTUS (cryptographic lottery)
-- All roles are temporary (max 9 months)
-- Power rotates constantly
-- "Career politician" is impossible by design
+- No president, CEO, or central committee  
+- Decisions made through LOTUS (cryptographic lottery)  
+- All roles are temporary (max 9 months)  
+- Power rotates constantly  
+- "Career politician" is impossible by design  
 
-**Why this works:**
-- Can't lobby someone who isn't selected yet
-- Can't accumulate influence over time
-- Can't build patronage networks
-- Each decision made by fresh eyes
+**Precedent:** Ancient Athens used sortition for 200+ years. Modern experiments: Ireland's Citizens' Assembly, Belgium's G1000.
 
 ---
 
 ### 2. Founder Irrelevance (The Ultimate Test)
-
-Success is defined by the Node functioning without its founder through protocol and documentation.
+Success is defined by the Node functioning without her presence through protocol and documentation.
 
 **Operational requirements:**
-- Everything documented (no secret knowledge)
-- Role rotation enforced (no irreplaceable people)
-- Decisions made by protocol, not discretion
-- Succession built into structure from day one
+- Everything documented (no secret knowledge)  
+- Role rotation enforced (no irreplaceable people)  
+- Decisions made by protocol, not discretion  
+- Succession built into structure from day one  
+
+**When Flow succeeds:**  
+- Founder becomes just another Node member  
+- New Nodes launch without her involvement  
+- Ideas persist through structure, not personality  
 
 ---
 
 ### 3. LOTUS: Governance by Lottery
+A four-step process: Random Selection, Commit-Reveal Protocol, Deliberated Decision, and Rotation.
 
-Four-step process:
+**Step 1: Random Selection**
+- Panel size scaled for statistical representativity and anti-manipulation  
+- Example: ≥1,000 participants for standard node size (implementation detail)  
+- Weighted by expertise for technical decisions  
+- Geographically distributed  
+- Rotating constantly (9-month terms max)  
 
-1. **Random Selection** – 1,000 people via cryptographic lottery, geographically distributed, rotating constantly  
-2. **Commit-Reveal Protocol** – anti-manipulation, auditable, transparent, private votes  
-3. **Decision** – Panel reviews, expert testimony if technical, minimum 48h deliberation, vote, public result with audit trail  
-4. **Rotation** – Panel disbands, no one serves twice in the same year
+**Step 2: Commit-Reveal Protocol**
+- Prevents manipulation  
+- Uses HMAC-DRBG (deterministic RNG)  
+- Transparent and auditable  
+
+**Step 3: Decision**
+- Panel reviews proposal  
+- Expert testimony if technical  
+- Deliberation (48 hours minimum)  
+- Vote with audit trail  
+
+**Step 4: Rotation**
+- Panel disbands  
+- No one serves twice in same year (unless small pool)  
 
 ---
 
 ### 4. Conflict Metabolization (Not Suppression)
+Conflict is data.  
 
-Conflict resolved via:
+**Levels:**
+1. **Local Circle Mediation:** smallest group, trained mediators, focus on unmet needs  
+2. **Node-Level Arbitration:** escalated to LOTUS panel if unresolved  
+3. **Inter-Node Resolution:** multi-Node LOTUS panel, binding  
 
-- **Local Circle Mediation**
-- **Node-Level Arbitration**
-- **Inter-Node Resolution**
-
-Conflict is treated as data; bad governance suppresses, Flow surfaces and resolves structurally.
+**Outcome Challenge Protocol (OCP)**
+- Any participant may challenge: «This outcome feels misaligned»  
+- Review by LOTUS panel (not original decision maker)  
+- Pattern detection monitors bad-faith escalation: ≥3 ungrounded challenges triggers reflection  
+- Anonymous aggregation ensures transparency without punishment  
 
 ---
 
 ### 5. Baseline is Sacred (Non-Negotiable)
-
-Baseline survival needs cannot be:
-
-- Voted away
-- Suspended
-- Made conditional
-- Traded
-
-Baseline is structural kernel-panic protection.
+Survival needs cannot be voted away.  
+**Structural constraint:** non-negotiable kernel panic protection  
 
 ---
 
 ### 6. Transparency Without Surveillance
-
-Public: decision processes, resource flows (aggregated), protocol changes, audit trails  
-Private: individual votes, personal resource use, medical info, identity beyond Flow-ID hash
+**Public:** decision processes, aggregated resource flows, protocol changes, audit trails  
+**Private:** individual votes, personal resource use, medical info, identity beyond Flow-ID  
 
 ---
 
 ### 7. Decentralization (Anti-Capture Architecture)
-
-Prevents centralization via:
-
-- Geographic distribution
-- Functional autonomy
-- Temporal rotation
-- Knowledge distribution
+Power distributed across:
+- **Geography:** nodes spread across regions  
+- **Function:** autonomous nodes  
+- **Time:** rotating power  
+- **Knowledge:** all protocols documented  
 
 ---
 
 ### 8. Adaptability (Protocols Change, Axioms Don't)
-
-- **Tier 1:** Immutable Axioms (Non-Coercion, Baseline Primacy, Cognitive Ownership, Flow-Evolution, Structural Impartiality, Legacy Nullification, Irreversible Boundary)  
-- **Tier 2:** Adaptive protocols (LOTUS parameters, allocation methods, conflict procedures)
-
----
-
-## APPENDIX: GOVERNANCE SYSTEM BOUNDARIES & IMPLEMENTATION LAYERS
-
-### G.1 LOTUS INFRASTRUCTURE OWNERSHIP
-
-- Distributed, transparent, independently verifiable
-- Multi-node verification
-- Publicly auditable selection
-- Redundant infrastructure
+**Tier 1 Axioms (Immutable):** Non-Coercion, Baseline Primacy, Cognitive Ownership, Flow-Evolution, Structural Impartiality, Legacy Nullification, Irreversible Boundary  
+**Tier 2 Protocols (Adaptive):** LOTUS parameters, resource allocation, conflict resolution procedures  
 
 ---
 
-### G.2 EXPERTISE WEIGHTING SAFEGUARDS
+## APPENDIX E: IMPLEMENTATION STRESSORS & GOVERNANCE SAFEGUARDS (v2.4 PATCH)
+**Status:** Additive clarification (no principle changes)  
+**Scope:** Cross-document (Economic + Governance + Circle + Constitution)
 
-- Expertise: context-specific, time-limited, challengeable
-- Mixed panels (experts + non-experts)
-- Periodic re-validation
-- No decision by experts alone
+### E.1 Technology Acquisition in a Non-Currency System
+- Flow distinguishes **Internal Economy (currency-free)** vs **External Interface Layer (transitional)**  
+- Designated External Interface Nodes (EINs) handle external trade  
+- Imports treated as **infrastructure input**, no internal price mapping  
 
----
+### E.2 Automation Governance
+- Allocation logic must be public, explainable, auditable  
+- Dual-layer validation: engineers + human LOTUS/Circle review  
+- Override mechanisms for misalignment  
 
-### G.3 LOTUS ROLE SEPARATION
+### E.3 LOTUS Role Separation
+- Detection → Review → Appeal strictly separated  
+- Optional neutral panel for appeal  
 
-- Decision, arbitration, appeal handled by separate panels
-- Prevents self-reinforcing authority loops
+### E.4 Social Power Accumulation
+- Rotating facilitation, speaking balance protocols, optional anonymous voting  
+- Pattern detection triggers reflection  
 
----
+### E.5 Contribution Hours
+- Only for capacity planning and sustainability  
+- Not for ranking, access, governance influence  
 
-### G.4 CONFLICT SYSTEM ABUSE PREVENTION
+### E.6 Free-Rider Threshold Escalation
+- Persistent free-rider >30% triggers reflection, load adjustment, task redesign  
+- No coercion  
 
-- Pattern detection for repeated bad-faith escalation
-- Escalation thresholds
-- Access to conflict resolution never fully removed
+### E.7 System Boundary Clarification
+- Voluntary entry/exit, non-coercion internally  
+- Adaptive externally  
 
----
-
-### G.5 INFORMAL POWER ACCUMULATION
-
-- Rotating facilitation roles
-- Structured speaking protocols
-- Pattern detection and triggered reflection
-
----
-
-### G.6 AUTOMATION & GOVERNANCE SYSTEMS
-
-- Transparent algorithms
-- Explainable logic
-- Periodic governance audits
-- Human oversight
-
----
-
-### G.7 TRANSITIONAL CONTEXT
-
-- Legal and infrastructural interfaces required
-- Full autonomy not assumed initially
+### E.8 Document Accessibility Layer
+- Simplified GOVERNANCE_QUICK_START.md  
+- Core principles, LOTUS process, Circle guidelines  
+- No principle redefinition  
 
 ---
 
-## APPENDIX E: IMPLEMENTATION STRESSORS & GOVERNANCE SAFEGUARDS (v2.4)
+## APPENDIX F: SECOND-ORDER GOVERNANCE RISKS & EDGE CASES (v3.1 PATCH)
 
-- **E.1:** Technology acquisition in a non-currency system (EINs, export/import rules)  
-- **E.2:** Automation governance (transparency, dual validation, audit, override)  
-- **E.3:** LOTUS role separation (detection vs appeal)  
-- **E.4:** Social power accumulation mitigation  
-- **E.5:** Contribution hours – anti-value transformation  
-- **E.6:** Free-rider threshold escalation  
-- **E.7:** System boundary clarification
+### F.1 Expertise Legitimation & Challenge
+- Context-specific, time-limited, function-bound  
+- Challenge any classification via LOTUS panel  
+- Mixed panels required, no expert-only decisions  
+
+### F.2 Technical vs Non-Technical Decision Boundary
+- Decision classified by submitter → verified by Micro-Panel  
+- Types: General / Hybrid / Technical  
+- Systematic misclassification ≥3 times in 6 months triggers reflection  
+
+### F.3 Circle Autonomy vs System Coherence
+- Circles handle ~90% of decisions  
+- Drift detection via voluntary escalation, cross-Circle visibility, random governance sampling  
+- Reflection if persistent misalignment  
+
+### F.4 Transparency vs Pattern Detection
+- Local-only, time-limited, non-identifiable observation  
+- Only triggers reflection/facilitation adjustment, never punishment or ranking  
+
+### F.5 Proactive vs Reactive Governance
+- Low-frequency random audits via LOTUS  
+- No continuous oversight  
+
+### F.6 Experimentation Load Management
+- Node-level experiments  
+- Reversible, voluntary, documented  
+
+### F.7 Document Accessibility Layer
+- See E.8  
+- Consolidated, duplicates removed  
+
+### F.8 Governance Edge Cases
+- Expertise not authority  
+- Circles do not drift silently  
+- Transparency ≠ surveillance  
+- Adaptation not exhaustion  
 
 ---
 
-## APPENDIX F: SECOND-ORDER GOVERNANCE RISKS & STABILITY (v2.5)
+## APPENDIX G: BEHAVIORAL STABILITY & SOFT POWER MANAGEMENT (v3.0 PATCH)
 
-- **F.1:** External Interface Gravity (dependency concentration)  
-- **F.2:** Algorithmic legibility vs real understanding  
-- **F.3:** Everyday power vs formal power (Circle primacy)  
-- **F.4:** Informal power exposure over elimination  
-- **F.5:** Exit cost reality  
-- **F.6:** Implicit value formation  
-- **F.7:** Experimentation load management  
-- **F.8:** Document accessibility layer
+### G.1 Influence Diffusion Protocol (IDP)
+- Soft constraints: Step-Back Rule, Reverse Delegation, First-Voice Rotation  
+- Principle: influence circulates, does not accumulate  
 
----
+### G.2 Circle Reset Protocol (CRP)
+- Quarterly reflection and norm reset  
+- Principle: no norm becomes permanent without review  
 
-## APPENDIX G: BEHAVIORAL & SYSTEM STABILITY (v3.0)
+### G.3 External Interface Rotation Lock (EIN-RL)
+- No consecutive assignments, minimum 3 trained individuals  
+- Principle: external access ≠ structural leverage  
 
-- **G.0:** Core position – uneven participation, social pressure, fatigue, drift  
-- **G.1:** Influence Diffusion Protocol (IDP)  
-- **G.2:** Circle Reset Protocol (CRP)  
-- **G.3:** External Interface Rotation Lock (EIN-RL)  
-- **G.4:** Outcome Challenge Protocol (OCP)  
-- **G.5:** Fairness Reflection Signal (FRS)  
-- **G.6:** Decision Energy Protocol (DEP)  
-- **G.7:** Exit Reflection Protocol (ERP)  
-- **G.8:** Inter-Circle Sync Pulse (ISP)  
-- **G.9:** Soft Pressure Acknowledgment Rule (SPAR)  
-- **G.10:** Experimentation Requirement (ER)
+### G.4 Outcome Challenge Protocol (OCP)
+- Review separate from original decision  
+- Pattern detection monitors bad-faith escalation  
 
----
+### G.5 Fairness Reflection Signal (FRS)
+- Anonymous monthly signal: perceived fairness  
+- Triggers structured Circle reflection if threshold exceeded  
 
-## APPENDIX F: GOVERNANCE EDGE CASES & STRUCTURAL TENSIONS (v3.1)
+### G.6 Decision Energy Protocol (DEP)
+- Proposal energy levels declared  
+- Postpone if >30% low energy  
 
-- **F.1:** Expertise legitimation & challenge (transparent criteria, multi-source validation, challenge mechanism, expiry, mixed panels)  
-- **F.2:** Technical vs non-technical decision boundary (random default, expertise conditional, Micro-Panel rotation)  
-- **F.3:** Circle autonomy vs system coherence (distributed drift detection, voluntary escalation, cross-Circle visibility, random sampling)  
-- **F.4:** Transparency vs pattern detection (local-only observation, time-limited, no identity persistence, reflection-only use)  
-- **F.5:** Proactive vs reactive governance (random audits, bounded scope)  
-- **F.6:** Experimentation load management (Node-level, flexible, reversible, documented, evaluated)  
-- **F.7:** Document accessibility layer (Quick Start Guide for new participants)
+### G.7 Exit Reflection Protocol (ERP)
+- Optional feedback from exiting participants  
+- Aggregated, pattern-detected  
+
+### G.8 Inter-Circle Sync Pulse (ISP)
+- Quarterly cross-Circle exchange, voluntary  
+- Maintains awareness, detects divergence  
+
+### G.9 Soft Pressure Acknowledgment Rule (SPAR)
+- Any participant may declare pressure felt  
+- Discussion pauses, reframing required  
+- Documented anonymously for systemic awareness  
+
+### G.10 Experimentation Requirement (ER)
+- Each Circle must conduct at least one small reversible experiment per quarter  
 
 ---
 
 ## FINAL NOTE
+Flow governance is resilient not by assuming perfect behavior, but by:
 
-Flow governance is **not about controlling people**, but about **structurally responding** to human behavior:
+- Making drift visible  
+- Interrupting power accumulation  
+- Continuously capturing feedback  
+- Enforcing adaptation structurally  
 
-- Drift is visible  
-- Power is interruptible  
-- Feedback is continuous  
-- Adaptation is structural
+**Core Tier 1 axioms remain unchanged.**  
 
-**Tier 1 principles remain immutable.**  
-**Additive appendices define implementation safeguards, stressors, and edge cases.**
-
-**STATUS:** Tier 1 Principles v1.0, Patches v3.1  
+**STATUS:** Additive Patch v3.1 (consolidated)  
 **DATE:** March 23, 2026  
 **MOTTO:** "Governance is not about finding the right leader. Governance is about making leadership unnecessary."
