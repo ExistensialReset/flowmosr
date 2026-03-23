@@ -7,6 +7,22 @@
 
 ---
 
+## CHANGELOG – FLOW_ECONOMIC_PRINCIPLES.md
+
+**Version 2.2** – March 23, 2026  
+**Authors:** Elinor Frejd & Claude & ChatGPT
+
+### Key Updates from v2.1
+1. **Emergency Contribution Phase** – Explicitly voluntary; no coercion; volunteers encouraged; non-essential services scaled down if insufficient volunteers. Baseline unaffected.
+2. **Reduced Decision-Weight** – Clear thresholds (3 incidents/6 months) and appeal process to LOTUS or neutral external panel; clarified practical effect (e.g., voting weight reduction or panel ineligibility).
+3. **Inter-Node Balance Signaling** – Escalation steps clarified: dialogue → temporary reduction of non-essential resource access → limited restriction on non-critical exchanges → Baseline always protected.
+4. **Specialist Redundancy** – Regional specialist pool option added; clarified which roles require local redundancy versus regional sharing; local training cost included (1.5h/person/year).
+5. **Early Warning Signal Thresholds** – Participation <50% for 3 months or ≥3 reports of exhaustion/conflict now triggers action.
+6. **Trust Decay Response** – Response and escalation mechanisms clarified with LOTUS involvement.
+7. **Additional Clarifications** – Defined “non-essential resources”; specified timelines for appeals (30 days); clarified what constitutes a “hoarding incident.”
+
+---
+
 ## PURPOSE
 
 **We aim to make Economy maximize life, not profit.**
