@@ -94,6 +94,71 @@ Flow is not a theory. It is lived reality. Building a Node while still in capita
 
 ---
 
+# GLOSSARY
+
+**Baseline**  
+The minimum set of resources and conditions required for a person's physical, emotional, and social well-being within Flow. Includes food, water, housing, healthcare, and access to learning.
+
+**Refugium**  
+A dedicated space (physical or virtual) for nervous system regulation, emotional support, and recovery from stress or conflict. Supports resilience during transitions and crises.
+
+**Lyceum**  
+The Node's knowledge and education system. Combines practical skills, documentation, workshops, and intergenerational learning. Teaches both children and adults.
+
+**Node**  
+A Flow community unit, typically 30-500 people, designed for self-sufficiency, autonomy, and adherence to Flow principles.
+
+**LOTUS Governance**  
+Flow’s horizontal governance framework based on randomized selection, Circles, rotation, and transparency. Prevents centralization of power.
+
+**Circle Meetings**  
+Regular gatherings where all Node members discuss logistics, conflicts, decisions, and contributions. Consensus is preferred; majority acceptable if necessary.
+
+**Flow Principles**  
+Core guiding rules for all Nodes:
+- People first, Principles always
+- Horizontal structure, no coercion
+- Restoration over punishment
+- Transparency, accountability, and solidarity
+
+**Hybrid Phase**  
+The transition period (Year 1-2) where Node members still interface with capitalism partially while building internal infrastructure and self-sufficiency.
+
+**Emerging Autonomy Phase**  
+Phase (Year 3-5) where the Node produces most of its Baseline internally and dependency on external systems decreases significantly.
+
+**Full Flow**  
+The final phase (Year 5+) where the Node is largely autonomous, self-sufficient, and external monetary dependence is minimal or zero.
+
+**CAPEX (Capital Expenditure)**  
+Investments in infrastructure, tools, land, and equipment required to build Node capacity.
+
+**OPEX (Operational Expenditure)**  
+Ongoing costs for food, utilities, maintenance, and operational needs during the transition.
+
+**Trial Period**  
+The observation and integration period (3-6 months) for new members to assess fit, contribution, and alignment with Flow principles.
+
+**Children’s Voice & Veto**  
+Flow policy ensuring that children have input into their education and living situation, and the ability to veto decisions affecting them.
+
+**Skill Inventory & Gap Analysis**  
+A tool for assessing the existing skills in the Node and identifying missing capabilities needed to reach self-sufficiency.
+
+**Money as Tool**  
+Concept that money is used strategically during transition for infrastructure or emergency needs but is not the Node’s long-term value system.
+
+**External Interface**  
+Any interaction with capitalism, government, or outside markets during the Node’s development and transition phases.
+
+**Crisis Resilience**  
+Node’s ability to handle internal or external shocks (conflict, burnout, environmental disaster) without collapse, supported by diversification, reserves, and Refugium.
+
+**People First, Principles Always**  
+Flow motto emphasizing that the well-being of members is prioritized, but decisions are always guided by core principles rather than convenience or shortcuts.
+
+---
+
 ## PURPOSE
 
 **You want to start Flow. But you live in capitalism.**
