@@ -31,7 +31,7 @@
 
 ---
 
-## 🔹 What is Flow?
+## 💙 What is Flow?
 
 > **What if survival wasn't conditional?**  
 > What if we stopped wasting human potential on systems that don’t actually improve life?
