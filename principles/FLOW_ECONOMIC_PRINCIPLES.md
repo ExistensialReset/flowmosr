@@ -619,6 +619,62 @@ Implementation evolves.
 
 ---
 
+
+### G.11 FIRST CONFLICT PROTOCOL (FCP)
+
+**Purpose:**  
+Protect system integrity during first major conflict event.
+
+---
+
+### Protocol
+
+When the first significant conflict emerges:
+
+1. All non-essential governance and development pauses
+2. System priority shifts to:
+   - Safety
+   - Process integrity
+   - Trust preservation
+3. Additional facilitation resources are allocated
+4. No rushed resolution permitted
+
+---
+
+### Principle
+
+> The first conflict is a structural initiation event.
+
+Its handling defines long-term trust in the system.
+
+---
+
+### G.12 INFORMAL POWER EARLY DETECTION
+
+Indicators of emerging informal power:
+
+- Same individuals repeatedly speaking or deciding
+- Decreased participation from others
+- Deference patterns forming
+
+Response:
+- Activate Influence Diffusion Protocol (IDP)
+- Increase speaking rotation
+- Optional anonymization of input
+
+---
+
+### G.13 GOVERNANCE FATIGUE SIGNAL
+
+Monthly signal:
+- “Do you have energy for governance?”
+
+If fatigue threshold exceeded:
+- Immediate shift to Light Mode
+- Suspension of non-critical governance processes
+
+---
+
 ```
 
 ┌─────────────────────┐
