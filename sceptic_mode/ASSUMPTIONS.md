@@ -191,4 +191,8 @@ That’s where the real work begins.
 
 ---
 
-🌊 flowmosr@proton.me 
+🌊 
+
+If you are building, trying, testing always write! **flowmosr@proton.me**
+
+😍🌍☕ 
