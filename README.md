@@ -27,7 +27,11 @@ Try this:
 5. Notice what changes
 
 Want more ideas? 
-[Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md) 
+[Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md)
+
+[Flow Transition Field Card](./guides/economics/FLOW_TRANSITION_FIELD_CARD.md)
+
+[Transition Playbook](./guides/economics/TRANSITION_PLAYBOOK.md) 
 
 ---
 
