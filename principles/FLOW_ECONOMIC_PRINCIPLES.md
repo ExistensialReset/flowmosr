@@ -649,32 +649,6 @@ Its handling defines long-term trust in the system.
 
 ---
 
-### G.12 INFORMAL POWER EARLY DETECTION
-
-Indicators of emerging informal power:
-
-- Same individuals repeatedly speaking or deciding
-- Decreased participation from others
-- Deference patterns forming
-
-Response:
-- Activate Influence Diffusion Protocol (IDP)
-- Increase speaking rotation
-- Optional anonymization of input
-
----
-
-### G.13 GOVERNANCE FATIGUE SIGNAL
-
-Monthly signal:
-- “Do you have energy for governance?”
-
-If fatigue threshold exceeded:
-- Immediate shift to Light Mode
-- Suspension of non-critical governance processes
-
----
-
 ```
 
 ┌─────────────────────┐
