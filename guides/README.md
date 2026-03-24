@@ -40,7 +40,8 @@ Try this:
 
 ### 🌍 Start a Flow Circle! 🌊
 
-If something in this resonated — don’t overthink it.
+
+If something in this resonated — start. Don't overthink it.
 
 Start small.
 
