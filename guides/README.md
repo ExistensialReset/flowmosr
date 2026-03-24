@@ -4,7 +4,7 @@
 **What if survival wasn't conditional?What if we stopped wasting most of human potential on systems that don’t actually improve life?**
 
 This is a fully-specified alternative societal system with:
-- ✅ Verified 2026 economic data ($74/month vs $1,300 conventional living)
+- ✅ Estimated living cost ~$74/month (modeled, cooperative conditions) vs ~$1,300 conventional living
 - ✅ Complete governance protocols (LOTUS: anti-corruption by design)
 - ✅ Trauma-informed architecture (Refugium Anima, nervous system first)
 - ✅ Python simulators & cost calculators (it's engineering, not fantasy)
@@ -32,9 +32,31 @@ Try this:
 
 [Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md)
 
-[Flow Transition Field Card](./guides/economics/FLOW_TRANSITION_FILD_CARD.md) 
+[Flow Transition Field Card](./guides/economics/FLOW_TRANSITION_FIELD_CARD.md) 
 
 [TRANSITION_PLAYBOOK.md](./guides/economics/TRANSITION_PLAYBOOK.md) 
+
+---
+
+### 🌍 Start a Flow Circle! 🌊
+
+If something in this resonated — don’t overthink it.
+
+Start small.
+
+- 2–5 people  
+- Meet regularly  
+- Try the 24h experiment again  
+- Build trust over time  
+
+📧 If you start one: **flowmosr@proton.me**
+
+No permission needed. No central control.  
+
+Just humans, starting where they are.
+
+---
+
 🌱 Let it bloom! 🌼
 
 ---
@@ -86,7 +108,7 @@ Current system forces you to:
 
 **Labor required:**
 - 24 hours/person/year 
-- That's 28 minutes per week
+- That's about ≈ 28 minutes per week (steady-state, highly optimized conditions) 
 
 [Full calculations & sources: /data_validation/](/data_validation/) [and /implementation](/implementation)
 
