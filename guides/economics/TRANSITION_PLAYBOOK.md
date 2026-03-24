@@ -8,6 +8,23 @@
 
 ---
 
+# PREAMBLE — MISSION STATEMENT
+
+**Welcome to Flow.**
+
+You are part of something bigger than a project: a **community building its own life**, step by step, outside the constraints of money and obligation.  
+
+This playbook is your compass, not a map. It will guide you through challenges, teach practical skills, and remind you of the **principles that keep Flow alive**: trust, care, solidarity, and Baseline security for all.  
+
+**Remember:**  
+- Start small. Grow gradually. Learn continuously.  
+- Treat every failure as insight, every success as a foundation.  
+- People first. Principles always.  
+
+**Your Node is real when you act as if it already exists.**
+
+---
+
 ## PURPOSE
 
 **You want to start Flow. But you live in capitalism.**
