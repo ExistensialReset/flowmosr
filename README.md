@@ -57,10 +57,7 @@ Current system forces you to:
 - [Lyceum Musaeum](./ethos/LYCEUM_MUSAEUM.md)  (learning/creation without credentials)  
 - [Refugium Anima](./ethos/REFUGIUM_ANIMA.md) (rest/recovery without diagnosis)
 
-**[LOTUS Governance](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md) (Sortition = Lottery):**
-- Random selection, time-limited (max 9 months)
-- No campaigns, no elections, no personality cults
-- Constitutional constraints (axioms cannot be changed)
+**[LOTUS Governance](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md) (Sortition = lottery, similar to jury duty):** 
 
 **Formula:** ***Life*** = **Lugn** (Calm) × **Spontanitet** (Spontaneity) × **Inkännande** (Empathy)  
 
