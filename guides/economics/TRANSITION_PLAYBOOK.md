@@ -8,7 +8,9 @@
 
 ---
 
-# PREAMBLE — MISSION STATEMENT
+# PREAMBLE — MISSION STATEMENT & GUIDANCE
+
+## Mission Statement (Short)
 
 **Welcome to Flow.**
 
@@ -19,9 +21,63 @@ This playbook is your compass, not a map. It will guide you through challenges, 
 **Remember:**  
 - Start small. Grow gradually. Learn continuously.  
 - Treat every failure as insight, every success as a foundation.  
-- People first. Principles always.  
+- People first. Principles always. *(Always prioritize members’ wellbeing, but ensure every action aligns with Flow principles.)*  
 
 **Your Node is real when you act as if it already exists.**
+
+---
+
+## Guidance (Long)
+
+Flow is not a theory. It is lived reality. Building a Node while still in capitalism is **gradual, demanding, and deeply rewarding**. This preamble provides context and mindset for every step of the journey:  
+
+1. **Start small.**  
+   - Core group: 3–5 people  
+   - Early phase: 10–20 people  
+   - Expansion: 30–50 people  
+   - Gradual scaling to 100–200 only when infrastructure and trust are ready  
+
+2. **Walk, don’t teleport.**  
+   - You have obligations, debt, and learning curves.  
+   - You cannot leave capitalism overnight; the hybrid phase is necessary.  
+   - Each year should reduce external dependency until Flow is autonomous.  
+
+3. **Build on trust and alignment.**  
+   - Principles first: Baseline inviolability, no coercion, restoration over punishment.  
+   - Trust each other deeply before making structural or financial commitments.  
+   - Align skills and responsibilities with Node needs.  
+
+4. **Invest in skills and infrastructure.**  
+   - Food, energy, housing, water, and healthcare systems are core.  
+   - Knowledge transfer and apprenticeship prevent bottlenecks.  
+   - Begin with what is essential; scale complexity gradually.  
+
+5. **Act as if Flow already exists.**  
+   - Use Flow governance and restorative practices from Day 1.  
+   - Track contributions, resolve conflicts early, maintain transparency.  
+   - Encourage experimentation, document lessons, and celebrate small victories.  
+
+6. **Prepare emotionally and socially.**  
+   - Expect grief, conflict, doubt, and burnout.  
+   - Refugium practices support regulation and resilience.  
+   - Prioritize wellbeing over ideology, especially for children or vulnerable members.  
+
+7. **Transition money to tool, not value.**  
+   - External cash is temporary: use it strategically for infrastructure.  
+   - Gradually reduce reliance on jobs, external sales, and pooled capital.  
+   - Long-term goal: full autonomy, minimal to zero external monetary interaction.  
+
+8. **Accept imperfection.**  
+   - Crises, failures, and departures are part of reality.  
+   - Diversify resources, maintain reserves, and learn continuously.  
+   - Dissolving or downsizing Nodes is not failure if done consciously.  
+
+9. **Connect beyond your Node.**  
+   - Build inter-Node networks for knowledge, resources, and solidarity.  
+   - Document everything for future Nodes.  
+   - Regional and global collaboration strengthens resilience.  
+
+**Flow exists in action, not in theory.** Start small, act ethically, prioritize people and principles, and learn as you grow. Your Node is only as strong as the trust, care, and skills you cultivate today.
 
 ---
 
