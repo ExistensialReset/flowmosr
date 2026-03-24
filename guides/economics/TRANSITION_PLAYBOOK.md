@@ -310,6 +310,23 @@ Create spreadsheet:
 
 **Cost:** $500-2,000 for lawyer/filing fees (varies by location).
 
+**IMPORTANT: Legal structures vary by jurisdiction.**
+
+**Before forming cooperative, research:**
+- Local cooperative law (is this legal structure recognized?)
+- Zoning regulations (can you live + farm on this land?)
+- Tax implications (property tax, income tax, VAT/sales tax)
+- Building codes (can you build housing without permits?)
+- Water rights (can you drill well, collect rainwater?)
+
+**Red flags by region:**
+- Some countries restrict communal living
+- Some regions have strict agricultural zoning
+- Some jurisdictions tax cooperatives as corporations
+- Some areas prohibit off-grid housing
+
+**Recommendation:** Consult local lawyer familiar with cooperatives, land use, and alternative living arrangements. Budget $1,000-2,000 for legal consultation.
+
 ---
 
 ### 2.4 FINDING LAND
