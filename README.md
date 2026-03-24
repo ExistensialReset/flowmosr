@@ -22,10 +22,13 @@ It’s not pessimism. It’s clarity. It’s the difference between a node that 
 If this sounds unrealistic, start here (all files in `./sceptic_mode/`):
 
 - **[Assumptions](./sceptic_mode/ASSUMPTIONS.md)** – Core premises Flow relies on  
-- **[Failure Modes](./sceptic_mode/FAILURE_MODES.md)** – How the system can break   
+- **[Failure Modes](./sceptic_mode/FAILURE_MODES.md)** – How the system can break  
 
 **Key idea:** Flow is designed to fail visibly, so it can be adapted.  
 Check these before building, testing, or questioning the system.
+
+---
+
 
 **What if survival wasn't conditional?  
 What if we stopped wasting human potential on systems that don't actually improve life?**
