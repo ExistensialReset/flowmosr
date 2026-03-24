@@ -94,6 +94,22 @@ Flow is not a theory. It is lived reality. Building a Node while still in capita
 
 ---
 
+
+## PURPOSE
+
+**You want to start Flow. But you live in capitalism.**
+
+This document answers:
+- How do I GO from money to no-money?
+- What do I do Year 1? Year 3? Year 5?
+- How do I handle debt, rent, existing obligations?
+- What if some people have money and others don't?
+- When can we stop interfacing with capitalism entirely?
+
+**This is not theory. This is timeline.**
+
+---
+
 # GLOSSARY
 
 **Baseline**  
@@ -166,21 +182,6 @@ Node’s ability to handle internal or external shocks (conflict, burnout, envir
 
 **People First, Principles Always**  
 Flow motto emphasizing that the well-being of members is prioritized, but decisions are always guided by core principles rather than convenience or shortcuts.
-
----
-
-## PURPOSE
-
-**You want to start Flow. But you live in capitalism.**
-
-This document answers:
-- How do I GO from money to no-money?
-- What do I do Year 1? Year 3? Year 5?
-- How do I handle debt, rent, existing obligations?
-- What if some people have money and others don't?
-- When can we stop interfacing with capitalism entirely?
-
-**This is not theory. This is timeline.**
 
 ---
 
