@@ -14,6 +14,24 @@ This is a fully-specified alternative societal system with:
 
 ---
 
+### ⚡ Try it (24h experiment)
+
+You don't need land, money, or permission to start.
+
+Try this:
+
+1. Gather 2–5 people
+2. Share one meal (no transactions)
+3. Ask: "What do we actually need to feel okay this week?"
+4. Distribute tasks voluntarily
+5. Notice what changes
+
+Want more ideas? 
+[Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md) 
+
+---
+
+
 ### 🎯 The Core Problem
 
 Current system forces you to:
@@ -63,7 +81,7 @@ Current system forces you to:
 - 24 hours/person/year 
 - That's 28 minutes per week
 
-[Full calculations & sources: /data_validation/](/data_validation/) [and /implenpetation](/implementation)
+[Full calculations & sources: /data_validation/](/data_validation/) [and /implementation](/implementation)
 
 **You don’t have to believe this works. Just check if it’s internally consistent.**
 
@@ -81,7 +99,7 @@ This isn't "let's all be nice" idealism. This is:
 
 **Trauma-Informed:**
 - Refugium Anima (screaming room without judgment)
-- Extensive [Neurodivergent global protocols](./guides/ethics_care/NEURODIVERGENT_PROTOCOL_GLOBAL.md) (140k+ lines - environment adapts, not you)
+- Extensive [neurodivergent global protocols](./guides/ethics_care/NEURODIVERGENT_PROTOCOL_GLOBAL.md) (140k+ lines - environment adapts, not you)
 - Children's rights (anti-cult safeguards built in)
 
 **Nervous System First:**
@@ -134,21 +152,6 @@ Because a system that ignores nervous systems will always collapse into violence
 Welcome home. 🏡
 
 ---
-
-### ⚡ Try it (24h experiment)
-
-You don't need land, money, or permission to start.
-
-Try this:
-
-1. Gather 2–5 people
-2. Share one meal (no transactions)
-3. Ask: "What do we actually need to feel okay this week?"
-4. Distribute tasks voluntarily
-5. Notice what changes
-
-Want more ideas? 
-[Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md)
 
        🫧❤️🍀 
 
@@ -279,6 +282,4 @@ It is an **invitation** to remember:
 **Keywords:** nervous system-aware, trauma-informed, intentional community, mutual aid, post-scarcity, commons, collective living, open-source society, social architecture, solarpunk, degrowth, care economy, neurodiversity, systems thinking, Flow, human flourishing, co-living, Ubuntu, regenerative society
 
 
-
-
-
+✨❣️🍀
