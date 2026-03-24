@@ -1,6 +1,32 @@
 #  M-OS-R / Flow / Existential Reset 🌍
 ## A Complete Operating System for Human Flourishing
 
+### ⚠️ Start Here If You’re Skeptical
+
+We get it. This might sound impossible. Maybe even crazy.  
+
+Before you try, pause. Observe. Question everything.  
+
+Skeptic Mode is your safety net.  
+It’s where we lay out:
+
+- **What we assume about the world and humans**  
+- **How things can and will fail**  
+- **How we’re trying to prevent disaster**
+
+Treat it as a **field guide for reality**: check it before building, testing, or committing.  
+It’s not pessimism. It’s clarity. It’s the difference between a node that collapses silently and one that evolves.
+
+## 🧪 Skeptic Mode
+
+If this sounds unrealistic, start here (all files in `./sceptic_mode/`):
+
+- **[Assumptions](./sceptic_mode/ASSUMPTIONS.md)** – Core premises Flow relies on  
+- **[Failure Modes](./sceptic_mode/FAILURE_MODES.md)** – How the system can break   
+
+**Key idea:** Flow is designed to fail visibly, so it can be adapted.  
+Check these before building, testing, or questioning the system.
+
 **What if survival wasn't conditional?  
 What if we stopped wasting human potential on systems that don't actually improve life?**
 
