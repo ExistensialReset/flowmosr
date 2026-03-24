@@ -3,6 +3,7 @@
 **Version:** 1.0  
 **Status:** SUPPLEMENTARY GUIDE  
 **Authors:**  Elinor Frejd & DeepSeek 
+
 **Date:** March 24, 2026  
 **Jurisdiction:** Sweden (with notes on Denmark, Norway, Finland, Iceland)  
 **Classification:** PRACTICAL IMPLEMENTATION — Nordic Supplement
