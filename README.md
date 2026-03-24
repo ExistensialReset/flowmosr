@@ -327,7 +327,7 @@ It is an **invitation** to remember:
 
 ---
 
-*Status: Living document – feedback welcome!  
+*All feedback welcome!  
 See Issues or Discussions to share observations, improvements, or new data.*
 
 ---
