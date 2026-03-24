@@ -327,6 +327,11 @@ It is an **invitation** to remember:
 
 ---
 
+*Status: Living document – feedback welcome!  
+See Issues or Discussions to share observations, improvements, or new data.*
+
+---
+
 <meta name="description" content="A living knowledge repository for trauma-informed, intentional communities, mutual aid, post-scarcity living, commons, and human-AI collaboration. Explore Flow, care, and sovereignty in social architecture.">
 
 **A living repository for human flourishing, trauma-informed design, and intentional community building.**  
