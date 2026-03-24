@@ -8,6 +8,19 @@
 
 ---
 
+> [!NOTE] Flow Preamble – Quick Guide
+> 
+> **People first. Principles always.**
+> 
+> - Start small: 3–5 core members, build trust, learn together.  
+> - Take care of humans first: food, shelter, health, emotional support.  
+> - Principles never negotiable: LOTUS governance, Baseline, no coercion.  
+> - Learn and adapt: track failures, adjust, document, share.  
+> - Patience wins: conflicts, mistakes, and slow progress are normal.  
+> - Grow wisely: expand only when capacity and skills match ambition.
+
+---
+
 # PREAMBLE — MISSION STATEMENT & GUIDANCE
 
 ## Mission Statement (Short)
