@@ -170,7 +170,93 @@ Flow assumes:
 **System resilience:**  
 - Redundancy in contribution  
 - Reduced dependency on individual motivation  
-- Structural adaptation to lower engagement levels  
+- Structural adaptation to lower engagement levels 
+
+---
+
+### 4.3 CONTRIBUTION STABILITY PROTOCOL
+
+**Purpose:**  
+Prevent contribution collapse due to comparison, burnout, or social pressure.
+
+---
+
+### A. GOOD ENOUGH CONTRIBUTION PRINCIPLE
+
+Contribution is guided by a **soft range**, not a requirement.
+
+- Suggested contribution range: 6–12 hours/week (adjusted per Node)
+- No enforcement of minimum contribution
+- No comparison between individuals
+- No public recognition tied to volume of contribution
+
+**Critical rule:**
+> "Good enough is enough."
+
+Low contribution periods are expected and structurally accepted.
+
+---
+
+### B. ANTI-SHAME PROTECTION
+
+The system must actively prevent contribution-related shame.
+
+Prohibited behaviors:
+- Asking individuals to justify their contribution level publicly
+- Comparing contribution between members
+- Social signaling that implies “insufficient participation”
+
+Allowed framing:
+- “What is your current capacity?”
+- “Do you need support or reduced load?”
+
+---
+
+### C. BURDEN ROTATION (LOAD, NOT JUST ROLES)
+
+High-load roles must be tracked and rotated.
+
+Rules:
+- Individuals in high-load roles must receive reduced contribution expectations in the following cycle
+- No individual should carry sustained high system load across multiple cycles without relief
+- Load imbalance triggers automatic redistribution
+
+**Principle:**
+> System responsibility must circulate, not accumulate.
+
+---
+
+### D. ENERGY-BASED SCALING
+
+If overall Node energy declines:
+
+- Non-essential activities are reduced immediately
+- Contribution expectations are softened
+- System load is scaled to match actual capacity
+
+**Priority order under low energy:**
+1. Baseline
+2. Essential services
+3. Everything else pauses
+
+---
+
+### E. MICRO-COHESION STRUCTURE
+
+Nodes must be composed of smaller relational clusters.
+
+- Cluster size: ~10–30 individuals
+- Clusters serve as:
+  - primary social unit
+  - first layer of support
+  - local coordination unit
+
+System coordination occurs:
+- within clusters (daily reality)
+- across Node (structural layer)
+
+**Rationale:**
+Nodes are not psychologically cohesive at full scale. 
 
 ---
 
