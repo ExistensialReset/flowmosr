@@ -551,6 +551,61 @@ Therefore:
 
 ---
 
+### APPENDIX F: EARLY STABILITY SAFEGUARDS (NODE INITIALIZATION)
+
+**Status:** OPERATIONAL STABILITY PATCH  
+**Scope:** First-phase Node deployment  
+
+---
+
+### F.1 CONTRIBUTION DECAY EXPECTATION
+
+Nodes must assume:
+- 20–40% of participants will contribute below suggested range at times
+- Contribution levels fluctuate unpredictably
+
+This is not failure.  
+This is baseline human behavior.
+
+---
+
+### F.2 STABILITY OVER FAIRNESS
+
+In early phases, system priority is:
+
+> Stability > Perceived fairness
+
+Attempts to enforce fairness prematurely risk system collapse.
+
+---
+
+### F.3 FIRST 90 DAYS RULE
+
+During initial Node phase:
+
+- No optimization of contribution distribution
+- No attempts to “correct” participation imbalance aggressively
+- Focus is on maintaining system continuity and trust
+
+---
+
+### F.4 FAILURE LOOP AWARENESS
+
+Nodes must monitor for:
+
+- Decreasing contribution
+- Increasing frustration
+- Silent disengagement
+
+If detected:
+- Reduce system load
+- Increase transparency
+- Pause non-essential initiatives
+
+**Goal:** interrupt collapse loop early
+
+---
+
 ### FINAL NOTE
 
 This appendix exists to make explicit:
