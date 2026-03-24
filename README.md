@@ -1,10 +1,11 @@
 #  M-OS-R / Flow / Existential Reset 🌍
 ## A Complete Operating System for Human Flourishing
 
-**What if survival wasn't conditional? What if we stopped wasting 64% of human potential on bullshit?**
+**What if survival wasn't conditional?  
+What if we stopped wasting human potential on systems that don't actually improve life?**
 
 This is a fully-specified alternative societal system with:
-- ✅ Verified 2026 economic data ($74/month vs $1,300 conventional living)
+- ✅ Verified 2026 economic data (modeled: ~$74/month vs ~$1,300 conventional living*)
 - ✅ Complete governance protocols (LOTUS: anti-corruption by design)
 - ✅ Trauma-informed architecture (Refugium Anima, nervous system first)
 - ✅ Python simulators & cost calculators (it's engineering, not fantasy)
@@ -12,6 +13,7 @@ This is a fully-specified alternative societal system with:
 
 **Not utopia. Not theory. Blueprints.**
 
+> *All figures based on shared infrastructure, cooperative models, and documented assumptions. See /data_validation.* 
 ---
 
 ### ⚡ Try it (24h experiment)
@@ -65,29 +67,53 @@ Current system forces you to:
 *If any factor = 0, quality of life collapses to 0*
 
 ---
+### 📊 Does It Actually Work? (Conservative 2026 Modeling)
 
-### 📊 Does It Actually Work? (Conservative 2026 Data)
+**Important:** These are not promises.  
+They are **modeled outcomes under specific conditions** (shared infrastructure, cooperation, optimized resource use).
+
+---
 
 **Food Capacity:**
-- 13.5B people sustainable (current: 8.2B) = 65% surplus
-- Source: FAO 2025, cross-verified with World Resources Institute
+- Current global production can theoretically support ~13.5B people  
+- Current population: ~8.2B  
+- Implies structural surplus (~60–65%)  
+- Source: FAO 2025, World Resources Institute
+
+---
 
 **Energy:**
-- 2.5-10x current demand (viable renewables, not Sahara fantasies)
+- Renewable potential estimated at 2.5–10x current global demand  
+- Region-dependent, but materially feasible  
 - Source: IEA World Energy Outlook 2025
 
-**Estimated cost per person:**
-- CAPEX: $11,579 (one-time investment)
-- OPEX: **$74/month** (vs $1,300 Swedish baseline)
-- 94% cost reduction, 100% dignity increase
+---
 
-**Labor required:**
-- 24 hours/person/year 
-- That's 28 minutes per week
+**Estimated cost per person (modeled):**
+- CAPEX: ~$11,579 (one-time, infrastructure)
+- OPEX: **~$74/month**  
+  *(vs ~$1,300/month typical Swedish living cost)*
 
-[Full calculations & sources: /data_validation/](/data_validation/) [and /implementation](/implementation)
+→ ~90%+ reduction under cooperative conditions
 
-**You don’t have to believe this works. Just check if it’s internally consistent.**
+---
+
+**Labor required (steady-state estimate):**
+- ~24 hours/person/year  
+- ≈ 28 minutes/week  
+
+> This assumes high system efficiency, shared responsibilities, and automation where appropriate.  
+> Early phases require significantly more effort (see Transition Playbook).
+
+---
+
+[Full calculations & assumptions → /data_validation/](/data_validation/)  
+[Implementation models → /implementation](/implementation)
+
+---
+
+**You don’t have to believe this works.**  
+Just check whether the assumptions, math, and constraints hold together.
 
 ---
 
