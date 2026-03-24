@@ -99,17 +99,27 @@ Flow is not a theory. It is lived reality. Building a Node while still in capita
 **Baseline**  
 The minimum set of resources and conditions required for a person's physical, emotional, and social well-being within Flow. Includes food, water, housing, healthcare, and access to learning.
 
-**Refugium**  
+See [RESOURCE_METRIC_STANDARDS.md](./core/RESOURCE_METRIC_STANDARDS.md) 
+
+**Refugium Anima**  
 A dedicated space (physical or virtual) for nervous system regulation, emotional support, and recovery from stress or conflict. Supports resilience during transitions and crises.
 
-**Lyceum**  
+See [REFUGIUM_ANIMA.md](./ethos/REFUGIUM_ANIMA.md) 
+
+**Lyceum Musaeum**  
 The Node's knowledge and education system. Combines practical skills, documentation, workshops, and intergenerational learning. Teaches both children and adults.
+
+See [LYCEUM_MUSAEUM.md](./ethos/LYCEUM_MUSAEUM.md) 
 
 **Node**  
 A Flow community unit, typically 30-500 people, designed for self-sufficiency, autonomy, and adherence to Flow principles.
 
+See [NODE_DEFINITION.md](./structure_in_flow/NODE_DEFINITION.md) 
+
 **LOTUS Governance**  
 Flow’s horizontal governance framework based on randomized selection, Circles, rotation, and transparency. Prevents centralization of power.
+
+See [LOTUS_GOVERNANCE_PROTOCOL.md](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md) 
 
 **Circle Meetings**  
 Regular gatherings where all Node members discuss logistics, conflicts, decisions, and contributions. Consensus is preferred; majority acceptable if necessary.
