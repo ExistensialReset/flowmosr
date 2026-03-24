@@ -228,7 +228,7 @@ Why: Because "the normal life" is killing us
 
 ---
 
-### 🌊 Not Really Final Words, but Still... 
+### 🌊 Final Words ❤️
 
 If you've made it this far, you already know something's wrong with how we live.
 
