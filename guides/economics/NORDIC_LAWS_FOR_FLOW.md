@@ -593,7 +593,7 @@ Building Flow in the Nordics means:
 **AUDIENCE:** Flow Nodes in Nordic countries (especially Sweden)  
 **PREREQUISITE:** Read TRANSITION_PLAYBOOK.md first  
 
-**Author:** [Your Name] & Elinor Frejd  
+**Author:**  Elinor Frejd & DeepSeek 
 **Date:** March 24, 2026
 
 ---
