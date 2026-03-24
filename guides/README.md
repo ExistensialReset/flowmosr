@@ -26,14 +26,16 @@ Try this:
 4. Distribute tasks voluntarily
 5. Notice what changes
 
-Want more ideas? 
+
+**Want more ideas?**
+[Flow Circle Start](./guides/activation/FLOW_CIRCLE_START.md)
+
 [Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md)
 
 [Flow Transition Field Card](./guides/economics/FLOW_TRANSITION_FILD_CARD.md) 
 
 [TRANSITION_PLAYBOOK.md](./guides/economics/TRANSITION_PLAYBOOK.md) 
-
-
+🌱 Let it bloom! 🌼
 
 ---
 
