@@ -1,7 +1,7 @@
 # M-OS-R / Flow / Existential Reset 🌍
 ## A Complete Operating System for Human Flourishing
 
-**What if survival wasn't conditional?What if we stopped wasting most of human potential on systems that don’t actually improve life?**
+**What if survival wasn't condition al? What if we stopped wasting most of human potential on systems that don’t actually improve life?**
 
 This is a fully-specified alternative societal system with:
 - ✅ Estimated living cost ~$74/month (modeled, cooperative conditions) vs ~$1,300 conventional living
