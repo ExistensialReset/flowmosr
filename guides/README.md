@@ -1,7 +1,7 @@
 # M-OS-R / Flow / Existential Reset 🌍
 ## A Complete Operating System for Human Flourishing
 
-**What if survival wasn't conditional? What if we stopped wasting 64% of human potential on bullshit?**
+**What if survival wasn't conditional?What if we stopped wasting most of human potential on systems that don’t actually improve life?**
 
 This is a fully-specified alternative societal system with:
 - ✅ Verified 2026 economic data ($74/month vs $1,300 conventional living)
