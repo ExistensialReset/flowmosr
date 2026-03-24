@@ -983,6 +983,26 @@ Create spreadsheet:
 - This is not failure of Flow - it's reality of life
 - Grieve, learn, rebuild
 
+### 5.6 RISK MANAGEMENT & EMERGENCY FUND
+
+**Risks to plan for:**
+- Crop failure (2 years of bad harvests)
+- Medical emergency (hospitalization, surgery)
+- Infrastructure failure (solar system breaks, well runs dry)
+- Legal threat (lawsuit, zoning violation)
+
+**Emergency fund sizing:**
+- Year 1-2: $10,000 minimum (external purchases still high)
+- Year 3-5: $5,000-7,000 (decreasing external dependency)
+- Year 5+: $3,000-5,000 (specialty purchases only)
+
+**Per person:** ~$100-200 in reserve for unexpected
+
+**Replenishment:**
+- If used, rebuild via occasional external work
+- Inter-Node loans possible (repay with labor/resources)
+- Never sacrifice Baseline to rebuild emergency fund
+
 ---
 
 ## VI. COMMON PITFALLS (ACROSS ALL PHASES)
