@@ -112,6 +112,11 @@ Transition is GRADUAL. 5+ years typical. Some people faster, some slower.
 
 **Timeline:** 3-6 months minimum. Don't rush this.
 
+And, please tell if you start a circle! 
+flowmosr@proton.me 
+
+So we can build a strong society together! 
+
 ---
 
 ### 2.2 SKILL INVENTORY & GAP ANALYSIS
