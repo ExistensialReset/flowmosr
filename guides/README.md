@@ -34,7 +34,7 @@ Try this:
 
 [Flow Transition Field Card](./guides/economics/FLOW_TRANSITION_FIELD_CARD.md) 
 
-[TRANSITION_PLAYBOOK.md](./guides/economics/TRANSITION_PLAYBOOK.md) 
+[Transition Playbook](./guides/economics/TRANSITION_PLAYBOOK.md) 
 
 ---
 
