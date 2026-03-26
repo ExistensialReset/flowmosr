@@ -1,4 +1,4 @@
-# STRUCTURAL_INVARIANTS.md
+# 05_STRUCTURAL_INVARIANTS.md
 
 Status: Core Reference  
 Scope: Global / Cross-Context / Multi-Phase  
