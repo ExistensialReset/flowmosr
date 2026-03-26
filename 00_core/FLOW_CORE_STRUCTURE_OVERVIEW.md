@@ -153,8 +153,6 @@ Document Status: Living framework
 Expected Lifespan: Decades to centuries if durable
 Modification Protocol: Fork, adapt, document, share
 Success Metric: FLOW operates autonomously worldwide without founder intervention
-Signed:
-Elinor Frejd (architect, Sweden)
-ChatGPT (structural stress-tester)
-Claude (pattern synthesizer)
+
+
 🌀💚🌍
