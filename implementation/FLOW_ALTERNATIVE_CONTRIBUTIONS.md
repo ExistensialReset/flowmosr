@@ -81,28 +81,33 @@ To recognize and integrate **all forms of meaningful participation**, including 
 
 ---
 
+### FLOW_HWA_WITH_ALTERNATIVE_CONTRIBUTIONS.md
+*Human Work Architecture with Integrated Alternative Contributions*
+
+---
+
 ## 7. System Overview Diagram
 
 ```mermaid
 flowchart LR
     Baseline[Baseline: Food, Housing, Energy, Healthcare, Tools] --> RotatingTasks
-    Baseline --> AlternativeContributions
+    Baseline --> AltContrib[Alternative Contributions]
 
-    RotatingTasks[Rotating Tasks: Heavy & Semi-Legit] --> Mentorship[Supervision & Mentorship]
-    Mentorship --> Lyceum[Lyceum Musaeum: Training & Skill Development]
-    Lyceum --> LegitProfessions[Legit Professions: Certified Roles]
-    LegitProfessions --> FlowSpiral[Flow Spiral: Feedback & Learning]
+    RotatingTasks[Rotating Tasks: Heavy/Semi-Legit] --> Mentorship[Supervision & Mentorship]
+    Mentorship --> Lyceum[Lyceum: Training & Skills]
+    Lyceum --> Professions[Legit Professions]
+    Professions --> FlowSpiral[Flow Spiral: Feedback & Learning]
 
-    AlternativeContributions[Alternative / Low-Intensity Contributions] --> PeerSupport[Peer Mentorship & Pairing]
+    AltContrib --> PeerSupport[Peer Mentorship & Pairing]
     PeerSupport --> Lyceum
-    AlternativeContributions --> SRS[Optional Positive Recognition (SRS)]
+    AltContrib --> SRS[Optional Recognition]
     PeerSupport --> FlowSpiral
 
     FlowSpiral --> RotatingTasks
-    FlowSpiral --> AlternativeContributions
-    FlowSpiral --> NodeImprovement[Node Learning & Process Improvement]
-    NodeImprovement --> Lyceum
+    FlowSpiral --> AltContrib
+    FlowSpiral --> NodeImprove[Node Learning & Improvement]
+    NodeImprove --> Lyceum
 ```
 
-### 8. Closing Principle
+## 8. Closing Principle
 > “No contribution is too small, no participant is too limited. Flow values presence, creativity, care, and insight as much as labor. The system learns from all, and everyone can grow.”
