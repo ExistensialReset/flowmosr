@@ -1,4 +1,4 @@
-# FLOW_CORE_STRUCTURE.md
+# 01_FLOW_CORE_STRUCTURE.md
 
 **Version:** 1.0  
 **Date:** February 15, 2026  
