@@ -1,4 +1,4 @@
-# FLOW_CORE_INVARIANTS_EXTENDED.md
+# 04_FLOW_CORE_INVARIANTS_EXTENDED.md
 
 **Status:** Core Principle  
 **Scope:** Entire Flow System  
@@ -74,6 +74,5 @@ Implementation Notes:
 - Baseline access is unconditional; survival at the cost of dignity is not allowed.
 - ROTATION, transparency, and knowledge-sharing are structural safeguards.
 
-**Signed:**
-Elinor Frejd & Flow Collective Conceptualization
+
 Date: March 4, 2026 
