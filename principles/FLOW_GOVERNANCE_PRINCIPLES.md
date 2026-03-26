@@ -260,8 +260,139 @@ Flow governance is resilient not by assuming perfect behavior, but by:
 - Continuously capturing feedback  
 - Enforcing adaptation structurally  
 
-**Core Tier 1 axioms remain unchanged.**  
+**Core Tier 1 axioms remain unchanged.** 
 
 **STATUS:** Additive Patch v3.1 (consolidated)  
 **DATE:** March 23, 2026  
 **MOTTO:** "Governance is not about finding the right leader. Governance is about making leadership unnecessary."
+
+## ⚖️ JUSTICE–GOVERNANCE INTERFACE LAYER
+
+**Purpose:**  
+Define how Justice processes and Governance structures interact, without creating power concentration or ambiguity.
+
+---
+
+### 1. SEPARATION OF FUNCTIONS
+
+Justice and Governance serve different roles:
+
+- **Justice:** Handles conflict, harm, and process fairness  
+- **Governance:** Handles decisions, direction, and coordination  
+
+**Rule:**
+> Governance cannot override Justice processes.  
+> Justice cannot make policy decisions.
+
+---
+
+### 2. DECISION IMPACT VS DECISION AUTHORITY
+
+Justice may affect **participation conditions**, but not **system direction**.
+
+Examples:
+
+- Justice MAY:
+  - Temporarily reduce governance participation weight  
+  - Restrict access to specific roles  
+  - Require structural boundaries  
+
+- Justice may NOT:
+  - Set policy  
+  - Allocate resources  
+  - Override collective decisions  
+
+---
+
+### 3. CONDITIONAL PARTICIPATION PRINCIPLE
+
+Participation in governance is:
+
+> **Universal by default, conditional by process**
+
+Meaning:
+
+- All individuals have equal voice initially  
+- Justice processes may temporarily adjust participation conditions  
+- Adjustments must be:
+  - Time-bounded  
+  - Reviewable  
+  - Appealable  
+
+---
+
+### 4. APPEAL PATHWAY (STRUCTURAL)
+
+All Justice decisions that affect governance participation must allow:
+
+- Appeal to **independent LOTUS panel** OR  
+- External neutral review body  
+
+**Constraints:**
+
+- Time-bounded (e.g. ≤30 days)  
+- Separate from original decision-makers  
+
+---
+
+### 5. SYSTEM-LEVEL FEEDBACK LOOP
+
+Justice outputs must inform Governance:
+
+- Repeated conflicts → governance redesign  
+- Power concentration signals → structural adjustment  
+- Trust decay → governance simplification  
+
+**Mechanism:**
+
+- Periodic “Justice → Governance signal reports”  
+- No individual exposure, only pattern-level data  
+
+---
+
+### 6. GOVERNANCE NON-INTERFERENCE RULE
+
+Governance bodies (including LOTUS) must not:
+
+- Interfere in active justice processes  
+- Influence case outcomes  
+- Protect individuals from process  
+
+**Exception:**
+- Only through formal appeal structures  
+
+---
+
+### 7. SYSTEM OVERSIGHT (META-LAYER)
+
+To prevent system drift:
+
+- Governance may initiate:
+  - Process audits  
+  - Structural reviews  
+
+But:
+
+- Must not interfere in active cases  
+- Must operate on **system-level, not case-level**
+
+---
+
+### 8. FAILURE SAFEGUARD
+
+If conflict emerges between Justice and Governance:
+
+1. Pause non-essential governance decisions  
+2. Activate independent review panel  
+3. Prioritize:
+   - Safety  
+   - Process integrity  
+   - Trust preservation  
+
+---
+
+### PRINCIPLE
+
+> Justice protects fairness.  
+> Governance enables coordination.  
+> Neither must absorb the other.
