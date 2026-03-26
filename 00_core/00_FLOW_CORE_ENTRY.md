@@ -1,4 +1,7 @@
-# 🌊 Core Flow Protocols: The Foundation of Living Flow
+CORE 
+
+
+# 🌊 00_FLOW_CORE_ENTRY: The Foundation of Living Flow
 
 
 **Scope:**
