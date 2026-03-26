@@ -8,6 +8,18 @@
 
 ---
 
+## HOW TO USE THIS DOCUMENT
+
+- Read invariants first → defines what cannot break
+- Read spiral phases → defines how Flow grows
+- Read failure modes → defines what to watch for
+- Use adaptation guidelines → apply locally
+
+This document is sufficient to begin implementation.
+
+---
+
+
 ## PREAMBLE
 
 FLOW is not a project tied to any single individual.  
