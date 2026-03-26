@@ -67,6 +67,16 @@ More ideas:
 
 ---
 
+## 🧭 Reading Order (System Core)
+
+1. `/00_core` → Understand the vision
+2. `/01_principles` → What cannot be broken
+3. `/02_protocols` → How it actually works
+4. `/03_governance` → Decision systems
+5. `/04_simulation` → Stress tests & failure modes
+
+---
+
 ## 🎯 The Core Problem
 
 Current system forces you to:
