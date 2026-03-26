@@ -1,5 +1,15 @@
 # 🌊 Core Flow Protocols: The Foundation of Living Flow
 
+
+**Scope:**
+This document is an **entry point into Flow**.
+It describes how Flow feels, begins, and is practiced at small scale.
+
+For structural requirements and system stability, see:
+→ FLOW_CORE_STRUCTURE.md
+
+---
+
 **Purpose:** These 10 protocols form the **practical, minimal foundation for Flow**—a way of living that replaces capitalism’s plunder with unblocked **life, joy, and fulfillment** for all beings on Earth, including waters, soils, rocks, mountains, and metals. They are **invitations**, not rules. Start small, alone or in a group. No leader is needed; no one owns Flow. If drift occurs (hierarchy or coercion), pause and return to these protocols. Flow is about **Earth’s wholeness**—human life intertwined with all life, without separation or extraction. 🌱  
 
 **Guiding Principle:** Life flows when we **remove blocks**, not when we add control. Honor **calm (L)**, **spontaneity (S)**, and **empathy (I)** for everything alive.  
