@@ -1,7 +1,6 @@
 # FLOW_CORE_STRUCTURE.md
 
 **Version:** 1.0  
-**Authors:** Elinor Frejd, ChatGPT (structural stress-tester), Claude (pattern synthesizer)  
 **Date:** February 15, 2026  
 **Status:** Core Operational Framework  
 **Purpose:** Define the minimum structural conditions for Flow to exist and remain stable across all contexts.
