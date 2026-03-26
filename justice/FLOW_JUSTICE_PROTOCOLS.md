@@ -1,6 +1,6 @@
 # ⚖️ FLOW_JUSTICE_PROTOCOLS.md
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** TIER 2–3 (OPERATIONAL JUSTICE LAYER)  
 **Depends on:** FLOW_JUSTICE_PRINCIPLES.md  
 **Authors:** Elinor Frejd & Claude & ChatGPT  
@@ -92,6 +92,7 @@ Case is closed when:
 - Safety restored  
 - Participants heard  
 - No active escalation  
+- No unresolved safety concerns remain  
 
 ---
 
@@ -230,9 +231,16 @@ Activated immediately when:
 - Harm is ongoing  
 
 **Actions:**
-- Separation  
-- Activity restriction  
+- Temporary separation  
+- Activity restriction if needed  
 - Support allocation  
+
+**Constraints:**
+- Non-punitive  
+- Baseline never affected  
+
+**Review:**
+- Must be reviewed within a fixed time window (e.g. 72 hours)
 
 ---
 
@@ -240,15 +248,16 @@ Activated immediately when:
 
 After resolution:
 
-- Ask all participants:
+- Ask all participants:  
   “Was this process fair?”
 
 If not:
 - Trigger process review  
+- Optional re-facilitation  
 
 ---
 
-### 4.3 MANIPULATION RESILIENCE (MRP)
+### 4.3 MANIPULATION RESILIENCE PROTOCOL (MRP)
 
 During all structured processes:
 
@@ -256,17 +265,25 @@ During all structured processes:
 - Time limits applied  
 - Optional anonymized input  
 
+**Detection signals:**
+- Dominant voice patterns  
+- Withdrawal of other participants  
+
+**Response:**
+- Facilitation reset  
+- Format adjustment  
+
 ---
 
 ### 4.4 REPEATED HARM ESCALATION (RHE)
 
-Trigger:
-- 3+ similar incidents / 6 months  
+**Trigger:**
+- 3+ similar incidents within 6 months  
 
-Action:
+**Response:**
 - Pattern-based review  
 - Expanded panel  
-- Structural measures  
+- Structural measures (role limits, boundaries)  
 
 ---
 
@@ -275,7 +292,7 @@ Action:
 - Confidential input allowed  
 - No requirement for formal accusation  
 
-Used for:
+**Used for:**
 - Early signals  
 - Pattern detection  
 
@@ -287,33 +304,40 @@ Activated when:
 
 - Harm persists  
 - Refusal to engage  
-- Severe breach  
+- Severe safety breach  
 
-Action:
+**Response:**
 - Protective measures  
 - External review  
 - Parallel processes  
 
 ---
 
-4.7 INFORMAL POWER ACCUMULATION PROTOCOL (IPAP)
+### 4.7 INFORMAL POWER ACCUMULATION PROTOCOL (IPAP)
 
-Purpose:
-- Detect and mitigate long-term accumulation of informal influence.
+**Purpose:**  
+Detect and mitigate long-term accumulation of informal influence.
 
-Signals:
-- Same individual dominates multiple processes
-- Others defer consistently
-- Reduced participation diversity
-- Repeated central role presence
+---
 
-Response:
-- Mandatory role rotation
-- Temporary exclusion from facilitation roles
-- Increased anonymization in input
-- Expanded panel composition
-Principle:
-- Influence must circulate, or it becomes power.
+**Signals:**
+- Same individual dominates multiple processes  
+- Others defer consistently  
+- Reduced participation diversity  
+- Repeated central role presence  
+
+---
+
+**Response:**
+- Mandatory role rotation  
+- Temporary exclusion from facilitation roles  
+- Increased anonymization in input  
+- Expanded panel composition  
+
+---
+
+**Principle:**
+> Influence must circulate, or it becomes power.
 
 ---
 
@@ -356,6 +380,8 @@ System monitors:
 - Same individuals recurring  
 - Avoidance behavior  
 
+---
+
 ### Response:
 
 - Soft review  
@@ -369,7 +395,7 @@ System monitors:
 
 Justice work is high-load.
 
-Rules:
+**Rules:**
 
 - Rotation required  
 - Recovery time mandatory  
