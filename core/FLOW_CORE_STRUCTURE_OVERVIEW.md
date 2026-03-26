@@ -4,7 +4,7 @@
 **Authors:** Elinor Frejd, ChatGPT (structural stress-tester), Claude (pattern synthesizer)  
 **Date:** February 15, 2026  
 **Status:** Core Operational Framework  
-**Purpose:** Provide a complete, globally-applicable structural reference for FLOW implementation  
+**Purpose:** Define the minimum structural conditions for Flow to exist and remain stable across all contexts.
 **Critical Note:** This document is self-sufficient. Founder presence is not required.  
 
 ---
@@ -23,7 +23,7 @@ It is a **global, adaptable framework** designed to function in all political co
 
 ## 1. STRUCTURAL INVARIANTS
 
-These are non-negotiable features that must exist for FLOW to function globally:
+These must exist in ANY valid Flow implementation. If any are broken = system failure:
 
 1. **Baseline Security:** All participants have access to life essentials regardless of context.  
 2. **No Coercion:** Participation is voluntary, without external or internal pressure.  
