@@ -1,3 +1,5 @@
+
+```
 Baseline Violation Detected
            │
            ▼
@@ -23,3 +25,4 @@ Global Recovery / Audit
            ▲
            │
 Emergency Override Triggered
+```
