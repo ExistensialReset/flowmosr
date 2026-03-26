@@ -17,7 +17,7 @@ While Principles define *what must always be true*, this document defines:
 - How justice processes are executed  
 - How roles function in practice  
 - How cases move through the system  
-- How edge cases and instability are handled  
+- How edge cases, overload, and manipulation are handled  
 
 ---
 
@@ -92,7 +92,6 @@ Case is closed when:
 - Safety restored  
 - Participants heard  
 - No active escalation  
-- No unresolved safety concerns remain  
 
 ---
 
@@ -200,8 +199,8 @@ Case is closed when:
 ### HUMAN MIRROR
 
 - Reflects emotional dynamics  
-- Identifies misalignment  
-- Helps participants feel seen  
+- Identifies misalignment and dominance patterns  
+- Makes implicit dynamics explicit  
 
 ---
 
@@ -231,16 +230,9 @@ Activated immediately when:
 - Harm is ongoing  
 
 **Actions:**
-- Temporary separation  
-- Activity restriction if needed  
+- Separation  
+- Activity restriction  
 - Support allocation  
-
-**Constraints:**
-- Non-punitive  
-- Baseline never affected  
-
-**Review:**
-- Must be reviewed within a fixed time window (e.g. 72 hours)
 
 ---
 
@@ -248,42 +240,59 @@ Activated immediately when:
 
 After resolution:
 
-- Ask all participants:  
+- Ask all participants:
   “Was this process fair?”
 
 If not:
 - Trigger process review  
-- Optional re-facilitation  
+
+---
+
+### 🔒 PROCESS LOOP GUARD (PLG)
+
+- After **2 full re-processes**, case escalates automatically  
+- Requires expanded or external panel  
+- Cannot loop indefinitely at same layer  
+
+**Principle:**  
+Fairness is protected. Infinite loops are not.
 
 ---
 
 ### 4.3 MANIPULATION RESILIENCE PROTOCOL (MRP)
 
-During all structured processes:
-
 - Speaking order enforced  
 - Time limits applied  
 - Optional anonymized input  
 
-**Detection signals:**
-- Dominant voice patterns  
-- Withdrawal of other participants  
+---
+
+### 🔍 SUBTLE MANIPULATION DETECTION (SMD)
+
+Detects:
+
+- Calm dominance patterns  
+- Reframing others repeatedly  
+- High verbal control, low responsiveness  
 
 **Response:**
-- Facilitation reset  
-- Format adjustment  
+- Facilitator redistributes speaking space  
+- Human Mirror explicitly names pattern  
+
+**Principle:**  
+Calm does not equal fair.
 
 ---
 
 ### 4.4 REPEATED HARM ESCALATION (RHE)
 
-**Trigger:**
-- 3+ similar incidents within 6 months  
+Trigger:
+- 3+ similar incidents / 6 months  
 
-**Response:**
+Action:
 - Pattern-based review  
 - Expanded panel  
-- Structural measures (role limits, boundaries)  
+- Structural measures  
 
 ---
 
@@ -292,9 +301,20 @@ During all structured processes:
 - Confidential input allowed  
 - No requirement for formal accusation  
 
-**Used for:**
-- Early signals  
-- Pattern detection  
+---
+
+### 🧠 PATTERN CONTEXT LAYER (PCL)
+
+All reports are interpreted in context:
+
+Signals:
+- High report frequency from one individual  
+- Low external corroboration  
+- Distributed targets  
+
+Response:
+- Shift to pattern-level review  
+- Not all reports become full cases  
 
 ---
 
@@ -304,9 +324,9 @@ Activated when:
 
 - Harm persists  
 - Refusal to engage  
-- Severe safety breach  
+- Severe breach  
 
-**Response:**
+Action:
 - Protective measures  
 - External review  
 - Parallel processes  
@@ -315,29 +335,57 @@ Activated when:
 
 ### 4.7 INFORMAL POWER ACCUMULATION PROTOCOL (IPAP)
 
-**Purpose:**  
-Detect and mitigate long-term accumulation of informal influence.
+Detects:
+
+- Repeated central roles  
+- Deference patterns  
+- Participation suppression  
+
+Response:
+- Mandatory rotation  
+- Role restriction  
+- Increased anonymization  
 
 ---
 
-**Signals:**
-- Same individual dominates multiple processes  
-- Others defer consistently  
-- Reduced participation diversity  
-- Repeated central role presence  
+### ⚙️ CASE THROTTLING PROTOCOL (CTP)
+
+If a single actor generates disproportionate cases:
+
+- Cases routed through pattern triage  
+- Lower priority unless safety-critical  
+- Batch handling allowed  
+
+**Principle:**  
+Access remains. Bandwidth is protected.
 
 ---
 
-**Response:**
-- Mandatory role rotation  
-- Temporary exclusion from facilitation roles  
-- Increased anonymization in input  
-- Expanded panel composition  
+### 🟡 JUSTICE LIGHT MODE (JLM)
 
----
+Activated when:
 
-**Principle:**
-> Influence must circulate, or it becomes power.
+- >4 active cases  
+- Facilitator fatigue  
+- Participation <50%  
+
+**Mode shift:**
+
+- Only:
+  - Safety cases  
+  - Severe harm  
+
+- Others:
+  - Paused OR Layer 1 only  
+
+**Simplification:**
+
+- Shorter sessions  
+- Fewer participants  
+- Reduced formalism  
+
+**Principle:**  
+System survival > process completeness
 
 ---
 
@@ -395,7 +443,7 @@ System monitors:
 
 Justice work is high-load.
 
-**Rules:**
+Rules:
 
 - Rotation required  
 - Recovery time mandatory  
@@ -408,6 +456,7 @@ Justice work is high-load.
 - Reduce case intake speed  
 - Expand facilitator pool  
 - Activate external support  
+- Trigger **Justice Light Mode (JLM)**  
 
 ---
 
@@ -434,6 +483,7 @@ Justice work is high-load.
 **Response:**
 - Reduce throughput  
 - Add capacity  
+- Activate JLM  
 
 ---
 
@@ -454,10 +504,12 @@ Justice work is high-load.
 
 **Signal:**
 - Strategic reporting  
+- Process flooding  
 - Narrative manipulation  
 
 **Response:**
-- Activate MRP  
+- Activate PCL  
+- Activate CTP  
 - Expand panel  
 - Use anonymization  
 
@@ -498,13 +550,15 @@ This document exists to ensure:
 > Justice is not only principled,  
 > but executable under real conditions.
 
-It is expected to evolve.
+It is designed to:
 
-Principles remain stable.  
-Protocols adapt.
+- Survive overload  
+- Resist manipulation  
+- Prevent power accumulation  
+- Maintain fairness without collapse  
 
 ---
 
 **STATUS:** TIER 2–3 OPERATIONAL JUSTICE LAYER  
-**Depends on:** FLOW_JUSTICE_PRINCIPLES.md  
+**Version:** 1.1  
 **Date:** March 26, 2026
