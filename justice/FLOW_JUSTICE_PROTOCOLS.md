@@ -296,6 +296,27 @@ Action:
 
 ---
 
+4.7 INFORMAL POWER ACCUMULATION PROTOCOL (IPAP)
+
+Purpose:
+- Detect and mitigate long-term accumulation of informal influence.
+
+Signals:
+- Same individual dominates multiple processes
+- Others defer consistently
+- Reduced participation diversity
+- Repeated central role presence
+
+Response:
+- Mandatory role rotation
+- Temporary exclusion from facilitation roles
+- Increased anonymization in input
+- Expanded panel composition
+Principle:
+- Influence must circulate, or it becomes power.
+
+---
+
 ## V. AGREEMENT STRUCTURE
 
 ---
@@ -334,8 +355,6 @@ System monitors:
 - Drop in reporting  
 - Same individuals recurring  
 - Avoidance behavior  
-
----
 
 ### Response:
 
