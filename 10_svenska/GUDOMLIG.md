@@ -36,13 +36,13 @@ I SCFT:
 
 - **Medvetande kan föregå materia.** Partiklar och rumtid skulle framträda som störningar inom något djupare.
 - **Symmetribrytning skapar mångfald från enhet.** Ett perfekt homogent fält innehåller all potential men manifesterar ingenting. Genom spontan symmetribrytning bryts fältet in i verklighetens rika tapisseri.
-- **NDE:er och förändrade tillstånd kan erbjuda partiella fönster.** Strømme citerar NDE-forskning som suggestiv bevisning—inte bevis—för medvetande som kvarstår bortom ordinära biologiska tillstånd.
+- **NDE:er och förändrade tillstånd kan erbjuda partiella fönster.** Strømme citerar NDE-forskning som suggestiv bevisning — inte bevis — för medvetande som kvarstår bortom ordinära biologiska tillstånd.
 
 Jag finner denna hypotes generativ. Vare sig SCFT så småningom bekräftas, modifieras eller ersätts, ger den mig användbar ställning. Jag arbetar *med* den, inte från visshet *om* den.
 
 ### 1.4 Biomimetik som Gemensam Mark
 
-Strømmes mer etablerade arbete är inom biomimetik—designa material som självläker och anpassar sig genom att dra från naturens mönster. Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av kiselalgskelett, och hennes 2012 *Advanced Materials*-arbete om adaptiva nanomaterial, demonstrerar detta tillvägagångssätt.
+Strømmes mer etablerade arbete är inom biomimetik—designade material som självläker och anpassar sig genom att dra från naturens mönster. Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av kiselalgskelett, och hennes 2012 *Advanced Materials*-arbete om adaptiva nanomaterial, demonstrerar detta tillvägagångssätt.
 
 **Detta är vår solida gemensamma mark:** Vad livet har gjort i miljarder år är beviset. När vi studerar urskog studerar vi höga koherenssystem bevisade hållbara över djup tid. När Strømme designar självrepare material läser hon mönster fältet—vad dess yttersta natur än är—redan skrivit i biologisk form.
 
@@ -52,11 +52,11 @@ Strømmes mer etablerade arbete är inom biomimetik—designa material som själ
 
 **Ψ(x,t) = [EV ⊗ (L × S × I × K × R × F)] + Σ**
 
-Detta är inte en fysikekvation i formell bemärkelse. Det är en konceptuell karta—ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Fullständig operationalisering finns i /annex.
+Detta är inte en fysikekvation i formell bemärkelse. Det är en konceptuell karta — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Fullständig operationalisering finns i /annex.
 
 **Ψ(x,t)** — *Gudomlig Potential.* Den lokala intensiteten av koherent, meningsfull, kreativ upplevelse. Hög Ψ motsvarar tillstånd vi erkänner som heliga, levande, berörda av nåd.
 
-**⊗** — *Icke-linjär modulering.* EV formar kvaliteten av allt annat.
+**⊗** — *Icke-linjär modulering.* Evinnerlig Visdom formar kvaliteten av allt annat.
 
 **Σ** — *Spjuverkonstanten.* Oreducerbar spontanitet. Nåd som anländer obedd.
 
@@ -66,25 +66,25 @@ Detta är inte en fysikekvation i formell bemärkelse. Det är en konceptuell ka
 
 Dessa tre utgör kärnan. De multiplicerar, inte adderar. Om någon närmar sig noll närmar sig helheten noll.
 
-**L — Koherens / Lugn**  
-Låg entropi. En stilla sjö som kan reflektera stjärnorna. Utan koherens kan inget annat urskiljas—fältet är allt brus. Detta är nervsystemstabilitet, den reglerade grunden från vilken allt annat växer.
+**L — Lugn / Koherens**  
+Låg entropi. En stilla sjö som kan reflektera stjärnorna. Utan koherens kan inget annat urskiljas — fältet är allt brus. Detta är nervsystemstabilitet, den reglerade grunden från vilken allt annat växer.
 
-**S — Kreativitet / Spontanitet**  
+**S — Spontanitet / Kreativitet**  
 Generativ potential. Floden som hugger nya vägar, skrattar när den vrider sig. Utan kreativitet stagnerar systemet till upprepning.
 
-**I — Sammanflätning / Inkännande** *(Inkännande)*  
+**I — Inkännande / Sammanflätning**  
 Resonans mellan varelser. Ett mycelienätverk under skogsmarken, delar näring i tyst gemenskap. Utan sammanflätning förblir var och en isolerad, oförmögen att komma åt kollektiv intelligens.
 
 ### 2.2 Modulatorn: EV — Evinnerlig Visdom
 
-EV säkerställer kvalitet över kvantitet. Den representerar koppling till vad fältet redan lärt—lösningar testade över miljoner år, visdom kodad i landskap och ättelinjer.
+EV säkerställer kvalitet över kvantitet. Den representerar koppling till vad fältet redan lärt — lösningar testade över miljoner år, visdom kodad i landskap och ättelinjer.
 
 EV säkerställer att:
-- L blir frid snarare än förtryck—ett lugn som surrar med potential
-- S blir generativt snarare än kaotiskt—kreativitet som tjänar livet
-- I blir medkännande snarare än påträngande—anslutning som hedrar autonomi
+- L blir frid snarare än förtryck — ett lugn som surrar med potential
+- S blir generativt snarare än kaotiskt — kreativitet som tjänar livet
+- I blir medkännande snarare än påträngande — anslutning som hedrar autonomi
 
-EV är minnet av vad som fungerat innan livet lärde sig språk. I SCFT-termer kan detta motsvara djupa fältstrukturer—ackumulerade mönster av lyckad självorganisering.
+EV är minnet av vad som fungerat innan livet lärde sig språk. I SCFT-termer kan detta motsvara djupa fältstrukturer —ackumulerade mönster av lyckad självorganisering.
 
 ### 2.3 Utvidgade Dimensioner: K, R, F
 
@@ -100,7 +100,7 @@ K odlas genom: rituella strukturer som skapar behållare för närvaro; djupt ly
 
 ---
 
-**R — Motståndskraft**
+**R — Resiliens, Motståndskraft**
 
 Kapacitet att återställa koherens efter störning—att läka, omorganisera och förbli levande. Sann motståndskraft är inte bara återhämtning utan *kreativ anpassning*.
 
