@@ -1,22 +1,40 @@
-// Enkel Markdown-render i browser
-document.querySelectorAll('nav a').forEach(link => {
-  link.addEventListener('click', e => {
-    e.preventDefault();
-    const mdFile = e.target.dataset.md;
+// Dynamiskt läs in alla Markdown-filer i repo och skapa navigation
+async function init() {
+  const nav = document.getElementById("nav");
+  const content = document.getElementById("content");
 
-    fetch(mdFile)
-      .then(response => response.text())
-      .then(md => {
-        // Enkel konvertering: rubriker och stycken
-        let html = md
-          .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-          .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-          .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-          .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
-          .replace(/\*(.*)\*/gim, '<em>$1</em>')
-          .replace(/\n$/gim, '<br>');
+  // Dynamiskt generera lista med alla .md-filer
+  // Här använder vi en "index.json" som listar alla Markdown-filer (automatiskt uppdaterad)
+  const response = await fetch("index.json");
+  const files = await response.json();
 
-        document.getElementById('content').innerHTML = html;
-      });
+  files.forEach(file => {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = "#";
+    a.textContent = file.title;
+    a.dataset.md = file.path;
+    a.addEventListener("click", async (e) => {
+      e.preventDefault();
+      const mdResponse = await fetch(file.path);
+      const mdText = await mdResponse.text();
+      content.innerHTML = renderMarkdown(mdText);
+    });
+    li.appendChild(a);
+    nav.appendChild(li);
   });
-});
+}
+
+// Enkel Markdown → HTML funktion
+function renderMarkdown(md) {
+  let html = md
+    .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+    .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+    .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+    .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
+    .replace(/\*(.*)\*/gim, '<em>$1</em>')
+    .replace(/\n$/gim, '<br>');
+  return html;
+}
+
+init();
