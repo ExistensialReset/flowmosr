@@ -49,10 +49,8 @@ Dessa måste existera i VARJE giltig Flöde-implementering. Om någon bryts = sy
 ## 2. POLITISK REALISM
 
 FLÖDET måste förutse och anpassa sig till **alla politiska system**:
-
-- **Auktoritära Sammanhang:** Verka diskret, rama in aktiviteter som kooperativa eller experimentella, undvik ideologiskt språk, eftersom FLÖDET inte är en ideologi.  
+  
 - **Demokratiska Sammanhang:** Betona transparens, deltagande och lagefterlevnad.  
-- **Hybrid/Bräckliga Stater:** Bibehåll minimal synlighet, motståndskraft mot infrastrukturavbrott och stark själv-dokumentation.  
 - **Internationella Noder:** Protokoll måste vara flexibla för gränsöverskridande juridiska och kulturella skillnader.  
 - **Global Inramning:** Använd neutral terminologi ("gemenskapsprojekt", "experimentellt kooperativ") för att undvika misstolkning eller förtryck.  
 
