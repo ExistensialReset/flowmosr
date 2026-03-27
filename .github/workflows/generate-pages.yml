@@ -1,0 +1,28 @@
+name: Generate pages.json
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate pages.json
+        run: |
+          echo "[" > pages.json
+          find . -type f -name "*.md" | grep -v "pages.json" | grep -v ".github" | while read f; do
+            title=$(basename "$f" .md)
+            echo "{\"title\": \"$title\", \"path\": \"$f\"}," >> pages.json
+          done
+          # ta bort sista kommatecknet
+          sed -i '$ s/,$//' pages.json
+          echo "]" >> pages.json
+      - name: Commit pages.json
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add pages.json
+          git commit -m "Update pages.json" || echo "No changes"
+          git push
