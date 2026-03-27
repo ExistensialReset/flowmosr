@@ -75,7 +75,7 @@ Yes.
 - Estimated cost: ~$74/month (cooperative conditions)  
 
 → Full data: [`/data_validation`](./data_validation/)
-And [02_documents](./02_documents) 
+And [`02_documents`](./02_documents) 
 
 
 ---
