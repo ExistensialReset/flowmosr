@@ -40,7 +40,7 @@ Dessa måste existera i VARJE giltig Flöde-implementering. Om någon bryts = sy
 2. **Inget Tvång:** Deltagande är frivilligt, utan extern eller intern press.  
 3. **Konfliktmetabolism:** Tvister löses konstruktivt, inte undertrycks.  
 4. **Rollrotation:** Inga permanenta ledare; ansvar cirkulerar.  
-5. **Grundareirrelevans:** Systemet måste fungera fullt ut utan beroende av någon grundare.  
+5. **Grundarirrelevans:** Systemet måste fungera fullt ut utan beroende av någon grundare.  
 6. **Regenerativ Orientering:** FLÖDES-interaktioner måste återställa resurser, relationer och system snarare än uttömma dem.  
 7. **Transparens Utan Övervakning:** Data aggregeras; individer spåras aldrig för kontroll.  
 
