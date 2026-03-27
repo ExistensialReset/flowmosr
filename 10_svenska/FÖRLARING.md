@@ -1,4 +1,4 @@
-# 🌍 02_FLÖDE_FÖRKLARINGSLAGER: Vad Flödet Egentligen Är
+# 🌍 02 FÖRKLARING: Vad Flödet Egentligen Är
 
 **Version:** 1.0  
 **Status:** Kärnförklaringslager  
@@ -27,7 +27,7 @@ Detta dokument existerar för att klargöra:
 
 Flödet är ett **post-knapphetens koordinationssystem** utformat för att:
 
-- Säkerställa **grundnivåöverlevnad utan villkor**
+- Säkerställa **överlevnad utan villkor**
 - Avlägsna **tvång som en strukturell nödvändighet**
 - Tillåta **mänsklig energi att organisera sig frivilligt**
 - Ersätta **kontrollsystem med flödessystem**
