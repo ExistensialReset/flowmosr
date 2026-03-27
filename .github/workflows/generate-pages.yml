@@ -1,4 +1,12 @@
 name: Generate pages.json
+
+# Behörigheter som behövs för att pusha tillbaka
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Trigger på push till main
 on:
   push:
     branches:
@@ -7,22 +15,31 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Kolla ut repo
       - uses: actions/checkout@v3
+
+      # Generera pages.json
       - name: Generate pages.json
         run: |
           echo "[" > pages.json
+          # Hitta alla markdown-filer
           find . -type f -name "*.md" | grep -v "pages.json" | grep -v ".github" | while read f; do
             title=$(basename "$f" .md)
+            # Escape eventuella citattecken i filnamn
+            title=$(echo "$title" | sed 's/"/\\"/g')
             echo "{\"title\": \"$title\", \"path\": \"$f\"}," >> pages.json
           done
-          # ta bort sista kommatecknet
+          # Ta bort sista kommatecknet
           sed -i '$ s/,$//' pages.json
           echo "]" >> pages.json
+
+      # Commit och push tillbaka till main
       - name: Commit pages.json
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add pages.json
-          git commit -m "Update pages.json" || echo "No changes"
+          git diff-index --quiet HEAD || git commit -m "Update pages.json"
           git push
