@@ -684,6 +684,7 @@
 {"title": "00_FLOW_CORE_ENTRY", "path": "00_core/00_FLOW_CORE_ENTRY.md"},
 {"title": "03_AXIOMS", "path": "00_core/03_AXIOMS.md"},
 {"title": "01_FLOW_CORE_STRUCTURE", "path": "00_core/01_FLOW_CORE_STRUCTURE.md"},
+{"title": "README", "path": "00_core/README.md"},
 {"title": "04_FLOW_CORE_INVARIANTS_EXTENDED", "path": "00_core/04_FLOW_CORE_INVARIANTS_EXTENDED.md"},
 {"title": "SECURITY", "path": "SECURITY.md"},
 {"title": "FLOW_SPIRAL_RADIAL_MAX", "path": "02_documents/FLOW_SPIRAL_RADIAL_MAX.md"},
