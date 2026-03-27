@@ -2,11 +2,11 @@ async function init() {
   const nav = document.getElementById("nav");
   const content = document.getElementById("content");
 
-  // Läs pages.json lokalt
+  // Läs pages.json
   const response = await fetch("pages.json");
   const files = await response.json();
 
-  // Bygg navigation
+  // Skapa navigation
   files.forEach(file => {
     const li = document.createElement("li");
     const a = document.createElement("a");
@@ -16,7 +16,7 @@ async function init() {
 
     a.addEventListener("click", async (e) => {
       e.preventDefault();
-      const mdResponse = await fetch(file.path);
+      const mdResponse = await fetch(encodeURI(file.path));
       const mdText = await mdResponse.text();
       content.innerHTML = renderMarkdown(mdText);
       window.scrollTo(0,0);
@@ -26,10 +26,10 @@ async function init() {
     nav.appendChild(li);
   });
 
-  // Ladda README.md automatiskt
+  // Ladda README automatiskt
   const readme = files.find(f => f.title.toLowerCase() === "readme");
   if (readme) {
-    const mdResponse = await fetch(readme.path);
+    const mdResponse = await fetch(encodeURI(readme.path));
     const mdText = await mdResponse.text();
     content.innerHTML = renderMarkdown(mdText);
   }
