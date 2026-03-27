@@ -183,9 +183,11 @@ To understand Flow fully:
 
 3. Then explore:
    → `/01_principles/` (domain-specific rules)
+   → `/02_documents/ (implementaion)
    → `/03_governance/` (decision systems)
    → `/06_justice/` (conflict handling)
    → `/09_economics/` (resource coordination)
+and of course other maps!
 
 ---
 
