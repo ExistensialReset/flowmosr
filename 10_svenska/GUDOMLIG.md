@@ -1,4 +1,4 @@
-# ✨ DIVINE.md v5.1
+# ✨ GUDOMLIG.md v5.1
 
 ## Resonansens Fysik
 ### En Levande Syntes av Frejd-Ekvationen & Strømme-Hypotesen
@@ -18,17 +18,17 @@
 
 ### 1.1 Om Tro och Ramverk
 
-Jag tror att det finns en skapande kraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika—Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Jag är inte fäst vid något enskilt namn. Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
+Jag tror att det finns en skapande kraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Jag är inte fäst vid något enskilt namn. Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
-DIVINE är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det är inte teologi. Det är inte bevisad vetenskap. Det är en arbetshypotes uttryckt med fullt hjärta.
+GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det är inte teologi. Det är inte bevisad vetenskap. Det är en arbetshypotes uttryckt med fullt hjärta.
 
 ### 1.2 Konvergensen
 
-**Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungsbefolkningars kunskap och landskapens levda intelligens—där våtmarker pulserar med renande visdom och urskogar (*urskog*) rymmer århundraden av tysta berättelser. Jag ser ekosystem som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
+**Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungsbefolkningars kunskap och landskapens levda intelligens — där våtmarker pulserar med renande visdom och urskogar rymmer århundraden av tysta berättelser. Jag ser ekosystem som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
 
-**Dr. Maria Strømmes** arbete bryggar nanoskala materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT)—en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
+**Dr. Maria Strømmes** arbete bryggar nanoskalig materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT)—en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
 
-**Jag vill vara tydlig:** SCFT är en hypotes, inte etablerad fysik. Det är ett djärvt teoretiskt förslag, inte bevisad fakta. Jag engagerar mig med det eftersom det erbjuder språk för vad jag länge känt genom ekologisk nedsänkning—men jag presenterar det inte som mer än det är.
+**Jag vill vara tydlig:** SCFT är en hypotes, inte etablerad fysik. Det är ett djärvt teoretiskt förslag, inte bevisad fakta. Jag engagerar mig med det eftersom det erbjuder språk för vad jag länge känt genom ekologisk fördjupning — men jag presenterar det inte som mer än det är.
 
 ### 1.3 Vad Strømme Föreslår
 
