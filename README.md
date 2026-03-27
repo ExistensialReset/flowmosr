@@ -75,6 +75,8 @@ Yes.
 - Estimated cost: ~$74/month (cooperative conditions)  
 
 → Full data: [`/data_validation`](./data_validation/)
+And [02_documents](./02_documents) 
+
 
 ---
 
@@ -89,7 +91,7 @@ You can:
 - Rest without earning it
 - Notice what actually helps life flow
 
-If you want to connect:
+If you want to start, please connect:
 
 📧 flowmosr@proton.me
 
