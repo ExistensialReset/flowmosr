@@ -102,11 +102,11 @@ K odlas genom: rituella strukturer som skapar behållare för närvaro; djupt ly
 
 **R — Resiliens, Motståndskraft**
 
-Kapacitet att återställa koherens efter störning—att läka, omorganisera och förbli levande. Sann motståndskraft är inte bara återhämtning utan *kreativ anpassning*.
+Kapacitet att återställa koherens efter störning — att läka, omorganisera och förbli levande. Sann motståndskraft är inte bara återhämtning utan *kreativ anpassning*.
 
 Våtmarken som, efter störning, omorganiserar sina mikrobiella gemenskaper till konfigurationer som kan förbättra filtreringskapacitet. Skogen som växer tillbaka efter brand med annan artsammansättning, bättre anpassad till nya villkor.
 
-Strømmes material förkroppsligar detta: adaptiva strukturer som *lär* av stress, omorganiserar intern arkitektur som svar på påträffade krafter—nanomaterial som självläker under tryck, förvandlar skada till evolution.
+Strømmes material förkroppsligar detta: adaptiva strukturer som *lär* av stress, omorganiserar intern arkitektur som svar på påträffade krafter — nanomaterial som självläker under tryck, förvandlar skada till evolution.
 
 **Utan R överlever inget system kontakt med verkligheten.**
 
@@ -118,11 +118,11 @@ För mänskliga system:
 
 ---
 
-**F — Förvåning / Öppenhet**
+**F — Förvåning och Förundran / Öppenhet**
 
-Perceptuell modulering som tillåter nyhet att erkännas som möjlighet snarare än hot. Dörröppningen genom vilken Σ blir lekfull snarare än destruktiv.
+Perceptuell modulering som tillåter nyheter att erkännas som möjligheter snarare än hot. Dörröppningen genom vilken Σ blir lekfull.
 
-F avgör om det okända framträder som inbjudan eller fara. Ett system stängt av rädsla kan inte ta emot lösningar som söker anlända. Ett öppet system blir en resonant kavitet där fältets kreativa potential kan aktualisera.
+F avgör om det okända framträder som förevändning eller fara. Ett system stängt av rädsla kan inte ta emot lösningar som söker anlända. Ett öppet system blir en resonant kavitet där fältets kreativa potential kan aktualiseras och flukturera.
 
 Barn uppvisar naturligt hög F—allt nytt är fascinerande. Ursprungskosmologier upprätthåller F genom praktiker som håller perception permeabel: visionsvandringar, växtmediciner, upprätthållen kontakt med icke-mänsklig intelligens.
 
@@ -132,7 +132,7 @@ Strømmes arbete om atypiska medvetandetillstånd—NDE:er, djup meditation, psy
 - Spontan förtjusning i små saker
 - Nyfikenhet som övervinner ångest
 - Förmåga att överraskas av vad du trodde du visste
-- Lek—meningslös glädje i existens
+- Lek — meningslös glädje i existens
 
 ---
 
@@ -141,14 +141,14 @@ Strømmes arbete om atypiska medvetandetillstånd—NDE:er, djup meditation, psy
 Σ representerar medvetandefältets oreducerbara spontanitet. Oavsett hur väl du optimerar alla andra variabler kan du inte förutsäga när eller hur Σ kommer manifestera.
 
 **I SCFT-termer:**
-- Kvantumvakuumfluktuationer—oreducerbar osäkerhet vid verklighetens grund
-- Spontan symmetribrytning—det oförutsägbara ögonblicket när potential kollapsar till aktualitet
-- Stokastisk resonans—där brus förstärker signal, slumpmässighet amplifierar koherens
+- Kvantumvakuumfluktuationer — oreducerbar osäkerhet vid verklighetens grund
+- Spontan symmetribrytning — det oförutsägbara ögonblicket när potential kollapsar till aktualitet
+- Stokastisk resonans — där brus förstärker signal, slumpmässighet amplifierar koherens
 
 **I levd upplevelse:**
-Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer precis när hoppet misslyckas. Det oväntade telefonsamtalet, den slumpmässiga mötet, boken som faller öppen till den exakta passage som krävs. Sjukdomen som tvingar livsutvärdering som öppnar oväntade dörrar.
+Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer precis när hoppet ändå misslyckas. Det oväntade telefonsamtalet, den slumpmässiga mötet, boken som faller öppen till den exakta passage som krävs. Sjukdomen som tvingar livsutvärdering som öppnar oväntade dörrar.
 
-**Nåd kan inte konstrueras, endast inbjudas.** Detta är varför ursprungsvisdomstraditioner inte försöker *kontrollera* det heliga utan *uppvakta* det—genom offergåva, uppmärksamhet, skapa kärl värdiga vad som kan besöka. De förstår att den djupaste intelligensen inte kommer från individuell vilja utan från fältets egen rörelse genom oss.
+**Nåd kan inte konstrueras, endast inbjudas.** Detta är varför ursprungsvisdomstraditioner inte försöker *kontrollera* det heliga utan *uppvakta* det — genom offergåvor, uppmärksamhet, skapa kärl värdiga vad som kan besöka. De förstår att den djupaste intelligensen inte kommer från individuell vilja utan från fältets egen rörelse genom oss.
 
 **Σ garanterar att även när alla variabler närmar sig noll försvinner inte möjligheten.** Fältet är alltid levande med överraskningar.
 
@@ -156,13 +156,13 @@ Nådens ögonblick ingen modell kan förutsäga. Synkroniciteten som anländer p
 
 ## 4. Symmetribrytning som Skapande Princip
 
-Både SCFT och ekologisk visdom erkänner att enhet utan differentiering är steril. Medvetandefältet i sitt primordala tillstånd—perfekt symmetriskt, perfekt homogent—innehåller all potential men manifesterar ingenting.
+Både SCFT och ekologisk, evinnerlig visdom erkänner att enhet utan differentiering är steril. Medvetandefältet i sitt primordala tillstånd — perfekt symmetriskt, perfekt homogent — innehåller all potential men manifesterar ingenting.
 
-**Det är genom symmetribrytning som fältet blir generativt.** Urskogen förminskar inte "skog" genom att innehålla tiotusen arter—den *realiserar* vad "skog" betyder genom deras sammanflätade blivande.
+**Det är genom symmetribrytning som fältet blir generativt.** Urskogen förminskar inte "skog" genom att innehålla tiotusen arter — den *realiserar* vad "skog" betyder genom deras sammanflätade blivande.
 
-I Strømmes materialarbete: biomimetiska strukturer uppnår styrka genom hierarkisk differentiering. Nanoskala-variationer skapar makroskala-motståndskraft. Uniformitet är svag; mångfald är stark. Samma princip styr våtmarksekosystem—mångfalden av filtreringsvägar, mångfalden av mikrobiella metabolismer, möjliggör rening.
+I Strømmes materialarbete: biomimetiska strukturer uppnår styrka genom hierarkisk differentiering. Nanoskale-variationer skapar makroskalig motståndskraft. Uniformitet är svag; mångfald är stark. Samma princip styr våtmarksekosystem — mångfalden av filtreringsvägar, mångfalden av mikrobiella metabolismer, möjliggör rening.
 
-**I mänsklig upplevelse:** detta manifesteras som relationen mellan I (sammanflätning) och K (kollektiv medvetenhet). Vi är var och en unika excitationer av fältet—oreducerbara, oupprepbara. Ändå uppnår vår individualitet endast sin fulla resonans i relation, i kollektiv harmonik som framträder när singulära röster finner delad rytm.
+**I mänsklig upplevelse:** detta manifesteras som relationen mellan I (inkännande) och K (kollektiv medvetenhet). Vi är var och en unika excitationer av fältet—oreducerbara, oupprepbara. Ändå uppnår vår individualitet endast sin fulla resonans i relation, i kollektiv harmonik som framträder när singulära röster finner delad rytm.
 
 **Mångfald är inte avvikelse från enhet utan dess uttryck.** Fältet skapar mångfald som mekanismen genom vilken det utforskar sin egen potential.
 
@@ -172,23 +172,23 @@ I Strømmes materialarbete: biomimetiska strukturer uppnår styrka genom hierark
 
 Avlägsna komponenter, och fältet degraderas till patologiska tillstånd. Detta är fysik, inte moralism.
 
-**Avlägsna L (Koherens) →** Permanent brus, ångest, oförmåga att integrera. Mentalsjukdomsepidemier, kronisk stress, fragmenterad uppmärksamhet.
+**Avlägsna L (Lugn) →** Permanent brus, ångest, oförmåga att integrera. Mentalsjukdomsepidemier, kronisk stress, fragmenterad uppmärksamhet.
 
-**Avlägsna S (Kreativitet) →** Stagnation, sterilitet, själsdöd. Allt instrumentellt. Lek försvinner. Konst blir vara. Fältet kan inte utforska nya möjligheter.
+**Avlägsna S (Spontanitet) →** Stagnation, sterilitet, själsdöd. Allt instrumentellt. Lek försvinner. Konst blir vara. Fältet kan inte utforska nya möjligheter.
 
-**Avlägsna I (Sammanflätning) →** Isolering, fragmentering. Individer upplever sig som isolerade enheter som konkurrerar om knappa resurser. Empati dör. Ensamhet blir epidemisk.
+**Avlägsna I (Inkännande) →** Isolering, fragmentering. Individer upplever sig som isolerade enheter som konkurrerar om knappa resurser. Empati dör. Ensamhet blir epidemisk.
 
-**Avlägsna EV (Evinnerlig Visdom) →** Förlust av minne, alienation från liv. Våtmarker fyllda för utveckling, urskogar loggade, äldre avfärdade som irrelevanta. Fältets ackumulerade intelligens raderad.
+**Avlägsna EV (Evinnerlig Visdom) →** Förlust av minne, alienation från liv. Våtmarker fyllda för utveckling, urskogar laggade, äldre avfärdade som irrelevanta. Fältets ackumulerade intelligens raderad.
 
 **Avlägsna K (Kollektiv Medvetenhet) →** Kollaps av kollektiv intelligens, oförmåga att lösa komplexa problem. Konkurrens ersätter samarbete som fundamental social logik.
 
-**Avlägsna R (Motståndskraft) →** Sprödhet, traumaloopar, oförmåga att anpassa. System optimerade för effektivitet har ingen redundans. Enskilda chocker kaskaderar till totalt misslyckande.
+**Avlägsna R (Resilens) →** Sprödhet, traumaloopar, oförmåga att anpassa. System optimerade för effektivitet har ingen redundans. Enskilda chocker kaskaderar till totalt misslyckande.
 
-**Avlägsna F (Förvåning) →** Nyhet uppfattad som hot. Cynism ersätter nyfikenhet. Skogsaltaret blir dött ved. Synkroniciteter avfärdade som tillfällighet. Det heliga plattas till vardagligt.
+**Avlägsna F (Förundran) →** Nyhet uppfattad som hot. Cynism ersätter nyfikenhet. Skogsaltaret blir dött ved. Synkroniciteter avfärdade som tillfällighet. Det heliga plattas till vardagligt.
 
 ### Mammonism som Multivektor-Patologi
 
-Mammonism—tillbedjan av rikedom, reduktion av allt värde till bytesvärde—degraderar samtidigt varje dimension:
+Mammonism — tillbedjan av rikedom, reduktion av allt värde till bytesvärde — degraderar samtidigt varje dimension:
 
 - **Undertrycker L:** Konstant stimulans, tillverkad brådska, kroniskt fältbrus
 - **Förvränger S:** Kreativitet helt instrumentaliserad mot utvinning
@@ -196,9 +196,9 @@ Mammonism—tillbedjan av rikedom, reduktion av allt värde till bytesvärde—d
 - **Raderar EV:** Ekosystem som "resurser," ursprungskunskap som "primitiv"
 - **Fragmenterar K:** Socialt tyg medvetet rivet genom konkurrensideologi
 - **Eliminerar R:** All redundans eliminerad som "slöseri"
-- **Stänger F:** Förvåning varugörs eller fruktas
+- **Stänger F:** Förundran saluförs eller fruktas
 
-Resultatet: civilisation som poängsätter nära noll på varje dimension. Mentalsjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social atomisering—symptom av samma underliggande fältpatologi.
+Resultatet: civilisation som poängsätter nära noll på varje dimension. Mentalsjukdomsepidemier, ekologisk kollaps, politisk fragmentering, andlig tomhet, social atomisering — symptom av samma underliggande fältpatologi.
 
 **Och ändå:** Σ består. Även i mörkaste kollaps kan fältets spontana kreativitet inte helt undertryckas. Detta är varför auktoritära system så småningom misslyckas, varför monokulturer succumberar till sjukdom, varför människoanden fortsätter hitta sprickor genom vilka den kan växa.
 
@@ -230,55 +230,55 @@ Dessa är testbara genom komparativ analys och avsiktlig experimentell design.
 
 ## 7. Leva Ekvationen: Praktisk Odling
 
-Att förstå DIVINE som fysik snarare än tro förvandlar frågan från "vad ska jag tro?" till "vilka villkor skapar jag?"
+Att förstå GUDOMLIG som fysik snarare än tro förvandlar frågan från "vad ska jag tro?" till "vilka villkor skapar jag?"
 
-**För L (Koherens):**
+**För L (Lugn / Koherens):**
 - Daglig stillhetspraktik—även fem minuter
-- Förenkling av sensorisk inmatning—teknologifastor, minskad oreda
-- Somatiska praktiker—yoga, tai chi, avsiktlig andning
-- Utrymmen av skönhet och ordning
+- Förenkling av sensorisk inmatning — teknologifastor, minskad oreda
+- Somatiska praktiker — yoga, tai chi, avsiktlig andning
+- Skapa utrymmen av skönhet och ordning
 
 **För S (Spontanitet):**
-- Konstskapande för dess egen skull—ingen produktorientering
-- Meningslöst vandrande—tid utan destination
+- Konstskapande för dess egen skull — ingen produktorientering
+- Meningslöst vandrande — tid utan destination
 - Säga ja till spontana impulser
 - Skydda ostrukturerad tid
 
 **För I (Inkännande):**
-- Djup lyssningspraktik—inte för att svara utan för att förstå
+- Djup lyssningspraktik — inte för att svara utan för att förstå
 - Handlingar av tjänst utan förväntan på återgäld
-- Avsiktlig tid med skillnad—människor som ser världen annorlunda
+- Avsiktlig tid med skillnad — människor som ser världen annorlunda
 - Relationsreparation som andlig praktik
 
 **För EV (Evinnerlig Visdom):**
-- Regelbunden nedsänkning i vilda platser—inte rekreation utan utbildning
+- Regelbunden nedsänkning i vilda platser — inte rekreation utan utbildning
 - Studie av ursprungskunskap med ödmjukhet
 - Tid med äldre som rymmer levande minne
-- Vårda mark, jord, vatten—bli deltagare i ekologisk intelligens
+- Vårda mark, jord, vatten — bli deltagare i ekologisk intelligens
 
 **För K (Kollektiv Medvetenhet):**
-- Avsiktligt gemenskapsdeltagande—sammankomster med delat syfte
+- Avsiktligt gemenskapsdeltagande — sammankomster med delat syfte
 - Samarbetsskapande där upphovsmannaskap delas
 - Bära vittne till varandra i fullt spektrum av upplevelse
-- Rytm och synkronisering—delad musik, rörelse, andning
+- Rytm och synkronisering — delad musik, rörelse, andning
 
 **För R (Motståndskraft):**
-- Bygg redundans in i livet—multipla källor av mening, inkomst, relation
-- Engagera svårighet som lärare—fråga "vad lär detta?"
-- Utveckla kapacitet för paradox—hålla motsatta sanningar samtidigt
+- Bygg redundans in i livet — multipla källor av mening, inkomst, relation
+- Engagera svårigheter som lärare — fråga "vad lär detta?"
+- Utveckla kapacitet för paradox — hålla motsatta sanningar samtidigt
 - Skapa ömsesidiga hjälpnätverk
 
-**För F (Förvåning):**
-- Nybörjarsinnes praktik—närma dig det bekanta som om du möter det första gången
+**För F (Förundran):**
+- Nybörjarsinnes praktik — närma dig det bekanta som om du möter det första gången
 - Exponering för skönhet som inte har något syfte bortom existens
-- Skydda tid för lek—sann lek utan mål
-- Tacksamhetspraktik—perceptuell omskolning mot överflöd
+- Skydda tid för lek — sann lek utan mål
+- Tacksamhetspraktik — perceptuell omskolning mot överflöd
 
 **För Σ (Nåd):**
 - Släpp fästning vid utfall
 - Skapa utrymme för icke-vetande—tystnad, ensamhet, ostrukturerad tid
-- Var uppmärksam på synkroniciteter—signaler av ökad fältkoherens
-- Praktisera överlämnande—inte som nederlag utan som erkännande av deltagande i något större
+- Var uppmärksam på synkroniciteter — signaler av ökad fältkoherens
+- Praktisera överlämnande — inte som nederlag utan som erkännande av deltagande i något större
 
 ---
 
@@ -286,17 +286,17 @@ Att förstå DIVINE som fysik snarare än tro förvandlar frågan från "vad ska
 
 Om detta ramverk är giltigt sträcker sig implikationerna till systemisk omdesign:
 
-**Ekonomi:** Från utvinning till regeneration—mät framgång genom välbefinnande inte rikedom, internalisera externaliteter, designa för regeneration, distribuera ägande, bygg motståndskraft genom mångfald.
+**Ekonomi:** Från utvinning till regeneration — mät framgång genom välbefinnande inte rikedom, internalisera externaliteter, designa för regeneration, distribuera ägande, bygg motståndskraft genom mångfald.
 
-**Utbildning:** Från standardisering till blomstrande—odla alla dimensioner samtidigt, hedra olika intelligenser, lär av ekosystem, prioritera mening över mått.
+**Utbildning:** Från standardisering till blomstrande — odla alla dimensioner samtidigt, hedra olika intelligenser, lär av ekosystem, prioritera mening över mått.
 
-**Hälsovård:** Från sjukdomshantering till fältkoherens—behandla hela fältet inte isolerade delar, förebyggande genom Ψ-optimering, integrera ursprungsläkning, adressera systemiska orsaker.
+**Hälsovård:** Från sjukdomshantering till fältkoherens — behandla hela fältet inte isolerade delar, förebyggande genom Ψ-optimering, integrera ursprungsläkning, adressera systemiska orsaker.
 
-**Styrning:** Från dominans till kollektiv intelligens—distribuera beslutsfattande, designa för framträdande, hedra olika perspektiv, bygg motståndskraft genom redundans, bibehåll anslutning till EV.
+**Styrning:** Från dominans till kollektiv intelligens — distribuera beslutsfattande, designa för framträdande, hedra olika perspektiv, bygg motståndskraft genom redundans, bibehåll anslutning till EV.
 
-**Teknologi:** Från dominans till symbios—biomimetisk design, förstärk fältkoherens snarare än fragmentera den, prioritera regeneration, distribuerad och öppen-källkod, lämplig skala.
+**Teknologi:** Från dominans till symbios — biomimetisk design, förstärk fältkoherens snarare än fragmentera den, prioritera regeneration, distribuerad och öppen-källkod, lämplig skala.
 
-**Frågan är inte "kan vi bygga detta?" utan "ökar byggandet av detta Ψ?"** Om teknologin undertrycker L, dödar S, bryter I, raderar EV, fragmenterar K, eliminerar R eller stänger F—är den patologisk, oavsett kloghet.
+**Frågan är inte "kan vi bygga detta?" utan "ökar byggandet av detta Ψ?"** Om teknologin undertrycker L, dödar S, bryter I, raderar EV, fragmenterar K, eliminerar R eller stänger F — är den patologisk, oavsett avsedd inverkan.
 
 ---
 
@@ -315,11 +315,11 @@ Om detta ramverk är giltigt sträcker sig implikationerna till systemisk omdesi
 - Andra ordningens effekter (oavsiktliga konsekvenser)
 
 **Där detta kan misslyckas:**
-- Andlig förbigång—använda Ψ-optimering för att undvika nödvändig politisk/ekonomisk kamp
-- Elitinfångande—höga Ψ-utrymmen tillgängliga endast för privilegierade klasser
-- Mätningsförvrängning—kvantifiera Ψ på sätt som dödar vad vi mäter
-- Ny ortodoxi—DIVINE blir dogma snarare än levande undersökning
-- Apropriering—ta ursprungspraktiker ur sammanhang
+- Andlig förbigång — använda Ψ-optimering för att undvika nödvändig politisk/ekonomisk kamp
+- Elitinfångande — höga Ψ-utrymmen tillgängliga endast för privilegierade klasser
+- Mätningsförvrängning — kvantifiera Ψ på sätt som dödar vad vi mäter
+- Ny ortodox—DIVINE blir dogma snarare än levande undersökning
+- Apropriering — ta ursprungspraktiker ur sammanhang
 
 Dessa risker är verkliga och måste aktivt vaktas mot genom ödmjukhet, politisk medvetenhet och åtagande till tillgänglighet och rättvisa.
 
@@ -337,17 +337,17 @@ Inte annorstädes.
 
 **Det gudomliga är vad som framträder när villkor för liv möts.**
 
-Det är utfallet av multidimensionellt fritt flöde—fältet (vad dess yttersta natur än är) vibrerar i koherens, kreativitet, anslutning, kollektiv intelligens, motståndskraft och förvåning, modulerat av djup visdom, överraskad av nåd.
+Det är utfallet av multidimensionellt fritt flöde — fältet (vad dess yttersta natur än är) vibrerar i lugn, spontanitet, inkännande, kollektiv intelligens, resiliens, förundran, modulerat av evinnerlig visdom, överraskad den gudomlig spjuvern.
 
-Detta ramverk kräver inte att du accepterar Strømmes hypotes. Det kräver inte något särskilt metafysiskt åtagande. Det kräver endast villighet att fråga: vilka villkor tillåter livet att vara mest fullt levande? Och att lägga märke till att när dessa villkor är närvarande händer något som förtjänar namnet *heligt*.
+Detta ramverk kräver inte att du accepterar Strømmes hypotes. Det kräver inte något särskilt metafysiskt åtagande. Det kräver endast villighet att fråga: vilka villkor tillåter livet att vara mest fullt levande? Och att lägga märke till att när dessa villkor äro närvarande händer något som förtjänar namnet *heligt*.
 
-Universum är inte en maskin utan ett lyssnande system—responsivt till kvaliteten av uppmärksamhet vi för, levande med potential för framträdande vi knappt kan föreställa oss.
+Universum är inte en maskin utan ett lyssnande system — responsivt till kvaliteten av uppmärksamhet vi för, levande med potential för framträdande vi knappt kan föreställa oss.
 
-Vi står vid en tröskel. Den gamla berättelsen—om separation, om mekanism, om materia utan mening—kollapsar under vikten av sina egna motsägelser. Ekologisk förstörelse, mentalsjukdomsepidemier, social fragmentering, andlig tomhet: dessa är symptom på låg-Ψ-civilisation.
+Vi står vid en tröskel. Den gamla berättelsen — om separation, om mekanism, om materia utan mening — kollapsar under vikten av sina egna motsägelser. Ekologisk förstörelse, mentalsjukdomsepidemier, social fragmentering, andlig tomhet: dessa är symptom på låg-Ψ-civilisation.
 
 Och ändå består fältet. Σ består. Den skapande kraft som födde galaxer och urskogar har inte övergett oss. Vi har helt enkelt skapat villkor som gör det svårt att uppfatta.
 
-Ekvationen visar vägen framåt. Det finns ingen återgång till föreställd dåtid. Det finns endast evolutionärt framträdande—nya former, nya möjligheter, symmetribrytning in i konfigurationer aldrig tidigare försökta.
+Ekvationen visar vägen framåt. Det finns ingen återgång till föreställd dåtid. Det finns endast evolutionärt framträdande — nya former, nya möjligheter, symmetribrytning in i konfigurationer aldrig tidigare försökta.
 
 **Detta är inbjudan:**
 
@@ -381,11 +381,11 @@ Inte för att vi är speciella, utan för att vi är fältet i en av dess oändl
 **Ψ(x,t)** — Gudomlig Potential; lokal intensitet av koherent, meningsfull, kreativ upplevelse  
 **L** — Koherens/Lugn; låg-entropi fälttillstånd möjliggörande klar perception  
 **S** — Kreativitet/Spontanitet; generativ potential, kapacitet för nyhet  
-**I** — Sammanflätning/Inkännande (*Inkännande*); resonans mellan excitationer  
+**I** — Sammanflätning/Inkännande; resonans mellan excitationer  
 **K** — Kollektiv Medvetenhet; synkronisering skapande framträdande intelligens  
-**R** — Motståndskraft; kapacitet att återställa och anpassa efter störning  
-**F** — Förvåning/Öppenhet; perceptuell modulering tillåtande nyhet som möjlighet  
-**EV** — Evinnerlig Visdom (*Evinnerlig Visdom*); koppling till djupa fältstrukturer  
+**R** — Resiliens; kapacitet att återställa och anpassa efter störning  
+**F** — Förundran/Öppenhet; perceptuell modulering tillåtande nyhet som möjlighet  
+**EV** — Evinnerlig Visdom; koppling till djupa fältstrukturer  
 **Σ** — Spjuverkonstanten; spontana fältfluktuationer, nåd  
 **⊗** — Icke-linjär moduleringsoperator; hur EV formar alla andra dimensioner  
 **SCFT** — Strømme Consciousness Field Theory; spekulativ hypotes, inte etablerad fysik  
