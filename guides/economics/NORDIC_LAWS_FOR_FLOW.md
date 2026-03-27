@@ -599,3 +599,41 @@ Building Flow in the Nordics means:
 ---
 
 **This appendix will be updated as Flow Nodes in the Nordics generate practical experience.**
+
+---
+
+```
+flowchart TD
+    A[Start: Intresse för Flow Node i Sverige] --> B[Steg 1: Formera juridisk struktur]
+    B --> B1[Ekonomisk förening för land och kontrakt]
+    B --> B2[Ideell förening för icke-kommersiella aktiviteter]
+    B1 --> C[Steg 2: Undersök land och zonering]
+    B2 --> C
+    C --> C1[Kontakta lantmätare & bygglovshandläggare]
+    C --> C2[Undersök detaljplan / områdesbestämmelser]
+    C --> C3[Välj befintlig gård om möjligt]
+    C1 --> D[Steg 3: Ansök bygglov och tillstånd]
+    C2 --> D
+    C3 --> D
+    D --> D1[Nya byggnader eller ändrad användning kräver bygglov]
+    D --> D2[Attefallshus och små komplementbyggnader kan kräva anmälan]
+    D --> D3[Se Boverkets byggregler (BBR)]
+    D1 --> E[Steg 4: Infrastruktur och energi]
+    D2 --> E
+    D3 --> E
+    E --> E1[Vatten och avlopp: anslutningsavtal eller tillstånd]
+    E --> E2[Energi: solceller, elnät, alternativ energi]
+    E1 --> F[Steg 5: Sociala förmåner och barn]
+    E2 --> F
+    F --> F1[Skolplikt: barn i kommunal skola eller friskola]
+    F --> F2[Se till att medlemmar med bidrag följer regler]
+    F --> G[Steg 6: Gradualism & relation med kommunen]
+    G --> G1[Information & mjuk introduktion före köp]
+    G --> G2[Transparens i möten med kommunen]
+    G1 --> H[Steg 7: Inflytt & drift]
+    G2 --> H
+    H --> H1[Delvis flytt-in, fortsatt bygg & infrastruktur]
+    H --> H2[Löpande kommunikation & dokumentation]
+    H1 --> I[Slut: Funktionsduglig Flow Node i juridisk ordning]
+    H2 --> I
+```
