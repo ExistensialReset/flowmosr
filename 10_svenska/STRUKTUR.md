@@ -66,7 +66,7 @@ FLÖDET expanderar och konsolideras via **spiralloopar**:
 
 1. **Mikrocirkel-Initiering (0–2 år):** Små grupper (3–12 deltagare) testar resursdelning, konfliktprotokoll och förtroendemekanismer.  
 2. **Nodstabilisering (2–5 år):** Medelstora noder (20–60 deltagare) implementerar styrning, lagefterlevnad och redundans.  
-3. **Nodreplikering (5–10 år):** Oberoende noder duplicerar protokoll autonomt; mönstertrohet testas.  
+3. **Nodreplikering (5–10 år):** Oberoende noder duplicerar protokoll autonomt. 
 4. **Nätverkad Federation (10–20 år):** Regionala nätverk koordinerar resurser och kunskap utan central auktoritet.  
 5. **Kulturell Adoption (20+ år):** Protokoll diffunderar globalt, oberoende av grundare, och anpassar sig till lokala politiska verkligheter.  
 
@@ -78,7 +78,7 @@ FLÖDET expanderar och konsolideras via **spiralloopar**:
 
 **Dokumentation är väsentlig**:
 
-- Varje fas måste producera **överförbar, kontextneutral dokumentation**.  
+- Varje fas måste producera **överförbar, neutral dokumentation**.  
 - Protokoll måste **förutse grundares frånvaro**.  
 - Kunskapsöverföring inkluderar skriftliga, muntliga och digitala medier lämpliga för olika läskunnighets- och teknologiska sammanhang.  
 
@@ -89,7 +89,7 @@ FLÖDET expanderar och konsolideras via **spiralloopar**:
 ## 5. GLOBALA FRAMGÅNGSMÅTT
 
 **Mät aldrig:**
-- Individuellt värde, emotionell konformitet, ideologisk efterlevnad, social hierarki eller produktivitetstempo.  
+- Individuellt värde, emotionell form, ideologisk efterlevnad, social hierarki eller produktivitetstempo.  
 
 **Mät alltid:**
 - Resursregeneration, baslinjesäkerhet, förtroendestabilitet, rollredundans, konfliktlösningseffektivitet, energihållbarhet och dokumentationskvalitet.  
@@ -118,7 +118,7 @@ FLÖDET är robust endast om potentiella misslyckanden förstås:
 
 **Valideringsfrågor för Lokal Anpassning:**
 1. Är kärnprinciperna intakta?  
-2. Är grundnivåsäkerhet säkerställd?  
+2. Är baslinjen säkerställd?  
 3. Kan deltagare lämna fritt?  
 4. Finns det inget permanent ledarskap?  
 5. Metaboliseras konflikter effektivt?  
