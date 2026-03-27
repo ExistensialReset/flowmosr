@@ -1,4 +1,4 @@
-# AXIOM.md
+# GRÄNSER.md
 
 **De Oförhandlingsbara Lagarna om Suveränitet**
 
