@@ -1,40 +1,51 @@
-// Dynamiskt läs in alla Markdown-filer i repo och skapa navigation
+// Dynamiskt hämta och rendera alla Markdown-filer från ditt repo
 async function init() {
   const nav = document.getElementById("nav");
   const content = document.getElementById("content");
 
-  // Dynamiskt generera lista med alla .md-filer
-  // Här använder vi en "index.json" som listar alla Markdown-filer (automatiskt uppdaterad)
-  const response = await fetch("index.json");
-  const files = await response.json();
+  const owner = "ExistensialReset";
+  const repo = "flowmosr";
+  const branch = "main"; // eller gh-pages om du använder det
 
-  files.forEach(file => {
+  // Hämta alla filer från repo via GitHub API
+  const url = `https://api.github.com/repos/${owner}/${repo}/git/trees/${branch}?recursive=1`;
+  const response = await fetch(url);
+  const data = await response.json();
+
+  // Filtrera ut alla Markdown-filer
+  const mdFiles = data.tree.filter(f => f.path.endsWith(".md"));
+
+  mdFiles.forEach(file => {
     const li = document.createElement("li");
     const a = document.createElement("a");
     a.href = "#";
-    a.textContent = file.title;
+    a.textContent = file.path.replace(/.*\//, '').replace('.md', '');
     a.dataset.md = file.path;
+
     a.addEventListener("click", async (e) => {
       e.preventDefault();
-      const mdResponse = await fetch(file.path);
+      const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${file.path}`;
+      const mdResponse = await fetch(rawUrl);
       const mdText = await mdResponse.text();
       content.innerHTML = renderMarkdown(mdText);
+      window.scrollTo(0,0);
     });
+
     li.appendChild(a);
     nav.appendChild(li);
   });
 }
 
-// Enkel Markdown → HTML funktion
+// Enkel Markdown → HTML
 function renderMarkdown(md) {
-  let html = md
+  return md
     .replace(/^### (.*$)/gim, '<h3>$1</h3>')
     .replace(/^## (.*$)/gim, '<h2>$1</h2>')
     .replace(/^# (.*$)/gim, '<h1>$1</h1>')
     .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
     .replace(/\*(.*)\*/gim, '<em>$1</em>')
+    .replace(/`(.*)`/gim, '<code>$1</code>')
     .replace(/\n$/gim, '<br>');
-  return html;
 }
 
 init();
