@@ -1,36 +1,180 @@
+/* -------------------------------
+   Flow / M-OS-R Theme CSS
+---------------------------------*/
+
+/* --- Global --- */
 body {
-  font-family: sans-serif;
-  background-color: #f0f9ff;
-  color: #0a3d62;
-  margin: 2em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  margin: 0; padding: 0;
+  background-color: #fdfdfd;
+  color: #1a1a1a;
+  line-height: 1.6;
 }
 
-h1, h2, h3 {
-  color: #0d6efd;
+a {
+  color: #0077b6;
+  text-decoration: none;
 }
 
-nav ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1em;
+a:hover {
+  color: #023e8a;
+  text-decoration: underline;
+}
+
+header {
+  background-color: #0077b6;
+  color: white;
+  padding: 1.2em 1em;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+nav {
+  background-color: #023e8a;
+  color: white;
+  padding: 1em;
+  height: 100vh;
+  overflow-y: auto;
+  width: 250px;
 }
 
 nav a {
-  text-decoration: none;
-  color: #0d6efd;
-  font-weight: bold;
-  padding: 0.3em 0.6em;
-  border-radius: 4px;
-  transition: background-color 0.2s;
+  color: #caf0f8;
+  display: block;
+  margin: 0.3em 0;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
 }
 
 nav a:hover {
-  background-color: #cce5ff;
+  background-color: #0077b6;
+  color: #fff;
 }
 
-#content {
-  margin-top: 2em;
-  line-height: 1.6;
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 1.5em;
+}
+
+/* --- Headings --- */
+h1, h2, h3, h4, h5, h6 {
+  color: #0077b6;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+/* --- Paragraphs --- */
+p {
+  margin: 0.8em 0;
+}
+
+/* --- Blockquotes --- */
+blockquote {
+  border-left: 4px solid #0077b6;
+  padding-left: 1em;
+  color: #023e8a;
+  font-style: italic;
+  background: #e0f7fa;
+  margin: 1em 0;
+}
+
+/* --- Code --- */
+code {
+  background: #e0e0e0;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-family: monospace;
+}
+
+pre {
+  background: #e0e0e0;
+  padding: 1em;
+  overflow-x: auto;
+  border-radius: 4px;
+}
+
+/* --- Lists --- */
+ul, ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+/* --- Emojis & callouts --- */
+.callout {
+  padding: 1em;
+  margin: 1em 0;
+  border-radius: 6px;
+  background-color: #caf0f8;
+  border-left: 6px solid #0077b6;
+}
+
+.callout-warning {
+  background-color: #ffddd2;
+  border-left: 6px solid #ef233c;
+}
+
+.callout-success {
+  background-color: #d8f3dc;
+  border-left: 6px solid #40916c;
+}
+
+/* --- Tables --- */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+table th, table td {
+  border: 1px solid #0077b6;
+  padding: 0.5em 1em;
+}
+
+table th {
+  background-color: #0077b6;
+  color: #fff;
+}
+
+/* --- Images --- */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* --- Responsive Flex --- */
+body > div {
+  display: flex;
+  flex-direction: row;
+}
+
+@media (max-width: 800px) {
+  nav {
+    width: 100%;
+    height: auto;
+  }
+  body > div {
+    flex-direction: column;
+  }
+}
+
+/* --- Footer / small print --- */
+footer {
+  text-align: center;
+  padding: 1em;
+  font-size: 0.85em;
+  color: #555;
 }
