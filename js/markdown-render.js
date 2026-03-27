@@ -1,18 +1,15 @@
-// Dynamiskt hämta och rendera alla Markdown-filer från ditt repo
 async function init() {
   const nav = document.getElementById("nav");
   const content = document.getElementById("content");
 
   const owner = "ExistensialReset";
   const repo = "flowmosr";
-  const branch = "main"; // eller gh-pages om du använder det
+  const branch = "main";
 
-  // Hämta alla filer från repo via GitHub API
   const url = `https://api.github.com/repos/${owner}/${repo}/git/trees/${branch}?recursive=1`;
   const response = await fetch(url);
   const data = await response.json();
 
-  // Filtrera ut alla Markdown-filer
   const mdFiles = data.tree.filter(f => f.path.endsWith(".md"));
 
   mdFiles.forEach(file => {
@@ -34,18 +31,13 @@ async function init() {
     li.appendChild(a);
     nav.appendChild(li);
   });
-}
 
-// Enkel Markdown → HTML
-function renderMarkdown(md) {
-  return md
-    .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-    .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-    .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-    .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
-    .replace(/\*(.*)\*/gim, '<em>$1</em>')
-    .replace(/`(.*)`/gim, '<code>$1</code>')
-    .replace(/\n$/gim, '<br>');
+  // ✅ Ladda README.md automatiskt på startsidan
+  const readme = mdFiles.find(f => f.path.toLowerCase().endsWith("readme.md"));
+  if (readme) {
+    const rawUrl = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${readme.path}`;
+    const mdResponse = await fetch(rawUrl);
+    const mdText = await mdResponse.text();
+    content.innerHTML = renderMarkdown(mdText);
+  }
 }
-
-init();
