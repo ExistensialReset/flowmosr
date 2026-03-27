@@ -16,8 +16,7 @@ async function init() {
 
     a.addEventListener("click", async (e) => {
       e.preventDefault();
-      const rawUrl = file.path; // redan lokal
-      const mdResponse = await fetch(rawUrl);
+      const mdResponse = await fetch(file.path);
       const mdText = await mdResponse.text();
       content.innerHTML = renderMarkdown(mdText);
       window.scrollTo(0,0);
@@ -36,7 +35,7 @@ async function init() {
   }
 }
 
-// Markdown → HTML
+// Enkel Markdown → HTML
 function renderMarkdown(md) {
   return md
     .replace(/^### (.*$)/gim, '<h3>$1</h3>')
