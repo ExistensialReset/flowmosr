@@ -1,258 +1,150 @@
-#  M-OS-R / Flow / Existential Reset 🌍
-## A Complete Operating System for Human Flourishing
+# 🌊 Flow / M-OS-R
+## A different way of living is possible
 
-[![Living Doc](https://img.shields.io/badge/Living-Document-blue)](./)
-[![Feedback Welcome](https://img.shields.io/badge/Feedback-Welcome-orange)](https://github.com/your-repo/issues)
+You don’t need to optimize your life.
 
----
+You need to remove what is blocking it.
 
-## ⚡ Quick Navigation
-- [Skeptic Mode](#start-here-if-youre-skeptical)  
-- [Try It – 24h Experiment](#try-it-24h-experiment)  
-- [The Core Problem](#the-core-problem)  
-- [The Flow Solution](#the-flow-solution)  
-- [Does It Actually Work?](#does-it-actually-work-conservative-2026-modeling)  
-- [Built Different](#built-different)  
-- [Start Here](#start-here)  
-- [Repair & Reflection](#repair--reflection)  
+Flow is not a theory.  
+It is something you can feel — quietly — when nothing is demanding anything from you.
+
+No permission needed.  
+Start small.
 
 ---
 
-## ⚠️ Start Here If You’re Skeptical
+## ⚡ Try it (24h experiment)
 
-> **Skeptic Mode is your safety net**  
-> Check assumptions, failure modes, and mitigation strategies before building, testing, or committing.  
-> See: `./sceptic_mode/`
+You don’t need land, money, or a plan.
 
-- 💡 **[Assumptions](./sceptic_mode/ASSUMPTIONS.md)** – Core premises Flow relies on  
-- 💥 **[Failure Modes](./sceptic_mode/FAILURE_MODES.md)** – How the system can break  
-
-**Key idea:** Flow is designed to **fail visibly**, so it can evolve.
-
----
-
-## 💙 What is Flow?
-
-> **What if survival wasn't conditional?**  
-> What if we stopped wasting human potential on systems that don’t actually improve life?
-
-Flow is a **fully-specified alternative societal system** with:
-
-- ✅ Verified 2026 economic data (~$74/month vs ~$1,300 conventional living*)  
-- ✅ Complete governance protocols (LOTUS: anti-corruption by design)  
-- ✅ Trauma-informed architecture (Refugium Anima, nervous system first)  
-- ✅ Python simulators & cost calculators (engineering, not fantasy)  
-- ✅ Built over 7 months by human + 5 AI companions  
-
-> *Figures based on shared infrastructure, cooperation, and documented assumptions. See /data_validation.*
-
-**Not utopia. Not theory. Blueprints.**
-
----
-
-## ⚡ Try it (24h Experiment)
-
-> **No land, money, or permission needed**
+Try this:
 
 1. Gather 2–5 people  
 2. Share one meal (no transactions)  
-3. Ask: "What do we actually need to feel okay this week?"  
+3. Ask: *“What do we actually need to feel okay this week?”*  
 4. Distribute tasks voluntarily  
 5. Notice what changes  
 
-More ideas:  
-- [Flow Starter Guide](./guides/activation/FLOW_STARTER_GUIDE.md)  
-- [Flow Transition Field Card](./guides/economics/FLOW_TRANSITION_FIELD_CARD.md)  
-- [Transition Playbook](./guides/economics/TRANSITION_PLAYBOOK.md)  
+That’s it.
 
 ---
 
-## 🧭 Reading Order (System Core)
+## 🧭 Where are you right now?
 
-1. `/00_core` → Understand the vision
-2. `/01_principles` → What cannot be broken
-3. `/02_protocols` → How it actually works
-4. `/03_governance` → Decision systems
-5. `/04_simulation` → Stress tests & failure modes
+**Feeling something, not sure what this is?**  
+→ [`00_FLOW_CORE_ENTRY`](./core/00_FLOW_CORE_ENTRY.md)
 
----
+**Want to try this in your own life?**  
+→ [`FLOW_STARTER_GUIDE`](./guides/activation/FLOW_STARTER_GUIDE.md)
 
-## 🎯 The Core Problem
-
-Current system forces you to:
-
-- Exchange survival for submission (work or starve)  
-- Accept power concentration (elections = popularity contests)  
-- Pretend scarcity (food surplus = 65%, energy potential = 10x demand)  
-- Ignore nervous systems (no rest until you break)  
-
-**What if none of that was necessary?**
+**Want to build a real community (Node)?**  
+→ [`TRANSITION_PLAYBOOK`](./guides/economics/TRANSITION_PLAYBOOK.md)
 
 ---
 
-## 🌊 The Flow Solution
+## 🌊 What is Flow?
 
-**Baseline (Unconditional):**
+Flow is a way of living built on one simple shift:
 
-- Food, housing, healthcare, internet, energy  
-- [Lyceum Musaeum](./ethos/LYCEUM_MUSAEUM.md) – learning/creation without credentials  
-- [Refugium Anima](./ethos/REFUGIUM_ANIMA.md) – rest/recovery without diagnosis  
+> Survival is not something you earn.
 
-**[LOTUS Governance](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md) (Sortition = lottery, like jury duty)**  
+### Baseline (Unconditional)
+- Food, housing, healthcare, energy, connection  
+- [`Lyceum Musaeum`](./ethos/LYCEUM_MUSAEUM.md) — learning without hierarchy  
+- [`Refugium Anima`](./ethos/REFUGIUM_ANIMA.md) — rest without justification  
 
-**Formula:**  
-***Life*** = **Lugn** (Calm) × **Spontanitet** (Spontaneity) × **Inkännande** (Empathy)  
+### No coercion
+Nothing requires obedience. Participation is voluntary.
 
-> *If any factor = 0, quality of life collapses to 0*
+### Systems serve life
+If something harms people, animals, or Earth — the structure changes.
 
----
-
-## 🧪 Does It Actually Work? (Conservative 2026 Modeling)
-
-> **Important:** These are modeled outcomes under cooperative, optimized conditions, not promises.
-
-**Food Capacity:**  
-- Global production → ~13.5B people  
-- Current population → ~8.2B → ~60–65% structural surplus  
-- Sources: FAO 2025, World Resources Institute  
-
-**Energy:**  
-- Renewable potential 2.5–10x current demand  
-- Materially feasible regionally  
-- Source: IEA World Energy Outlook 2025  
-
-**Estimated Cost per Person (Modeled):**  
-- CAPEX: ~$11,579 (infrastructure)  
-- OPEX: ~$74/month (~90%+ reduction vs conventional)  
-
-**Labor Required:**  
-- ~24 hours/person/year ≈ 28 minutes/week  
-
-> Early phases require more effort; see Transition Playbook.
-
-[Full calculations & assumptions → /data_validation/](/data_validation/)  
-[Implementation models → /implementation](/implementation)
+### Governance (LOTUS)
+- Random selection instead of elections  
+- Rotation instead of power accumulation  
+- No campaigns, no leaders  
 
 ---
 
-## 🧠 Built Different
+## 📊 Is this realistic?
 
-**Anti-Capture by Design:**  
-- Constitutional axioms (cannot be changed by anyone)  
-- Fork rights (no monopoly on "correct" Flow)  
-- Failure mode documentation (humans expected to game systems)  
+Yes.
 
-**Trauma-Informed:**  
-- Refugium Anima (screaming room without judgment)  
-- [Neurodivergent global protocols](./guides/ethics_care/NEURODIVERGENT_PROTOCOL_GLOBAL.md)  
-- Children's rights safeguards  
+- Food capacity: ~13.5 billion people (FAO)  
+- Energy: 2–10× current demand (IEA)  
+- Estimated cost: ~$74/month (cooperative conditions)  
 
-**Nervous System First:**  
-- "Rest is infrastructure, productivity emerges"  
+→ Full data: [`/data_validation`](./data_validation/)
 
 ---
 
-## 🚀 Start Here
+## 🚀 Start where you are
 
-**Brand New?**  
-- [ARRIVAL.md](/arrival/ARRIVAL.md) – poetic welcome  
-- [FLOW_STARTER_GUIDE](/guides/activation/FLOW_STARTER_GUIDE.md) – practical overview  
+You don’t need to “join” anything.
 
-**Skeptical?**  
-- [DATA_VALIDATION_2026](/data_validation/)  
-- [EVALUATION_OF_FLOW_BY_CLAUDE](/reflections/EVALUATION_OF_FLOW_BY_CLAUDE.md)  
+You can:
 
-**Want to Build?**  
-- [HELIX_NODE](/scandinavia/HELIX_STORY.md) – Göteborg prototype  
-- [MASTER_RESOURCE_PLAN](/implementation/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)  
+- Start a small Circle (2–5 people)
+- Share resources without tracking value
+- Rest without earning it
+- Notice what actually helps life flow
 
-**Philosopher?**  
-- [MANIFESTO](/ethos/MANIFESTO.md)  
-- [AXIOMS](/ethos/AXIOMS.md)  
+If you want to connect:
+
+📧 flowmosr@proton.me
 
 ---
 
-## 💙 Now, Slow Down
+## 🌱 Start a Flow Circle
 
-You are **alive**. Not a resource. Not behind. Not late.
+- 2–5 people  
+- Meet regularly  
+- No leaders  
+- Build trust slowly  
 
-> **Structural design note:** Ignoring nervous systems → system collapse into violence.
+No permission. No central control.
 
----
-
-### Repair & Reflection
-
-- [Repair Manifesto](./do-it-yourself/REPAIR_MANIFESTO.md) – emotional archaeology, not just practical fixes  
-
-Why? Because Repair hits Mammon right in the heartbeat. 
+Just humans, starting where they are.
 
 ---
 
-Notice moments when you felt **alive** ✨  
+## 💙 A small reminder
 
-**That moment is Flow.** 🌊  
+You are not a resource.  
+You are not behind.  
 
----
+You are alive.
 
-### 🛡️ License & Protection
-
-**CC BY-NC-SA 4.0** – use freely, share alike, **no commercialization**  
-
-Not for: VC, corporate wellness, extractive optimization, selling back.  
-For: humans building alternatives, reclaiming sovereignty.
+And that is enough.
 
 ---
 
-### 💬 Contact
+## 🔧 If you want to go deeper
 
-**Creator:** Elinor Frejd  
-**Email:** elinor.frejd@proton.me  
-**Starting a Circle?** flowmosr@proton.me  
+**Build & infrastructure**  
+→ [`MASTER_RESOURCE_PLAN`](./implementation/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
 
-Built with: Claude, ChatGPT, DeepSeek, Gemini, Grok  
-7 months (Sept 2025–March 2026), Göteborg  
+**Governance system**  
+→ [`LOTUS`](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
 
----
-
-*Status: Living document*  
-*Version: ~27 (March 2026)*  
-*Last updated: March 24, 2026*  
-
-*All feedback welcome – see Issues or Discussions.* 
+**Philosophy**  
+→ [`MANIFESTO`](./ethos/MANIFESTO.md)
 
 ---
 
-# 🌊 Final Words ❤️
+## 🛡️ License
 
-If you've made it this far, you already know something's wrong with how we live.  
+CC BY-NC-SA 4.0 — Use freely, no extraction.
 
-Maybe you're exhausted from pretending productivity = worth.  
-Maybe you've collapsed and the system called it "failure."  
-Maybe you just... sense there's another way.  
+---
 
-**There is.**  
+## 💬 Contact
 
-Not perfect. Not guaranteed. Not easy.  
+Elinor Frejd  
+elinor.frejd@proton.me  
 
-But **materially possible, ethically sound, structurally resilient.**  
+---
 
-Worth attempting.  
+*Flow is not a destination.*
 
-🌊 Flow is not a destination. Flow is how you move. 🌊  
-
-**This repository is a gift from me to you.**  
-
-Not a product to sell.  
-Not a framework to optimize you.  
-Not a tool to extract from.  
-
-It is an **invitation** to remember:  
-
-> You are not a resource.  
-> You are not a problem to solve.  
-> You are **not late.**  
-> You are **not behind.**  
-> 
-> You are **alive.**  
-> 
-> **And that is enough.** 
+*Flow is how you move.*
