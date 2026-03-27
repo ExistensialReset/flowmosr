@@ -32,7 +32,7 @@ That’s it.
 ## 🧭 Where are you right now?
 
 **Feeling something, not sure what this is?**  
-→ [`00_FLOW_CORE_ENTRY`](./core/00_FLOW_CORE_ENTRY.md)
+→ [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
 
 **Want to try this in your own life?**  
 → [`FLOW_STARTER_GUIDE`](./guides/activation/FLOW_STARTER_GUIDE.md)
