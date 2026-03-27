@@ -124,7 +124,7 @@ And that is enough.
 ## 🔧 If you want to go deeper
 
 **Build & infrastructure**  
-→ [`MASTER_RESOURCE_PLAN`](./implementation/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
+→ [`MASTER_RESOURCE_PLAN`](./02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
 
 **Governance system**  
 → [`LOTUS`](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
