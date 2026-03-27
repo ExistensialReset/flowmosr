@@ -46,7 +46,7 @@ Dessa måste existera i VARJE giltig Flöde-implementering. Om någon bryts = sy
 
 ---
 
-## 2. POLITISKT REALISMLAGER
+## 2. POLITISK REALISM
 
 FLÖDET måste förutse och anpassa sig till **alla politiska system**:
 
