@@ -89,7 +89,7 @@ You can:
 - Rest without earning it
 - Notice what actually helps life flow
 
-If you want to connect:
+If you want to start, connect:
 
 📧 flowmosr@proton.me
 
