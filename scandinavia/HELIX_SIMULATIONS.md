@@ -1,3 +1,17 @@
+
+
+## CONTEXT
+
+HELIX is a local implementation model that is compatible with Flow principles.
+
+This simulation demonstrates how a Flow-aligned Node may behave under real-life conditions, including:
+- crisis
+- routine
+- emotional dynamics
+- resource constraints
+
+It is not a definition of Flow, but an applied example.
+
 # HELIX_SIMULATIONS.md
 ## Living System Modeling: How HELIX Functions Across Crisis, Routine, and Joy
 
