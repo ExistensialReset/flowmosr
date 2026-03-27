@@ -127,7 +127,7 @@ And that is enough.
 → [`MASTER_RESOURCE_PLAN`](./02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
 
 **Governance system**  
-→ [`LOTUS`](./core/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
+→ [`LOTUS`](./03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
 
 **Philosophy**  
 → [`MANIFESTO`](./ethos/MANIFESTO.md)
