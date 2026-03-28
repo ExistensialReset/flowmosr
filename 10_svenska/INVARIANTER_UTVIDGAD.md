@@ -1,4 +1,4 @@
-# 04_FLÖDE_KÄRN_INVARIANTER_UTVIDGAD.md
+# 04 INVARIANTER UTVIDGAD.md
 
 **Status:** Kärnprincip  
 **Omfattning:** Hela Flödessystemet  
