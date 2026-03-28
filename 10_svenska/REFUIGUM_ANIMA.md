@@ -4,11 +4,11 @@
 *Ett återställande, inkluderande utrymme för att återvända till Flödet — utan diagnos, rättfärdigande eller tidslinje*  
 
 **Status:** Levande Fristad för Alla Människor  
-**Åtagande:** Varje person—oavsett ålder, förmåga eller berättelse—förtjänar en plats att kollapsa, rasa, gråta, leka och återvända till Flödet.  
+**Åtagande:** Varje person — oavsett ålder, förmåga eller berättelse — förtjänar en plats att kollapsa, rasa, gråta, leka och återvända till Flödet.  
 
 ---
 
-## FÖRETAL: Vad Refugium Anima Är
+## FÖRORD: Vad Refugium Anima Är
 
 Refugium Anima är ett **fysiskt och relationellt utrymme** utformat för människor som tillfälligt förlorat tillgång till Flödet.  
 
@@ -37,7 +37,7 @@ Refugium Anima är **tillgängligt för alla människor**: barn, vuxna, äldre o
 - Rullstolsanpassade vägar, dörrar och badrum.  
 - Höjdjusterbara möbler och armaturer.  
 - Sensoriska anpassningar för neurodivergenta individer (tysta timmar, dämpad belysning, fidgetverktyg).  
-- Medicinsk utrustning (lyft, justerbar säng) tillgänglig utan stigma.  
+- Medicinsk utrustning (lift, justerbar säng) tillgänglig utan stigma.  
 - Absolut ingen är för ung, för gammal, för tung eller för funktionsnedsatt för att vara här. 
 
 Befolkningstäthet är avsiktligt begränsad för att bevara lugn, trygghet och sensorisk reglering. 
@@ -53,7 +53,7 @@ Befolkningstäthet är avsiktligt begränsad för att bevara lugn, trygghet och 
 
 ### 1.2 Ingen Produktivitet Krävs
 - Inga uppgifter, inga scheman, inga mål såvida inte efterfrågade  
-- Kroppen sätter takten—vare sig den kroppen är 4 eller 84  
+- Kroppen sätter takten — vare sig kroppen är 4 eller 84  
 - Lek är tillåten, inte som terapi utan som varande  
 
 ### 1.3 Inget Rättfärdigande Krävs
@@ -62,7 +62,7 @@ Befolkningstäthet är avsiktligt begränsad för att bevara lugn, trygghet och 
 - Barns tårar och vuxnas raseri vittnas om, inte förhörs  
 
 ### 1.4 Kollaps är Välkommen
-- Vila, sammanbrott, skrikande, slagande (i säkra utrymmen), icke-engagemang alla accepterade  
+- Vila, sammanbrott, skrikande, slag (i säkra utrymmen), icke-engagemang alla accepterade  
 - Regression är del av läkning  
 
 ### 1.5 Djur och Natur
@@ -77,7 +77,7 @@ Befolkningstäthet är avsiktligt begränsad för att bevara lugn, trygghet och 
 
 ## 2. DE DELADE UTRYMMENA
 
-Utrymmen är **designade för alla kroppar**, barn och vuxna lika. Individer får välja delat eller privat engagemang.
+Utrymmen är **designade för alla kroppar**, barn och vuxna. Individer får välja delat eller privat engagemang.
 
 ### 2.1 Vila & Regleringsutrymmen
 - Justerbart ljus och ljud  
@@ -95,8 +95,8 @@ Utrymmen är **designade för alla kroppar**, barn och vuxna lika. Individer få
 
 ### 2.3 Vatten & Kroppslättnad
 - Varma bad med justerbar temperatur  
-- Taklyft / hiss för funktionsnedsatt tillgång  
-- Handtag, halkfritt golv, integritet  
+- Taklift 
+- Handtag, halkfritt golv  
 - Barnanpassning: små badsitsar, flytande leksaker valfritt  
 
 ### 2.4 Den Oavslutade Studion
@@ -247,4 +247,4 @@ Du hör hemma här. Exakt som du är.
 
 ---
 
-Av Elinor Frejd, ChatGPT & DeepSeek
+
