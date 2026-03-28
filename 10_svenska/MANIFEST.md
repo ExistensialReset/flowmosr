@@ -1,9 +1,9 @@
 # MANIFEST FÖR EXISTENTIELL SUVERÄNITET  
-## Grundnivåmanifestet
+## Baslinjemanifestet
 
-Du är trygg här. Du är skyldig ingenting.  
+Du är trygg här. Du är inte skyldig någonting. 
 
-Detta repositorium ber dig inte att hålla med, ansluta dig, prestera eller tro på något.  
+Detta repositorium är en gåva till Dig. Det ber dig inte att hålla med, ansluta dig, prestera eller tro på något.  
 
 Du är inte sen.  
 Du är inte efter.  
@@ -40,7 +40,7 @@ De erkänns som grundnivån för mänsklig verklighet.
 
 ---
 
-## AXIOM 1: GRUNDNIVÅN
+## AXIOM 1: BASLINJEN 
 
 Följande garanteras villkorslöst till alla:
 
@@ -61,7 +61,7 @@ Den förtjänas aldrig; den är existensens utgångspunkt.
 
 ### AXIOM 1A: VATTEN SOM EN FYSISK GRUNDNIVÅ
 
-**Vatten är en garanterad Grundnivårättighet.**  
+**Vatten är en garanterad Baslinjerättighet.**  
 
 Garantier måste vara ärliga för att förbli suveräna.  
 
@@ -75,8 +75,8 @@ Garantier måste vara ärliga för att förbli suveräna.
 - Merparten av nuvarande vattenbrist orsakas av:
   - Distributionsmisslyckande  
   - Infrastrukturförsummelse  
-  - Förorening utan ansvarighet  
-  - Vinstgrindsad tillgång  
+  - Förorening utan ansvaringstagande  
+  - Vinstgivande tillgång  
 
 Dessa är systemiska begränsningar, inte naturliga gränser.
 
@@ -90,7 +90,7 @@ Dessa är systemiska begränsningar, inte naturliga gränser.
 Flödet förlitar sig inte på mirakler.  
 Det förlitar sig på **lokal tillräcklighet, replikerad**.
 
-#### Vad Flödet *gör* möjliggör
+#### Vad Flödet möjliggör
 
 Där en Cirkel som verkar under Flödesprinciper existerar — även inne i den gamla världen — blir följande möjligt **utan att vänta på global konsensus**:
 
@@ -122,7 +122,7 @@ Flödet kräver inte gemensamt ägande av personliga föremål. Det du har är d
 #### Vad som förändras
 
 1. **Hamstring förlorar sitt syfte**  
-   När Grundnivån är garanterad finns det ingen anledning att hamstra överlevnadsvaror.  
+   När Baslinjen är garanterad finns det ingen anledning att hamstra överlevnadsvaror.  
 
 2. **Delning blir naturlig**  
    När rädsla avtar framträder generositet — men den krävs aldrig.  
@@ -144,7 +144,7 @@ Flödet kräver inte gemensamt ägande av personliga föremål. Det du har är d
 
 Ingen kommer inventera dina tillhörigheter.  
 Ingen kommer döma dig för att ha "för mycket."  
-Ingen kommer tvinga dig att dela.
+Ingen kommer tvinga dig att du delar. 
 
 ---
 
@@ -194,9 +194,9 @@ Inom denna arkitektur:
 
 - Vila förtjänas aldrig  
 - Återhämtning kräver ingen förklaring  
-- Ingen registreras, korrigeras eller hålls kvar  
+- Ingen registreras, korrigering eller kvarhållning.  
 
-Ett samhälle som inte skyddar vila först skapar skada och försöker sedan reparera den.  
+Ett samhälle som inte skyddar vila först, skapar skada och försöker sedan reparera den.  
 
 Flödet gör motsatsen.
 
@@ -206,7 +206,7 @@ Flödet gör motsatsen.
 
 För att säkerställa stabilitet upprätthåller den kollektiva arkitekturen en konstant **Kritisk Reserv** av logistiska resurser och energi, motsvarande inte mindre än **30% av totala årliga Grundnivåbehov**.
 
-Denna reserv är den fysiska garantin för Grundnivån.
+Denna reserv är den fysiska garantin för Grundnivån/Baslinjen.
 
 ---
 
@@ -231,14 +231,14 @@ Dess existens är bevis på den kollektiva kapaciteten att utöva suveränitet g
 
 **I Flödessystemet:**  
 All historisk monetär skuld erkänns som en relikt av den gamla strukturen.  
-Inom Flödet är du skyldig ingenting.  
+Inom Flödet är du inte skyldig någonting.  
 
 **Under övergången:**  
 Gamla skulder har fortfarande juridisk kraft utanför Flödet.  
 Inom varje Cirkel som verkar under Flödesprinciper är **deltagande aldrig villkorad av skuldstatus**.
 
 - Du får bidra utan att först rensa skuld  
-- Du får ta emot Grundnivån oavsett finansiell historia  
+- Du får ta emot Grundnivån/Baslinjen oavsett finansiell historia  
 - Ingen kommer fråga vad du är skyldig eller varför  
 
 > Det gamla skuldsystemet förlorar makt inte genom protest, utan genom strukturell irrelevans.
@@ -247,7 +247,7 @@ Inom varje Cirkel som verkar under Flödesprinciper är **deltagande aldrig vill
 
 # II. DET SUVERÄNA TILLSTÅNDET
 
-Suveränitet är inneboende. Den erkänns, aldrig beviljas.
+Suveränitet är inneboende. Den erkänns, den beviljas aldrig.
 
 1. **Existens över Skuld** — Livet är aldrig villkorat av betalning.  
 2. **Rätten till Uppmärksamhet** — Din kognition och fokus är ditt eget.  
@@ -259,8 +259,8 @@ Suveränitet är inneboende. Den erkänns, aldrig beviljas.
 
 Flödes-Logik är den operativa funktionen hos en suverän civilisation.
 
-- **Logistisk Stabilitet** — Grundnivån skyddas framför alla andra funktioner.  
-- **Existentiell Säkerhet** — Vid varje punkt av utmattning är återgång till Grundnivå omedelbar.  
+- **Logistisk Stabilitet** — Grundnivån/Baslinjen skyddas framför alla andra funktioner.  
+- **Existentiell Säkerhet** — Återgång till Grundnivå/Baslinjen omedelbar.  
 - **Kognitiv Frihet** — Kunskap utvidgar autonomi, inte beroende.  
 - **Spontan Koordinering** — Behov läggs märke till, delas och adresseras kollektivt; ordning framträder från resonans, inte kommando.
 
@@ -280,7 +280,7 @@ Ingen hierarki åberopas.
 
 # IV. LIVETS MÅTT
 
-**Liv = Lugn × Spontanitet × Sammanflätning**  
+**Liv = Lugn × Spontanitet × Inkännande**  
 
 Om någon faktor når noll kollapsar livskvaliteten till noll.  
 Alla tre måste skyddas samtidigt.
@@ -292,7 +292,7 @@ Alla tre måste skyddas samtidigt.
 Om du tvivlar på detta — bra.  
 Tvivel är också suveränt.  
 
-Testa det.  
+Testa det här.  
 Ifrågasätt det.  
 Förbättra det.  
 
@@ -316,5 +316,3 @@ Och för första gången på länge
 **tillåts existensen att börja.**
 
 ---
-
-[^1]: Se `MAMMONOLOGI.md` för analys av det skuldbaserade systemet, och `FLÖDE_SRS.md` för den tekniska och operativa arkitekturen som stödjer denna deklaration.
