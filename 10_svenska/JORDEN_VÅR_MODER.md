@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Företal: Tidens Kropp
+## 1. Förord: Tidens Kropp
 Vi lever på en planet som använde 4,5 miljarder år för att bygga sig själv. Varje lager av hennes kropp är resultatet av djup tid. Under utvinningslogiken behandlas hon som ett dött lager. I Flödet erkänner vi henne som en levande organism vars system systematiskt monteras ned. 
 
 Hon skriker inte; hon talar genom kollapsen av sina rytmer. Vi lyssnar till den stadiga nedgången i hennes förmåga att hålla oss.
