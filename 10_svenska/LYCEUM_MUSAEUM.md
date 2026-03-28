@@ -105,13 +105,13 @@ Det finns alltid någonstans att gå, något att göra, någon att prata med.
 Skapa utan deadlines, utforska utan prov, umgås utan förväntningar.
 
 - **Kompetens sprider sig**  
-Kunskap flödar fritt—träarbete, programmering, sömnad, allt delas.
+Kunskap flödar fritt — träarbete, programmering, sömnad, allt delas.
 
 - **Innovation uppstår naturligt**  
 Nyfikna människor som möts utan ekonomiskt tryck genererar oplanerade idéer.
 
 - **Kultur lever**  
-Musik spelas, teater framförs, konst görs—inte på scener, utan i utrymmet där du är.
+Musik spelas, teater framförs, konst görs — inte på scener, utan i utrymmet där du är.
 
 ---
 
@@ -154,7 +154,7 @@ Då är nyfikenhet fri.
 
 - Läsande, skrivande, berättande  
 - Matematik, logik, filosofi  
-- Språk talade, tecknade, skrivna  
+- Språk; talade, tecknade, skrivna  
 - Minne, mönsterigenkänning  
 
 **Lärandets rytm hedras.**  
@@ -166,7 +166,7 @@ Inga betyg. Ingen rankning. Endast tillgänglighet.
 - Musik: lyssnande, improviserande, komponerande  
 - Visuell konst: målning, teckning, skulptur  
 - Hantverk: vävning, träarbete, keramik, metallarbete  
-- Lek—strukturerad eller ostrukturerad  
+- Lek — strukturerad eller ostrukturerad  
 
 **Skapande är lärande.**  
 **Lek är forskning.**
@@ -227,8 +227,8 @@ Lyceum Musaeum inkluderar **erfarenhetsmässig utforskning** som del av livslån
 
 ### Integration med Lyceum Musaeum
 - Resor **dokumenteras, reflekteras över och delas** tillbaka vid Lyceum, vilket bidrar till gemenskapens kollektiva intelligens.  
-- Resa kompletterar verkstäder, utforskningar och mentorskap, **utvidgande lärande bortom lokala Noder**.  
-- Stödjer **Ψ-elevation**: ökar empati, förvåning, motståndskraft och spontan upptäckt.
+- Resor kompletterar verkstäder, utforskningar och mentorskap, **utvidgande lärande bortom lokala Noder**.  
+- Stödjer **Ψ-elevation**: ökar inkännande, förundran, resiliens och spontan upptäckt.
 
 **Princip:** Varje ung människa förtjänar att se världen, att koppla samman och att lära genom verklig erfarenhet. Lyceum Musaeum gör detta möjligt strukturellt, inte valfritt.
 
