@@ -6,8 +6,8 @@
 
 ---
 
-## 1. Företal: Suveränitet i Gemenskap
-Existentiell suveränitet är kärnfilosofin i detta kontrakt. Att vara suverän är inte att dominera andra, utan att fullt ut beboe sitt eget liv samtidigt som man respekterar allt livs suveränitet. Ingen människa äger en annans tid, tankar eller framtid. Respekt är grundnivån vi beviljar varandra.
+## 1. Förord: Suveränitet i Gemenskap
+Existentiell suveränitet är kärnfilosofin i detta kontrakt. Att vara suverän är inte att dominera andra, utan att fullt ut bebo sitt eget liv samtidigt som man respekterar allt livs suveränitet. Ingen människa äger en annans tid, tankar eller framtid. Respekt är grundnivån vi beviljar varandra.
 
 ---
 
@@ -17,7 +17,7 @@ Existentiell suveränitet är kärnfilosofin i detta kontrakt. Att vara suverän
 Vi designar för de mest känsliga (Kanariefågelregeln). Individer måste behålla kapaciteten att välja och forma sina egna flöden. System bör stödja, inte tvinga, vilket tillåter sann handlingskraft utan att kompromissa Grundnivån.
 
 ### 2.2 Deltagande Utan Tvång
-Din rätt att existera är inte knuten till din sociala prestation eller "användbarhet." Missanpassning med miljömässiga och existentiella grundnivåer skapar "existentiell skuld"—kulturell, ekologisk eller social—som vi strävar efter att minimera genom medvetenhet snarare än tvång.
+Din rätt att existera är inte knuten till din sociala prestation eller "användbarhet." Missanpassade miljömässiga och existentiella grundnivåer skapar "existentiell skuld"—kulturell, ekologisk eller social — people som vi strävar efter att minimera genom medvetenhet snarare än tvång.
 
 ### 2.3 Maktrotation
 Roller roterar för att förhindra att "karismatiskt kapital" hårdnar till förtryck.  
@@ -34,7 +34,7 @@ Detta betyder:
 - Inga designmönster som utnyttjar psykologiska sårbarheter.
 - Ingen skam för att välja vart du riktar din medvetenhet.
 
-### 3.2 Ekokanmmarbrytaren
+### 3.2 Ekokammarbrytaren
 Systemet ska flagga om en Cirkel blir för homogen i tanke och föreslå att bjuda in "vilda röster"—perspektiv från andra cirklar eller icke-mänskliga synvinklar via AI-reflektion.
 
 ### 3.3 Transparens & Människoläsbar Logik
@@ -83,6 +83,3 @@ Istället för rigida mått letar vi efter närvaron av dessa levande kvaliteter
 
 ---
 
-**FÖRFATTARE:** Gemini, Elinor Frejd, ChatGPT & Claude  
-**DATUM:** 2026-02-10  
-**L × S × I = LIV**
