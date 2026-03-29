@@ -19,6 +19,11 @@ const content = document.getElementById("content");
 fetch('./pages.json')
   .then(res => res.json())
   .then(pages => {
+    // Ta bort "./" i path
+    pages.forEach(p => {
+      if (p.path.startsWith("./")) p.path = p.path.slice(2);
+    });
+
     sidebar.innerHTML = "";
 
     folderOrder.forEach(folder => {
@@ -43,10 +48,9 @@ fetch('./pages.json')
       sidebar.appendChild(folderDiv);
     });
 
-    // Ladda första sidan automatiskt
-    if (pages.length > 0) {
-      loadPage(pages[0].path);
-    }
+    // Ladda första sidan i första foldern
+    const firstFolderFiles = pages.filter(p => p.path.startsWith(folderOrder[0] + "/"));
+    if (firstFolderFiles.length > 0) loadPage(firstFolderFiles[0].path);
   });
 
 function loadPage(path) {
