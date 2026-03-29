@@ -34,7 +34,7 @@ Det är ett **globalt, anpassningsbart ramverk** utformat för att fungera i all
 
 ## 1. STRUKTURELLA INVARIANTER
 
-Dessa måste existera i VARJE giltig Flöde-implementering. Om någon bryts = systemkollaps:
+Dessa måste existera i VARJE giltig Flödes-implementering. Om någon bryts = systemkollaps:
 
 1. **Baslinjesäkerhet:** Alla deltagare har tillgång till livets väsentligheter oberoende av sammanhang.  
 2. **Inget Tvång:** Deltagande är frivilligt, utan extern eller intern press.  
