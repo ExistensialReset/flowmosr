@@ -1,129 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Flow / M-OS-R</title>
 
-  <!-- Stylesheet -->
+  <!-- VIKTIGT: rätt paths -->
   <link rel="stylesheet" href="./style.css">
-
-  <!-- Basic styling for markdown -->
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      margin: 0; padding: 0;
-      background: #fdfdfd;
-      color: #1a1a1a;
-      line-height: 1.6;
-    }
-    header {
-      background: #0077b6;
-      color: white;
-      padding: 1em;
-      text-align: center;
-    }
-    nav {
-      background: #023e8a;
-      color: white;
-      padding: 1em;
-    }
-    nav a {
-      color: #caf0f8;
-      display: block;
-      margin: 0.2em 0;
-      text-decoration: none;
-    }
-    nav a:hover {
-      color: #90e0ef;
-    }
-    main {
-      max-width: 900px;
-      margin: auto;
-      padding: 1em;
-    }
-    blockquote {
-      border-left: 4px solid #0077b6;
-      padding-left: 1em;
-      color: #023e8a;
-      font-style: italic;
-      background: #e0f7fa;
-    }
-    h1,h2,h3,h4,h5,h6 {
-      color: #0077b6;
-    }
-    code {
-      background: #e0e0e0;
-      padding: 2px 4px;
-      border-radius: 3px;
-      font-family: monospace;
-    }
-    pre {
-      background: #e0e0e0;
-      padding: 1em;
-      overflow-x: auto;
-    }
-  </style>
 </head>
+
 <body>
+  <div id="sidebar"></div>
+  <div id="content">Loading...</div>
 
-<header>
-  <h1>🌊 Flow / M-OS-R</h1>
-</header>
-
-<div style="display:flex; flex-direction:row;">
-  <nav id="sidebar" style="width:250px; overflow-y:auto; height:100vh;"></nav>
-  <main id="content">
-    <p>Loading content...</p>
-  </main>
-</div>
-
-<!-- Markdown renderer -->
-<script src="./js/markdown-renderer.js"></script>
-<script>
-async function loadPages() {
-  try {
-    const res = await fetch('./pages.json');
-    const pages = await res.json();
-    const sidebar = document.getElementById('sidebar');
-    const content = document.getElementById('content');
-
-    pages.forEach(file => {
-      const link = document.createElement('a');
-      link.href = "#";
-      link.textContent = file.title;
-      link.addEventListener('click', async (e) => {
-        e.preventDefault();
-        content.innerHTML = "<p>Loading content...</p>";
-        try {
-          const md = await fetch(encodeURI(file.path)).then(r=>r.text());
-          content.innerHTML = marked.parse(md);
-        } catch(err) {
-          content.innerHTML = "<p style='color:red'>Failed to load "+file.title+"</p>";
-        }
-      });
-      sidebar.appendChild(link);
-    });
-
-    // Load first page (README)
-    const firstPage = pages.find(p => p.title.toLowerCase().includes("readme"));
-    if(firstPage){
-      const md = await fetch(encodeURI(firstPage.path)).then(r=>r.text());
-      content.innerHTML = marked.parse(md);
-    } else {
-      content.innerHTML = "<p>No README found.</p>";
-    }
-
-  } catch(err) {
-    document.getElementById('content').innerHTML = "<p style='color:red'>Failed to load pages.json</p>";
-    console.error(err);
-  }
-}
-
-loadPages();
-</script>
-
-<!-- Marked.js CDN for Markdown parsing -->
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
+  <!-- RÄTT paths -->
+  <script src="./js/markdown-render.js"></script>
+  <script src="./main.js"></script>
 </body>
 </html>
