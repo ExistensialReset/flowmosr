@@ -13,14 +13,15 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
+      - name: Set up Node.js 24
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Generate pages.json
         run: |
-          node <<'EOF'
+          echo "Running pages.json generator..."
+          node << 'EOF'
           const fs = require('fs');
           const path = require('path');
 
@@ -30,28 +31,28 @@ jobs:
             "08_environmental","09_economics","10_svenska"
           ];
 
-          const pages = [];
+          let pages = [];
 
           folderOrder.forEach(folder => {
             if (!fs.existsSync(folder)) return;
             const files = fs.readdirSync(folder)
-              .filter(f => f.endsWith('.md'))
+              .filter(f => f.toLowerCase().endsWith('.md'))
               .sort();
             files.forEach(f => {
               pages.push({
-                title: f.replace(/\.md$/, ''),
-                path: `${folder}/${f}`
+                title: f.replace(/\.md$/i, ''),
+                path: folder + "/" + f
               });
             });
           });
 
           fs.writeFileSync('pages.json', JSON.stringify(pages, null, 2));
+          console.log(`Generated pages.json with ${pages.length} entries`);
           EOF
 
-      - name: Commit and push pages.json
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add pages.json
-          git commit -m "Update pages.json [skip ci]" || echo "No changes"
-          git push
+      - name: Upload pages.json as artifact (for debug)
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: pages-json
+          path: pages.json
