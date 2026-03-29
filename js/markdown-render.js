@@ -1,57 +1,54 @@
-// main.js
+async function loadPages() {
+  try {
+    const res = await fetch('pages.json');
+    const pages = await res.json();
 
-fetch('pages.json')
-  .then(res => res.json())
-  .then(pages => {
     const sidebar = document.getElementById('sidebar');
-    if (!sidebar) return;
+    const content = document.getElementById('content');
 
-    // Skapa ett objekt som grupperar efter folder
-    const tree = {};
+    function createSidebar(pages) {
+      let html = '';
+      const folders = {};
 
-    pages.forEach(page => {
-      const parts = page.path.split('/');
-      if (parts.length === 2) { // folder/file.md
-        const folder = parts[0];
-        if (!tree[folder]) tree[folder] = [];
-        tree[folder].push(page);
-      } else if (parts.length > 2) { // nested
-        let current = tree;
-        for (let i = 0; i < parts.length - 1; i++) {
-          if (!current[parts[i]]) current[parts[i]] = {};
-          current = current[parts[i]];
-        }
-        if (!current._files) current._files = [];
-        current._files.push({ title: parts[parts.length-1].replace(/\.md$/, ''), path: page.path });
+      pages.forEach(p => {
+        const folder = p.path.split('/')[0];
+        if (!folders[folder]) folders[folder] = [];
+        folders[folder].push(p);
+      });
+
+      for (const folder of Object.keys(folders).sort()) {
+        html += `<div class="folder">${folder}</div><ul>`;
+        folders[folder].sort((a,b)=>a.title.localeCompare(b.title)).forEach(file => {
+          html += `<li><a href="#" data-path="${file.path}">${file.title}</a></li>`;
+        });
+        html += `</ul>`;
       }
-    });
 
-    function createList(obj, parent) {
-      const ul = document.createElement('ul');
-      for (const key of Object.keys(obj)) {
-        if (key === '_files') {
-          obj._files.forEach(f => {
-            const li = document.createElement('li');
-            const a = document.createElement('a');
-            a.href = f.path;
-            a.textContent = f.title;
-            li.appendChild(a);
-            ul.appendChild(li);
-          });
-          continue;
-        }
-        const li = document.createElement('li');
-        const span = document.createElement('span');
-        span.textContent = key;
-        li.appendChild(span);
-        li.appendChild(createList(obj[key], li));
-        ul.appendChild(li);
-      }
-      return ul;
+      sidebar.innerHTML = html;
+
+      // Add click events
+      sidebar.querySelectorAll('a').forEach(a => {
+        a.addEventListener('click', async e => {
+          e.preventDefault();
+          const mdPath = a.getAttribute('data-path');
+          const mdRes = await fetch(mdPath);
+          const mdText = await mdRes.text();
+          content.innerHTML = `<pre>${mdText}</pre>`; // Simple render, kan bytas mot markdown parser
+        });
+      });
     }
 
-    sidebar.appendChild(createList(tree));
-  })
-  .catch(err => {
-    console.error('Failed to load pages.json', err);
-  });
+    createSidebar(pages);
+
+    // Load root README.md by default
+    const readmeRes = await fetch('README.md');
+    const readmeText = await readmeRes.text();
+    content.innerHTML = `<pre>${readmeText}</pre>`;
+    
+  } catch(err) {
+    console.error("Failed to load pages:", err);
+    document.getElementById('content').innerText = "Failed to load content.";
+  }
+}
+
+loadPages();
