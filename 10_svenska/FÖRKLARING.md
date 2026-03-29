@@ -176,7 +176,7 @@ Det kräver:
 För att förstå Flödet fullständigt:
 
 1. Börja med:
-   → `FÖRKLARING.md` (hur det känns och börjar)
+   → `FLÖDET.md` (hur det känns och börjar)
 
 2. Läs sedan:
    → `STRUKTUR.md` (vad som håller det stabilt)
