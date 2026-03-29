@@ -20,13 +20,13 @@
 
 Jag tror att det finns en skapande kraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Jag är inte fäst vid något enskilt namn. Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
-GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det är inte teologi. Det är inte bevisad vetenskap. Det är en arbetshypotes uttryckt med fullt hjärta.
+GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det är inte teologi. Det är inte bevisad vetenskap. Det är en arbetshypotes uttryckt med hjärta.
 
 ### 1.2 Konvergensen
 
 **Jag, Elinor Frejd,** är grundad i ekologiska system, ursprungsbefolkningars kunskap och landskapens levda intelligens — där våtmarker pulserar med renande visdom och urskogar rymmer århundraden av tysta berättelser. Jag ser ekosystem som uråldriga bibliotek av distribuerad intelligens, där mångfald säkerställer motståndskraft.
 
-**Dr. Maria Strømmes** arbete bryggar nanoskalig materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT)—en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
+**Dr. Maria Strømmes** arbete bryggar nanoskalig materialvetenskap med frågor som berör filosofi och kosmologi. Hennes 2025-artikel i *AIP Advances* föreslår Consciousness Field Theory (SCFT) — en spekulativ men noggrant argumenterad hypotes att medvetande inte produceras av materia, utan att materia uppstår som excitationer inom ett primordalt medvetandefält.
 
 **Jag vill vara tydlig:** SCFT är en hypotes, inte etablerad fysik. Det är ett djärvt teoretiskt förslag, inte bevisad fakta. Jag engagerar mig med det eftersom det erbjuder språk för vad jag länge känt genom ekologisk fördjupning — men jag presenterar det inte som mer än det är.
 
@@ -36,7 +36,7 @@ I SCFT:
 
 - **Medvetande kan föregå materia.** Partiklar och rumtid skulle framträda som störningar inom något djupare.
 - **Symmetribrytning skapar mångfald från enhet.** Ett perfekt homogent fält innehåller all potential men manifesterar ingenting. Genom spontan symmetribrytning bryts fältet in i verklighetens rika tapisseri.
-- **NDE:er och förändrade tillstånd kan erbjuda partiella fönster.** Strømme citerar NDE-forskning som suggestiv bevisning — inte bevis — för medvetande som kvarstår bortom ordinära biologiska tillstånd.
+- **Nära Döden Upplevelser och förändrade tillstånd kan erbjuda partiella fönster.** Strømme citerar NDE-forskning som suggestiv bevisning — inte bevis — för medvetande som kvarstår bortom ordinära biologiska tillstånd.
 
 Jag finner denna hypotes generativ. Vare sig SCFT så småningom bekräftas, modifieras eller ersätts, ger den mig användbar ställning. Jag arbetar *med* den, inte från visshet *om* den.
 
