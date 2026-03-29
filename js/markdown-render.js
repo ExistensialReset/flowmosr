@@ -1,83 +1,57 @@
-const folderOrder = [
-  "00_core",
-  "01_principles",
-  "02_documents",
-  "03_governance",
-  "04_simulations",
-  "05_facilitators",
-  "06_justice",
-  "07_technology",
-  "08_environmental",
-  "09_economics",
-  "10_svenska"
-];
+// main.js
 
-const sidebar = document.getElementById("sidebar");
-const content = document.getElementById("content");
-
-fetch('./pages.json')
+fetch('pages.json')
   .then(res => res.json())
   .then(pages => {
-    // Ta bort "./" i path
-    pages.forEach(p => {
-      if (p.path.startsWith("./")) p.path = p.path.slice(2);
+    const sidebar = document.getElementById('sidebar');
+    if (!sidebar) return;
+
+    // Skapa ett objekt som grupperar efter folder
+    const tree = {};
+
+    pages.forEach(page => {
+      const parts = page.path.split('/');
+      if (parts.length === 2) { // folder/file.md
+        const folder = parts[0];
+        if (!tree[folder]) tree[folder] = [];
+        tree[folder].push(page);
+      } else if (parts.length > 2) { // nested
+        let current = tree;
+        for (let i = 0; i < parts.length - 1; i++) {
+          if (!current[parts[i]]) current[parts[i]] = {};
+          current = current[parts[i]];
+        }
+        if (!current._files) current._files = [];
+        current._files.push({ title: parts[parts.length-1].replace(/\.md$/, ''), path: page.path });
+      }
     });
 
-    sidebar.innerHTML = "";
+    function createList(obj, parent) {
+      const ul = document.createElement('ul');
+      for (const key of Object.keys(obj)) {
+        if (key === '_files') {
+          obj._files.forEach(f => {
+            const li = document.createElement('li');
+            const a = document.createElement('a');
+            a.href = f.path;
+            a.textContent = f.title;
+            li.appendChild(a);
+            ul.appendChild(li);
+          });
+          continue;
+        }
+        const li = document.createElement('li');
+        const span = document.createElement('span');
+        span.textContent = key;
+        li.appendChild(span);
+        li.appendChild(createList(obj[key], li));
+        ul.appendChild(li);
+      }
+      return ul;
+    }
 
-    folderOrder.forEach(folder => {
-      const folderDiv = document.createElement("div");
-      folderDiv.className = "folder";
-
-      const folderTitle = document.createElement("h3");
-      folderTitle.textContent = folder;
-      folderDiv.appendChild(folderTitle);
-
-      const fileList = document.createElement("ul");
-      fileList.className = "file-list";
-
-      const files = pages.filter(p => p.path.startsWith(folder + "/"));
-
-      files.forEach(file => {
-        const li = document.createElement("li");
-        const link = document.createElement("a");
-        link.href = "#";
-        link.textContent = file.title;
-
-        link.onclick = (e) => {
-          e.preventDefault();
-          loadPage(file.path);
-        };
-
-        li.appendChild(link);
-        fileList.appendChild(li);
-      });
-
-      folderDiv.appendChild(fileList);
-      sidebar.appendChild(folderDiv);
-    });
-
-    // Ladda root README.md först om den finns
-    fetch('README.md')
-      .then(res => {
-        if (res.ok) return res.text();
-        else throw new Error("No root README.md");
-      })
-      .then(md => content.innerHTML = marked.parse(md))
-      .catch(() => {
-        // Om ingen root README, ladda första filen i första mappen
-        const firstFolderFiles = pages.filter(p => p.path.startsWith(folderOrder[0] + "/"));
-        if (firstFolderFiles.length > 0) loadPage(firstFolderFiles[0].path);
-      });
+    sidebar.appendChild(createList(tree));
+  })
+  .catch(err => {
+    console.error('Failed to load pages.json', err);
   });
-
-function loadPage(path) {
-  fetch(path)
-    .then(res => res.text())
-    .then(md => {
-      content.innerHTML = marked.parse(md);
-    })
-    .catch(() => {
-      content.innerHTML = "❌ Could not load file: " + path;
-    });
-}
