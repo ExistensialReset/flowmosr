@@ -4,12 +4,72 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Flow / M-OS-R</title>
-  <link rel="stylesheet" href="style.css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/flowmosr/style.css">
+
+  <!-- Favicon -->
+  <link rel="icon" href="/flowmosr/favicon.ico" type="image/x-icon">
 </head>
 <body>
-  <div id="sidebar"></div>
-  <div id="content"></div>
+  <div id="sidebar">
+    <h2>Pages</h2>
+    <ul id="page-list"></ul>
+  </div>
 
-  <script src="js/main.js"></script>
+  <div id="content">
+    <h1>Loading...</h1>
+  </div>
+
+  <!-- JS -->
+  <script src="/flowmosr/js/markdown-renderer.js"></script>
+  <script>
+    async function loadPages() {
+      const contentEl = document.getElementById('content');
+      const listEl = document.getElementById('page-list');
+
+      try {
+        const pagesResp = await fetch('/flowmosr/pages.json');
+        const pages = await pagesResp.json();
+
+        // Render sidebar
+        pages.forEach(page => {
+          const li = document.createElement('li');
+          const a = document.createElement('a');
+          a.href = "#";
+          a.textContent = page.title;
+          a.onclick = (e) => {
+            e.preventDefault();
+            loadPage(page.path);
+          };
+          li.appendChild(a);
+          listEl.appendChild(li);
+        });
+
+        // Load root README.md first
+        const readmePage = pages.find(p => p.path.endsWith('README.md'));
+        if(readmePage) loadPage(readmePage.path);
+
+      } catch (err) {
+        contentEl.innerHTML = `<p style="color:red;">Failed to load pages.json</p>`;
+        console.error(err);
+      }
+    }
+
+    async function loadPage(path) {
+      const contentEl = document.getElementById('content');
+      try {
+        const resp = await fetch('/flowmosr/' + path);
+        const text = await resp.text();
+        contentEl.innerHTML = markdownRenderer(text);
+      } catch(err) {
+        contentEl.innerHTML = `<p style="color:red;">Failed to load page: ${path}</p>`;
+        console.error(err);
+      }
+    }
+
+    // Init
+    loadPages();
+  </script>
 </body>
 </html>
