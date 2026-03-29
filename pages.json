@@ -1,9 +1,4 @@
-
-[const fs = require('fs');
-const path = require('path');
-
-// Default encoding
-const encoding = 'utf8';
+[
   {
     "title": "00_core",
     "path": "00_core/README.md",
@@ -76,7 +71,7 @@ const encoding = 'utf8';
       {"title": "NODE_RESILIENCE", "path": "04_simulations/NODE_RESILIENCE.md"},
       {"title": "NODE_RESILIENCE_STRESS_TEST", "path": "04_simulations/NODE_RESILIENCE_STRESS_TEST.md"},
       {"title": "NORDIC_CITIES_SELF_SUFFICIENCY", "path": "04_simulations/NORDIC_CITIES_SELF_SUFFICIENCY.md"},
-      {"title": "OPERATIONAL_RISK_AND_RESILIENCE_LAYER", "path": "04_simulations/OPERATIONAL_RISK_AND_RESILIENCE_LAYER.md"},
+      {"title": "OPERATIONAL_RISK&RESILIENCE_LAYER", "path": "04_simulations/OPERATIONAL_RISK&RESILIENCE_LAYER.md"},
       {"title": "PHYSICAL_NODE_SCANDINAVIA", "path": "04_simulations/PHYSICAL_NODE_SCANDINAVIA.md"},
       {"title": "PURPOSE", "path": "04_simulations/PURPOSE.md"},
       {"title": "ROBUSTNESS_AND_RISK_MITIGATION_LAYER", "path": "04_simulations/ROBUSTNESS_AND_RISK_MITIGATION_LAYER.md"},
