@@ -1,10 +1,10 @@
 # 🌱 Flow Principles
 ## How life is protected in practice
 
-This folder defines the **principles that guide all decisions in Flow**.
 
 If the core defines what must be true,  
 these principles define **how we act in the world**.
+For justice principles, see 06_justice, for economics, see 09_economics
 
 ---
 
