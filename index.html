@@ -2,15 +2,38 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Flow / M-OS-R</title>
   <link rel="stylesheet" href="style.css">
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-</head>
-<body>
-  <div id="container">
-    <aside id="sidebar"></aside>
-    <main id="content">Loading...</main>
-  </div>
-  <script src="main.js"></script>
-</body>
-</html>
+  <style>
+    body {
+      display: flex;
+      margin: 0;
+      font-family: 'Helvetica', sans-serif;
+      background: #f5f5f5;
+      color: #222;
+    }
+
+    #sidebar {
+      width: 280px;
+      background: #1a1a2e;
+      color: #fff;
+      padding: 20px;
+      overflow-y: auto;
+      height: 100vh;
+    }
+
+    #sidebar ul {
+      list-style: none;
+      padding-left: 10px;
+    }
+
+    #sidebar li span {
+      cursor: pointer;
+      font-weight: bold;
+      display: block;
+      padding: 4px 0;
+    }
+
+    #sidebar li a {
+      color
