@@ -38,7 +38,7 @@ Där:
 
 *På vanlig svenska: Vi kan inte ta snabbare än Hon kan läka.*
 
-* **Spjuver-Anteckning:** Om matematiken känns torr är Cirkeln inbjuden till en "Dans med Stenarna"—en fysisk ritual för att återknyta till Jordens långsamma, uråldriga rytm.
+* **Spjuver-Anteckning:** Om matematiken känns torr är Cirkeln inbjuden till en "Dans med Stenarna" — en fysisk ritual för att återknyta till Jordens långsamma, uråldriga rytm.
 
 ---
 
@@ -47,8 +47,8 @@ Eftersom utvinning är en våldshandling väljer vi bevarandets och reparationen
 
 1.  **Gemenskapscirkulation:** Månatliga byten för kläder, skor och verktyg. Vi delar så att Hon inte behöver ge mer av sitt kött.
 2.  **Reparationsstationerna:** Utrymmen för manuell reparation av elektronik, cyklar och hushållsföremål. 
-3.  **Tacksamhetsinventeringen:** En månadsritual där vi listar vad vi *inte* utvann om vi känner för att räkna den månaden, hur som helst kommer vi fira det lokala ekosystemets självläkande förmåga.
-4.  **Skräp som Systemiskt Misslyckande:** Om ett föremål inte kan repareras eller återföras till cykeln är det "Skräp"—ett tecken på systemiskt misslyckande. 
+3.  **Tacksamhetsinventeringen:** En månadsritual där vi listar vad vi *inte* utvann om vi känner för att räkna ut det den månaden, hur som helst kommer vi fira det lokala ekosystemets självläkande förmåga.
+4.  **Skräp som Systemiskt Misslyckande:** Om ett föremål inte kan repareras eller återföras till cykeln är det "Skräp" — ett tecken på systemiskt misslyckande. 
 
 ---
 
