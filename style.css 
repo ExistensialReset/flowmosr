@@ -1,180 +1,70 @@
-/* -------------------------------
-   Flow / M-OS-R Theme CSS
----------------------------------*/
-
-/* --- Global --- */
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  margin: 0; padding: 0;
-  background-color: #fdfdfd;
-  color: #1a1a1a;
-  line-height: 1.6;
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  display: flex;
+  height: 100vh;
+  background: #f5f5f5;
 }
 
-a {
-  color: #0077b6;
+#container {
+  display: flex;
+  width: 100%;
+}
+
+#sidebar {
+  width: 280px;
+  overflow-y: auto;
+  background: #1b1f23;
+  color: #c9d1d9;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+#sidebar h3 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 16px;
+  cursor: default;
+  color: #58a6ff;
+}
+
+.file-list {
+  list-style: none;
+  padding-left: 15px;
+}
+
+.file-list li {
+  margin: 4px 0;
+}
+
+.file-list a {
+  color: #c9d1d9;
   text-decoration: none;
 }
 
-a:hover {
-  color: #023e8a;
+.file-list a:hover {
+  color: #58a6ff;
   text-decoration: underline;
 }
 
-header {
-  background-color: #0077b6;
-  color: white;
-  padding: 1.2em 1em;
-  text-align: center;
-  font-size: 1.5em;
-  font-weight: bold;
-}
-
-nav {
-  background-color: #023e8a;
-  color: white;
-  padding: 1em;
-  height: 100vh;
+#content {
+  flex-grow: 1;
   overflow-y: auto;
-  width: 250px;
+  padding: 25px;
+  background: #ffffff;
+  box-sizing: border-box;
 }
 
-nav a {
-  color: #caf0f8;
-  display: block;
-  margin: 0.3em 0;
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
-}
-
-nav a:hover {
-  background-color: #0077b6;
-  color: #fff;
-}
-
-main {
-  max-width: 900px;
-  margin: auto;
-  padding: 1.5em;
-}
-
-/* --- Headings --- */
 h1, h2, h3, h4, h5, h6 {
-  color: #0077b6;
-  margin-top: 1em;
-  margin-bottom: 0.5em;
+  color: #1f2328;
 }
 
-h1 {
-  font-size: 2em;
-}
-
-h2 {
-  font-size: 1.75em;
-}
-
-h3 {
-  font-size: 1.5em;
-}
-
-/* --- Paragraphs --- */
-p {
-  margin: 0.8em 0;
-}
-
-/* --- Blockquotes --- */
-blockquote {
-  border-left: 4px solid #0077b6;
-  padding-left: 1em;
-  color: #023e8a;
-  font-style: italic;
-  background: #e0f7fa;
-  margin: 1em 0;
-}
-
-/* --- Code --- */
-code {
-  background: #e0e0e0;
-  padding: 2px 4px;
-  border-radius: 3px;
-  font-family: monospace;
-}
-
-pre {
-  background: #e0e0e0;
-  padding: 1em;
-  overflow-x: auto;
+pre, code {
+  background: #f0f0f0;
+  padding: 3px 5px;
   border-radius: 4px;
 }
 
-/* --- Lists --- */
-ul, ol {
-  margin-left: 1.5em;
-  margin-bottom: 1em;
-}
-
-/* --- Emojis & callouts --- */
-.callout {
-  padding: 1em;
-  margin: 1em 0;
-  border-radius: 6px;
-  background-color: #caf0f8;
-  border-left: 6px solid #0077b6;
-}
-
-.callout-warning {
-  background-color: #ffddd2;
-  border-left: 6px solid #ef233c;
-}
-
-.callout-success {
-  background-color: #d8f3dc;
-  border-left: 6px solid #40916c;
-}
-
-/* --- Tables --- */
-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1em 0;
-}
-
-table th, table td {
-  border: 1px solid #0077b6;
-  padding: 0.5em 1em;
-}
-
-table th {
-  background-color: #0077b6;
-  color: #fff;
-}
-
-/* --- Images --- */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* --- Responsive Flex --- */
-body > div {
-  display: flex;
-  flex-direction: row;
-}
-
-@media (max-width: 800px) {
-  nav {
-    width: 100%;
-    height: auto;
-  }
-  body > div {
-    flex-direction: column;
-  }
-}
-
-/* --- Footer / small print --- */
-footer {
-  text-align: center;
-  padding: 1em;
-  font-size: 0.85em;
-  color: #555;
+a {
+  color: #0366d6;
 }
