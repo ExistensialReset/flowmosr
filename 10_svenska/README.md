@@ -1,7 +1,7 @@
 # 🌊 Flödets Kärna
 ## Grunden för M-OS-R
 
-Denna mapp innehåller **kärnlagret av Flödet**.
+Denna mapp innehåller **kärnlagret av Flödet** och svenska versioner av vissa texter, därför att jag som skriver och utarbetat Flödet är svensk.
 
 Den är inte dokumentation i traditionell bemärkelse.  
 Den är den **minimala struktur som krävs för att ett annorlunda sätt att leva ska existera**.
@@ -26,7 +26,7 @@ Allt annat följer därav.
 
 ## 📂 Struktur
 
-### [`00_FLÖDET`](./FLÖDET.md)
+### [`FLÖDET`](./FLÖDET.md)
 Inträdesportalen.  
 Om du är ny i Flödet, börja här.
 
