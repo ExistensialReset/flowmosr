@@ -2,7 +2,8 @@ name: Generate pages.json
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -10,49 +11,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out repository
+      - name: Checkout main branch
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      - name: Set up Node.js 24
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '24'
+          node-version: 20
 
       - name: Generate pages.json
         run: |
-          echo "Running pages.json generator..."
-          node << 'EOF'
-          const fs = require('fs');
-          const path = require('path');
+          node .github/scripts/generate-pages.js > pages.json
 
-          const folderOrder = [
-            "00_core","01_principles","02_documents","03_governance",
-            "04_simulations","05_facilitators","06_justice","07_technology",
-            "08_environmental","09_economics","10_svenska"
-          ];
+      - name: Git Config
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          let pages = [];
+      - name: Commit pages.json
+        run: |
+          git add pages.json
+          git diff-index --quiet HEAD || git commit -m "Update pages.json [skip ci]"
 
-          folderOrder.forEach(folder => {
-            if (!fs.existsSync(folder)) return;
-            const files = fs.readdirSync(folder)
-              .filter(f => f.toLowerCase().endsWith('.md'))
-              .sort();
-            files.forEach(f => {
-              pages.push({
-                title: f.replace(/\.md$/i, ''),
-                path: folder + "/" + f
-              });
-            });
-          });
-
-          fs.writeFileSync('pages.json', JSON.stringify(pages, null, 2));
-          console.log(`Generated pages.json with ${pages.length} entries`);
-          EOF
-
-      - name: Upload pages.json as artifact (for debug)
-        if: always()
-        uses: actions/upload-artifact@v3
-        with:
-          name: pages-json
-          path: pages.json
+      - name: Push
+        run: |
+          git push
