@@ -2,8 +2,7 @@ name: Generate pages.json
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -11,21 +10,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main branch
+      - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 20
-
-      - name: Generate pages.json
+      - name: Show directory tree
         run: |
-          node .github/scripts/generate-pages.js > pages.json
+          echo "=== Root structure ==="
+          ls -R .
 
-      - name: Git Config
+      - name: Run generator with debug
+        run: |
+          echo "📌 Kör Pages‑generator"
+          node .github/scripts/generate-pages.js || {
+            echo "❌ ERROR: Generatorn misslyckades!"
+            exit 1
+          }
+
+      - name: Show generated pages.json
+        run: |
+          echo "📌 pages.json innehåll:"
+          cat pages.json
+
+      - name: Git config
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -36,5 +42,4 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Update pages.json [skip ci]"
 
       - name: Push
-        run: |
-          git push
+        run: git push
