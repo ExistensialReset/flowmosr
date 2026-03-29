@@ -11,9 +11,9 @@ Tillämplighet: Alla Noder, alla Faser, alla politiska och kulturella sammanhang
 
 Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets livskraft.
 
-1. **Grundareirrelevans**
+1. **Grundarirrelevans**
    - Ingen Nod eller Nätverk beror på grundaren för överlevnad.
-   - Dokumentation måste tillåta varje utomstående att driva Noder självständigt.
+   - Dokumentation måste helst delas och tillåta varje utomstående att driva cirklar och Noder självständigt.
    - Framgång mäts genom systemets fortbestånd **utan** grundaringripande.
 
 2. **Decentralisering**
@@ -29,19 +29,19 @@ Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets
 4. **Distribuerad Beslutskapacitet**
    - Ingen enskild person innehar beslutsfattarmakt.
    - Rollrotation upprätthålls.
-   - Beslutsprotokoll överlever personalomsättning.
+   - Beslutsprotokoll överlever personomsättning.
 
 5. **Konfliktmetabolism**
-   - Tvister löses, inte undertrycks.
+   - Tvister löses, undertryck inte.
    - Konfliktlösningsmetoder dokumenteras och praktiseras.
-   - Olöst konflikt utlöser paus/stabiliseringsprotokoll.
+   - Olöst konflikt utlöser paus/stabiliseringsprotokoll eller förgrening.
 
-6. **Grundnivåsäkerhet**
-   - Deltagarnas kärn-materiella och sociala behov måste mötas.
+6. **Grundnivåsäkerhet/Baslinjesäkerhet**
+   - Deltagarnas grundläggande materiella och sociala behov måste mötas.
    - Resursdelning, återhämtning och regenerationsmått upprätthålls.
-   - Överlevnadsbehov tar företräde över expansion eller experiment.
+   - Överlevnadsbehov har företräde över expansion eller experiment.
 
-7. **Transparens utan Övervakning**
+7. **Transparens utan övervakning**
    - Nodoperationer är transparenta **på systemnivå**, inte personlig nivå.
    - Aggregerade resurs- och processmått föredras.
    - Individuell övervakning är förbjuden.
@@ -52,7 +52,7 @@ Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets
    - Lokal anpassning uppmuntras, förutsatt att kärnprinciper är intakta.
 
 9. **Låg Synlighet i Högriskkontexte**
-   - När exponering hotar överlevnad minskar Noder sin profil.
+   - När exponering hotar överlevnad minskar Noder sin offentliga profil.
    - Varumärkesbyggande, medianärvaro och publik erkännande är valfria och sekundära.
    - Överlevnad trumfar erkännande.
 
@@ -71,13 +71,13 @@ Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets
    - Historiska beslut och resonemang arkiveras för efterträdande Noder.
 
 2. **Rollrotation & Redundans**
-   - Kritiska funktioner har minst 2–3 kapabla deltagare.
+   - Kritiska funktioner har minst 2–3 kapabla deltagare, om inte måste vi lära upp varandra.
    - Rotation säkerställer ingen enskild felkälla eller implicit hierarki.
    - Kompetensöverföring verifieras genom dokumentation och mentorskap.
 
 3. **Återkopplingsloopar**
    - Efter varje cykel måste Noder utvärdera:
-     1. Vad gick sönder?
+     1. Vad gick fel?
      2. Vad stabiliserades?
      3. Vad krävde central intervention?
      4. Vad kan protokolliseras?
@@ -90,7 +90,7 @@ Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets
      - Upprätthåll endast kritiska funktioner.
      - Återuppta expansion när stabilitetskriterier är uppfyllda.
 
-5. **Nod-Överenskopplingande Kunskapsöverföring**
+5. **Nod-kopplad Kunskapsöverföring**
    - Internod-dokumentation och lärandemekanismer.
    - Säkerställer replikering utan grundare eller central auktoritet.
    - Bibehåller mönsterintegritet över kulturella och politiska sammanhang.
@@ -117,13 +117,13 @@ Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets
 - Konfliktlösningens tidslinjer
 - Rollredundansnivåer
 - Energi/resurshållbarhet
-- Grundnivåsäkerhetsuppfyllelse
+- Grundnivå/Baslinjesäkerhetsuppfyllelse
 - Dokumentationskomplettering
 - Förtroende- och sammanhållningsindikatorer
 
 ---
 
-# 5. Oföränderliga Resultadefinitioner
+# 5. Oföränderliga Resultatdefinitioner
 
 - Nod består **utan grundare**.  
 - Konflikt metaboliseras.  
@@ -144,7 +144,7 @@ Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets
 
 Flödet är en **levande arkitektur**, inte ett varumärke, ideologi eller organisation.  
 
-Bryta invarianter = systembräcklighet.  
+Bryta invarianter = Gör systemet är bräckligt.  
 Bevara invarianter = långsiktig, global livskraft.  
 
 ---
@@ -158,4 +158,4 @@ Bevara invarianter = långsiktig, global livskraft.
 - Grundare, land, språk, politiskt system, religion eller kultur får **aldrig diktera strukturella begränsningar**.  
 
 **Målet är inte att bli ihågkommen.**  
-**Målet är att överleva, anpassa och vara funktionell överallt.**
+**Målet är att överleva, anpassas och vara funktionellt överallt.**
