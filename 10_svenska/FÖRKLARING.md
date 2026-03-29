@@ -1,4 +1,4 @@
-# 🌍 02 FÖRKLARING: Vad Flödet Egentligen Är
+# 🌍 FÖRKLARING: Vad Flödet Egentligen Är
 
 **Version:** 1.0  
 **Status:** Kärnförklaringslager  
@@ -176,10 +176,10 @@ Det kräver:
 För att förstå Flödet fullständigt:
 
 1. Börja med:
-   → `00_FLÖDE_KÄRNA_INTRÄDE.md` (hur det känns och börjar)
+   → `FÖRKLARING.md` (hur det känns och börjar)
 
 2. Läs sedan:
-   → `01_FLÖDE_KÄRNA_STRUKTUR.md` (vad som håller det stabilt)
+   → `STRUKTUR.md` (vad som håller det stabilt)
 
 3. Utforska sedan:
    → `/01_principles/` (domänspecifika regler)
@@ -197,7 +197,7 @@ och naturligtvis andra kartor!
 → Bevis tyder på motsatsen när överlevnad är garanterad.
 
 ### "Fripassagerare kommer bryta systemet"
-→ System är designade kring **överflöd och låg nödvändig insats**, inte bestraffning.
+→ Systemet är designat kring **överflöd och låg nödvändig insats**, inte bestraffning.
 
 ### "Detta kräver perfekta människor"
 → Nej. Det förutsätter:
@@ -248,8 +248,8 @@ Om det misslyckas, utvecklas det.
 ---
 
 **Nästa steg:**
-→ Gå tillbaka till `00_FLÖDE_KÄRNA_INTRÄDE.md` och prova det i praktiken.
-→ Eller fortsätt till `01_FLÖDE_KÄRNA_STRUKTUR.md` för att förstå begränsningar.
+→ Gå tillbaka till `FÖRKLARING.md` och prova det i praktiken.
+→ Eller fortsätt till `STRUKTUR.md` för att förstå begränsningar.
 
 ---
 
