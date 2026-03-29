@@ -207,3 +207,20 @@ flowchart TD
     GovernanceConcentration --> Audit
     AmendmentVelocity --> Audit
 ```
+
+# 🧩 Core (Legacy / Parallel)
+## Supporting structural thinking
+
+This folder contains additional core-related material.
+
+---
+
+## 🧭 What this is
+
+Extensions and parallel explorations of the core.
+
+---
+
+## 💙 Reminder
+
+If anything conflicts with /00_core → /00_core is correct.
