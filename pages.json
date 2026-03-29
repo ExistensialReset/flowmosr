@@ -71,16 +71,14 @@
       {"title": "NODE_RESILIENCE", "path": "04_simulations/NODE_RESILIENCE.md"},
       {"title": "NODE_RESILIENCE_STRESS_TEST", "path": "04_simulations/NODE_RESILIENCE_STRESS_TEST.md"},
       {"title": "NORDIC_CITIES_SELF_SUFFICIENCY", "path": "04_simulations/NORDIC_CITIES_SELF_SUFFICIENCY.md"},
-      {"title": "OPERATIONAL_RISK&RESILIENCE_LAYER", "path": "04_simulations/OPERATIONAL_RISK&RESILIENCE_LAYER.md"},
+      {"title": "OPERATIONAL_RISK_AND_RESILIENCE_LAYER", "path": "04_simulations/OPERATIONAL_RISK_AND_RESILIENCE_LAYER.md"},
       {"title": "PHYSICAL_NODE_SCANDINAVIA", "path": "04_simulations/PHYSICAL_NODE_SCANDINAVIA.md"},
       {"title": "PURPOSE", "path": "04_simulations/PURPOSE.md"},
       {"title": "ROBUSTNESS_AND_RISK_MITIGATION_LAYER", "path": "04_simulations/ROBUSTNESS_AND_RISK_MITIGATION_LAYER.md"},
       {"title": "SYMBIOTIC_INTELLEGENCE_IN_ACTION", "path": "04_simulations/SYMBIOTIC_INTELLEGENCE_IN_ACTION.md"},
       {"title": "URBAN_HYDROPONIC_SELFSUFFICIENCY_PROTOCOL", "path": "04_simulations/URBAN_HYDROPONIC_SELFSUFFICIENCY_PROTOCOL.md"}
     ]
-  }
-]
-[
+  },
   {
     "title": "05_facilitators",
     "path": "05_facilitators/README.md",
