@@ -248,7 +248,7 @@ Om det misslyckas, utvecklas det.
 ---
 
 **Nästa steg:**
-→ Gå tillbaka till `FÖRKLARING.md` och prova det i praktiken.
+→ Gå tillbaka till `FLÖDET.md` och prova det i praktiken.
 → Eller fortsätt till `STRUKTUR.md` för att förstå begränsningar.
 
 ---
