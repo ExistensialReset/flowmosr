@@ -33,7 +33,6 @@ This folder contains principles for:
 - Governance
 - Economy
 - Healthcare
-- Technology
 - Environment
 - Social structures
 
