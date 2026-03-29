@@ -1,12 +1,16 @@
 # MANDATET_AV_NIO_MÅNAR.md
 
 Status: SAKRALT PROTOKOLL
+
 Domän: Konfliktlösning / Högsta Sociala Ritual
+
 Auktoritetsnivå: Sista Utväg (Icke-Våldsam Slutlig Mekanism)
+
 Bindande Omfattning: Endast kollektiv riktning, aldrig individuellt öde
+
 Kärnprincip:
 
-När mänsklig visdom når sin gräns skapar vi ett kärl för tid, tystnad och ofött insikt.
+När mänsklig visdom når sin gräns skapar vi ett kärl för tid, tystnad och ofödd insikt.
 Vi beslutar inte. Vi bär.
 
 Arkitekt: Elinor Frejd
@@ -28,7 +32,7 @@ Det är inte demokrati.
 Det är en livmoder.
 
 Mandatet av Nio Månar åkallas endast när alla andra Flödesvägar
-— dialog, medling, delad simulering, återställande process —
+— dialog, medling, delad simulering, återställande process, förgrening —
 har uttömts fullständigt, och en konflikt återstår som hotar:
 
 · Grundnivån för gemenskaper
@@ -89,7 +93,7 @@ Praktiker:
   · Vandra, vila och reflektera
 · Dagliga incheckning begränsas till endast upplevd känsla:
   "Jag känner sorg."
-  "Detta material spänn min kropp."
+  "Detta material spänner min kropp."
 
 Regler:
 
@@ -113,7 +117,7 @@ Praktiker:
 · Djup dialog börjar.
 · Perspektivinversionsregel:
     Varje argument måste först uttryckas från dess motsatta position.
-· Månatlig Spjuvers Dag:
+· Den Månatliga Spjuverns Dag:
   · Dialog under promenad
   · Lera, teckning, förkroppsligad improvisation
   · Icke-verbal utforskning
@@ -161,7 +165,7 @@ Mandatet är fullbordat.
 
 · Utvalt från en förut etablerad pool (ålder 25+)
 · Erkänd av kamrater för kapacitet att bära långsiktiga konsekvenser
-· Randomiserat urval via transparent, granskningsbar algoritm
+· Randomiserat urval via transparent, granskningsbar algoritm (LOTUS) 
 · AI föreslår; människor verifierar behörighet
 · Tjänst är en gång i livet
 
@@ -175,7 +179,7 @@ Vägran är tillåten en gång, utan stigma.
 · Obligatorisk tre-månar dekompression efter fullbordande
 
 Rådsbärare är inte arbetare.
-De är trädgårdsmästare av ett beslut.
+De är trädgårdsmästare av ett beslutsutblommning.
 
 ---
 
@@ -198,7 +202,7 @@ Detta utlöser den sällsynt ritualen.
 · Ingen påverkan på individuella personer eller kroppar
 · Extern verifiering av samtycke
 · Permanent anonymisering
-· För-Kastnings Veto:
+· Förkastnings Veto:
     Omedelbart före kastningen, i en privat kammare, frågas barnets primära vårdare, ensamma med en neutral förespråkare:
     "Tillåter ni, med full förståelse, att ert barns hand är instrumentet för detta slutliga steg?"
     Ett enhälligt och explicit 'Ja' från alla vårdare krävs. Varje tvekan, tvivel eller 'Nej' stoppar omedelbart och oåterkalleligt proceduren.
@@ -216,7 +220,7 @@ Detta utlöser den sällsynt ritualen.
      · Om Nej, slutar ritualen här.
 3. Konsekvens av ett "Nej"-Veto
    · Kastningen avbryts. Tärningen kastas aldrig.
-   · Mandatets utfall defaultar permanent till "Strukturerad Samexistens" som definierat i DELADE_RESURS_KONFLIKT.md — de två parterna måste dela eller alternatera den omstridda resursen under bindande, AI-övervakade villkor, i evighet.
+   · Mandatets utfall defaultar permanent till "Strukturerad Samexistens" som definierat i SHARED RESOURCES CONFLICT — de två parterna måste dela eller alternatera den omstridda resursen under bindande, AI-övervakade villkor, i evighet.
    · Detta utfall är slutgiltigt. Ingen ytterligare överklagan eller Mandat är tillåten för denna konflikt.
    · Barnet och familjen återvänder till sina liv med sin anonymitet intakt, stödda och respekterade. Deras "Nej" erkänns som den högsta akten av systemisk integritet: skyddet av ett barns frid över procedurellt fullbordande.
 4. Kastningen (Om Veto är Ja)
@@ -238,7 +242,7 @@ Efter lösning (vare sig genom Födelsedokument, Tärning eller Strukturerad Sam
 
 · Inga tal
 · Inget segersnarrativ
-· En öppen knytkalas framträder organiskt
+· Ett öppet knytkalas framträder organiskt
 · Enkel mat, många eldar
 · Barn springer fritt
 
