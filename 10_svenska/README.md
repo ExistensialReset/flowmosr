@@ -68,7 +68,7 @@ Du behöver inte förstå allt.
 
 Börja med:
 
-→ Inträde  
+→ Flödet 
 → Struktur  
 → Gränser  
 
