@@ -194,9 +194,9 @@ Inom denna arkitektur:
 
 - Vila förtjänas aldrig  
 - Återhämtning kräver ingen förklaring  
-- Ingen registreras, korrigering eller kvarhållning.  
+- Ingen registreras, ingen korrigering eller kvarhållning.  
 
-Ett samhälle som inte skyddar vila först, skapar skada och försöker sedan reparera den.  
+Ett samhälle som inte skyddar vila först, skapar skada och försöker sedan ignorera den.  
 
 Flödet gör motsatsen.
 
@@ -230,14 +230,14 @@ Dess existens är bevis på den kollektiva kapaciteten att utöva suveränitet g
 ### AXIOM 5: SKULDUPPHÄVANDE
 
 **I Flödessystemet:**  
-All historisk monetär skuld erkänns som en relikt av den gamla strukturen.  
+All historisk monetär skuld erkänns som en relik av den gamla strukturen.  
 Inom Flödet är du inte skyldig någonting.  
 
 **Under övergången:**  
 Gamla skulder har fortfarande juridisk kraft utanför Flödet.  
 Inom varje Cirkel som verkar under Flödesprinciper är **deltagande aldrig villkorad av skuldstatus**.
 
-- Du får bidra utan att först rensa skuld  
+- Du får bidra utan att först göra dig av med skuld  
 - Du får ta emot Grundnivån/Baslinjen oavsett finansiell historia  
 - Ingen kommer fråga vad du är skyldig eller varför  
 
