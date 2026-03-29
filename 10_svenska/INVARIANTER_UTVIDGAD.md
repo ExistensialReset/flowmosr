@@ -12,7 +12,7 @@
 - Ingen individ eller Nod får skaffa sig inflytande genom knapphet, skuld eller förpliktelse.  
 
 ## 2. Grundnivå som Mänsklig Standard
-- Grundnivå är inneboende och universell — bara genom att existera har varje person och levande system en Grundnivå.  
+- Grundnivå/Baslinjen är inneboende och universell — bara genom att existera har varje person och levande system en Grundnivå.  
 - Inkluderar tillgång till mat, vatten, skydd, hälsa, mobilitet, uppkoppling, lärande och vila.  
 - Grundnivå för Jorden: vatten, jordar, stenar, ekosystem, metaller — integritet är icke-förhandlingsbar.  
 
@@ -71,7 +71,7 @@ flowchart LR
 Implementeringsanteckningar:
 - Ingen Nod, protokoll eller experiment får kränka dessa invarianter.
 - Kompetens får existera men aldrig ackumulera som tvingande makt.
-- Grundnivåtillgång är villkorslös; överlevnad på bekostnad av värdighet är inte tillåten.
+- Baslinje/Grundnivåtillgång är villkorslös; överlevnad på bekostnad av värdighet är inte tillåten.
 - ROTATION, transparens och kunskapsdelning är strukturella skyddsåtgärder.
 
 
