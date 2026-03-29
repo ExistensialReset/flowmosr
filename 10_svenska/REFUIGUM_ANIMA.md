@@ -4,7 +4,7 @@
 *Ett återställande, inkluderande utrymme för att återvända till Flödet — utan diagnos, rättfärdigande eller tidslinje*  
 
 **Status:** Levande Fristad för Alla Människor  
-**Åtagande:** Varje person — oavsett ålder, förmåga eller berättelse — förtjänar en plats att kollapsa, rasa, gråta, leka och återvända till Flödet.  
+**Åtagande:** Varje person — oavsett ålder, förmåga eller berättelse — förtjänar en plats att kollapsa, rasa, gråta, leka och sedan kunna återvända till Flödet.  
 
 ---
 
@@ -20,13 +20,13 @@ Detta är inte ett sjukhus.
 Detta är inte en behandlingsanläggning.  
 Detta är inte en plats för diagnos, korrigering eller rehabilitering.  
 
-**Refugium Anima är fristad.**
+**Refugium Anima är själens fristad.**
 
-### Ingen Tvingad Utträde
+### Inget Tvingat Utträde
 
 Individer avlägsnas aldrig från Refugium på grund av långsam återhämtning.
 
-Avresa är självbestämd eller samarbetsöverenskommen när stabilitet återkommer.
+Avresa är självbestämd eller överenskommen när stabilitet återkommer.
 
 ---
 
@@ -38,9 +38,9 @@ Refugium Anima är **tillgängligt för alla människor**: barn, vuxna, äldre o
 - Höjdjusterbara möbler och armaturer.  
 - Sensoriska anpassningar för neurodivergenta individer (tysta timmar, dämpad belysning, fidgetverktyg).  
 - Medicinsk utrustning (lift, justerbar säng) tillgänglig utan stigma.  
-- Absolut ingen är för ung, för gammal, för tung eller för funktionsnedsatt för att vara här. 
+- **Absolut ingen** är för ung, för gammal, för tung eller för funktionsnedsatt för att vara här. 
 
-Befolkningstäthet är avsiktligt begränsad för att bevara lugn, trygghet och sensorisk reglering. 
+Täthet på innevarande är avsiktligt begränsad, för att bevara lugn, trygghet och sensorisk reglering. 
 
 ---
 
@@ -53,16 +53,16 @@ Befolkningstäthet är avsiktligt begränsad för att bevara lugn, trygghet och 
 
 ### 1.2 Ingen Produktivitet Krävs
 - Inga uppgifter, inga scheman, inga mål såvida inte efterfrågade  
-- Kroppen sätter takten — vare sig kroppen är 4 eller 84  
+- Kroppen sätter takten — vare sig kroppen är 4 år eller 84 år 
 - Lek är tillåten, inte som terapi utan som varande  
 
 ### 1.3 Inget Rättfärdigande Krävs
 - Tystnad hedras  
 - Delande är valfritt  
-- Barns tårar och vuxnas raseri vittnas om, inte förhörs  
+- Barns tårar och vuxnas raseri tas emot av Vittnen. 
 
 ### 1.4 Kollaps är Välkommen
-- Vila, sammanbrott, skrikande, slag (i säkra utrymmen), icke-engagemang alla accepterade  
+- Vila, sammanbrott, skrikande, slag (i säkra utrymmen), icke-engagemang, alla är accepterade  
 - Regression är del av läkning  
 
 ### 1.5 Djur och Natur
@@ -81,7 +81,7 @@ Utrymmen är **designade för alla kroppar**, barn och vuxna. Individer får vä
 
 ### 2.1 Vila & Regleringsutrymmen
 - Justerbart ljus och ljud  
-- Sängar, mattor, hängmattor, viktade filtar  
+- Sängar, mattor, hängmattor, vikttäcken och filtar  
 - Temperaturkontroll  
 - Tillgänglig design  
 - Barnanpassning: låga sängar, mysiga vrår  
@@ -175,11 +175,11 @@ Stödjer ADHD, Autism, Trauma, Kronisk Sjukdom
 
 ## 7. RELATION TILL FLÖDE & LYCEUM
 
-**Grundnivå → Refugium → Lyceum → Bidrag → Flöde**  
+**Grundnivå/Baslinjen → Refugium → Lyceum → Bidrag → Flöde**  
 
 - Refugium stabiliserar Ψ (nervsystemfunktion)  
 - Lyceum utvidgar kreativitet och handlingskraft  
-- Grundnivå upprätthåller stabilitet  
+- Grundnivå eller Baslinjen upprätthåller stabilitet  
 
 ### Ψ-Stabilisering (DIVINE_CROSSWALK)
 
@@ -208,19 +208,12 @@ Strukturellt Diagram:
           L     S     I     K     R     F
 ```
 
-## 8. INTEGRATION MED EXISTERANDE PROTOKOLL
-
-- BARNS_RÄTTIGHETER_I_FLÖDET.md  
-- SUVERÄNITET_OCH_SKYDDSHANDBOK.md  
-- FUNKTIONSNEDSÄTTNING_OCH_KRONISK_SJUKDOM_FLÖDE.md  
-- PROTOKOLL_AVSLUTNING.md  
-
 ---
 
 ## 9. STARTA ETT REFUGIUM ANIMA
 
 1. Finn ett säkert, tillgängligt utrymme  
-2. Försörj med material: vila, vatten, sensoriska verktyg  
+2. Försörj med material om utrymme finns, börja litet vid behov: vila, vatten, sensoriska verktyg  
 3. Inbjud följeslagare  
 4. Kom överens om principer  
 5. Öppna utrymmet  
@@ -237,13 +230,13 @@ Ett samhälle som inte kan hålla sina barns smärta har redan kollapserat.
 
 Här tillåts du att:  
 - Vara ett skrikande barn  
-- Vara en gråtande äldre  
+- Vara en gråtande, skrikande äldre  
 - Vara en funktionsnedsatt kropp badande i varmt vatten  
 - Vara en tyst själ som betraktar ljusets förskjutning på väggen  
 
 Du hör hemma här. Exakt som du är.  
 
-🌼😱🌿💧🥊🛁♿️🧸
+🌼🌿💧🥊🛁♿️🧸
 
 ---
 
