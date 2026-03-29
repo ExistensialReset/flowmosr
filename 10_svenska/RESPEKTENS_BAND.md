@@ -2,11 +2,12 @@
 
 **Status:** Aktivt Kontrakt för Social och Digital Suveränitet  
 **Version:** 1.8 (Förfinad Suveränitet och Systemisk Integritet)  
-**Kärnprincip:** Din frihet är min trygghet. Vi äger vår uppmärksamhet, vår data och våra relationer.
+**Kärnprincip:** Din frihet är min trygghet. Vi äger vår egen uppmärksamhet, vår data och våra gemensamma relationer.
 
 ---
 
 ## 1. Förord: Suveränitet i Gemenskap
+
 Existentiell suveränitet är kärnfilosofin i detta kontrakt. Att vara suverän är inte att dominera andra, utan att fullt ut bebo sitt eget liv samtidigt som man respekterar allt livs suveränitet. Ingen människa äger en annans tid, tankar eller framtid. Respekt är grundnivån vi beviljar varandra.
 
 ---
@@ -14,14 +15,14 @@ Existentiell suveränitet är kärnfilosofin i detta kontrakt. Att vara suverän
 ## 2. Den Sociala Grundnivån
 
 ### 2.1 Självbestämmande & Radikal Inkludering
-Vi designar för de mest känsliga (Kanariefågelregeln). Individer måste behålla kapaciteten att välja och forma sina egna flöden. System bör stödja, inte tvinga, vilket tillåter sann handlingskraft utan att kompromissa Grundnivån.
+Vi designar för de mest känsliga (Kanariefågelregeln). Individer måste behålla kapaciteten att välja och forma sina egna flöden. System bör stödja, inte tvinga, vilket tillåter sann handlingskraft utan att kompromissa Grundnivån/Baslinjen.
 
 ### 2.2 Deltagande Utan Tvång
-Din rätt att existera är inte knuten till din sociala prestation eller "användbarhet." Missanpassade miljömässiga och existentiella grundnivåer skapar "existentiell skuld"—kulturell, ekologisk eller social — people som vi strävar efter att minimera genom medvetenhet snarare än tvång.
+Din rätt att existera är inte knuten till din sociala prestation eller "användbarhet." Missanpassade miljömässiga och existentiella grundnivåer skapar "existentiell skuld"—kulturell, ekologisk eller social — folk som vi, vi strävar efter att minimera existentiell skuld, genom medvetenhet snarare än tvång.
 
 ### 2.3 Maktrotation
 Roller roterar för att förhindra att "karismatiskt kapital" hårdnar till förtryck.  
-* **Spjuver-Vridning:** För att hålla det lekfullt kan nästa roller väljas via ett "Visdomslotteri"—att besvara en kreativ fråga från naturen (t.ex., "Hur skulle en ek hantera denna konflikt?") för att vägleda övergången.
+**Spjuver-lekfullhet:** För att hålla det lekfullt kan nästa roller väljas via ett "Visdomslotteri"—att besvara en kreativ fråga från naturen (t.ex., "Hur skulle en ek hantera denna konflikt?") för att vägleda övergången.
 
 ---
 
@@ -38,7 +39,7 @@ Detta betyder:
 Systemet ska flagga om en Cirkel blir för homogen i tanke och föreslå att bjuda in "vilda röster"—perspektiv från andra cirklar eller icke-mänskliga synvinklar via AI-reflektion.
 
 ### 3.3 Transparens & Människoläsbar Logik
-Logik bör inte bara vara öppen källkod utan förklarad på vanligt språk (Flödes-Loggar). Beslut som påverkar andra eller miljön måste vara synliga, ansvarsskyldiga och förklarbara.
+Logik bör inte bara vara öppen källkod utan förklarad på vanligt språk (Flödes-Loggar). Beslut som påverkar andra människor eller miljön måste vara synliga, ansvarsskyldiga och förklarbara.
 
 ### 3.4 Operationalisering av Biasbegränsning
 Se **DATA-BIAS-FRIENDLY.md** för praktisk implementering av inkluderande dataset, testning och triadarbetsflödestillämpning.
@@ -79,7 +80,7 @@ Istället för rigida mått letar vi efter närvaron av dessa levande kvaliteter
 
 ## 7. Referenser 
 * **Digital Biasbegränsning:** Se DATA-BIAS-FRIENDLY.md för biasidentifiering, testning och kontinuerlig förbättring.  
-* **Miljömedvetenhet:** Kulturella och etiska handlingar måste förbli anpassade med JORDEN-VÅR-MODER.md principer.
+* **Miljömedvetenhet:** Kulturella och etiska handlingar måste förbli anpassade med JORDEN_VÅR_MODER.md principer.
 
 ---
 
