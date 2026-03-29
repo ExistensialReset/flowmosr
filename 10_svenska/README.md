@@ -24,6 +24,75 @@ Allt annat följer därav.
 
 ---
 
+# 🌊 Flödet
+## En ingång på svenska
+
+Den här mappen innehåller Flow / M-OS-R uttryckt på svenska.
+
+Inte som en direkt översättning.  
+Utan som en **egen språklig och kulturell resonans**.
+
+---
+
+## 🧭 Vad detta är
+
+Flow förändras inte.
+
+Men sättet det uttrycks på gör det.
+
+Språk formar:
+- Hur vi tänker  
+- Vad vi uppfattar  
+- Vad som känns sant  
+
+Detta är Flow genom ett svenskt språk.
+
+---
+
+## 🌱 Innehåll
+
+Här finns texter som speglar Flow ur ett annat perspektiv:
+
+- Manifest  
+- Förklaringar  
+- Strukturer  
+- Invarianter  
+- Relation till naturen  
+- Mänsklig upplevelse  
+
+---
+
+## 🧠 Hur detta skiljer sig
+
+Detta är inte en teknisk ingång.
+
+Det är:
+- Mer poetiskt  
+- Mer direkt  
+- Mindre systemförklarande  
+- Mer upplevelsebaserat  
+
+---
+
+## 🌊 Viktigt
+
+Om något här och i engelska versionen skiljer sig:
+
+→ Gå tillbaka till core  
+
+Flow förändras inte.  
+Endast uttrycket gör det.
+
+---
+
+## 💙 En liten påminnelse
+
+Du behöver inte förstå allt.
+
+Du kan läsa detta som:
+
+> Något du redan vet, men inte haft ord för.
+
 ## 📂 Struktur
 
 ### [`FLÖDET`](./FLÖDET.md)
