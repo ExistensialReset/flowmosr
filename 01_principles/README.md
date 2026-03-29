@@ -30,10 +30,10 @@ All principles follow one condition:
 ## 📂 What you will find here
 
 This folder contains principles for:
-- Governance
-- Economy
+
+- Education
 - Healthcare
-- Environment
+- Childen's partipation
 - Social structures
 
 Each document answers:
@@ -47,8 +47,7 @@ Each document answers:
 You don’t need to read everything.
 
 Start where you feel tension:
-- If you question governance → read governance principles  
-- If you question economy → read economic principles  
+- If you question anything, read about it    
 
 ---
 
