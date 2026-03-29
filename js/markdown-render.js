@@ -1,50 +1,61 @@
-async function init() {
-  const nav = document.getElementById("nav");
-  const content = document.getElementById("content");
+const folderOrder = [
+  "00_core",
+  "01_principles",
+  "02_documents",
+  "03_governance",
+  "04_simulations",
+  "05_facilitators",
+  "06_justice",
+  "07_technology",
+  "08_environmental",
+  "09_economics",
+  "10_svenska"
+];
 
-  // Läs pages.json
-  const response = await fetch("pages.json");
-  const files = await response.json();
+const sidebar = document.getElementById("sidebar");
+const content = document.getElementById("content");
 
-  // Skapa navigation
-  files.forEach(file => {
-    const li = document.createElement("li");
-    const a = document.createElement("a");
-    a.href = "#";
-    a.textContent = file.title;
-    a.dataset.md = file.path;
+// Ladda alla sidor
+fetch('./pages.json')
+  .then(res => res.json())
+  .then(pages => {
+    sidebar.innerHTML = "";
 
-    a.addEventListener("click", async (e) => {
-      e.preventDefault();
-      const mdResponse = await fetch(encodeURI(file.path));
-      const mdText = await mdResponse.text();
-      content.innerHTML = renderMarkdown(mdText);
-      window.scrollTo(0,0);
+    folderOrder.forEach(folder => {
+      const folderDiv = document.createElement("div");
+      folderDiv.innerHTML = `<h3>${folder}</h3>`;
+
+      const files = pages.filter(p => p.path.startsWith(folder + "/"));
+
+      files.forEach(file => {
+        const link = document.createElement("a");
+        link.href = "#";
+        link.textContent = file.title;
+
+        link.onclick = (e) => {
+          e.preventDefault();
+          loadPage(file.path);
+        };
+
+        folderDiv.appendChild(link);
+      });
+
+      sidebar.appendChild(folderDiv);
     });
 
-    li.appendChild(a);
-    nav.appendChild(li);
+    // Ladda första sidan automatiskt
+    if (pages.length > 0) {
+      loadPage(pages[0].path);
+    }
   });
 
-  // Ladda README automatiskt
-  const readme = files.find(f => f.title.toLowerCase() === "readme");
-  if (readme) {
-    const mdResponse = await fetch(encodeURI(readme.path));
-    const mdText = await mdResponse.text();
-    content.innerHTML = renderMarkdown(mdText);
-  }
+function loadPage(path) {
+  fetch(path)
+    .then(res => res.text())
+    .then(md => {
+      content.innerHTML = marked.parse(md);
+    })
+    .catch(() => {
+      content.innerHTML = "❌ Could not load file: " + path;
+    });
 }
-
-// Enkel Markdown → HTML
-function renderMarkdown(md) {
-  return md
-    .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-    .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-    .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-    .replace(/\*\*(.*)\*\*/gim, '<strong>$1</strong>')
-    .replace(/\*(.*)\*/gim, '<em>$1</em>')
-    .replace(/`(.*)`/gim, '<code>$1</code>')
-    .replace(/\n$/gim, '<br>');
-}
-
-init();
