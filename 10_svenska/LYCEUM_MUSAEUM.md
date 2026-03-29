@@ -87,7 +87,7 @@ Lyceum kräver inte perfekta människor.
 Det kräver endast **rätt infrastruktur**:
 
 ✅ **Fysiskt närvarande** – inte en app, en byggnad i ditt kvarter  
-✅ **Alltid öppen** – som ett bibliotek, som en park  
+✅ **Alltid öppen** –  som en park  
 ✅ **Resurser utan byråkrati** – inga formulär, inga ansökningar  
 ✅ **Kompetens som delar sig själv** – pensionerade hantverkare, lärare, amatörer, alla bidrar  
 ✅ **Ingen kommersialisering** – inget att sälja, inget att köpa, bara att **vara**
@@ -131,8 +131,8 @@ Detta utrymme lär djärvhet. **Djärvhet att pröva, djärvhet att ha fel, djä
 ## Det Är Inte ett Komplement. Det Är Livet.
 
 Arbete är vad du gör för att bidra.  
-Mat är vad du äter för att upprätthålla.  
-Grundnivå håller dig trygg.  
+Mat är vad du äter för att upprätthålla livet i din kropp.  
+Grundnivån, Baslinjen håller dig trygg.  
 
 Men **Lyceum är vad du lever för**.
 
@@ -215,8 +215,8 @@ Lyceum Musaeum inkluderar **erfarenhetsmässig utforskning** som del av livslån
 
 ### Grundnivåresa för Åldrar 7–25
 - Varje barn och ung vuxen har rätt till **minst två längre resor** före 25 års ålder.  
-- Resa är idealt via **hållbar masstransit**: tåg, båt eller annan lågpåverkans kollektivtrafik.  
-- Resor exponerar deltagare för **olika kulturer, ekosystem och sociala sammanhang**, vilket förstärker nyfikenhet, empati och verkligt lärande.  
+- Resa är görbart via **hållbar masstransit**: tåg, båt eller annan lågpåverkanskollektivtrafik.  
+- Resor exponerar deltagare för **olika kulturer, ekosystem och sociala sammanhang**, vilket förstärker nyfikenhet, inkännande och verkligt lärande.  
 - Varaktighet och destination är flexibla, men resor bör vara **uppslukande, engagerande och säkra**.  
 - Resa betraktas som en **fundamental Grundnivårättighet**, inte ett privilegium eller belöning.
 
@@ -263,7 +263,7 @@ Lärande blir spontant när Grundnivå är säkrad.
 - 09:30 — Bygger en solarugn  
 - 10:30 — Tyst rumspaus  
 - 11:00 — Läser om ökenekosystem  
-- 12:00 — Lunch tillsammans  
+- 12:00 — Lunch tillsammans med andra 
 - 13:00 — Vila  
 - 14:00 — Skriver en berättelse  
 - 15:00 — Lämnar  
