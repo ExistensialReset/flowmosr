@@ -1,29 +1,3 @@
-# 🌊 Flödets Kärna
-## Grunden för M-OS-R
-
-Denna mapp innehåller **kärnlagret av Flödet** och svenska versioner av vissa texter, därför att jag som skriver och utarbetat Flödet är svensk.
-
-Den är inte dokumentation i traditionell bemärkelse.  
-Den är den **minimala struktur som krävs för att ett annorlunda sätt att leva ska existera**.
-
----
-
-## 🧭 Vad detta är
-
-Flödet börjar här.
-
-Inte med system.  
-Inte med styrning.  
-Inte med infrastruktur.
-
-Utan med **en förskjutning i hur överlevnad förstås**.
-
-> Överlevnad är inte något du förtjänar.
-
-Allt annat följer därav.
-
----
-
 # 🌊 Flödet
 ## En ingång på svenska
 
@@ -92,6 +66,32 @@ Du behöver inte förstå allt.
 Du kan läsa detta som:
 
 > Något du redan vet, men inte haft ord för.
+
+# 🌊 Flödets Kärna
+## Grunden för M-OS-R
+
+Denna mapp innehåller **kärnlagret av Flödet** och svenska versioner av vissa texter, därför att jag som skriver och utarbetat Flödet är svensk.
+
+Den är inte dokumentation i traditionell bemärkelse.  
+Den är den **minimala struktur som krävs för att ett annorlunda sätt att leva ska existera**.
+
+---
+
+## 🧭 Vad detta är
+
+Flödet börjar här.
+
+Inte med system.  
+Inte med styrning.  
+Inte med infrastruktur.
+
+Utan med **en förskjutning i hur överlevnad förstås**.
+
+> Överlevnad är inte något du förtjänar.
+
+Allt annat följer därav.
+
+---
 
 ## 📂 Struktur
 
