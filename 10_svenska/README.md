@@ -26,37 +26,37 @@ Allt annat följer därav.
 
 ## 📂 Struktur
 
-### [`00_FLÖDE_KÄRNA_INTRÄDE`](./00_FLÖDE_KÄRNA_INTRÄDE.md)
+### [`00_FLÖDET`](./FLÖDET.md)
 Inträdesportalen.  
-Om du är ny till Flödet, börja här.
+Om du är ny i Flödet, börja här.
 
 ---
 
-### [`01_FLÖDE_KÄRNA_STRUKTUR`](./01_FLÖDE_KÄRNA_STRUKTUR.md)
+### [`STRUKTUR.md`](./STRUKTUR.md)
 Definierar hur Flödet är strukturerat på den djupaste nivån.  
 Inte institutioner — utan relationer mellan behov, människor och system.
 
 ---
 
-### [`02_FLÖDE_FÖRKLARINGSLAGER`](./02_FLÖDE_FÖRKLARINGSLAGER.md)
+### [`FÖRKLARING`](./FÖRKLARING.md)
 Översätter Flödet till något förståeligt.  
 Bygger broar mellan intuition och artikulation.
 
 ---
 
-### [`03_AXIOM`](./03_AXIOM.md)
+### [`GRÄNSER`](./GRÄNSER.md)
 De icke-förhandlingsbara sanningarna.  
 Om dessa bryts, bryts Flödet.
 
 ---
 
-### [`04_FLÖDE_KÄRN_INVARIANTER_UTVIDGAD`](./04_FLÖDE_KÄRN_INVARIANTER_UTVIDGAD.md)
+### [`INVARIANTER_UTVIDGAD`](./INVARIANTER_UTVIDGAD.md)
 Utvidgade invarianter.  
 Detaljerade begränsningar som skyddar systemet från kollaps eller infångande.
 
 ---
 
-### [`05_STRUKTURELLA_INVARIANTER`](./05_STRUKTURELLA_INVARIANTER.md)
+### [`STRUKTURELLA_INVARIANER`](./STRUKTURELLA_INVARIANTER.md)
 Hur struktur förblir stabil över tid.  
 Förhindrar drift tillbaka till tvång eller hierarki.
 
@@ -69,7 +69,7 @@ Du behöver inte förstå allt.
 Börja med:
 → Inträde  
 → Struktur  
-→ Axiom  
+→ Gränser  
 
 Rör dig sedan utåt.
 
