@@ -28,7 +28,7 @@
 
 ## 5. Delad Kompetens
 - Kunskap och expertis är **menade att distribueras**.  
-- Noder verkar genom skuggning, mentorskap, dokumentation och kamratundervisningscykler.  
+- Noder verkar genom skuggning, mentorskap, dokumentation och kamratundervisnings-cykler.  
 - Ingen person är oumbärlig; kompetens existerar för systemet, inte för personligt inflytande.  
 
 ## 6. Personliga Datarättigheter
