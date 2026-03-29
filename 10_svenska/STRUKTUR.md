@@ -77,7 +77,7 @@ FLÖDET expanderar och konsolideras via **spiralloopar**:
 **Dokumentation är väsentlig**:
 
 - Varje fas måste producera **överförbar, neutral dokumentation**.  
-- Protokoll måste **förutse grundares frånvaro**.  
+- Protokoll måste **förutsätta grundares frånvaro**.  
 - Kunskapsöverföring inkluderar skriftliga, muntliga och digitala medier lämpliga för olika läskunnighets- och teknologiska sammanhang.  
 
 **Återkopplingsloopar:** Misslyckanden dokumenteras, lösningar standardiseras och lokala anpassningar delas mellan noder.  
@@ -87,7 +87,7 @@ FLÖDET expanderar och konsolideras via **spiralloopar**:
 ## 5. GLOBALA FRAMGÅNGSMÅTT
 
 **Mät aldrig:**
-- Individuellt värde, emotionell form, ideologisk efterlevnad, social hierarki eller produktivitetstempo.  
+- Individuellt värde, emotionella känslor, ideologisk efterlevnad, social hierarki eller produktivitetstempo.  
 
 **Mät alltid:**
 - Resursregeneration, baslinjesäkerhet, förtroendestabilitet, rollredundans, konfliktlösningseffektivitet, energihållbarhet och dokumentationskvalitet.  
@@ -102,7 +102,7 @@ FLÖDET är robust endast om potentiella misslyckanden förstås:
 
 - **Grundarberoende:** Begränsa med fullständig rolldokumentation och delegering.  
 - **Kulturell Drift:** Kärnprinciper är abstrakta; lokal anpassning är tillåten utan att bryta invarianter.  
-- **Regleringsinfångande:** Lagefterlevnad uppnås utan central auktoritet.  
+- **Reglering:** Lagefterlevnad uppnås utan central auktoritet.  
 - **Resursolikhet:** Transparens- och solidaritetsmekanismer förhindrar dominanshierarkier.  
 - **Synlighetsrisk i Auktoritära Stater:** Verksamhet förblir diskret; inramning undviker ideologisk exponering.  
 
@@ -118,7 +118,7 @@ FLÖDET är robust endast om potentiella misslyckanden förstås:
 1. Är kärnprinciperna intakta?  
 2. Är baslinjen säkerställd?  
 3. Kan deltagare lämna fritt?  
-4. Finns det inget permanent ledarskap?  
+4. Finns det inte något permanent ledarskap?  
 5. Metaboliseras konflikter effektivt?  
 6. Är systemet regenerativt?  
 7. Kan systemet fungera utan grundaren?  
