@@ -1,39 +1,57 @@
 name: Generate pages.json
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
 
       - name: Generate pages.json
         run: |
-          echo "[" > pages.json
-          find . -type f -name "*.md" | grep -v "pages.json" | grep -v ".github" | while read f; do
-            title=$(basename "$f" .md)
-            title=$(echo "$title" | sed 's/"/\\"/g')
-            # Ta bort ./ i path
-            echo "{\"title\": \"$title\", \"path\": \"${f#./}\"}," >> pages.json
-          done
-          # Ta bort sista kommatecknet
-          sed -i '$ s/,$//' pages.json
-          echo "]" >> pages.json
+          node <<'EOF'
+          const fs = require('fs');
+          const path = require('path');
 
-      - name: Commit pages.json
+          const folderOrder = [
+            "00_core","01_principles","02_documents","03_governance",
+            "04_simulations","05_facilitators","06_justice","07_technology",
+            "08_environmental","09_economics","10_svenska"
+          ];
+
+          const pages = [];
+
+          folderOrder.forEach(folder => {
+            if (!fs.existsSync(folder)) return;
+            const files = fs.readdirSync(folder)
+              .filter(f => f.endsWith('.md'))
+              .sort();
+            files.forEach(f => {
+              pages.push({
+                title: f.replace(/\.md$/, ''),
+                path: `${folder}/${f}`
+              });
+            });
+          });
+
+          fs.writeFileSync('pages.json', JSON.stringify(pages, null, 2));
+          EOF
+
+      - name: Commit and push pages.json
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add pages.json
-          git diff-index --quiet HEAD || git commit -m "Update pages.json"
+          git commit -m "Update pages.json [skip ci]" || echo "No changes"
           git push
