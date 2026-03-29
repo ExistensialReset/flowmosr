@@ -67,6 +67,7 @@ Förhindrar drift tillbaka till tvång eller hierarki.
 Du behöver inte förstå allt.
 
 Börja med:
+
 → Inträde  
 → Struktur  
 → Gränser  
