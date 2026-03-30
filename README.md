@@ -54,7 +54,7 @@ Flow is a way of living built on one simple shift:
 - [`Refugium Anima`](./ethos/REFUGIUM_ANIMA.md) — rest without justification  
 
 ### No coercion
-Nothing requires obedience. Participation is voluntary.
+Nothing requires obedience. Participation is voluntary. Everyone helps from their own position. 
 
 ### Systems serve life
 If something harms people, animals, or Earth — the structure changes.
