@@ -3,29 +3,70 @@
 <head>
   <meta charset="UTF-8">
   <title>FlowMOSR</title>
+  <style>
+    body {
+      display: flex;
+      font-family: Arial;
+      margin: 0;
+    }
+    #sidebar {
+      width: 300px;
+      height: 100vh;
+      overflow-y: auto;
+      background: #111;
+      color: white;
+      padding: 10px;
+    }
+    #content {
+      flex: 1;
+      padding: 20px;
+    }
+    .item {
+      cursor: pointer;
+      margin-left: 10px;
+    }
+  </style>
 </head>
 <body>
 
-<h1>FlowMOSR Debug</h1>
-
-<div id="output">Laddar...</div>
+<div id="sidebar"></div>
+<div id="content">Välj en fil</div>
 
 <script>
 fetch('pages.json')
-  .then(response => {
-    if (!response.ok) {
-      throw new Error("Kunde inte ladda pages.json");
-    }
-    return response.json();
-  })
+  .then(res => res.json())
   .then(data => {
-    document.getElementById('output').innerHTML =
-      "<pre>" + JSON.stringify(data, null, 2) + "</pre>";
-  })
-  .catch(error => {
-    document.getElementById('output').innerHTML =
-      "<h2>FEL:</h2><pre>" + error + "</pre>";
+    render(data);
   });
+
+function render(items, container = document.getElementById('sidebar')) {
+  items.forEach(item => {
+    const div = document.createElement('div');
+    div.textContent = item.title;
+    div.className = "item";
+
+    if (item.path) {
+      div.onclick = () => loadPage(item.path);
+    }
+
+    container.appendChild(div);
+
+    if (item.children) {
+      render(item.children, container);
+    }
+  });
+}
+
+function loadPage(path) {
+  fetch(encodeURI(path)) // 🔥 viktigt för åäö
+    .then(res => res.text())
+    .then(text => {
+      document.getElementById('content').innerText = text;
+    })
+    .catch(err => {
+      document.getElementById('content').innerText = "Fel: " + err;
+    });
+}
 </script>
 
 </body>
