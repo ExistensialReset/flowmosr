@@ -139,6 +139,11 @@ And that is enough.
 
 ---
 
+To read the whole repository, if you're on https://existensialreset.github.io/flowmosr/
+Please take a look at https://github.com/ExistensialReset/flowmosr
+
+---
+
 ## 🛡️ License
 
 CC BY-NC-SA 4.0 — Use freely, no extraction.
