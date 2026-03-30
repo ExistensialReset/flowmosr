@@ -2,23 +2,16 @@
 fetch('pages.json')
   .then(res => res.json())
   .then(data => {
-    const sidebar = document.getElementById('sidebar');
-
-    // 🔥 START-knapp
-    const start = document.createElement('div');
-    start.textContent = "START";
-    start.className = "item";
-    start.onclick = () => loadPage('README.md');
-    sidebar.appendChild(start);
-
-    // 🔥 Rendera resten
-    render(data, sidebar);
-
-    // 🔥 Ladda root README direkt
-    loadPage('README.md');
+    render(data);
+    loadPage('README.md'); // 🔥 start-sida
+  })
+  .catch(err => {
+    document.getElementById('content').innerText = "Fel loading JSON: " + err;
   });
 
-function render(items, container) {
+function render(items) {
+  const sidebar = document.getElementById('sidebar');
+
   items.forEach(item => {
     const div = document.createElement('div');
     div.textContent = item.title;
@@ -28,17 +21,20 @@ function render(items, container) {
       div.onclick = () => loadPage(item.path);
     }
 
-    container.appendChild(div);
+    sidebar.appendChild(div);
 
     if (item.children) {
-      render(item.children, container);
+      render(item.children);
     }
   });
 }
 
 function loadPage(path) {
-  fetch(encodeURI(path)) // 🔥 fix för åäö
-    .then(res => res.text())
+  fetch(encodeURI(path))
+    .then(res => {
+      if (!res.ok) throw new Error("Hittar inte filen");
+      return res.text();
+    })
     .then(text => {
       document.getElementById('content').innerText = text;
     })
