@@ -17,7 +17,7 @@
     overflow: hidden;
   }
   #sidebar {
-    width: 300px;
+    width: 320px;
     background-color: #120836;
     color: #ffb700;
     overflow-y: auto;
@@ -52,6 +52,13 @@
     color: #1b0a3b;
     font-weight: bold;
   }
+  #sidebar ul ul {
+    padding-left: 1rem;
+    display: none;
+  }
+  #sidebar li.open > ul {
+    display: block;
+  }
   #content {
     flex: 1;
     padding: 2rem;
@@ -59,7 +66,7 @@
     background-color: #1b0a3b;
     color: #ffb700;
   }
-  h1, h2, h3, h4, h5, h6 { color: #ffb700; }
+  h1,h2,h3,h4,h5,h6 { color: #ffb700; }
   a { color: #ffb700; }
   pre, code {
     background-color: #2b0f5e;
@@ -74,52 +81,186 @@
 <div id="container">
   <nav id="sidebar">
     <h2>Flow MOSR</h2>
-    <ul>
-      <li><a data-file="README.md" class="active">Start (Root README)</a></li>
-      <li><a data-file="00_core/README.md">00_core</a></li>
-      <li><a data-file="01_principles/README.md">01_principles</a></li>
-      <li><a data-file="02_documents/README.md">02_documents</a></li>
-      <li><a data-file="03_governance/README.md">03_governance</a></li>
-      <li><a data-file="04_simulations/README.md">04_simulations</a></li>
-      <li><a data-file="05_facilitators/README.md">05_facilitators</a></li>
-      <li><a data-file="06_justice/README.md">06_justice</a></li>
-      <li><a data-file="07_technology/README.md">07_technology</a></li>
-      <li><a data-file="08_environmental/README.md">08_environmental</a></li>
-      <li><a data-file="09_economics/README.md">09_economics</a></li>
-      <li><a data-file="10_svenska/README.md">10_svenska</a></li>
-    </ul>
+    <ul id="fileTree"></ul>
   </nav>
   <div id="content">Laddar...</div>
 </div>
 
-<!-- Marked.js för Markdown rendering -->
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
-  const content = document.getElementById('content');
-  const links = document.querySelectorAll('#sidebar a');
+const content = document.getElementById('content');
+const fileTree = document.getElementById('fileTree');
 
-  async function loadMarkdown(file) {
-    content.innerHTML = 'Laddar...';
-    const res = await fetch(file);
-    if (!res.ok) {
-      content.innerHTML = `Kunde inte ladda fil: ${file}`;
-      return;
+// Komplett JSON-struktur för alla mappar och filer
+const structure = [
+  {"title":"Start","path":"README.md"},
+  {"title":"00_core","path":"00_core/README.md","children":[
+    {"title":"00_FLOW_CORE_ENTRY","path":"00_core/00_FLOW_CORE_ENTRY.md"},
+    {"title":"01_FLOW_CORE_STRUCTURE","path":"00_core/01_FLOW_CORE_STRUCTURE.md"},
+    {"title":"02_FLOW_EXPLANATION_LAYER","path":"00_core/02_FLOW_EXPLANATION_LAYER.md"},
+    {"title":"03_AXIOMS","path":"00_core/03_AXIOMS.md"},
+    {"title":"04_FLOW_CORE_INVARIANTS_EXTENDED","path":"00_core/04_FLOW_CORE_INVARIANTS_EXTENDED.md"},
+    {"title":"05_STRUCTURAL_INVARIANTS","path":"00_core/05_STRUCTURAL_INVARIANTS.md"}
+  ]},
+  {"title":"01_principles","path":"01_principles/README.md","children":[
+    {"title":"CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE","path":"01_principles/CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE.md"},
+    {"title":"CHILDREN_CULTURAL_ADAPTATION_GUIDE","path":"01_principles/CHILDREN_CULTURAL_ADAPTATION_GUIDE.md"},
+    {"title":"CHILDREN_PARTICIPATION_PLAYBOOK","path":"01_principles/CHILDREN_PARTICIPATION_PLAYBOOK.md"},
+    {"title":"FLOW_ACCESSIBILITY_PRINCIPLES","path":"01_principles/FLOW_ACCESSIBILITY_PRINCIPLES.md"},
+    {"title":"FLOW_DEATH_DIGNITY_PRINCIPLES","path":"01_principles/FLOW_DEATH_DIGNITY_PRINCIPLES.md"},
+    {"title":"FLOW_EDUCATION_PRINCIPLES","path":"01_principles/FLOW_EDUCATION_PRINCIPLES.md"},
+    {"title":"FLOW_HEALTHCARE_PRINCIPLES","path":"01_principles/FLOW_HEALTHCARE_PRINCIPLES.md"},
+    {"title":"FLOW_PLANETARY_JOURNEY_PRINCIPLES","path":"01_principles/FLOW_PLANETARY_JOURNEY_PRINCIPLES.md"},
+    {"title":"FLOW_WORK_MOTIVATION_PRINCIPLES","path":"01_principles/FLOW_WORK_MOTIVATION_PRINCIPLES.md"}
+  ]},
+  {"title":"02_documents","path":"02_documents/README.md","children":[
+    {"title":"C_HYDRO_AND_FLOW_IMPLEMENTATION","path":"02_documents/C_HYDRO_AND_FLOW_IMPLEMENTATION.md"},
+    {"title":"DECENTRALIZATION_NOTICE","path":"02_documents/DECENTRALIZATION_NOTICE.md"},
+    {"title":"FLOW_FREE_RIDERS","path":"02_documents/FLOW_FREE_RIDERS.md"},
+    {"title":"FLOW_HUMAN_INFRASTRUCTURE","path":"02_documents/FLOW_HUMAN_INFRASTRUCTURE.md"},
+    {"title":"FLOW_MASTER_ARCHITECTURE","path":"02_documents/FLOW_MASTER_ARCHITECTURE.md"},
+    {"title":"FLOW_SPIRAL_RADIAL_MAX","path":"02_documents/FLOW_SPIRAL_RADIAL_MAX.md"},
+    {"title":"HUMAN_INFRASTRUCTURE","path":"02_documents/HUMAN_INFRASTRUCTURE.md"},
+    {"title":"HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN","path":"02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md"},
+    {"title":"INFORMATION_FLOW_ARCHITECTURE","path":"02_documents/INFORMATION_FLOW_ARCHITECTURE.md"}
+  ]},
+  {"title":"03_governance","path":"03_governance/README.md","children":[
+    {"title":"ABOUT_GOVERNANCE","path":"03_governance/ABOUT_GOVERNANCE.md"},
+    {"title":"CHILDRENS_COUNCIL_PROTOCOL","path":"03_governance/CHILDRENS_COUNCIL_PROTOCOL.md"},
+    {"title":"CIRCLE_GOVERNANCE","path":"03_governance/CIRCLE_GOVERNANCE.md"},
+    {"title":"CONSTITUTION","path":"03_governance/CONSTITUTION.md"},
+    {"title":"FEDERATED_SUPPORT_PROTOCOL","path":"03_governance/FEDERATED_SUPPORT_PROTOCOL.md"},
+    {"title":"FLOW_GOVERNANCE_LOTTERIES","path":"03_governance/FLOW_GOVERNANCE_LOTTERIES.md"},
+    {"title":"FLOW_GOVERNANCE_PRINCIPLES","path":"03_governance/FLOW_GOVERNANCE_PRINCIPLES.md"},
+    {"title":"IRRECONCILABLE_DIFFERENCE_PROTOCOL","path":"03_governance/IRRECONCILABLE_DIFFERENCE_PROTOCOL.md"},
+    {"title":"LOTUS_GOVERNANCE_PROTOCOL_v2","path":"03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md"},
+    {"title":"NODE_EXIT_PROTOCOL","path":"03_governance/NODE_EXIT_PROTOCOL.md"},
+    {"title":"NODE_ROLES","path":"03_governance/NODE_ROLES.md"},
+    {"title":"SMALL_POOL_LOTUS_PROTOCOLS","path":"03_governance/SMALL_POOL_LOTUS_PROTOCOLS.md"}
+  ]},
+  {"title":"04_simulations","path":"04_simulations/README.md","children":[
+    {"title":"AI_RED_TEAM_AUDIT","path":"04_simulations/AI_RED_TEAM_AUDIT.md"},
+    {"title":"FLOW_SPIRAL_ESTIMATED_TIMELINES","path":"04_simulations/FLOW_SPIRAL_ESTIMATED_TIMELINES.md"},
+    {"title":"FLOW_SPIRAL_REALISTIC_TIMELINE_REVIEW","path":"04_simulations/FLOW_SPIRAL_REALISTIC_TIMELINE_REVIEW.md"},
+    {"title":"HELIX_SIMULATIONS","path":"04_simulations/HELIX_SIMULATIONS.md"},
+    {"title":"JUSTICE_SCENARIOS_AND_EXAMPLES","path":"04_simulations/JUSTICE_SCENARIOS_AND_EXAMPLES.md"},
+    {"title":"NODE_RESILIENCE","path":"04_simulations/NODE_RESILIENCE.md"},
+    {"title":"NODE_RESILIENCE_STRESS_TEST","path":"04_simulations/NODE_RESILIENCE_STRESS_TEST.md"},
+    {"title":"NORDIC_CITIES_SELF_SUFFICIENCY","path":"04_simulations/NORDIC_CITIES_SELF_SUFFICIENCY.md"},
+    {"title":"OPERATIONAL_RISK&RESILIENCE_LAYER","path":"04_simulations/OPERATIONAL_RISK&RESILIENCE_LAYER.md"},
+    {"title":"PHYSICAL_NODE_SCANDINAVIA","path":"04_simulations/PHYSICAL_NODE_SCANDINAVIA.md"},
+    {"title":"PURPOSE","path":"04_simulations/PURPOSE.md"},
+    {"title":"ROBUSTNESS_AND_RISK_MITIGATION_LAYER","path":"04_simulations/ROBUSTNESS_AND_RISK_MITIGATION_LAYER.md"},
+    {"title":"SYMBIOTIC_INTELLEGENCE_IN_ACTION","path":"04_simulations/SYMBIOTIC_INTELLEGENCE_IN_ACTION.md"},
+    {"title":"URBAN_HYDROPONIC_SELFSUFFICIENCY_PROTOCOL","path":"04_simulations/URBAN_HYDROPONIC_SELFSUFFICIENCY_PROTOCOL.md"}
+  ]},
+  {"title":"05_facilitators","path":"05_facilitators/README.md","children":[
+    {"title":"EXPERT_CERTIFICATION_PROTOCOL","path":"05_facilitators/EXPERT_CERTIFICATION_PROTOCOL.md"},
+    {"title":"JUSTICE_FACILITATOR","path":"05_facilitators/JUSTICE_FACILITATOR.md"},
+    {"title":"REFUGIUM_ANIMA_WITNESSES_TRAINING","path":"05_facilitators/REFUGIUM_ANIMA_WITNESSES_TRAINING.md"},
+    {"title":"YOUTH_FACILITATOR_TRAINING_PROTOCOL","path":"05_facilitators/YOUTH_FACILITATOR_TRAINING_PROTOCOL.md"}
+  ]},
+  {"title":"06_justice","path":"06_justice/README.md","children":[
+    {"title":"CAPACITY_ASSESSMENT_PROTOCOL","path":"06_justice/CAPACITY_ASSESSMENT_PROTOCOL.md"},
+    {"title":"CHILD_WITNESS_PROTOCOL","path":"06_justice/CHILD_WITNESS_PROTOCOL.md"},
+    {"title":"COMPLETE_LEGAL_RESPONSE_PLAYBOOK","path":"06_justice/COMPLETE_LEGAL_RESPONSE_PLAYBOOK.md"},
+    {"title":"EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM","path":"06_justice/EVIDENCE_DECISION_MATRIX_UNFORGIVABLE_HARM.md"},
+    {"title":"FLOW_JUSTICE_PRINCIPLES","path":"06_justice/FLOW_JUSTICE_PRINCIPLES.md"},
+    {"title":"FLOW_JUSTICE_PROTOCOLS","path":"06_justice/FLOW_JUSTICE_PROTOCOLS.md"},
+    {"title":"HARM_SUMMARY","path":"06_justice/HARM_SUMMARY.md"},
+    {"title":"LEGAL_FLOW_SYSTEM_REFERENCE_GUIDE","path":"06_justice/LEGAL_FLOW_SYSTEM_REFERENCE_GUIDE.md"},
+    {"title":"LEGAL_PLAYBOOK_OVERVIEW_MAX","path":"06_justice/LEGAL_PLAYBOOK_OVERVIEW_MAX.md"},
+    {"title":"LEGAL_RESPONSE_QUICK_GUIDE","path":"06_justice/LEGAL_RESPONSE_QUICK_GUIDE.md"},
+    {"title":"MENTAL_HEALTH_DISABILITY_ACCOUNTABILITY_INTEGRATION","path":"06_justice/MENTAL_HEALTH_DISABILITY_ACCOUNTABILITY_INTEGRATION.md"},
+    {"title":"SOVEREIGNTY_AND_PROTECTION_HANDBOOK","path":"06_justice/SOVEREIGNTY_AND_PROTECTION_HANDBOOK.md"},
+    {"title":"UNFORGIVABLE_HARM_PROTOCOL","path":"06_justice/UNFORGIVABLE_HARM_PROTOCOL.md"}
+  ]},
+  {"title":"07_technology","path":"07_technology/README.md","children":[
+    {"title":"ANONYMOUS_RESOURCE_TRACKING_IN_FLOW","path":"07_technology/ANONYMOUS_RESOURCE_TRACKING_IN_FLOW.md"},
+    {"title":"ANONYMOUS_VERIFICATION_WORKFLOW","path":"07_technology/ANONYMOUS_VERIFICATION_WORKFLOW.md"},
+    {"title":"DATA_GOVERNANCE","path":"07_technology/DATA_GOVERNANCE.md"},
+    {"title":"FLOW_AI_PRINCIPLES","path":"07_technology/FLOW_AI_PRINCIPLES.md"},
+    {"title":"FLOW_TECHNOLOGY_PRINCIPLES","path":"07_technology/FLOW_TECHNOLOGY_PRINCIPLES.md"},
+    {"title":"LOTUS_DELIBERATION_PROTECTION","path":"07_technology/LOTUS_DELIBERATION_PROTECTION.md"}
+  ]},
+  {"title":"08_environmental","path":"08_environmental/README.md","children":[
+    {"title":"ECOLOGICAL_AXIOM_ACTIVATION","path":"08_environmental/ECOLOGICAL_AXIOM_ACTIVATION.md"},
+    {"title":"ENVIRONMENTAL_ANALYSIS","path":"08_environmental/ENVIRONMENTAL_ANALYSIS.md"},
+    {"title":"ENVIRONMENTAL_GAIN","path":"08_environmental/ENVIRONMENTAL_GAIN.md"},
+    {"title":"FLOW_ENVIRONMENTAL_PRINCIPLES","path":"08_environmental/FLOW_ENVIRONMENTAL_PRINCIPLES.md"},
+    {"title":"INTERSPECIES_PROTOCOL","path":"08_environmental/INTERSPECIES_PROTOCOL.md"}
+  ]},
+  {"title":"09_economics","path":"09_economics/README.md","children":[
+    {"title":"FLOW_ECONOMIC_PRINCIPLES","path":"09_economics/FLOW_ECONOMIC_PRINCIPLES.md"},
+    {"title":"INFORMATION_COORDINATION_WITHOUT_PRICES","path":"09_economics/INFORMATION_COORDINATION_WITHOUT_PRICES.md"},
+    {"title":"INTER-NODE_FLUIDITY_PROTOCOL","path":"09_economics/INTER-NODE_FLUIDITY_PROTOCOL.md"},
+    {"title":"NO_CURRENCY_RESOURCE_ALLOCATION_IN_FLOW","path":"09_economics/NO_CURRENCY_RESOURCE_ALLOCATION_IN_FLOW.md"},
+    {"title":"SOFT_FLOW_VALUATION","path":"09_economics/SOFT_FLOW_VALUATION.md"}
+  ]},
+  {"title":"10_svenska","path":"10_svenska/README.md","children":[
+    {"title":"FLÖDET","path":"10_svenska/FLÖDET.md"},
+    {"title":"FÖRKLARING","path":"10_svenska/FÖRKLARING.md"},
+    {"title":"GRÄNSER","path":"10_svenska/GRÄNSER.md"},
+    {"title":"GUDOMLIG","path":"10_svenska/GUDOMLIG.md"},
+    {"title":"INVARIANTER_UTVIDGAD","path":"10_svenska/INVARIANTER_UTVIDGAD.md"},
+    {"title":"JORDEN_VÅR_MODER","path":"10_svenska/JORDEN_VÅR_MODER.md"},
+    {"title":"LYCEUM_MUSAEUM","path":"10_svenska/LYCEUM_MUSAEUM.md"},
+    {"title":"MANDATET_AV_NIO_MÅNADER","path":"10_svenska/MANDATET_AV_NIO_MÅNADER.md"},
+    {"title":"MANIFEST","path":"10_svenska/MANIFEST.md"},
+    {"title":"REFUIGUM_ANIMA","path":"10_svenska/REFUIGUM_ANIMA.md"},
+    {"title":"RESPEKTENS_BAND","path":"10_svenska/RESPEKTENS_BAND.md"},
+    {"title":"STRUKTUR","path":"10_svenska/STRUKTUR.md"},
+    {"title":"STRUKTURELLA_INVARIANTER","path":"10_svenska/STRUKTURELLA_INVARIANTER.md"}
+  ]}
+];
+
+// Funktion för att bygga collapsible tree
+function createTree(nodes, parent) {
+  nodes.forEach(node => {
+    const li = document.createElement('li');
+    const a = document.createElement('a');
+    a.textContent = node.title;
+    a.href = '#';
+    a.dataset.file = node.path;
+    li.appendChild(a);
+    parent.appendChild(li);
+
+    if(node.children && node.children.length > 0){
+      const ul = document.createElement('ul');
+      li.appendChild(ul);
+      createTree(node.children, ul);
+      a.addEventListener('click', e=>{
+        e.preventDefault();
+        li.classList.toggle('open');
+      });
+    } else {
+      a.addEventListener('click', e=>{
+        e.preventDefault();
+        document.querySelectorAll('#sidebar a').forEach(l=>l.classList.remove('active'));
+        a.classList.add('active');
+        loadMarkdown(node.path);
+      });
     }
+  });
+}
+
+// Funktion för att ladda Markdown
+async function loadMarkdown(file){
+  content.innerHTML = 'Laddar...';
+  try{
+    const res = await fetch(file);
+    if(!res.ok){ content.innerHTML = `Kunde inte ladda fil: ${file}`; return; }
     const text = await res.text();
     content.innerHTML = marked.parse(text);
+  } catch(e){
+    content.innerHTML = `Fel vid laddning av fil: ${file}`;
   }
+}
 
-  links.forEach(link => {
-    link.addEventListener('click', () => {
-      links.forEach(l => l.classList.remove('active'));
-      link.classList.add('active');
-      const file = link.getAttribute('data-file');
-      loadMarkdown(file);
-    });
-  });
+// Bygg sidebar och ladda root README.md
+createTree(structure, fileTree);
+loadMarkdown('README.md');
 
-  // Ladda root README.md först
-  loadMarkdown('README.md');
 </script>
 </body>
 </html>
