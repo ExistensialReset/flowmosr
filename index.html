@@ -13,14 +13,15 @@
     display: flex;
     height: 100vh;
     overflow: hidden;
-    background-color: #f9f9f9;
+    background-color: #1b0a3b; /* djup lila/mörkblå */
+    color: #ffb700; /* lysande gul/guld/orange */
   }
 
   /* Sidebar */
   #sidebar {
-    width: 280px;
-    background-color: #1f2937;
-    color: #f9fafb;
+    width: 300px;
+    background-color: #2e0d55; /* mörk lila */
+    color: #ffb700;
     overflow-y: auto;
     padding: 1rem;
   }
@@ -32,7 +33,7 @@
   }
 
   #sidebar a {
-    color: #f9fafb;
+    color: #ffb700;
     text-decoration: none;
     display: block;
     padding: 0.2rem 0.5rem;
@@ -40,12 +41,13 @@
   }
 
   #sidebar a:hover {
-    background-color: #374151;
+    background-color: #4b1a7d; /* lite ljusare lila vid hover */
   }
 
   #sidebar a.active {
-    background-color: #2563eb;
+    background-color: #ffa500; /* stark orange för aktiv länk */
     font-weight: bold;
+    color: #1b0a3b; /* kontrast mot orange */
   }
 
   details > summary {
@@ -56,7 +58,7 @@
   }
 
   details > summary:hover {
-    background-color: #374151;
+    background-color: #4b1a7d;
   }
 
   details[open] > summary {
@@ -68,12 +70,13 @@
     flex: 1;
     overflow-y: auto;
     padding: 2rem;
-    background-color: #ffffff;
+    background-color: #1b0a3b;
+    color: #ffb700;
   }
 
   /* Markdown styling */
   pre {
-    background-color: #f3f4f6;
+    background-color: #330d66;
     padding: 1rem;
     overflow-x: auto;
     border-radius: 6px;
@@ -81,19 +84,23 @@
 
   code {
     font-family: monospace;
-    background-color: #f3f4f6;
+    background-color: #330d66;
     padding: 2px 4px;
     border-radius: 4px;
   }
 
   h1, h2, h3, h4, h5 {
-    border-bottom: 1px solid #e5e7eb;
+    border-bottom: 1px solid #4b1a7d;
     padding-bottom: 0.3rem;
   }
 
   a.markdown-link {
-    color: #2563eb;
+    color: #ffa500;
     text-decoration: none;
+  }
+
+  a.markdown-link:hover {
+    text-decoration: underline;
   }
 </style>
 
@@ -111,68 +118,52 @@
 <div id="content">Laddar...</div>
 
 <script>
-  // Här är JSON-strukturen för alla filer och mappar
+  // --- JSON med alla mappar och filer ---
   const files = [
-    {
-      "title": "00_core",
-      "path": "00_core/README.md",
-      "children": [
-        {"title": "00_FLOW_CORE_ENTRY", "path": "00_core/00_FLOW_CORE_ENTRY.md"},
-        {"title": "01_FLOW_CORE_STRUCTURE", "path": "00_core/01_FLOW_CORE_STRUCTURE.md"},
-        {"title": "02_FLOW_EXPLANATION_LAYER", "path": "00_core/02_FLOW_EXPLANATION_LAYER.md"},
-        {"title": "03_AXIOMS", "path": "00_core/03_AXIOMS.md"},
-        {"title": "04_FLOW_CORE_INVARIANTS_EXTENDED", "path": "00_core/04_FLOW_CORE_INVARIANTS_EXTENDED.md"},
-        {"title": "05_STRUCTURAL_INVARIANTS", "path": "00_core/05_STRUCTURAL_INVARIANTS.md"}
-      ]
-    },
-    {
-      "title": "01_principles",
-      "path": "01_principles/README.md",
-      "children": [
-        {"title": "CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE", "path": "01_principles/CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE.md"},
-        {"title": "CHILDREN_CULTURAL_ADAPTATION_GUIDE", "path": "01_principles/CHILDREN_CULTURAL_ADAPTATION_GUIDE.md"},
-        {"title": "CHILDREN_PARTICIPATION_PLAYBOOK", "path": "01_principles/CHILDREN_PARTICIPATION_PLAYBOOK.md"},
-        {"title": "FLOW_ACCESSIBILITY_PRINCIPLES", "path": "01_principles/FLOW_ACCESSIBILITY_PRINCIPLES.md"},
-        {"title": "FLOW_DEATH_DIGNITY_PRINCIPLES", "path": "01_principles/FLOW_DEATH_DIGNITY_PRINCIPLES.md"},
-        {"title": "FLOW_EDUCATION_PRINCIPLES", "path": "01_principles/FLOW_EDUCATION_PRINCIPLES.md"},
-        {"title": "FLOW_HEALTHCARE_PRINCIPLES", "path": "01_principles/FLOW_HEALTHCARE_PRINCIPLES.md"},
-        {"title": "FLOW_PLANETARY_JOURNEY_PRINCIPLES", "path": "01_principles/FLOW_PLANETARY_JOURNEY_PRINCIPLES.md"},
-        {"title": "FLOW_WORK_MOTIVATION_PRINCIPLES", "path": "01_principles/FLOW_WORK_MOTIVATION_PRINCIPLES.md"}
-      ]
-    },
-    {
-      "title": "02_documents",
-      "path": "02_documents/README.md",
-      "children": [
-        {"title": "C_HYDRO_AND_FLOW_IMPLEMENTATION", "path": "02_documents/C_HYDRO_AND_FLOW_IMPLEMENTATION.md"},
-        {"title": "DECENTRALIZATION_NOTICE", "path": "02_documents/DECENTRALIZATION_NOTICE.md"},
-        {"title": "FLOW_FREE_RIDERS", "path": "02_documents/FLOW_FREE_RIDERS.md"},
-        {"title": "FLOW_HUMAN_INFRASTRUCTURE", "path": "02_documents/FLOW_HUMAN_INFRASTRUCTURE.md"},
-        {"title": "FLOW_MASTER_ARCHITECTURE", "path": "02_documents/FLOW_MASTER_ARCHITECTURE.md"},
-        {"title": "FLOW_SPIRAL_RADIAL_MAX", "path": "02_documents/FLOW_SPIRAL_RADIAL_MAX.md"},
-        {"title": "HUMAN_INFRASTRUCTURE", "path": "02_documents/HUMAN_INFRASTRUCTURE.md"},
-        {"title": "HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN", "path": "02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md"},
-        {"title": "INFORMATION_FLOW_ARCHITECTURE", "path": "02_documents/INFORMATION_FLOW_ARCHITECTURE.md"}
-      ]
-    },
-    {
-      "title": "03_governance",
-      "path": "03_governance/README.md",
-      "children": [
-        {"title": "ABOUT_GOVERNANCE", "path": "03_governance/ABOUT_GOVERNANCE.md"},
-        {"title": "CHILDRENS_COUNCIL_PROTOCOL", "path": "03_governance/CHILDRENS_COUNCIL_PROTOCOL.md"},
-        {"title": "CIRCLE_GOVERNANCE", "path": "03_governance/CIRCLE_GOVERNANCE.md"},
-        {"title": "CONSTITUTION", "path": "03_governance/CONSTITUTION.md"},
-        {"title": "FEDERATED_SUPPORT_PROTOCOL", "path": "03_governance/FEDERATED_SUPPORT_PROTOCOL.md"},
-        {"title": "FLOW_GOVERNANCE_LOTTERIES", "path": "03_governance/FLOW_GOVERNANCE_LOTTERIES.md"},
-        {"title": "FLOW_GOVERNANCE_PRINCIPLES", "path": "03_governance/FLOW_GOVERNANCE_PRINCIPLES.md"},
-        {"title": "IRRECONCILABLE_DIFFERENCE_PROTOCOL", "path": "03_governance/IRRECONCILABLE_DIFFERENCE_PROTOCOL.md"},
-        {"title": "LOTUS_GOVERNANCE_PROTOCOL_v2", "path": "03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md"},
-        {"title": "NODE_EXIT_PROTOCOL", "path": "03_governance/NODE_EXIT_PROTOCOL.md"},
-        {"title": "NODE_ROLES", "path": "03_governance/NODE_ROLES.md"},
-        {"title": "SMALL_POOL_LOTUS_PROTOCOLS", "path": "03_governance/SMALL_POOL_LOTUS_PROTOCOLS.md"}
-      ]
-    }
+    {"title":"00_core","path":"00_core/README.md","children":[
+      {"title":"00_FLOW_CORE_ENTRY","path":"00_core/00_FLOW_CORE_ENTRY.md"},
+      {"title":"01_FLOW_CORE_STRUCTURE","path":"00_core/01_FLOW_CORE_STRUCTURE.md"},
+      {"title":"02_FLOW_EXPLANATION_LAYER","path":"00_core/02_FLOW_EXPLANATION_LAYER.md"},
+      {"title":"03_AXIOMS","path":"00_core/03_AXIOMS.md"},
+      {"title":"04_FLOW_CORE_INVARIANTS_EXTENDED","path":"00_core/04_FLOW_CORE_INVARIANTS_EXTENDED.md"},
+      {"title":"05_STRUCTURAL_INVARIANTS","path":"00_core/05_STRUCTURAL_INVARIANTS.md"}
+    ]},
+    {"title":"01_principles","path":"01_principles/README.md","children":[
+      {"title":"CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE","path":"01_principles/CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE.md"},
+      {"title":"CHILDREN_CULTURAL_ADAPTATION_GUIDE","path":"01_principles/CHILDREN_CULTURAL_ADAPTATION_GUIDE.md"},
+      {"title":"CHILDREN_PARTICIPATION_PLAYBOOK","path":"01_principles/CHILDREN_PARTICIPATION_PLAYBOOK.md"},
+      {"title":"FLOW_ACCESSIBILITY_PRINCIPLES","path":"01_principles/FLOW_ACCESSIBILITY_PRINCIPLES.md"},
+      {"title":"FLOW_DEATH_DIGNITY_PRINCIPLES","path":"01_principles/FLOW_DEATH_DIGNITY_PRINCIPLES.md"},
+      {"title":"FLOW_EDUCATION_PRINCIPLES","path":"01_principles/FLOW_EDUCATION_PRINCIPLES.md"},
+      {"title":"FLOW_HEALTHCARE_PRINCIPLES","path":"01_principles/FLOW_HEALTHCARE_PRINCIPLES.md"},
+      {"title":"FLOW_PLANETARY_JOURNEY_PRINCIPLES","path":"01_principles/FLOW_PLANETARY_JOURNEY_PRINCIPLES.md"},
+      {"title":"FLOW_WORK_MOTIVATION_PRINCIPLES","path":"01_principles/FLOW_WORK_MOTIVATION_PRINCIPLES.md"}
+    ]},
+    {"title":"02_documents","path":"02_documents/README.md","children":[
+      {"title":"C_HYDRO_AND_FLOW_IMPLEMENTATION","path":"02_documents/C_HYDRO_AND_FLOW_IMPLEMENTATION.md"},
+      {"title":"DECENTRALIZATION_NOTICE","path":"02_documents/DECENTRALIZATION_NOTICE.md"},
+      {"title":"FLOW_FREE_RIDERS","path":"02_documents/FLOW_FREE_RIDERS.md"},
+      {"title":"FLOW_HUMAN_INFRASTRUCTURE","path":"02_documents/FLOW_HUMAN_INFRASTRUCTURE.md"},
+      {"title":"FLOW_MASTER_ARCHITECTURE","path":"02_documents/FLOW_MASTER_ARCHITECTURE.md"},
+      {"title":"FLOW_SPIRAL_RADIAL_MAX","path":"02_documents/FLOW_SPIRAL_RADIAL_MAX.md"},
+      {"title":"HUMAN_INFRASTRUCTURE","path":"02_documents/HUMAN_INFRASTRUCTURE.md"},
+      {"title":"HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN","path":"02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md"},
+      {"title":"INFORMATION_FLOW_ARCHITECTURE","path":"02_documents/INFORMATION_FLOW_ARCHITECTURE.md"}
+    ]},
+    {"title":"03_governance","path":"03_governance/README.md","children":[
+      {"title":"ABOUT_GOVERNANCE","path":"03_governance/ABOUT_GOVERNANCE.md"},
+      {"title":"CHILDRENS_COUNCIL_PROTOCOL","path":"03_governance/CHILDRENS_COUNCIL_PROTOCOL.md"},
+      {"title":"CIRCLE_GOVERNANCE","path":"03_governance/CIRCLE_GOVERNANCE.md"},
+      {"title":"CONSTITUTION","path":"03_governance/CONSTITUTION.md"},
+      {"title":"FEDERATED_SUPPORT_PROTOCOL","path":"03_governance/FEDERATED_SUPPORT_PROTOCOL.md"},
+      {"title":"FLOW_GOVERNANCE_LOTTERIES","path":"03_governance/FLOW_GOVERNANCE_LOTTERIES.md"},
+      {"title":"FLOW_GOVERNANCE_PRINCIPLES","path":"03_governance/FLOW_GOVERNANCE_PRINCIPLES.md"},
+      {"title":"IRRECONCILABLE_DIFFERENCE_PROTOCOL","path":"03_governance/IRRECONCILABLE_DIFFERENCE_PROTOCOL.md"},
+      {"title":"LOTUS_GOVERNANCE_PROTOCOL_v2","path":"03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md"},
+      {"title":"NODE_EXIT_PROTOCOL","path":"03_governance/NODE_EXIT_PROTOCOL.md"},
+      {"title":"NODE_ROLES","path":"03_governance/NODE_ROLES.md"},
+      {"title":"SMALL_POOL_LOTUS_PROTOCOLS","path":"03_governance/SMALL_POOL_LOTUS_PROTOCOLS.md"}
+    ]}
     // … fortsätt med 04_simulations → 10_svenska på samma sätt
   ];
 
