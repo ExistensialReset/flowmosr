@@ -1,100 +1,157 @@
 # 🌊 Flow / M-OS-R
 
-## A living architecture for human flourishing
+## A different way of living is possible
 
-**Survival is not something you earn.**
+You don’t need to optimize your life.
 
-This one shift changes everything.
+You need to remove what is blocking it.
 
-Flow / M-OS-R is not a community to join, not a theory to believe, and not a utopia to move into.
+Flow is not a theory.  
+It is something you can feel — quietly — when nothing is demanding anything from you.
 
-It is an **open-source, living operating system** for life itself — designed so that human nervous systems can finally rest, play, create and connect without the constant background hum of scarcity, fear and coercion.
-
-It is blueprints for a world where:
-- Your baseline needs (food, shelter, healthcare, energy, belonging) are **unconditional**.
-- Systems serve **life** — never the other way around.
-- Governance is anti-capture by design (LOTUS: random rotation, no leaders, no elections).
-- Everything is trauma-informed, ecologically grounded and impossible to hijack.
+No permission needed.  
+Start small.
 
 ---
 
-## Feel it before you read it
+## ⚡ Try it (24 hours)
 
-You don’t need land, money, permission or a plan.
+You don’t need land, money, or a plan.
 
-**Try the 24-Hour Flow Experiment** (with 2–5 people):
-
-1. Share one meal — no transactions, no score-keeping.
-2. Ask together: *“What do we actually need to feel okay this week?”*
-3. Distribute tasks voluntarily.
-4. Notice what changes when nothing is demanded of you.
+1. Gather 2–5 people  
+2. Share one meal (no transactions)  
+3. Ask: *“What do we actually need to feel okay this week?”*  
+4. Distribute tasks voluntarily  
+5. Notice what changes
 
 That quiet ease you might feel?  
 That’s Flow beginning.
 
 ---
 
-## The Core Axiom
+## 🧭 Where are you right now?
 
-> **Survival is not something you earn.**  
-> Everything else in Flow follows from this.
+**Feeling something, not sure what this is?**  
+→ [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
 
-From this single truth flows the entire architecture:
+**Want to try this in your own life?**  
+→ [`FLOW_STARTER_GUIDE`](./guides/activation/FLOW_STARTER_GUIDE.md)
 
-- **Unconditional Baseline** — no one has to deserve existence.
-- **Life = L × S × I (+ Σ)** — LUGN, Calm lucidity × SPONTANITET, Spontaneity × INKÄNNANDE, Empathy (And, Earth’s unmeasurable living wisdom).
-- **Systems serve life** — if something harms people, animals or Earth, the structure changes, not the people.
-- **LOTUS Governance** — temporary responsibility through random selection. No power can accumulate.
-
----
-
-## Built as living layers
-
-The entire repository is structured like a nervous system — from deepest invariants to practical blueprints:
-
-- **`00_core`** — the unbreakable foundation  
-- **`01_principles`** — operational rules that protect life  
-- **`02_documents`** — concrete infrastructure & master plans  
-- **`03_governance`** — LOTUS protocol in full detail  
-- **`ethos`** — philosophy, poetry and the living intelligence of Earth  
-- **`guides`** — starter guides, transition playbooks and activation paths  
-- **`04_simulations`** – stress-tests before we build  
-- **`09_economics`** – resource flow without currency or coercion  
-- **`10_svenska`** – the full poetic Swedish experience  
-
-Everything is designed to be replicable, testable and self-healing.
+**Want to build a real community (Node)?**  
+→ [`TRANSITION_PLAYBOOK`](./guides/economics/TRANSITION_PLAYBOOK.md)
 
 ---
 
-## Where do you want to begin?
+## 🌊 What is Flow?
 
-- **New here?** → [`00_FLOW_CORE_ENTRY.md`](./00_core/00_FLOW_CORE_ENTRY.md)  
-- **Want to feel it today?** → [`FLOW_STARTER_GUIDE.md`](./guides/activation/FLOW_STARTER_GUIDE.md)  
-- **Ready to build a Node?** → [`TRANSITION_PLAYBOOK.md`](./guides/economics/TRANSITION_PLAYBOOK.md)  
-- **Deep into the why** → [`MANIFESTO.md`](./ethos/MANIFESTO.md) & [`EARTH_OUR_MOTHER.md`](./ethos/EARTH_OUR_MOTHER.md)  
-- **Governance that cannot be captured** → [`LOTUS_GOVERNANCE_PROTOCOL_v2.md`](./03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md)  
+Flow is a way of living built on one simple shift:
 
-No central authority. No membership fee. No “right way” to do it.  
-Just start where you are.
+> **Survival is not something you earn.**
+
+From this one truth, everything else follows.
+
+### Baseline (Unconditional)
+- Food, housing, healthcare, energy, connection — no one has to deserve existence.
+- [`Lyceum Musaeum`](./ethos/LYCEUM_MUSAEUM.md) — learning without hierarchy
+- [`Refugium Anima`](./ethos/REFUGIUM_ANIMA.md) — rest without justification
+
+### No coercion
+Nothing requires obedience. Participation is voluntary. Everyone helps from where they are.
+
+### Systems serve life
+If something harms people, animals, or Earth — the structure changes, not the people.
+
+### Governance (LOTUS)
+- Random selection instead of elections
+- Rotation instead of power accumulation
+- No campaigns, no leaders, no capture
 
 ---
 
-## Connect & co-create
+## 📊 Is this realistic?
 
-📧 **flowmosr@proton.me**  
-Elinor Frejd — elinor.frejd@proton.me  
+Yes.
 
-We are building this together — openly, slowly, and with care.
+- Food capacity: ~13.5 billion people (FAO)  
+- Energy: 2–10× current demand (IEA)  
+- Estimated cost: ~$74/month (cooperative conditions)
+
+→ Full data: [`/data_validation`](./data_validation/)  
+→ Infrastructure blueprints: [`02_documents`](./02_documents)
 
 ---
 
-## A quiet reminder
+## 🚀 Start where you are
+
+You don’t need to “join” anything.
+
+You can:
+
+- Start a small Circle (2–5 people)
+- Share resources without tracking value
+- Rest without earning it
+- Notice what actually helps life flow
+
+If you want to connect:
+
+📧 flowmosr@proton.me
+
+---
+
+## 🌱 Start a Flow Circle
+
+- 2–5 people  
+- Meet regularly  
+- No leaders  
+- Build trust slowly
+
+No permission. No central control.  
+Just humans, starting where they are.
+
+---
+
+## 💙 A small reminder
 
 You are not a resource.  
 You are not behind.  
 You are not broken.
 
-You are alive — and that is already enough.
+You are alive.
 
-*Flow is not a destination.*  
+And that is enough.
+
+---
+
+## 🔧 If you want to go deeper
+
+**Philosophy & ethos**  
+→ [`MANIFESTO`](./ethos/MANIFESTO.md)  
+→ [`EARTH_OUR_MOTHER`](./ethos/EARTH_OUR_MOTHER.md)
+
+**Governance system**  
+→ [`LOTUS`](./03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
+
+**Build & infrastructure**  
+→ [`MASTER_RESOURCE_PLAN`](./02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
+
+**The complete living architecture**  
+→ All layers: core, principles, documents, governance, ethos, guides, simulations, economics
+
+---
+
+## 🛡️ License
+
+CC BY-NC-SA 4.0 — Use freely, no extraction.
+
+---
+
+## 💬 Contact
+
+Elinor Frejd  
+elinor.frejd@proton.me
+
+---
+
+*Flow is not a destination.*
+
 *Flow is how you move.*
