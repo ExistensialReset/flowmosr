@@ -1,89 +1,105 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-  <meta charset="UTF-8">
-  <title>FlowMOSR</title>
-  <style>
-    body {
-      display: flex;
-      margin: 0;
-      font-family: Arial;
-    }
-    #sidebar {
-      width: 300px;
-      height: 100vh;
-      overflow-y: auto;
-      background: #111;
-      color: white;
-      padding: 10px;
-    }
-    #content {
-      flex: 1;
-      padding: 20px;
-      white-space: pre-wrap;
-    }
-    .item {
-      cursor: pointer;
-      margin-left: 10px;
-      margin-bottom: 5px;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flow MOSR</title>
+<style>
+  body { font-family: Arial, sans-serif; display: flex; margin: 0; height: 100vh; }
+  #sidebar { width: 300px; overflow-y: auto; background: #f4f4f4; padding: 20px; border-right: 1px solid #ccc; }
+  #content { flex: 1; padding: 20px; overflow-y: auto; }
+  ul { list-style-type: none; padding-left: 1em; }
+  li { margin: 5px 0; cursor: pointer; }
+  li.folder > span { font-weight: bold; }
+  li.folder > ul { display: none; padding-left: 1em; }
+  li.folder.open > ul { display: block; }
+  a { text-decoration: none; color: inherit; }
+</style>
 </head>
 <body>
 
 <div id="sidebar"></div>
-<div id="content">Laddar...</div>
+<div id="content">Loading...</div>
 
 <script>
-const sidebar = document.getElementById('sidebar');
-const content = document.getElementById('content');
+// === Här klistrar du in hela din JSON-struktur ===
+const data = [
+  {
+    "title": "00_core",
+    "path": "00_core/README.md",
+    "children": [
+      {"title": "00_FLOW_CORE_ENTRY", "path": "00_core/00_FLOW_CORE_ENTRY.md"},
+      {"title": "01_FLOW_CORE_STRUCTURE", "path": "00_core/01_FLOW_CORE_STRUCTURE.md"},
+      {"title": "02_FLOW_EXPLANATION_LAYER", "path": "00_core/02_FLOW_EXPLANATION_LAYER.md"},
+      {"title": "03_AXIOMS", "path": "00_core/03_AXIOMS.md"},
+      {"title": "04_FLOW_CORE_INVARIANTS_EXTENDED", "path": "00_core/04_FLOW_CORE_INVARIANTS_EXTENDED.md"},
+      {"title": "05_STRUCTURAL_INVARIANTS", "path": "00_core/05_STRUCTURAL_INVARIANTS.md"}
+    ]
+  },
+  {
+    "title": "01_principles",
+    "path": "01_principles/README.md",
+    "children": [
+      {"title": "CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE", "path": "01_principles/CHECKLIST_CHILDREN_PARTICIPATION_IN_FLOW_WORLDWIDE.md"},
+      {"title": "CHILDREN_CULTURAL_ADAPTATION_GUIDE", "path": "01_principles/CHILDREN_CULTURAL_ADAPTATION_GUIDE.md"},
+      {"title": "CHILDREN_PARTICIPATION_PLAYBOOK", "path": "01_principles/CHILDREN_PARTICIPATION_PLAYBOOK.md"},
+      {"title": "FLOW_ACCESSIBILITY_PRINCIPLES", "path": "01_principles/FLOW_ACCESSIBILITY_PRINCIPLES.md"},
+      {"title": "FLOW_DEATH_DIGNITY_PRINCIPLES", "path": "01_principles/FLOW_DEATH_DIGNITY_PRINCIPLES.md"},
+      {"title": "FLOW_EDUCATION_PRINCIPLES", "path": "01_principles/FLOW_EDUCATION_PRINCIPLES.md"},
+      {"title": "FLOW_HEALTHCARE_PRINCIPLES", "path": "01_principles/FLOW_HEALTHCARE_PRINCIPLES.md"},
+      {"title": "FLOW_PLANETARY_JOURNEY_PRINCIPLES", "path": "01_principles/FLOW_PLANETARY_JOURNEY_PRINCIPLES.md"},
+      {"title": "FLOW_WORK_MOTIVATION_PRINCIPLES", "path": "01_principles/FLOW_WORK_MOTIVATION_PRINCIPLES.md"}
+    ]
+  }
+  // fortsätt med resten av JSON för 02_documents → 10_svenska
+];
 
-// 🔥 Test att sidan lever
-content.innerText = "Startar...";
-
-// 🔥 Ladda JSON
-fetch('pages.json')
-  .then(res => res.json())
-  .then(data => {
-    content.innerText = "Start OK";
-
-    // 🔥 Render sidebar
-    data.forEach(item => createItem(item));
-
-    // 🔥 Start page
-    loadPage('README.md');
-  })
-  .catch(err => {
-    content.innerText = "JSON FEL: " + err;
+// === Funktioner för att bygga sidebar ===
+function createTree(nodes) {
+  const ul = document.createElement('ul');
+  nodes.forEach(node => {
+    const li = document.createElement('li');
+    if (node.children) {
+      li.classList.add('folder');
+      const span = document.createElement('span');
+      span.textContent = node.title;
+      span.onclick = () => li.classList.toggle('open');
+      li.appendChild(span);
+      li.appendChild(createTree(node.children));
+    } else {
+      const a = document.createElement('a');
+      a.textContent = node.title;
+      a.href = '#';
+      a.onclick = (e) => { e.preventDefault(); loadFile(node.path); };
+      li.appendChild(a);
+    }
+    ul.appendChild(li);
   });
-
-function createItem(item) {
-  const div = document.createElement('div');
-  div.textContent = item.title;
-  div.className = "item";
-
-  if (item.path) {
-    div.onclick = () => loadPage(item.path);
-  }
-
-  sidebar.appendChild(div);
-
-  if (item.children) {
-    item.children.forEach(child => createItem(child));
-  }
+  return ul;
 }
 
-function loadPage(path) {
-  content.innerText = "Laddar " + path + "...";
-
-  fetch(encodeURI(path))
-    .then(res => res.text())
+// Laddar en fil i content-div
+function loadFile(path) {
+  fetch(path)
+    .then(resp => resp.text())
     .then(text => {
-      content.innerText = text;
+      document.getElementById('content').innerHTML = `<pre>${text}</pre>`;
     })
     .catch(err => {
-      content.innerText = "LOAD FEL: " + err;
+      document.getElementById('content').innerHTML = `Error loading ${path}: ${err}`;
     });
+}
+
+// === Starta sidan ===
+const sidebar = document.getElementById('sidebar');
+sidebar.appendChild(createTree(data));
+
+// Hitta root README och ladda den
+const rootReadme = data.find(item => item.path && item.path.toLowerCase().includes('readme.md'));
+if (rootReadme) {
+  loadFile(rootReadme.path);
+} else {
+  document.getElementById('content').innerHTML = 'Ingen README hittad som startfil.';
 }
 </script>
 
