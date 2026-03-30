@@ -1,75 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="sv">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flow / M-OS-R</title>
-
-  <!-- CSS -->
-  <link rel="stylesheet" href="/flowmosr/style.css">
-
-  <!-- Favicon -->
-  <link rel="icon" href="/flowmosr/favicon.ico" type="image/x-icon">
+  <title>FlowMOSR</title>
 </head>
 <body>
-  <div id="sidebar">
-    <h2>Pages</h2>
-    <ul id="page-list"></ul>
-  </div>
 
-  <div id="content">
-    <h1>Loading...</h1>
-  </div>
+<h1>FlowMOSR Debug</h1>
 
-  <!-- JS -->
-  <script src="/flowmosr/js/markdown-renderer.js"></script>
-  <script>
-    async function loadPages() {
-      const contentEl = document.getElementById('content');
-      const listEl = document.getElementById('page-list');
+<div id="output">Laddar...</div>
 
-      try {
-        const pagesResp = await fetch('/flowmosr/pages.json');
-        const pages = await pagesResp.json();
-
-        // Render sidebar
-        pages.forEach(page => {
-          const li = document.createElement('li');
-          const a = document.createElement('a');
-          a.href = "#";
-          a.textContent = page.title;
-          a.onclick = (e) => {
-            e.preventDefault();
-            loadPage(page.path);
-          };
-          li.appendChild(a);
-          listEl.appendChild(li);
-        });
-
-        // Load root README.md first
-        const readmePage = pages.find(p => p.path.endsWith('README.md'));
-        if(readmePage) loadPage(readmePage.path);
-
-      } catch (err) {
-        contentEl.innerHTML = `<p style="color:red;">Failed to load pages.json</p>`;
-        console.error(err);
-      }
+<script>
+fetch('pages.json')
+  .then(response => {
+    if (!response.ok) {
+      throw new Error("Kunde inte ladda pages.json");
     }
+    return response.json();
+  })
+  .then(data => {
+    document.getElementById('output').innerHTML =
+      "<pre>" + JSON.stringify(data, null, 2) + "</pre>";
+  })
+  .catch(error => {
+    document.getElementById('output').innerHTML =
+      "<h2>FEL:</h2><pre>" + error + "</pre>";
+  });
+</script>
 
-    async function loadPage(path) {
-      const contentEl = document.getElementById('content');
-      try {
-        const resp = await fetch('/flowmosr/' + path);
-        const text = await resp.text();
-        contentEl.innerHTML = markdownRenderer(text);
-      } catch(err) {
-        contentEl.innerHTML = `<p style="color:red;">Failed to load page: ${path}</p>`;
-        console.error(err);
-      }
-    }
-
-    // Init
-    loadPages();
-  </script>
 </body>
 </html>
