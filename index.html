@@ -1,45 +1,24 @@
-<!DOCTYPE html>
-<html lang="sv">
-<head>
-  <meta charset="UTF-8">
-  <title>FlowMOSR</title>
-  <style>
-    body {
-      display: flex;
-      font-family: Arial;
-      margin: 0;
-    }
-    #sidebar {
-      width: 300px;
-      height: 100vh;
-      overflow-y: auto;
-      background: #111;
-      color: white;
-      padding: 10px;
-    }
-    #content {
-      flex: 1;
-      padding: 20px;
-    }
-    .item {
-      cursor: pointer;
-      margin-left: 10px;
-    }
-  </style>
-</head>
-<body>
-
-<div id="sidebar"></div>
-<div id="content">Välj en fil</div>
-
 <script>
 fetch('pages.json')
   .then(res => res.json())
   .then(data => {
-    render(data);
+    const sidebar = document.getElementById('sidebar');
+
+    // 🔥 START-knapp
+    const start = document.createElement('div');
+    start.textContent = "START";
+    start.className = "item";
+    start.onclick = () => loadPage('README.md');
+    sidebar.appendChild(start);
+
+    // 🔥 Rendera resten
+    render(data, sidebar);
+
+    // 🔥 Ladda root README direkt
+    loadPage('README.md');
   });
 
-function render(items, container = document.getElementById('sidebar')) {
+function render(items, container) {
   items.forEach(item => {
     const div = document.createElement('div');
     div.textContent = item.title;
@@ -58,7 +37,7 @@ function render(items, container = document.getElementById('sidebar')) {
 }
 
 function loadPage(path) {
-  fetch(encodeURI(path)) // 🔥 viktigt för åäö
+  fetch(encodeURI(path)) // 🔥 fix för åäö
     .then(res => res.text())
     .then(text => {
       document.getElementById('content').innerText = text;
@@ -68,6 +47,3 @@ function loadPage(path) {
     });
 }
 </script>
-
-</body>
-</html>
