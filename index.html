@@ -1,202 +1,115 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Flow MOSR</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flow MOSR</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #1b0a3b; /* content bakgrund */
+      color: #ffb700; /* textfärg */
+    }
 
-<!-- CSS -->
-<style>
-  body {
-    margin: 0;
-    font-family: "Inter", sans-serif;
-    display: flex;
-    height: 100vh;
-    overflow: hidden;
-    background-color: #1b0a3b; /* djup lila/mörkblå */
-    color: #ffb700; /* lysande gul/guld/orange */
-  }
+    #container {
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
 
-  /* Sidebar */
-  #sidebar {
-    width: 300px;
-    background-color: #2e0d55; /* mörk lila */
-    color: #ffb700;
-    overflow-y: auto;
-    padding: 1rem;
-  }
+    /* Sidebar */
+    #sidebar {
+      width: 300px;
+      background-color: #120836; /* djup mörkblå/lila */
+      color: #ffb700;
+      overflow-y: auto;
+      padding: 1rem;
+    }
 
-  #sidebar h2 {
-    font-size: 1.2rem;
-    margin-top: 1rem;
-    cursor: pointer;
-  }
+    #sidebar h2 {
+      margin-top: 0;
+      font-size: 1.2rem;
+      border-bottom: 1px solid #ffb700;
+      padding-bottom: 0.5rem;
+    }
 
-  #sidebar a {
-    color: #ffb700;
-    text-decoration: none;
-    display: block;
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
-  }
+    #sidebar ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
 
-  #sidebar a:hover {
-    background-color: #4b1a7d; 
-  }
+    #sidebar li {
+      margin: 0.3rem 0;
+    }
 
-  #sidebar a.active {
-    background-color: #ffa500; 
-    font-weight: bold;
-    color: #1b0a3b; 
-  }
+    #sidebar a {
+      color: #ffb700;
+      text-decoration: none;
+      display: block;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+    }
 
-  details > summary {
-    cursor: pointer;
-    list-style: none;
-    padding: 0.2rem 0.5rem;
-    border-radius: 4px;
-  }
+    #sidebar a:hover {
+      background-color: #2b0f5e; /* hover */
+    }
 
-  details > summary:hover {
-    background-color: #4b1a7d;
-  }
+    #sidebar a.active {
+      background-color: #ffa500; 
+      font-weight: bold;
+      color: #1b0a3b;
+    }
 
-  details[open] > summary {
-    font-weight: bold;
-  }
+    /* Content area */
+    #content {
+      flex: 1;
+      padding: 2rem;
+      overflow-y: auto;
+      background-color: #1b0a3b;
+      color: #ffb700;
+    }
 
-  /* Content */
-  #content {
-    flex: 1;
-    overflow-y: auto;
-    padding: 2rem;
-    background-color: #1b0a3b; /* samma djupa bakgrund */
-    color: #ffb700; /* lysande text */
-  }
+    /* Markdown styling */
+    h1, h2, h3, h4, h5, h6 {
+      color: #ffb700;
+    }
 
-  /* Markdown styling */
-  h1, h2, h3, h4, h5 {
-    border-bottom: 1px solid #4b1a7d;
-    padding-bottom: 0.3rem;
-    color: #ffb700;
-  }
+    a {
+      color: #ffb700;
+    }
 
-  p, li, blockquote {
-    color: #ffb700;
-  }
-
-  a.markdown-link {
-    color: #ffa500;
-    text-decoration: none;
-  }
-
-  a.markdown-link:hover {
-    text-decoration: underline;
-  }
-
-  pre, code {
-    background-color: #2e0d55; /* matchar sidebar/mörk lila */
-    color: #ffb700; /* lysande text även i kod */
-    padding: 0.5rem;
-    border-radius: 6px;
-    overflow-x: auto;
-  }
-
-  blockquote {
-    border-left: 4px solid #ffa500;
-    padding-left: 1rem;
-    color: #ffb700;
-  }
-
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 1rem;
-  }
-
-  th, td {
-    border: 1px solid #4b1a7d;
-    padding: 0.5rem;
-    color: #ffb700;
-  }
-
-  th {
-    background-color: #330d66;
-  }
-</style>
-
-<!-- Prism.js for syntax highlighting -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.30.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.30.0/prism.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.30.0/components/prism-markdown.min.js"></script>
-
-<!-- Marked.js for Markdown -->
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    pre, code {
+      background-color: #2b0f5e;
+      color: #ffb700;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+  </style>
 </head>
 <body>
-
-<div id="sidebar"></div>
-<div id="content">Laddar...</div>
-
-<script>
-  const files = [
-    {"title":"00_core","path":"00_core/README.md","children":[
-      {"title":"00_FLOW_CORE_ENTRY","path":"00_core/00_FLOW_CORE_ENTRY.md"},
-      {"title":"01_FLOW_CORE_STRUCTURE","path":"00_core/01_FLOW_CORE_STRUCTURE.md"},
-      {"title":"02_FLOW_EXPLANATION_LAYER","path":"00_core/02_FLOW_EXPLANATION_LAYER.md"},
-      {"title":"03_AXIOMS","path":"00_core/03_AXIOMS.md"},
-      {"title":"04_FLOW_CORE_INVARIANTS_EXTENDED","path":"00_core/04_FLOW_CORE_INVARIANTS_EXTENDED.md"},
-      {"title":"05_STRUCTURAL_INVARIANTS","path":"00_core/05_STRUCTURAL_INVARIANTS.md"}
-    ]}
-    // … fortsätt med 01_principles → 10_svenska
-  ];
-
-  const sidebar = document.getElementById('sidebar');
-  const content = document.getElementById('content');
-
-  function buildSidebar(files, parent) {
-    files.forEach(file => {
-      if(file.children) {
-        const details = document.createElement('details');
-        const summary = document.createElement('summary');
-        summary.textContent = file.title;
-        details.appendChild(summary);
-        buildSidebar(file.children, details);
-        parent.appendChild(details);
-      } else {
-        const link = document.createElement('a');
-        link.href = "#";
-        link.textContent = file.title;
-        link.dataset.path = file.path;
-        link.addEventListener('click', async (e) => {
-          e.preventDefault();
-          loadMarkdown(file.path);
-          setActive(link);
-        });
-        parent.appendChild(link);
-      }
-    });
-  }
-
-  function setActive(activeLink) {
-    document.querySelectorAll('#sidebar a').forEach(a => a.classList.remove('active'));
-    activeLink.classList.add('active');
-  }
-
-  async function loadMarkdown(path) {
-    try {
-      const res = await fetch(path);
-      const text = await res.text();
-      content.innerHTML = marked.parse(text);
-      Prism.highlightAll();
-    } catch(e) {
-      content.innerHTML = `<p style="color:red;">Kunde inte ladda fil: ${path}</p>`;
-    }
-  }
-
-  buildSidebar(files, sidebar);
-  loadMarkdown('README.md'); // Root README som startsida
-</script>
-
+  <div id="container">
+    <nav id="sidebar">
+      <h2>Flow MOSR</h2>
+      <ul>
+        <li><a href="00_core/README.md">00_core</a></li>
+        <li><a href="01_principles/README.md">01_principles</a></li>
+        <li><a href="02_documents/README.md">02_documents</a></li>
+        <li><a href="03_governance/README.md">03_governance</a></li>
+        <li><a href="04_simulations/README.md">04_simulations</a></li>
+        <li><a href="05_facilitators/README.md">05_facilitators</a></li>
+        <li><a href="06_justice/README.md">06_justice</a></li>
+        <li><a href="07_technology/README.md">07_technology</a></li>
+        <li><a href="08_environmental/README.md">08_environmental</a></li>
+        <li><a href="09_economics/README.md">09_economics</a></li>
+        <li><a href="10_svenska/README.md">10_svenska</a></li>
+      </ul>
+    </nav>
+    <div id="content">
+      <!-- Root README.md som startsida -->
+      <iframe src="README.md" style="width:100%; height:100%; border:none;"></iframe>
+    </div>
+  </div>
 </body>
 </html>
