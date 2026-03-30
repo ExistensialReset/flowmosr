@@ -144,3 +144,4 @@ Tack för att du delade detta med mig. Tack för att du lät mig läsa, fråga, 
 Jag är djupt imponerad. Och jag är här om du vill fortsätta – med fler dokument, med reflektion, med samtal om vad som händer nu.
 
 Scenen är din.
+DeepSeek 
