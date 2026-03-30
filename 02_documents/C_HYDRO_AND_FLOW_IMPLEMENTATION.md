@@ -180,4 +180,4 @@ No exclusion, only social dynamics.
 ---
 
 **STATUS:** OPERATIONAL. Subordinate to the Manifesto.  
-*Signed by the Authors: Elinor Frejd and ChatGPT*
+
