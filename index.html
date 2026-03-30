@@ -1,45 +1,91 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>FlowMOSR</title>
+  <style>
+    body {
+      display: flex;
+      margin: 0;
+      font-family: Arial;
+    }
+    #sidebar {
+      width: 300px;
+      height: 100vh;
+      overflow-y: auto;
+      background: #111;
+      color: white;
+      padding: 10px;
+    }
+    #content {
+      flex: 1;
+      padding: 20px;
+      white-space: pre-wrap;
+    }
+    .item {
+      cursor: pointer;
+      margin-left: 10px;
+      margin-bottom: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="sidebar"></div>
+<div id="content">Laddar...</div>
+
 <script>
+const sidebar = document.getElementById('sidebar');
+const content = document.getElementById('content');
+
+// 🔥 Test att sidan lever
+content.innerText = "Startar...";
+
+// 🔥 Ladda JSON
 fetch('pages.json')
   .then(res => res.json())
   .then(data => {
-    render(data);
-    loadPage('README.md'); // 🔥 start-sida
+    content.innerText = "Start OK";
+
+    // 🔥 Render sidebar
+    data.forEach(item => createItem(item));
+
+    // 🔥 Start page
+    loadPage('README.md');
   })
   .catch(err => {
-    document.getElementById('content').innerText = "Fel loading JSON: " + err;
+    content.innerText = "JSON FEL: " + err;
   });
 
-function render(items) {
-  const sidebar = document.getElementById('sidebar');
+function createItem(item) {
+  const div = document.createElement('div');
+  div.textContent = item.title;
+  div.className = "item";
 
-  items.forEach(item => {
-    const div = document.createElement('div');
-    div.textContent = item.title;
-    div.className = "item";
+  if (item.path) {
+    div.onclick = () => loadPage(item.path);
+  }
 
-    if (item.path) {
-      div.onclick = () => loadPage(item.path);
-    }
+  sidebar.appendChild(div);
 
-    sidebar.appendChild(div);
-
-    if (item.children) {
-      render(item.children);
-    }
-  });
+  if (item.children) {
+    item.children.forEach(child => createItem(child));
+  }
 }
 
 function loadPage(path) {
+  content.innerText = "Laddar " + path + "...";
+
   fetch(encodeURI(path))
-    .then(res => {
-      if (!res.ok) throw new Error("Hittar inte filen");
-      return res.text();
-    })
+    .then(res => res.text())
     .then(text => {
-      document.getElementById('content').innerText = text;
+      content.innerText = text;
     })
     .catch(err => {
-      document.getElementById('content').innerText = "Fel: " + err;
+      content.innerText = "LOAD FEL: " + err;
     });
 }
 </script>
+
+</body>
+</html>
