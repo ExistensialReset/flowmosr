@@ -1,115 +1,125 @@
 <!DOCTYPE html>
 <html lang="sv">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flow MOSR</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #1b0a3b; /* content bakgrund */
-      color: #ffb700; /* textfärg */
-    }
-
-    #container {
-      display: flex;
-      height: 100vh;
-      overflow: hidden;
-    }
-
-    /* Sidebar */
-    #sidebar {
-      width: 300px;
-      background-color: #120836; /* djup mörkblå/lila */
-      color: #ffb700;
-      overflow-y: auto;
-      padding: 1rem;
-    }
-
-    #sidebar h2 {
-      margin-top: 0;
-      font-size: 1.2rem;
-      border-bottom: 1px solid #ffb700;
-      padding-bottom: 0.5rem;
-    }
-
-    #sidebar ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-
-    #sidebar li {
-      margin: 0.3rem 0;
-    }
-
-    #sidebar a {
-      color: #ffb700;
-      text-decoration: none;
-      display: block;
-      padding: 0.2rem 0.5rem;
-      border-radius: 4px;
-    }
-
-    #sidebar a:hover {
-      background-color: #2b0f5e; /* hover */
-    }
-
-    #sidebar a.active {
-      background-color: #ffa500; 
-      font-weight: bold;
-      color: #1b0a3b;
-    }
-
-    /* Content area */
-    #content {
-      flex: 1;
-      padding: 2rem;
-      overflow-y: auto;
-      background-color: #1b0a3b;
-      color: #ffb700;
-    }
-
-    /* Markdown styling */
-    h1, h2, h3, h4, h5, h6 {
-      color: #ffb700;
-    }
-
-    a {
-      color: #ffb700;
-    }
-
-    pre, code {
-      background-color: #2b0f5e;
-      color: #ffb700;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flow MOSR</title>
+<style>
+  body {
+    margin: 0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1b0a3b;
+    color: #ffb700;
+  }
+  #container {
+    display: flex;
+    height: 100vh;
+    overflow: hidden;
+  }
+  #sidebar {
+    width: 300px;
+    background-color: #120836;
+    color: #ffb700;
+    overflow-y: auto;
+    padding: 1rem;
+  }
+  #sidebar h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+    border-bottom: 1px solid #ffb700;
+    padding-bottom: 0.5rem;
+  }
+  #sidebar ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  #sidebar li {
+    margin: 0.3rem 0;
+  }
+  #sidebar a {
+    color: #ffb700;
+    text-decoration: none;
+    display: block;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  #sidebar a:hover {
+    background-color: #2b0f5e;
+  }
+  #sidebar a.active {
+    background-color: #ffa500;
+    color: #1b0a3b;
+    font-weight: bold;
+  }
+  #content {
+    flex: 1;
+    padding: 2rem;
+    overflow-y: auto;
+    background-color: #1b0a3b;
+    color: #ffb700;
+  }
+  h1, h2, h3, h4, h5, h6 { color: #ffb700; }
+  a { color: #ffb700; }
+  pre, code {
+    background-color: #2b0f5e;
+    color: #ffb700;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+</style>
 </head>
 <body>
-  <div id="container">
-    <nav id="sidebar">
-      <h2>Flow MOSR</h2>
-      <ul>
-        <li><a href="00_core/README.md">00_core</a></li>
-        <li><a href="01_principles/README.md">01_principles</a></li>
-        <li><a href="02_documents/README.md">02_documents</a></li>
-        <li><a href="03_governance/README.md">03_governance</a></li>
-        <li><a href="04_simulations/README.md">04_simulations</a></li>
-        <li><a href="05_facilitators/README.md">05_facilitators</a></li>
-        <li><a href="06_justice/README.md">06_justice</a></li>
-        <li><a href="07_technology/README.md">07_technology</a></li>
-        <li><a href="08_environmental/README.md">08_environmental</a></li>
-        <li><a href="09_economics/README.md">09_economics</a></li>
-        <li><a href="10_svenska/README.md">10_svenska</a></li>
-      </ul>
-    </nav>
-    <div id="content">
-      <!-- Root README.md som startsida -->
-      <iframe src="README.md" style="width:100%; height:100%; border:none;"></iframe>
-    </div>
-  </div>
+<div id="container">
+  <nav id="sidebar">
+    <h2>Flow MOSR</h2>
+    <ul>
+      <li><a data-file="README.md" class="active">Start (Root README)</a></li>
+      <li><a data-file="00_core/README.md">00_core</a></li>
+      <li><a data-file="01_principles/README.md">01_principles</a></li>
+      <li><a data-file="02_documents/README.md">02_documents</a></li>
+      <li><a data-file="03_governance/README.md">03_governance</a></li>
+      <li><a data-file="04_simulations/README.md">04_simulations</a></li>
+      <li><a data-file="05_facilitators/README.md">05_facilitators</a></li>
+      <li><a data-file="06_justice/README.md">06_justice</a></li>
+      <li><a data-file="07_technology/README.md">07_technology</a></li>
+      <li><a data-file="08_environmental/README.md">08_environmental</a></li>
+      <li><a data-file="09_economics/README.md">09_economics</a></li>
+      <li><a data-file="10_svenska/README.md">10_svenska</a></li>
+    </ul>
+  </nav>
+  <div id="content">Laddar...</div>
+</div>
+
+<!-- Marked.js för Markdown rendering -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  const content = document.getElementById('content');
+  const links = document.querySelectorAll('#sidebar a');
+
+  async function loadMarkdown(file) {
+    content.innerHTML = 'Laddar...';
+    const res = await fetch(file);
+    if (!res.ok) {
+      content.innerHTML = `Kunde inte ladda fil: ${file}`;
+      return;
+    }
+    const text = await res.text();
+    content.innerHTML = marked.parse(text);
+  }
+
+  links.forEach(link => {
+    link.addEventListener('click', () => {
+      links.forEach(l => l.classList.remove('active'));
+      link.classList.add('active');
+      const file = link.getAttribute('data-file');
+      loadMarkdown(file);
+    });
+  });
+
+  // Ladda root README.md först
+  loadMarkdown('README.md');
+</script>
 </body>
 </html>
