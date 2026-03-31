@@ -22,10 +22,10 @@ Detta är inte något du ansluter dig till.
 
 ---
 
-## Det Osynliga Kriget & Den Suveräna Kärnan
+## Det Osynliga Vansinnet & Den Suveräna Kärnan
 
-Det pågår ett krig om din uppmärksamhet. Det är tyst, totalt och nästan helt osynligt.  
-Dess slagfält är din kognition.  
+Det pågår en ständig konflikt om din uppmärksamhet. Det är tyst, totalt och nästan helt osynligt.  
+Dess arena är din kognition.  
 Dess vapen är artificiell brådska.  
 Dess mål är att hålla dig i ett tillstånd av ständig reaktion, borta från den lugna kärnan av ditt eget väsen.  
 
@@ -302,12 +302,12 @@ Det är Flödet.
 
 ## Avslutning
 
-**Grundnivån är säkrad.**  
+**Grundnivån kan vara säkrad om du vill arbeta för det.**  
 **Suveränitet är erkänd.**  
-**Flödet blir möjligt.**
+**Flödet kan vara möjligt.**
 
-Ingenting krävs av dig.  
-Ingenting tas från dig.
+Av dig krävs faktiskt att du vill ändra din situation. 
+Ingenting kommer tas från dig.
 
 Rent vatten rinner tyst.  
 Rädslan lättar sitt grepp.
