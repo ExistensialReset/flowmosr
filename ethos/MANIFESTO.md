@@ -3,7 +3,7 @@
 
 You are safe here. You owe nothing.  
 
-This repository does not ask you to agree, join, perform, or believe anything.  
+This repository does not ask you to agree, join or believe anything. But it asks you if you feel satisfied with life in Mammon? 
 
 You are not late.  
 You are not behind.  
@@ -18,15 +18,15 @@ There is no obligation.
 
 This is not a self-improvement program.  
 This is not a test you can fail.  
-This is not something you join.  
+This is not something you join, but you can make it yours.   
 
 ---
 
-## The Unseen War & The Sovereign Core
+## The Unseen Madness & The Sovereign Core
 
-There is a war for your attention. It is quiet, total, and almost completely invisible.  
-Its battlefield is your cognition.  
-Its weapon is artificial urgency.  
+A strong conflict in the world is trying to always occupy your attention. It is quiet, total insanity, and almost completely invisible.  
+The playground for this constant battle of attention is your cognition.  
+Its strongest, most wicked kind of weapon is artificial urgency.  
 Its goal is to keep you in a state of perpetual reaction, away from the calm core of your own being.  
 
 Below are the foundational axioms and operational logic for building a reality that protects sovereignty for all.
@@ -282,7 +282,7 @@ No hierarchy is invoked.
 
 **Life = Calm × Spontaneity × Interconnection**  
 
-If any factor reaches zero, life quality collapses to zero.  
+If any factor reaches zero, quality of life itself collapses to zero.  
 All three must be protected simultaneously.
 
 ---
@@ -302,19 +302,19 @@ That is Flow.
 
 ## Closing
 
-**The Baseline is secured.**  
+**The Baseline can be secure, if you want to.**  
 **Sovereignty is recognized.**  
-**Flow becomes possible.**
+**Flow can become possible.**
 
-Nothing is demanded of you.  
+Nothing is demanded of you, but if you want change, you have got to start with your own life.  
 Nothing is taken from you.
 
-Clean water runs quietly.  
-Fear loosens its grip.
+Clean water runs quietly. And in not too long I hope, this is true in the whole world. 
+Fear loosens its grip because you are.
 
 And for the first time in a long while,  
 **existence is allowed to begin.**
 
 ---
 
-[^1]: See `MAMMONOLOGY.md` for analysis of the debt-based system, and `FLOW_SRS.md` for the technical and operational architecture supporting this declaration.
+Welcome home, Sovereignty ❤️ 
