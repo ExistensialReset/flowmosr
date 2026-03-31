@@ -973,6 +973,166 @@ The stakes are different.
 
 ---
 
+## 🔧 CONFLICT & GOVERNANCE (LOTUS-LITE)
+
+**Purpose:**  
+Prevent collapse into hierarchy, elite capture, and unresolved conflict  
+— without bureaucracy, technology, or external authority.
+
+**Core Principle:**  
+> No one holds power long enough to become power.
+
+---
+
+## CORE RULES (NON-NEGOTIABLE)
+
+1. No permanent leaders  
+2. All roles rotate  
+3. All shared resources are visible to all  
+4. Anyone can call a circle meeting  
+5. Conflicts must be addressed within 3 days  
+
+If these break → Flow degrades fast.
+
+---
+
+## 🎲 LOTTERY GOVERNANCE (LOTUS-LITE)
+
+Forget systems. Use what exists.
+
+**Basic Method:**
+- Everyone eligible = name on paper / leaf / stone  
+- Put into a container (bowl, bag, hat)  
+- A neutral person (often a child) draws  
+
+That’s it.
+
+---
+
+## WHAT LOTTERY IS USED FOR
+
+### 1. Resource Keeper (money, tools, seeds)
+- Term: 1 month  
+- Must step down after term  
+- Cannot be immediately re-selected (skip at least 2 cycles)  
+
+---
+
+### 2. Meeting Facilitator
+- Term: 1 meeting or 1 week  
+- Role: keep flow of conversation, not control  
+
+---
+
+### 3. Conflict Mediators (2–3 people)
+- Selected per conflict  
+- Must not be directly involved  
+
+---
+
+## SAFETY RULES
+
+- Anyone can be skipped if mistrusted  
+- Abuse of role → immediate removal + redraw  
+- Always minimum 2 people for anything critical (money, decisions)  
+
+---
+
+## 👥 CONFLICT PROTOCOL (REAL USE)
+
+### STEP 1: DIRECT TALK (Day 1)
+- Two people sit together  
+- No shouting  
+- One speaks at a time  
+- Goal = understanding, not winning  
+
+If resolved → done  
+
+---
+
+### STEP 2: SMALL MEDIATION (Day 2)
+- 2–3 mediators selected by lottery  
+- Both sides explain  
+- Mediators reflect and propose solution  
+
+If both agree → done  
+If not → escalate  
+
+---
+
+### STEP 3: FULL CIRCLE (Day 3)
+- Entire group gathers  
+- Both sides speak  
+- Questions allowed  
+
+Then:
+- Group proposes solution  
+- If consensus → done  
+- If not → **lottery decision (binding)**  
+
+---
+
+## WHY LOTTERY?
+
+- Prevents domination  
+- Prevents endless conflict  
+- Forces resolution  
+
+Not perfect justice.  
+**System survival.**
+
+---
+
+## ⚖️ ELITE CAPTURE DEFENSE
+
+### Early Warning Signs:
+- Same person repeatedly holds roles  
+- Resources not transparent  
+- Women stop speaking  
+- Decisions happen outside the circle  
+
+---
+
+### Response:
+1. Call emergency meeting  
+2. Reset all roles via lottery  
+3. Public review of all shared resources  
+4. If needed → split group (better than control)  
+
+---
+
+## 👩‍🦰 PROTECTION FOR WOMEN & VULNERABLE
+
+- Women can form parallel circles if needed  
+- Aim for at least 50% women in mediation (when possible)  
+- No decision valid if affected group is not present  
+
+---
+
+## 🪶 CULTURAL ADAPTATION RULE
+
+Do not impose structure.
+
+Instead:
+- Use existing elders **if they accept rotation**  
+- Use traditions **if they don’t create domination**  
+- Translate lottery into local methods (sticks, shells, etc.)  
+
+---
+
+## MINIMUM VIABLE GOVERNANCE
+
+If everything else fails, keep only:
+
+1. Rotate roles  
+2. Draw lots  
+3. Resolve conflict within 3 days  
+4. Keep resources visible  
+
+This alone prevents most failure modes.
+
+---
+
 ## THE UBUNTU INTEGRATION
 
 **Ubuntu:** "I am because we are"  
