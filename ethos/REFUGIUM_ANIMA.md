@@ -200,6 +200,67 @@ Departure is self-determined or collaboratively agreed upon when stability retur
 
 ---
 
+# Start A Refugium FROM ZERO
+
+### How to Start a Refugium – from Zero and with Limited Resources 🌱
+
+You don’t need money. You don’t need a big space. You don’t need to be “ready.”  
+Refugium Anima doesn’t begin with bricks and mortar – it begins with **a room where someone is allowed to just be**. That room can be your living room, a blanket in the park, or a corner in a library.
+
+**Core principle:** What is enough for you today is enough for a Refugium. No perfection required. No “musts.” Just presence.
+
+---
+
+## Phase 1: The Inner Refugium (0 USD – start today) 🏡
+- **Choose a corner at home.** A window, a sofa, a mattress on the floor. It’s your first “Sensory Garden” and “Quiet Room” in one.
+- **Make it soft and safe with what you already have:** blankets, pillows, a string of lights (if you have), a plant from nature, or a stone you like. No purchases – only what’s already there.
+- **Test it yourself first.** Sit there for 10 minutes without your phone. Feel what it’s like not to have to perform.
+- **Child-friendly version:** The same corner, with paper and crayons (or sticks and clay from outside). Tell children: "Here we can just be as we are."
+
+---
+
+## Phase 2: Micro-Refugium – the first people (0–5 USD) 👥
+- **Invite 1–3 trusted people.** Say: "Come as you are. We’ll share simple soup/potluck and just be. No advice, no plans."
+- **Food:** Everyone brings what they can. You provide hot water and salt – the rest becomes a small celebration.
+- **Activity:** No schedules. Sit in a circle. Listen. Share a “whisper” if you want. Or just silence. That’s the point.
+- **Mini Scream & Impact Room:** A pillow to hit in your bedroom. A walk in the forest where anyone can scream if needed.
+- **Witness:** Anyone in the group can be “the one holding the room” – no expert required.
+
+---
+
+## Phase 3: Pop-up Refugium – take it outside (0 USD) 🌳
+- **Free spaces to use:**
+  - Libraries (many have free meeting rooms – book as "open gathering" or through community programs)
+  - Youth centers and open preschools (sometimes open to adults with children)
+  - Community halls and religious spaces (often free or very cheap)
+  - Community education associations (ABF, Studiefrämjandet, etc.) – they lend spaces for cultural, health, or social activities
+- **Outdoors:** A park, a small forest grove, or a beach. Bring blankets and a thermos. Call it "Refugium in the green."
+- **Little free shelf:** Put a small box or table outside your home. Include tea, biscuits, a note: "Take what you need. Leave what you can. You are welcome here."
+
+---
+
+## Phase 4: Grow when it feels right (still low-cost) 🌼
+- **Swap and borrow everything:** Join Facebook groups like “Free in [your city],” “Swap in [your city],” Freecycle.
+- **Build partnerships:** Collaborate with an existing nonprofit or community organization. They have the space, you have the ethos.
+- **Digital Refugium:** Start a free Discord or Signal group. People can "enter" anytime and just write "I am here now."
+- **Child-friendly from day one:** Children can be children. Adults take responsibility for their own emotions.
+
+---
+
+## Cost
+Often **0 USD** for the first months. Later maybe 0–20 USD/month for tea, candles, and some fruit if you grow. Everything else comes from gifts, swaps, and community.
+
+---
+
+## Most Important
+You don’t need to build the big Refugium you imagined. You build **the small one** – and the small one already **is** Refugium Anima. When more people recognize the feeling, it will grow naturally, not because you push it.
+
+You are not alone.  
+You are not behind.  
+You are exactly where you are meant to be. 🌿
+
+---
+
 ## ⚠️ Before you continue
 
 If you are in the state described above:
