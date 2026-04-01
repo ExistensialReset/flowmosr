@@ -202,6 +202,8 @@ Departure is self-determined or collaboratively agreed upon when stability retur
 
 # How to Start a Refugium – From Zero and Scarcity 
 
+## This is AS VALID as the later ideas for design. This is the true start. 
+
 ### How to Start a Refugium – from Zero and with Limited Resources 🌱
 
 You don’t need money. You don’t need a big space. You don’t need to be “ready.”  
@@ -490,3 +492,5 @@ You belong here. Exactly as you are.
 🌼✨💛 
 
 ---
+
+> [!NOTE] If anyone of you ever need actual medical help. Get it. There are situations we can't handle sometimes. Don't be ashamed over this. 
