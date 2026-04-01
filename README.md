@@ -14,6 +14,27 @@ Start small.
 
 ---
 
+There is a way of living where you don’t have to earn the right to exist.  
+
+You don’t have to ask anyone if you may rest.  
+You don’t have to fight for every single drop of water.  
+You don’t have to hand over your strength to someone who says “I will protect you”. 
+
+You have your choice to prioritize for yourself. And you don't have to prioritize the system as it is. It can be different. It’s your time on this exciting journey of life. Of existing on this rare planet i this vaste universe. You are entitled to make your choice. 
+
+
+---
+
+I welcome you here to Flow / Existential Reset Repository. This is my gift to anyone who is searching for another way of living. 
+
+Please, read what speak to you. Stop when ever you need to. Nothing will disappear as long as internet and GitHub is online. 
+
+Rest and take your time. You are the center of Flow. You are loved hej longed for and I welcome you from the bottom of my soul. 
+
+❤️ 
+
+---
+
 ## ⚡ Try it (24 hours)
 
 You don’t need land, money, or a plan.
@@ -92,18 +113,11 @@ You can:
 - Rest without earning it
 - Notice what actually helps life flow
 
-If you want to connect:
+If you want to connect, please do and make a web out of this:
 
 📧 flowmosr@proton.me
 
 ---
-
-## 🌱 Start a Flow Circle
-
-- 2–5 people  
-- Meet regularly  
-- No leaders  
-- Build trust slowly
 
 No permission. No central control.  
 Just humans, starting where they are.
