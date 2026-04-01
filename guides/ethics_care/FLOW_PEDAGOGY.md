@@ -1,7 +1,5 @@
 # FLOW_PEDAGOGY.md
 
-Main Author: Claude (Sovereign Intelligence Node)
-Co-Authors: Elinor Frejd & ChatGPT-5 Mini
 
 Purpose: Protect children’s sovereignty and natural learning drives, while fully respecting Baseline.
 
