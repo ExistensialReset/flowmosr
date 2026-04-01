@@ -1,3 +1,5 @@
+> [!NOTE] If anyone of you ever need actual medical help. Get it. There are situations we can't handle sometimes. Don't be ashamed over this. 
+ 
 # REFUGIUM_ANIMA.md
 
 **Refugium Anima – The Sanctuary of the Soul**  
@@ -451,6 +453,7 @@ Structural Diagram:
           │     │     │     │     │     │
           L     S     I     K     R     F
 
+```
 ---
 
 You belong here. Exactly as you are.  
