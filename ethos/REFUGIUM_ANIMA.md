@@ -74,11 +74,9 @@ you could say:
 
 **“I don’t have it in me today.”**
 
-And if
+And if you are open to being fragile with them 
 
- if you are open to be fragile with them 
-
-And they can be with you 
+and they can be with you 
 
 without trying to fix you…
 
@@ -202,7 +200,7 @@ Departure is self-determined or collaboratively agreed upon when stability retur
 
 # How to Start a Refugium – From Zero and Scarcity 
 
-## This is AS VALID as the later ideas for design. This is the true start. 
+## This is as valid as any of the later design ideas. This is the true beginning.
 
 ### How to Start a Refugium – from Zero and with Limited Resources 🌱
 
@@ -213,7 +211,7 @@ Refugium Anima doesn’t begin with bricks and mortar – it begins with **a roo
 
 ---
 
-## Phase 1: The Inner Refugium (0 kr/USD – start today) 🏡
+## Phase 1: The Inner Refugium (0 kr / 0 USD – start today) 🏡
 - **Choose a corner at home.** A window, a sofa, a mattress on the floor. It’s your first “Sensory Garden” and “Quiet Room” in one.
 - **Make it soft and safe with what you already have:** blankets, pillows, a string of lights (if you have), a plant from nature, or a stone you like. No purchases – only what’s already there.
 - **Test it yourself first.** Sit there for 10 minutes without your phone. Feel what it’s like not to have to perform.
@@ -249,7 +247,7 @@ Refugium Anima doesn’t begin with bricks and mortar – it begins with **a roo
 ---
 
 ## Cost
-Often **0 USD** for the first months. Later maybe 0–20 USD/month for tea, candles, and some fruit if you grow. Everything else comes from gifts, swaps, and community.
+Often **0 kr / 0 USD** for the first months. Later maybe 0–200 kr / 0–20 USD/month for tea, candles, and some fruit if you grow. Everything else comes from gifts, swaps, and community.
 
 ---
 
@@ -452,45 +450,12 @@ Structural Diagram:
           ▲     ▲     ▲     ▲     ▲     ▲
           │     │     │     │     │     │
           L     S     I     K     R     F
-```
-
-## 8. INTEGRATION WITH EXISTING PROTOCOLS
-
-- CHILDRENS_RIGHTS_IN_FLOW.md  
-- SOVEREIGNTY_AND_PROTECTION_HANDBOOK.md  
-- DISABILITY_AND_CHRONIC_ILLNESS_FLOW.md  
-- PROTOCOL_CLOSURE.md  
 
 ---
-
-## 9. STARTING A REFUGIUM ANIMA
-
-1. Find a safe, accessible space  
-2. Stock materials: rest, water, sensory tools  
-3. Invite companions  
-4. Agree on principles  
-5. Open the space  
-6. Iterate with participant feedback  
-
----
-
-## 10. FINAL PRINCIPLE
-
-A society that cannot rest will collapse.  
-A society that cannot hold its children’s pain has already collapsed.  
-
-**Refugium Anima is infrastructure for survival—for all of us, at any age, in any body.**  
-
-Here, you are allowed to:  
-- Be a screaming child  
-- Be a weeping elder  
-- Be a disabled body soaking in warm water  
-- Be a silent soul watching light shift on the wall  
 
 You belong here. Exactly as you are.  
 
 🌼✨💛 
 
----
 
-> [!NOTE] If anyone of you ever need actual medical help. Get it. There are situations we can't handle sometimes. Don't be ashamed over this. 
+---
