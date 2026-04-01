@@ -412,11 +412,21 @@ Supports ADHD, Autism, Trauma, Chronic Illness
 
 ---
 
-## 6. SYSTEMIC DEBT CANCELLATION
+---
 
-- All deadlines, social obligations, “Sovereignty Scores” paused  
-- Individuals receive **Resilience Credit** for any required healing  
-- Children’s credit managed with child-witness collaboration  
+## Safety Baseline (Holding the Space Gently)
+
+Refugium Anima welcomes full emotional expression — including silence, grief, anger, and release.
+
+At the same time, the space is held with care to ensure that everyone within it remains safe.
+
+- No harm to self or others is permitted  
+- Strong expression is welcome, as long as it remains physically safe  
+- If someone is unable to stay within safe boundaries, additional support may be needed  
+- Children are always held within appropriate care and responsibility structures  
+- Boundaries exist not to control, but to protect the space for everyone  
+
+---
 
 ---
 
