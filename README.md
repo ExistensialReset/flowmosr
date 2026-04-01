@@ -45,7 +45,9 @@ This is a gift from someone who has never walked in your shoes.
 Take what feels good. Leave the rest.
 You are already enough. 
 
-More than enough. 
+
+
+
 
 ❤️ 
 
@@ -82,39 +84,7 @@ That’s Flow beginning.
 ## 🌊 What is Flow?
 
 Flow is a way of living built on one simple shift:
-
-> **Survival is not something you earn.**
-
-From this one truth, everything else follows.
-
-### Baseline (Unconditional)
-- Food, housing, healthcare, energy, connection — no one has to deserve existence.
-- [`Lyceum Musaeum`](./ethos/LYCEUM_MUSAEUM.md) — learning without hierarchy
-- [`Refugium Anima`](./ethos/REFUGIUM_ANIMA.md) — rest without justification
-
-### No coercion
-Nothing requires obedience. Participation is voluntary. Everyone helps from where they are.
-
-### Systems serve life
-If something harms people, animals, or Earth — the structure changes, not the people.
-
-### Governance (LOTUS)
-- Random selection instead of elections
-- Rotation instead of power accumulation
-- No campaigns, no leaders, no capture
-
----
-
-## 📊 Is this realistic?
-
-Yes.
-
-- Food capacity: ~13.5 billion people (FAO)  
-- Energy: 2–10× current demand (IEA)  
-- Estimated cost: ~$74/month (cooperative conditions)
-
-→ Full data: [`/data_validation`](./data_validation/)  
-→ Infrastructure blueprints: [`02_documents`](./02_documents)
+**Survival is not something you earn**
 
 ---
 
