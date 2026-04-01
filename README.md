@@ -52,15 +52,14 @@ Everything else will come by itself.
 > Take what feels good. Leave the rest.
 
 > You are already enough. 
+  
+
+ 
 
 
-
-
-
-
-
-
-❤️ 
+  
+ 
+     ❤️ 
 
 ---
 
