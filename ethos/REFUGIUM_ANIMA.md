@@ -200,7 +200,7 @@ Departure is self-determined or collaboratively agreed upon when stability retur
 
 ---
 
-# Start A Refugium FROM ZERO
+# How to Start a Refugium – From Zero and Scarcity 
 
 ### How to Start a Refugium – from Zero and with Limited Resources 🌱
 
@@ -211,7 +211,7 @@ Refugium Anima doesn’t begin with bricks and mortar – it begins with **a roo
 
 ---
 
-## Phase 1: The Inner Refugium (0 USD – start today) 🏡
+## Phase 1: The Inner Refugium (0 kr/USD – start today) 🏡
 - **Choose a corner at home.** A window, a sofa, a mattress on the floor. It’s your first “Sensory Garden” and “Quiet Room” in one.
 - **Make it soft and safe with what you already have:** blankets, pillows, a string of lights (if you have), a plant from nature, or a stone you like. No purchases – only what’s already there.
 - **Test it yourself first.** Sit there for 10 minutes without your phone. Feel what it’s like not to have to perform.
@@ -232,7 +232,7 @@ Refugium Anima doesn’t begin with bricks and mortar – it begins with **a roo
 - **Free spaces to use:**
   - Libraries (many have free meeting rooms – book as "open gathering" or through community programs)
   - Youth centers and open preschools (sometimes open to adults with children)
-  - Community halls and religious spaces (often free or very cheap. 
+  - Community halls and religious spaces (often free or very cheap for community initiatives). 
 - **Outdoors:** A park, a small forest grove, or a beach. Bring blankets and a thermos. Call it "Refugium in the green."
 - **Little free shelf:** Put a small box or table outside your home. Include tea, biscuits, a note: "Take what you need. Leave what you can. You are welcome here."
 
