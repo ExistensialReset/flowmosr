@@ -177,9 +177,7 @@ And that matters.
 
 ## PREAMBLE: What Refugium Anima Is
 
-To be really honest, it's just a space in your heart, open for yourself and others. Like the text above, or just 
-
-Start wherever you already are (a room, a corner, a shared space)
+To be really honest, it's just a space in your heart, open for yourself and others. Like the text above, or just start wherever you already are (a room, a corner, a shared space)
 
 But in Flow it is also a designed space:
 
