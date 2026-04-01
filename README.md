@@ -2,17 +2,19 @@
 
 ## A different way of living is possible
 
-You don’t need to optimize your life.
+**You don’t need to optimize your life.**
 
-You need to remove what is blocking it.
+**You need to remove what is blocking it.**
 
-Flow is not a theory.  
-It is something you can feel — quietly — when nothing is demanding anything from you.
+> Flow is not a theory.  
+> It is something you can feel — quietly — when nothing is demanding anything from you.
 
-No permission needed.  
-Start small.
+**No permission needed.  
+Start small.**
 
 ---
+
+*Whisper from some where right near your ear* 
 
 There is a way of living where you don’t have to earn the right to exist.
 
@@ -20,7 +22,8 @@ You don’t have to ask anyone if you may rest.
 You don’t have to fight for every single drop of water.
 You don’t have to hand over your strength to someone who says “I will protect you”.
 
-This is not a rule. Not a plan. Not something you must do.
+
+> This is not a rule. > Not a plan. Not  something you must do.
 
 It is only this soft question, spoken quietly inside your own chest:
 
@@ -31,19 +34,27 @@ You don’t need to call it anything.
 You don’t need to tell anyone.
 You don’t need to continue if it feels wrong.
 
-This is your time.
-This is your body.
-This is your place.
+**This is your time.**
+**This is your body.**
+**This is your place.**
 
 If one day you want to try – start with rest.
 Tell someone you trust, very simply:
-“Today we rest together. No one has to earn it.”
+**“Today we rest together. No one has to earn it.”**
 
 Everything else will come by itself.
 
-This is a gift from someone who has never walked in your shoes.
-Take what feels good. Leave the rest.
-You are already enough. 
+
+
+> This is a gift from someone who has never walked in your shoes.
+
+
+> Take what feels good. Leave the rest.
+
+> You are already enough. 
+
+
+
 
 
 
