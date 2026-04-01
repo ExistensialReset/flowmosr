@@ -465,10 +465,24 @@ Structural Diagram:
 
 ```
 ---
+### FINAL PRINCIPLE
 
-You belong here. Exactly as you are.  
+**A society that cannot hold space for rest will eventually collapse.
+A society that cannot hold its children's pain has already begun to collapse.
+Refugium Anima is not charity.
+It is infrastructure for survival — for all of us, at any age, in any body.**
 
-🌼✨💛 
+Here, you are allowed to:
+- Be a screaming child
+- Be a weeping elder
+- Be a disabled body soaking in warm water
+- Be a silent soul watching light shift on the wall
+
+
+You belong here. Exactly as you are.
+
+🌼✨💛
+
 
 
 ---
