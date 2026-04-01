@@ -412,7 +412,6 @@ Supports ADHD, Autism, Trauma, Chronic Illness
 
 ---
 
----
 
 ## Safety Baseline (Holding the Space Gently)
 
@@ -427,7 +426,7 @@ At the same time, the space is held with care to ensure that everyone within it 
 - Boundaries exist not to control, but to protect the space for everyone  
 
 ---
-
+🌼💛✨ 
 ---
 
 ## 7. RELATIONSHIP TO FLOW & LYCEUM
