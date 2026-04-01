@@ -1,4 +1,7 @@
-> [!NOTE] If anyone of you ever need actual medical help. Get it. There are situations we can't handle sometimes. Don't be ashamed over this. 
+> [!NOTE]
+> If you need medical or professional help, please seek it.
+> Some situations require support beyond what we can hold here.
+> There is no shame in that. 
  
 # REFUGIUM_ANIMA.md
 
