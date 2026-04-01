@@ -427,6 +427,6 @@ Here, you are allowed to:
 
 You belong here. Exactly as you are.  
 
-🌼😱🌿💧🥊🛁♿️🧸
+🌼✨💛 
 
 ---
