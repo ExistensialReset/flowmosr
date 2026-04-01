@@ -68,7 +68,7 @@ Just… here.
 ---
 
 If there is someone you trust  
-—even a little—
+— even a little —
 
 you could say:
 
