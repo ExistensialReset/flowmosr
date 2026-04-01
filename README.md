@@ -23,7 +23,7 @@ You don’t have to fight for every single drop of water.
 You don’t have to hand over your strength to someone who says “I will protect you”.
 
 
-> This is not a rule. > Not a plan. Not  something you must do.
+> This is not a rule.  Not a plan. Not  something you must do.
 
 It is only this soft question, spoken quietly inside your own chest:
 
