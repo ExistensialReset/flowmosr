@@ -14,22 +14,38 @@ Start small.
 
 ---
 
-There is a way of living where you don’t have to earn the right to exist.  
+There is a way of living where you don’t have to earn the right to exist.
 
-You don’t have to ask anyone if you may rest.  
-You don’t have to fight for every single drop of water.  
-You don’t have to hand over your strength to someone who says “I will protect you”. 
+You don’t have to ask anyone if you may rest.
+You don’t have to fight for every single drop of water.
+You don’t have to hand over your strength to someone who says “I will protect you”.
 
-You have your choice to prioritize for yourself. And you don't have to prioritize the system as it is. It can be different. It’s your time on this exciting journey of life. Of existing on this rare planet i this vaste universe. You are entitled to make your choice. 
+This is not a rule. Not a plan. Not something you must do.
 
+It is only this soft question, spoken quietly inside your own chest:
 
----
+What if survival was not a daily battle?
+What if you and the people next to you could sometimes just sit, eat, breathe… and nothing demanded anything from anyone?
 
-I welcome you here to Flow / Existential Reset Repository. This is my gift to anyone who is searching for another way of living. 
+You don’t need to call it anything.
+You don’t need to tell anyone.
+You don’t need to continue if it feels wrong.
 
-Please, read what speak to you. Stop when ever you need to. Nothing will disappear as long as internet and GitHub is online. 
+This is your time.
+This is your body.
+This is your place.
 
-Rest and take your time. You are the center of Flow. You are loved hej longed for and I welcome you from the bottom of my soul. 
+If one day you want to try – start with rest.
+Tell someone you trust, very simply:
+“Today we rest together. No one has to earn it.”
+
+Everything else will come by itself.
+
+This is a gift from someone who has never walked in your shoes.
+Take what feels good. Leave the rest.
+You are already enough. 
+
+More than enough. 
 
 ❤️ 
 
