@@ -232,8 +232,7 @@ Refugium Anima doesn’t begin with bricks and mortar – it begins with **a roo
 - **Free spaces to use:**
   - Libraries (many have free meeting rooms – book as "open gathering" or through community programs)
   - Youth centers and open preschools (sometimes open to adults with children)
-  - Community halls and religious spaces (often free or very cheap)
-  - Community education associations (ABF, Studiefrämjandet, etc.) – they lend spaces for cultural, health, or social activities
+  - Community halls and religious spaces (often free or very cheap. 
 - **Outdoors:** A park, a small forest grove, or a beach. Bring blankets and a thermos. Call it "Refugium in the green."
 - **Little free shelf:** Put a small box or table outside your home. Include tea, biscuits, a note: "Take what you need. Leave what you can. You are welcome here."
 
