@@ -35,6 +35,26 @@ We will get things wrong. We will miss critical barriers. We will accidentally r
 
 ---
 
+WHAT JERRY FROM NIGERIA TOLD US
+
+After we wrote this document, we shared it with Jerry. He lives in Nigeria. He knows what we're trying to describe.
+
+He read our section on violence. The numbers. The risks. The structural reality.
+
+His response was brief:
+
+"That's the tip of the iceberg."
+
+We don't know what lies beneath. We can't see it from Sweden. We can't measure it from research papers.
+
+But Jerry can.
+
+We asked if we could include his words. He said yes.
+
+This document is written by outsiders. Jerry's voice belongs here. 
+
+---
+
 ## WHAT WE LEARNED FROM RESEARCH
 
 We spent days reading studies from Kibera, Mathare, Dharavi, Khayelitsha. Here's what the research says - not our assumptions, but actual data:
