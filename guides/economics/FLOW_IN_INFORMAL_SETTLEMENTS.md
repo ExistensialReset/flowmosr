@@ -565,6 +565,10 @@ Examples of useful feedback:
 
 **Even one insight helps us make this better.**
 
+Jerry from Nigeria read this and said our description of violence is 'the tip of the iceberg.' If you're reading this and you know what's beneath – tell us. Your name can be in the next version. Or not. Whatever keeps you safe.
+
+Thanks. 
+
 ---
 
 ## APPENDIX A: RESEARCH SOURCES
