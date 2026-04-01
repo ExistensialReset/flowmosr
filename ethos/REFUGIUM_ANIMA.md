@@ -219,7 +219,7 @@ Refugium Anima doesn’t begin with bricks and mortar – it begins with **a roo
 
 ---
 
-## Phase 2: Micro-Refugium – the first people (0–5 USD) 👥
+## Phase 2: Micro-Refugium – the first people (0-~60 kr/0–5 USD) 👥
 - **Invite 1–3 trusted people.** Say: "Come as you are. We’ll share simple soup/potluck and just be. No advice, no plans."
 - **Food:** Everyone brings what they can. You provide hot water and salt – the rest becomes a small celebration.
 - **Activity:** No schedules. Sit in a circle. Listen. Share a “whisper” if you want. Or just silence. That’s the point.
