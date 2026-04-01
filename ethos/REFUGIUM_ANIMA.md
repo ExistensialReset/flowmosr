@@ -367,7 +367,7 @@ Spaces are **designed for all bodies**, children and adults alike. Individuals m
 ## 3. CHILD-SPECIFIC ADAPTATIONS
 
 ### 3.1 Age-Appropriate Agency
-- Children may use any space, with or without an adult  
+- Children may use any space, with or without an adult, within safe and supported conditions
 - Right to say “no” to any activity or company  
 
 ### 3.2 No Interpretation Without Consent
