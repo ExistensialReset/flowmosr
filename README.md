@@ -83,7 +83,7 @@ Everything else will come by itself.
 > This is a gift from someone who has never walked in your shoes.
 
 
-> Take what feels good. Leave the rest.
+ Take what feels good. Leave the rest.
 
 > You are already enough.
 
