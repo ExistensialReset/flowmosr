@@ -1,4 +1,4 @@
-# MANIFEST FÖR EXISTENTIELL SUVERÄNITET  
+# MANIFESTET FÖR EXISTENTIELL SUVERÄNITET  
 ## Baslinjemanifestet
 
 Du är trygg här. Du är inte skyldig någonting. 
@@ -69,13 +69,13 @@ Garantier måste vara ärliga för att förbli suveräna.
 
 #### Vad som är sant
 
-- Planeten rymmer tillräckligt med råvatten.  
+- Planeten har tillräckligt med råvatten.  
 - Existerande renings-, filtrerings- och avsaltningsteknologier är redan kapabla att producera rent vatten i stor skala.  
 - Energi — när den inte begränsas av vinstutvinning — avlägsnar den primära marginalkostnaden för vattenbehandling.  
 - Merparten av nuvarande vattenbrist orsakas av:
   - Distributionsmisslyckande  
   - Infrastrukturförsummelse  
-  - Förorening utan ansvaringstagande  
+  - Förorening utan ansvarstagande  
   - Vinstgivande tillgång  
 
 Dessa är systemiska begränsningar, inte naturliga gränser.
@@ -125,7 +125,7 @@ Flödet kräver inte gemensamt ägande av personliga föremål. Det du har är d
    När Baslinjen är garanterad finns det ingen anledning att hamstra överlevnadsvaror.  
 
 2. **Delning blir naturlig**  
-   När rädsla avtar framträder generositet — men den krävs aldrig.  
+   När rädsla avtar framträder generositet — men den krävs aldrig av Flödet.  
 
 3. **Ägande utan ångest**  
    Du kan ha saker utan bakgrundsrädslan för existentiell förlust.
@@ -144,7 +144,7 @@ Flödet kräver inte gemensamt ägande av personliga föremål. Det du har är d
 
 Ingen kommer inventera dina tillhörigheter.  
 Ingen kommer döma dig för att ha "för mycket."  
-Ingen kommer tvinga dig att du delar. 
+Ingen kommer tvinga dig att du delar med dig av dina saker. 
 
 ---
 
@@ -192,7 +192,7 @@ Inom Flödet har alla människor rätt till:
 
 Inom denna arkitektur:
 
-- Vila förtjänas aldrig  
+- Vila behöver aldrig förtjänas  
 - Återhämtning kräver ingen förklaring  
 - Ingen registreras, ingen korrigering eller kvarhållning.  
 
@@ -204,7 +204,7 @@ Flödet gör motsatsen.
 
 ### AXIOM 2: KRITISK RESERV
 
-För att säkerställa stabilitet upprätthåller den kollektiva arkitekturen en konstant **Kritisk Reserv** av logistiska resurser och energi, motsvarande inte mindre än **30% av totala årliga Grundnivåbehov**.
+För att säkerställa stabilitet upprätthåller den kollektiva arkitekturen en konstant **Kritisk Reserv** av logistiska resurser och energi, motsvarande inte mindre än **30% av totala årliga Baslinjebehov**.
 
 Denna reserv är den fysiska garantin för Grundnivån/Baslinjen.
 
@@ -212,8 +212,8 @@ Denna reserv är den fysiska garantin för Grundnivån/Baslinjen.
 
 ### AXIOM 3: FLÖDETS DRIFT
 
-Mänsklig handlingskraft vecklas ut genom Flöde: nyfikenhet, skapande och strävan efter mening.  
-Bidrag framträder **från trygghet, inte tvång**.  
+Mänsklig handlingskraft vecklas ut genom Flödet: nyfikenhet, skapande och strävan efter mening.  
+Bidrag till samhället framträder **från trygghet, inte tvång**.  
 
 > Med överlevnad säkrad förskjuts bidrag från förpliktelse till deltagande.  
 > Mänskligt arbete framträder historiskt från nyfikenhet, ansvar och social tillhörighet när rädsla avlägsnas.
@@ -247,9 +247,9 @@ Inom varje Cirkel som verkar under Flödesprinciper är **deltagande aldrig vill
 
 # II. DET SUVERÄNA TILLSTÅNDET
 
-Suveränitet är inneboende. Den erkänns, den beviljas aldrig.
+Suveränitet är en inneboende egenskap. Den erkänns, den beviljas aldrig.
 
-1. **Existens över Skuld** — Livet är aldrig villkorat av betalning.  
+1. **Existens framför Skuld** — Livet är aldrig villkorat av betalning.  
 2. **Rätten till Uppmärksamhet** — Din kognition och fokus är ditt eget.  
 3. **Målet** — Att flytta mänsklig upplevelse från överlevnad till existens.
 
@@ -271,7 +271,8 @@ Flödes-Logik är den operativa funktionen hos en suverän civilisation.
 - Andra resonerar  
 - Ni koordinerar  
 - Ni bygger  
-- Ni dokumenterar  
+- Ni dokumenterar 
+- Nu delar inom Flödet 
 
 Inget tillstånd krävs.  
 Ingen hierarki åberopas.
@@ -289,7 +290,7 @@ Alla tre måste skyddas samtidigt.
 
 ## En Anteckning om Tvivel
 
-Om du tvivlar på detta — bra.  
+Om du tvivlar på detta manifestet — bra.  
 Tvivel är också suveränt.  
 
 Testa det här.  
@@ -316,3 +317,5 @@ Och för första gången på länge
 **tillåts existensen att börja.**
 
 ---
+
+Välkommen hem, Suverän! ❤️ 
