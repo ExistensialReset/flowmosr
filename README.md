@@ -59,7 +59,7 @@ You don’t have to fight for every single drop of water.
 You don’t have to hand over your strength to someone who says “I will protect you”.
 
 
-> This is not a rule.  Not a plan. Not  something you must do.
+> This is not a rule.  Not a plan. Not something you must do.
 
 It is only this soft question, spoken quietly inside your own chest:
 
@@ -85,7 +85,8 @@ Everything else will come by itself.
 > This is a gift from someone who has never walked in your shoes.
 
 
- Take what feels good. Leave the rest.
+ Take what feels right. 
+  Leave the rest.
 
 > You are already enough.
 
@@ -169,7 +170,8 @@ And that is enough.
 
 ---
 
-To read the whole repository, if you're on https://existensialreset.github.io/flowmosr/
+To read the whole repository, if you're on https://existensialreset.github.io/flowmosr
+(Nice colors!) 
 
 Please take a look at https://github.com/ExistensialReset/flowmosr
 
