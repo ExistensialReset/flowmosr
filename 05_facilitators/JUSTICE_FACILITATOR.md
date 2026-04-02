@@ -1,9 +1,8 @@
-# 📖 FACILITATOR_TRAINING_GUIDE.md
+# 📖 JUSTICE_FACILITATOR_TRAINING_GUIDE.md
 
 **Version:** 1.0  
 **Status:** TRAINING ESSENTIAL  
 **Depends on:** FLOW_JUSTICE_PROTOCOLS.md, FLOW_JUSTICE_PRINCIPLES.md  
-**Authors:** Elinor Frejd & Claude  
 **Date:** March 26, 2026  
 
 ---
