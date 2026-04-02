@@ -4,6 +4,10 @@
 **Status:** Kärnförklaringslager  
 **Syfte:** Tillhandahålla en tydlig, jordnära förståelse av Flödet som system — vad det är, vad det inte är och hur resten av repositoriet ska tolkas.
 
+
+**Detta dokument beskriver destinationen, inte färdplanen.** 
+
+
 ---
 
 ## VARFÖR DETTA DOKUMENT EXISTERAR
