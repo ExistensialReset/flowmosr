@@ -14,6 +14,40 @@ Start small.**
 
 ---
 
+## What is this (in simple terms)?
+
+Flow is an open-source blueprint for living systems where:
+
+- Survival is unconditional
+- Resources are shared based on need
+- Small groups (Nodes) self-organize without central control
+
+It includes:
+- Practical guides to start locally (2–5 people)
+- Governance systems (LOTUS)
+- Infrastructure plans (food, energy, shelter)
+- Full transition models from current society
+
+You can try it today. You can build it long-term.
+
+---
+
+## ⚡ Try it (24 hours)
+
+You don’t need land, money, or a plan.
+
+1. Gather 2–5 people  
+2. Share one meal (no transactions)  
+3. Ask: *“What do we actually need to feel okay this week?”*  
+4. Distribute tasks voluntarily  
+5. Notice what changes
+
+
+That quiet ease you might feel?  
+That’s Flow beginning.
+
+---
+
 *Whisper from some where right near your ear* 
 
 There is a way of living where you don’t have to earn the right to exist.
@@ -51,32 +85,14 @@ Everything else will come by itself.
 
 > Take what feels good. Leave the rest.
 
-> You are already enough. 
-  
-
- 
-
+> You are already enough.
 
   
  
-     ❤️ 
+>      ❤️ 
 
 ---
 
-## ⚡ Try it (24 hours)
-
-You don’t need land, money, or a plan.
-
-1. Gather 2–5 people  
-2. Share one meal (no transactions)  
-3. Ask: *“What do we actually need to feel okay this week?”*  
-4. Distribute tasks voluntarily  
-5. Notice what changes
-
-That quiet ease you might feel?  
-That’s Flow beginning.
-
----
 
 ## 🧭 Where are you right now?
 
