@@ -36,6 +36,8 @@ You can try it today. You can build it long-term.
 
 You don’t need land, money, or a plan.
 
+This is how every larger system in Flow begins — small, local, real.
+
 1. Gather 2–5 people  
 2. Share one meal (no transactions)  
 3. Ask: *“What do we actually need to feel okay this week?”*  
@@ -48,7 +50,7 @@ That’s Flow beginning.
 
 ---
 
-*Whisper from some where right near your ear* 
+*Whisper from somewhere right near your ear* 
 
 There is a way of living where you don’t have to earn the right to exist.
 
@@ -133,6 +135,8 @@ If you want to connect, please do and make a web out of this:
 
 No permission. No central control.  
 Just humans, starting where they are.
+
+This repository contains the full architecture if you want to go deeper.
 
 ---
 
