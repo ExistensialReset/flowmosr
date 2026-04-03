@@ -152,7 +152,7 @@ You are enough to begin.
 **STATUS:** Minimum Viable – enough to start today  
 **MOTTO:** “I’m here. You’re safe. Your will is the only law.”  
 **NEXT STEP:** When it feels right, read the full Witness Training, which you can find in /05_facilitators,
-[REFUGIUM ANIMA WITNESS TRAINING](./05_facilitators/REFUGIUM_ANIMA_WITNESS_TRAINING.md)
+[REFUGIUM ANIMA WITNESS TRAINING](../05_facilitators/REFUGIUM_ANIMA_WITNESS_TRAINING.md)
 
 ---
 
