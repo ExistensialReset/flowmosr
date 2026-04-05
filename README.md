@@ -160,7 +160,7 @@ Read more about starting a circle in the /guides section.
 
 This repository contains the full architecture if you want to go deeper. 
 
-- And, please do! - 
+-And, please do! - 
 
 ---
 
