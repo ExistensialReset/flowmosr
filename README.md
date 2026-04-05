@@ -78,8 +78,6 @@ It is only this soft question, spoken quietly inside your own chest:
 What if survival was not a daily battle?
 What if you and the people next to you could sometimes just sit, eat, breathe… and nothing demanded anything from anyone?
 
-You don’t need to call it anything.
-You don’t need to tell anyone.
 You don’t need to continue if it feels wrong.
 
 **This is your time.**
