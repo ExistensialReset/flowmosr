@@ -4,7 +4,7 @@
 
 **You don’t need to optimize your life.**
 
-**You need to remove what is blocking it.**
+**You need to remove what is *blocking* it.**
 
 > Flow is not a theory.  
 > It is something you can feel — quietly — when nothing is demanding anything from you.
@@ -37,7 +37,7 @@ Flow is an open-source blueprint for living systems where:
 
 It includes:
 - Practical guides to start locally (2–5 people)
-- Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class.)
+- Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class)
 - Infrastructure plans (food, energy, shelter)
 - Full transition models from current society
 
@@ -136,12 +136,12 @@ You don’t need to “join” anything.
 
 You can:
 
-- Start a small Circle (2–5 people)
+- Start a small circle (2–5 people)
 - Share resources without tracking value
 - Rest without earning it
 - Notice what actually helps life flow
 
-If you start a circle and want to connect, please do, and let's make a web out of this:
+If you start a circle and want to connect - *please do* - and let us weave a web of Flow circles in this old, irksome world:
 
 📧 flowmosr@proton.me
 
@@ -149,14 +149,15 @@ If you start a circle and want to connect, please do, and let's make a web out o
 
 A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, and coordinating tasks without tracking value. No hierarchy, shifting roles — and clarity, care, and voluntary action.
 
-Read more about starting circle in the /guides section. 
+Read more about starting a circle in the /guides section. 
 
 --- 
 
-> You need no permission. There is no central control.  
-Just humans, starting where they are.
+> You need no permission. 
+> There is no central control.  
+> Just humans, starting where they are.
 
-> This repository contains the full architecture if you want to go deeper. And, please do! 😃 
+This repository contains the full architecture if you want to go deeper. And, please do! 😃 
 
 ---
 
