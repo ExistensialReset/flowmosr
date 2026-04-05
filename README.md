@@ -65,14 +65,13 @@ That’s Flow beginning.
 
 *Whisper from somewhere right near your ear* 
 
-There is a way of living where you don’t have to earn the right to exist.
 
 You don’t have to ask anyone if you may rest.
 You don’t have to fight for every single drop of water.
-You don’t have to hand over your strength to someone who says “I will protect you”.
+You don’t have to hand over your strength to someone who says “I will protect you”.What you have to do is make a choice. 
 
 
-> This is not a rule.  Not a plan. Not something you must do.
+> This is not a rule. 
 
 It is only this soft question, spoken quietly inside your own chest:
 
@@ -91,9 +90,6 @@ If one day you want to try – start with rest.
 Tell someone you trust, very simply:
 **“Today we rest together. No one has to earn it.”**
 
-Everything else will come by itself.
-
-
 
 > This is a gift from someone who has never walked in your shoes.
 
@@ -105,7 +101,7 @@ Everything else will come by itself.
 
   
  
-> ❤️ 
+# ❤️ 
 
 ---
 
@@ -125,7 +121,7 @@ Everything else will come by itself.
 
 ## 🌊 What is Flow?
 
-Flow is a way of living built on one simple shift:
+Flow is a way of living built on one simple shift in the way of thinking:
 **Survival is not something you earn**
 
 ---
@@ -139,6 +135,7 @@ You can:
 - Start a small circle (2–5 people)
 - Share resources without tracking value
 - Rest without earning it
+- Read and join in writing this repository
 - Notice what actually helps life flow
 
 If you are starting a circle and want to connect - please do -  let us weave a web of Flow circles in this world:
@@ -147,7 +144,7 @@ If you are starting a circle and want to connect - please do -  let us weave a w
 
 ---
 
-A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, and coordinating tasks without tracking value. No hierarchy, shifting roles — and clarity, care, and voluntary action.
+A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, reading this repository, and coordinating tasks without tracking value. No hierarchy, shifting roles — and clarity, care, and voluntary action.
 
 Read more about starting a circle in the /guides section. 
 
@@ -192,7 +189,7 @@ And that is enough.
  
 
 To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
-(Nice colors!) go to github.com/ExistensialReset/flowmosr 
+(nice colors!) go to github.com/ExistensialReset/flowmosr 
 
 ---
 
@@ -202,7 +199,7 @@ CC BY-NC-SA 4.0 — Use freely, no extraction.
 
 ---
 
- 💬 If you have read all this, and something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
+ 💬 If you have read all this, and maybe already something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
 
 Elinor Frejd  
 elinor.frejd@proton.me
