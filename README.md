@@ -23,7 +23,7 @@ Flow is a blueprint for a new kind of world where survival isn't something you h
 
 To be clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but to make another kind of world possible. 
 
-Where curiosity flows and fear is loosens its grip... And the Earth can recover from the harmful exploitation of Her body. 
+Where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of Her body. 
 
 ---
 
@@ -37,7 +37,7 @@ Flow is an open-source blueprint for living systems where:
 
 It includes:
 - Practical guides to start locally (2–5 people)
-- Governance systems (LOTUS, lottery based selection, short Mandate, both to avoid a career-based political class.)
+- Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class.)
 - Infrastructure plans (food, energy, shelter)
 - Full transition models from current society
 
@@ -141,7 +141,7 @@ You can:
 - Rest without earning it
 - Notice what actually helps life flow
 
-If you want to connect, please do and make a web out of this:
+If you start a circle and want to connect, please do, and let's make a web out of this:
 
 📧 flowmosr@proton.me
 
@@ -153,7 +153,7 @@ Read more about starting circle in the /guides section.
 
 --- 
 
-> You don't need no permission. There is no central control.  
+> You need no permission. There is no central control.  
 Just humans, starting where they are.
 
 > This repository contains the full architecture if you want to go deeper. And, please do! 😃 
@@ -201,7 +201,7 @@ CC BY-NC-SA 4.0 — Use freely, no extraction.
 
 ---
 
-## 💬 Please send me an email and tell me your thoughts. 
+## 💬 If you have read all this, and something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
 
 Elinor Frejd  
 elinor.frejd@proton.me
