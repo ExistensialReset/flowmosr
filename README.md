@@ -1,6 +1,6 @@
 # 🌊 Flow / M-OS-R
 
-## A different way of living is possible
+## A different way of living is actually possible
 
 **You don’t need to optimize your life.**
 
@@ -21,7 +21,7 @@ Start small.***
 
 Flow is a blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. 
 
-To be clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but to make another kind of world possible. 
+To be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but to make another kind of world possible. 
 
 Where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of Her body. 
 
@@ -33,7 +33,7 @@ Flow is an open-source blueprint for living systems where:
 
 - Survival is unconditional
 - Resources are shared based on need
-- Small groups (Nodes) self-organize without central control
+- Small groups (circles/Nodes) self-organize without central control
 
 It includes:
 - Practical guides to start locally (2–5 people)
@@ -49,7 +49,7 @@ You can try it today. You can build it long-term.
 
 You don’t need land, money, or a plan.
 
-This is how every larger system in Flow begins — small, local, real.
+This is how every larger system in Flow begins — small, local and real.
 
 1. Gather 2–5 people  
 2. Share one meal (no transactions)  
@@ -58,7 +58,7 @@ This is how every larger system in Flow begins — small, local, real.
 5. Notice what changes
 
 
-That quiet ease you might feel?  
+Does that quiet ease you might feel?  
 That’s Flow beginning.
 
 ---
@@ -67,11 +67,14 @@ That’s Flow beginning.
 
 
 You don’t have to ask anyone if you may rest.
-You don’t have to fight for every single drop of water.
-You don’t have to hand over your strength to someone who says “I will protect you”.What you have to do is make a choice. 
+You no longer have to fight for every single drop of water.
+You don’t have to hand over your strength to someone who says “I will protect you”. 
 
 
-> This is not a rule. 
+**What you have to do is make a choice.** 
+
+
+> This repository is not a rule book. 
 
 It is only this soft question, spoken quietly inside your own chest:
 
@@ -85,19 +88,23 @@ You don’t need to continue if it feels wrong.
 **This is your time.**
 **This is your body.**
 **This is your place.**
+**This is all the life's planet, our Earth, our Mother.**
 
-If one day you want to try – start with rest.
+If one day you want to try Flow/M-OS-R in your own life – start with rest.
 Tell someone you trust, very simply:
 **“Today we rest together. No one has to earn it.”**
 
 
-> This is a gift from someone who has never walked in your shoes.
+> This whole repository is a gift from someone who has never walked in your shoes.
 
 
- Take what feels right. 
-  Leave the rest.
+ Take what feels 
 
-> You are already enough.
+   Right for you 
+ 
+     Leave the rest
+
+> Remember that you are already enough.
 
   
  
@@ -108,7 +115,7 @@ Tell someone you trust, very simply:
 
 ## 🧭 Where are you right now?
 
-**Feeling something, not sure what this is?**  
+**Feeling courious, not sure what this is?**  
 → [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
 
 **Want to try this in your own life?**  
@@ -121,7 +128,7 @@ Tell someone you trust, very simply:
 
 ## 🌊 What is Flow?
 
-Flow is a way of living built on one simple shift in the way of thinking:
+Flow is a way of living built on one simple in shift in the way of thinking:
 **Survival is not something you earn**
 
 ---
@@ -144,7 +151,7 @@ If you are starting a circle and want to connect - please do -  let us weave a w
 
 ---
 
-A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, reading this repository, and coordinating tasks without tracking value. No hierarchy, shifting roles — and clarity, care, and voluntary action.
+A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, coordinating tasks without tracking value and together read this repository. No hierarchy, shifting roles — and clarity, care, and voluntary action.
 
 Read more about starting a circle in the /guides section. 
 
@@ -154,7 +161,9 @@ Read more about starting a circle in the /guides section.
 > There is no central control.  
 > Just humans, starting where they are.
 
-This repository contains the full architecture if you want to go deeper. And, please do! 😃 
+This repository contains the full architecture if you want to go deeper. 
+
+- And, please do! 😃 
 
 ---
 
@@ -189,7 +198,7 @@ And that is enough.
  
 
 To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
-(nice colors!) go to github.com/ExistensialReset/flowmosr 
+(nice colors, right?) go to github.com/ExistensialReset/flowmosr 
 
 ---
 
@@ -199,7 +208,7 @@ CC BY-NC-SA 4.0 — Use freely, no extraction.
 
 ---
 
- 💬 If you have read all this, and maybe already something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
+ 💬 If you have read all these words, and maybe already something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
 
 Elinor Frejd  
 elinor.frejd@proton.me
