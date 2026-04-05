@@ -23,7 +23,7 @@ Flow is an unfinished blueprint for a new kind of world where survival isn't som
 
 But to be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but a struggle to make another kind of world possible. 
 
-A world where cuoriousity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of her body. 
+A world where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of her body. 
 
 ---
 
@@ -41,7 +41,7 @@ It includes:
 - Infrastructure plans (food, energy, shelter)
 - Full transition models from current society
 
-You can try it today. You can build it long-term.
+You can **try it** today. You **can build it long-term**.
 
 ---
 
@@ -57,9 +57,7 @@ This is how every larger system in Flow begins — small, local and real.
 4. Distribute tasks voluntarily  
 5. Notice what changes
 
-
-Does this quiet offer of changed ways ease the stress you might feel?  
-That’s Flow beginning.
+Yes, that’s Flow beginning.
 
 ---
 
@@ -95,7 +93,7 @@ Tell someone you trust, very simply:
 **“Today we rest together. No one has to earn it.”**
 
 
-> This whole repository is a gift from someone who has never walked in your shoes.
+> This whole repository is a gift to you, from someone who has never walked in your shoes.
 
 
 Please, take 
@@ -112,7 +110,7 @@ right for you
 
 ## Where do you want to start?
 
-**Feeling courious, not sure what this is?**  
+**Feeling curious, not sure what this is?**  
 → [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
 
 **Want to try this in your own life?**  
@@ -123,10 +121,9 @@ right for you
 
 ---
 
-## 🌊 What is Flow?
+## 🌊 
 
-Flow is a way of living built on one simple in shift in the way of thinking:
-**Survival is not something you earn**
+Flow is a way of living built on one simple in shift in the way of thinking
 
 ---
 
