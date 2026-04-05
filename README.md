@@ -19,7 +19,7 @@ Start small.***
 
 ---
 
-Flow is a unfinished blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. If you are interested in giving me feedback, discuss, contribute please send me an email. 
+Flow is an unfinished blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. If you are interested in giving me feedback, discuss, contribute please send me an email. 
 
 But to be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but a struggle to make another kind of world possible. 
 
