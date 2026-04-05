@@ -23,7 +23,7 @@ Flow is a blueprint for a new kind of world where survival isn't something you h
 
 To be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but a struggle to make another kind of world possible. 
 
-A world where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of her body. 
+A world where cuoriousity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of her body. 
 
 ---
 
@@ -58,7 +58,7 @@ This is how every larger system in Flow begins — small, local and real.
 5. Notice what changes
 
 
-Does that quiet ease you might feel?  
+Does that quiet offer of changed ways ease the stress you might feel?  
 That’s Flow beginning.
 
 ---
@@ -69,8 +69,6 @@ That’s Flow beginning.
 You don’t have to ask anyone if you may rest.
 
 You don’t have to hand over your strength to someone who says “I will protect you”. 
-
-**What you have to do is make a choice.** 
 
 
 > This repository is not a rule book. 
@@ -87,7 +85,7 @@ You don’t need to continue if it feels wrong.
 **This is your time.**
 **This is your body.**
 **This is your place.**
-**This is all the life's planet, our Earth, our Mother.**
+
 
 If one day you want to try Flow/M-OS-R in your own life – start with rest.
 Tell someone you trust, very simply:
@@ -97,11 +95,13 @@ Tell someone you trust, very simply:
 > This whole repository is a gift from someone who has never walked in your shoes.
 
 
- Take what feels 
+ take what feels 
 
-   Right for you 
+   right for you 
  
-     Leave the rest
+     leave the rest
+
+
 
 > Remember that you are already enough.
 
@@ -111,8 +111,9 @@ Tell someone you trust, very simply:
 
 ---
 
+## Where do you want to start?
 
-## 🧭 Where are you right now?
+
 
 **Feeling courious, not sure what this is?**  
 → [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
@@ -162,7 +163,7 @@ Read more about starting a circle in the /guides section.
 
 This repository contains the full architecture if you want to go deeper. 
 
-- And, please do! 😃 
+- And, please do! 😃 - 
 
 ---
 
