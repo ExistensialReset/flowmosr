@@ -63,7 +63,7 @@ That’s Flow beginning.
 
 ---
 
-*Whisper from somewhere right near your ear* 
+*A whisper from somewhere right near your ear* 
 
 
 You don’t have to ask anyone if you may rest.
