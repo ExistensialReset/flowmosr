@@ -141,7 +141,7 @@ You can:
 - Rest without earning it
 - Notice what actually helps life flow
 
-If you start a circle and want to connect - *please do* - and let us weave a web of Flow circles in this old, irksome world:
+If you are starting a circle and want to connect - please do -  let us weave a web of Flow circles in this world:
 
 📧 flowmosr@proton.me
 
@@ -212,3 +212,6 @@ elinor.frejd@proton.me
 ***Flow is not a destination.***
 
 ***Flow is how you move.***
+
+# 🌊 
+
