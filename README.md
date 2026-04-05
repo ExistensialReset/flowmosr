@@ -98,11 +98,11 @@ Tell someone you trust, very simply:
 > This whole repository is a gift from someone who has never walked in your shoes.
 
 
-Please, take what feels 
-
-   right for you 
+Please, take 
+what feels 
+right for you 
  
-> Leave the rest
+ Leave the rest
 
 
 
