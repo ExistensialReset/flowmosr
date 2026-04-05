@@ -21,9 +21,9 @@ Start small.***
 
 Flow is a blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. 
 
-To be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but to make another kind of world possible. 
+To be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but a struggle to make another kind of world possible. 
 
-Where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of Her body. 
+A world where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of her body. 
 
 ---
 
