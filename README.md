@@ -67,9 +67,8 @@ That’s Flow beginning.
 
 
 You don’t have to ask anyone if you may rest.
-You no longer have to fight for every single drop of water.
-You don’t have to hand over your strength to someone who says “I will protect you”. 
 
+You don’t have to hand over your strength to someone who says “I will protect you”. 
 
 **What you have to do is make a choice.** 
 
