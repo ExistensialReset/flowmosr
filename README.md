@@ -9,8 +9,21 @@
 > Flow is not a theory.  
 > It is something you can feel — quietly — when nothing is demanding anything from you.
 
-**No permission needed.  
-Start small.**
+***No permission needed.  
+Start small.***
+
+---
+
+
+> Many people today feel exhausted, isolated, or trapped in systems that demand constant performance. Flow offers a different starting point: unconditional safety in small groups. 
+
+---
+
+Flow is a blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. 
+
+To be clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but to make another kind of world possible. 
+
+Where curiosity flows and fear is loosens its grip... And the Earth can recover from the harmful exploitation of Her body. 
 
 ---
 
@@ -24,7 +37,7 @@ Flow is an open-source blueprint for living systems where:
 
 It includes:
 - Practical guides to start locally (2–5 people)
-- Governance systems (LOTUS)
+- Governance systems (LOTUS, lottery based selection, short Mandate, both to avoid a career-based political class.)
 - Infrastructure plans (food, energy, shelter)
 - Full transition models from current society
 
@@ -134,20 +147,26 @@ If you want to connect, please do and make a web out of this:
 
 ---
 
-No permission. No central control.  
+A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, and coordinating tasks without tracking value. No hierarchy, shifting roles — and clarity, care, and voluntary action.
+
+Read more about starting circle in the /guides section. 
+
+--- 
+
+> You don't need no permission. There is no central control.  
 Just humans, starting where they are.
 
-This repository contains the full architecture if you want to go deeper.
+> This repository contains the full architecture if you want to go deeper. And, please do! 😃 
 
 ---
 
 ## 💙 A small reminder
 
-You are not a resource.  
+**You are not a resource.  
 You are not behind.  
-You are not broken.
+You are not broken.**
 
-You are alive.
+***You are alive.***
 
 And that is enough.
 
@@ -169,11 +188,10 @@ And that is enough.
 → All layers: core, principles, documents, governance, ethos, guides, simulations, economics
 
 ---
+ 
 
-To read the whole repository, if you're on https://existensialreset.github.io/flowmosr
-(Nice colors!) 
-
-Please take a look at https://github.com/ExistensialReset/flowmosr
+To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
+(Nice colors!) go to github.com/ExistensialReset/flowmosr 
 
 ---
 
@@ -183,13 +201,13 @@ CC BY-NC-SA 4.0 — Use freely, no extraction.
 
 ---
 
-## 💬 Contact
+## 💬 Please send me an email and tell me your thoughts. 
 
 Elinor Frejd  
 elinor.frejd@proton.me
 
 ---
 
-*Flow is not a destination.*
+***Flow is not a destination.***
 
-*Flow is how you move.*
+***Flow is how you move.***
