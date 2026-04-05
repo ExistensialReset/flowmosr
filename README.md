@@ -108,15 +108,9 @@ right for you
 
 > Remember that you are already enough.
 
-  
- 
-# ❤️ 
-
 ---
 
 ## Where do you want to start?
-
-
 
 **Feeling courious, not sure what this is?**  
 → [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
