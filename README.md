@@ -17,12 +17,18 @@ Start small.***
 
 > Many people today feel exhausted, isolated, or trapped in systems that demand constant performance. Flow offers a different starting point: unconditional safety in small groups. 
 
+This does not require perfection — only that people begin with what is already possible.
+
 Flow does not begin when everything is solved.
 It begins the moment one small group decides that no one in the group should feel unsafe this week.
+
+Not as an ideal, but as something to be tested in reality.
 
 ---
 
 From that small beginning, something larger can slowly take shape... 
+
+Without requiring anyone to leave the life they already have.
 
 Flow is an unfinished blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. If you are interested in giving me feedback, discuss, contribute to this repository, please send me an email, address below. 
 
@@ -40,7 +46,9 @@ Flow is an open-source blueprint for living systems where:
 - Resources are shared based on need
 - Small groups (circles/Nodes) self-organize without central control
 
-It includes:
+Conflicts and imbalance are expected — and handled locally whenever possible. I have developed different types of protocols for this matter. If you want to see, take a look at /guides/life_cycle 
+
+This whole repository includes:
 - Practical guides to start locally (2–5 people)
 - Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class)
 - Infrastructure plans (food, energy, shelter)
@@ -62,7 +70,9 @@ This is how every larger system in Flow begins — small, local and real.
 4. Distribute tasks voluntarily  
 5. Notice what changes - in the room, and in your body 
 
-Yes, that’s Flow beginning.
+It may feel unfamiliar, uneven, or quiet at first.
+
+But, yes, that’s the beginning of Flow. Not as a system — but as a shift in how people relate to each other.
 
 
 ---
@@ -140,7 +150,7 @@ You don’t need to “join” anything.
 You can:
 
 - Start a small circle (2–5 people)
-- Share resources without tracking value
+- Share resources without tracking value  - while staying attentive to imbalance as it appears
 - Rest without earning it
 - Read and join in writing this repository
 - Notice what actually helps life flow
