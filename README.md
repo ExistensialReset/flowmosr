@@ -17,7 +17,12 @@ Start small.***
 
 > Many people today feel exhausted, isolated, or trapped in systems that demand constant performance. Flow offers a different starting point: unconditional safety in small groups. 
 
+Flow does not begin when everything is solved.
+It begins the moment one small group decides that no one in the group should feel unsafe this week.
+
 ---
+
+From that small beginning, something larger can slowly take shape... 
 
 Flow is an unfinished blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. If you are interested in giving me feedback, discuss, contribute to this repository, please send me an email, address below. 
 
@@ -55,9 +60,10 @@ This is how every larger system in Flow begins — small, local and real.
 2. Share one meal (no transactions)  
 3. Ask: *“What do we actually need to feel okay this week?”*  
 4. Distribute tasks voluntarily  
-5. Notice what changes
+5. Notice what changes - in the room, and in your body 
 
 Yes, that’s Flow beginning.
+
 
 ---
 
