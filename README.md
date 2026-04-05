@@ -202,7 +202,7 @@ CC BY-NC-SA 4.0 — Use freely, no extraction.
 
 ---
 
-## 💬 If you have read all this, and something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
+ 💬 If you have read all this, and something from the repository, please send me an email and tell me your thoughts on this. I am so curious of other people's minds. 
 
 Elinor Frejd  
 elinor.frejd@proton.me
