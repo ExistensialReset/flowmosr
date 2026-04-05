@@ -63,7 +63,11 @@ That’s Flow beginning.
 
 ---
 
-*A whisper from somewhere right near your ear* 
+This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
+
+Now, 
+
+*a whisper from somewhere right near your ear* 
 
 
 You don’t have to ask anyone if you may rest.
