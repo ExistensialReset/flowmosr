@@ -27,7 +27,7 @@ A world where cuoriousity flows and fear loosens its grip... And the Earth can r
 
 ---
 
-## What is this (in simple terms)?
+## What is this - in simple terms?
 
 Flow is an open-source blueprint for living systems where:
 
