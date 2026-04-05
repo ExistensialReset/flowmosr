@@ -123,7 +123,7 @@ right for you
 
 ## 🌊 
 
-Flow is a way of living built on one simple in shift in the way of thinking
+Flow is a way of living built on one simple shift in the way of thinking
 
 ---
 
