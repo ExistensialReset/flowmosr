@@ -159,7 +159,7 @@ If you are starting a circle and want to connect - please do -  let us weave a w
 
 ---
 
-A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, coordinating tasks without tracking value and together read this repository. No hierarchy, shifting roles — and clarity, care, and voluntary action.
+A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, coordinating tasks without tracking value and read this repository together. No hierarchy, shifting roles — and clarity, care, and voluntary action.
 
 Read more about starting a circle in the /guides/activation and guides/economics sections. 
 
