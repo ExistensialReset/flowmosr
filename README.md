@@ -163,7 +163,7 @@ Read more about starting a circle in the /guides section.
 
 This repository contains the full architecture if you want to go deeper. 
 
-- And, please do! 😃 - 
+- And, please do! - 
 
 ---
 
@@ -198,7 +198,7 @@ And that is enough.
  
 
 To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
-(nice colors, right?) go to github.com/ExistensialReset/flowmosr 
+(nice colors) go to github.com/ExistensialReset/flowmosr 
 
 ---
 
