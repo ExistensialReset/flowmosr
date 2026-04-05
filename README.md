@@ -32,7 +32,7 @@ Without requiring anyone to leave the life they already have.
 
 Flow is an unfinished blueprint for a new kind of world where survival isn't something you have to earn. Small communities share resources and responsibilities without transaction. If you are interested in giving me feedback, discuss, contribute to this repository, please send me an email, address below. 
 
-But to be perfectly clear, Flow is not a sect or cult, not an ideology, not something you can join, and not a call to leave the existing society, but a struggle to make another kind of world possible. 
+But to be perfectly clear, Flow is not a cult, not an ideology, not something you can join, and not a call to immediately leave the existing society, but a struggle to make another kind of world possible. 
 
 A world where curiosity flows and fear loosens its grip... And the Earth can recover from the relentless exploitation of her body. 
 
@@ -46,7 +46,7 @@ Flow is an open-source blueprint for living systems where:
 - Resources are shared based on need
 - Small groups (circles/Nodes) self-organize without central control
 
-Conflicts and imbalance are expected — and handled locally whenever possible. I have developed different types of protocols for this matter. If you want to see, take a look at /guides/life_cycle 
+Conflicts and imbalance are expected — and handled locally whenever possible. I have developed different types of protocols for this matter. If you want to see, take a look at /guides/life_cycle. 
 
 This whole repository includes:
 - Practical guides to start locally (2–5 people)
@@ -72,7 +72,7 @@ This is how every larger system in Flow begins — small, local and real.
 
 It may feel unfamiliar, uneven, or quiet at first.
 
-But, yes, that’s the beginning of Flow. Not as a system — but as a shift in how people relate to each other.
+But, that’s the beginning of Flow. Not as a system — but as a shift in how people relate to each other.
 
 
 ---
@@ -86,9 +86,7 @@ Now,
 
 *a whisper from somewhere right near your ear.* 
 
-
 You don’t have to ask anyone if you may rest. 
-
 
 > This repository is not a rule book. 
 
@@ -163,7 +161,7 @@ If you are starting a circle and want to connect - please do -  let us weave a w
 
 A circle can be as simple as three people sharing meals, supporting each other’s weekly needs, coordinating tasks without tracking value and together read this repository. No hierarchy, shifting roles — and clarity, care, and voluntary action.
 
-Read more about starting a circle in the /guides section. 
+Read more about starting a circle in the /guides/activation and guides/economics sections. 
 
 --- 
 
