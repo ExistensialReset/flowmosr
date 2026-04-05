@@ -58,7 +58,7 @@ This is how every larger system in Flow begins — small, local and real.
 5. Notice what changes
 
 
-Does that quiet offer of changed ways ease the stress you might feel?  
+Does this quiet offer of changed ways ease the stress you might feel?  
 That’s Flow beginning.
 
 ---
