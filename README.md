@@ -67,12 +67,10 @@ This repository is not moving anywhere. If you want to take a break and read mor
 
 Now, 
 
-*a whisper from somewhere right near your ear* 
+*a whisper from somewhere right near your ear.* 
 
 
-You don’t have to ask anyone if you may rest.
-
-You don’t have to hand over your strength to someone who says “I will protect you”. 
+You don’t have to ask anyone if you may rest. 
 
 
 > This repository is not a rule book. 
@@ -101,7 +99,7 @@ Please, take what feels
 
    right for you 
  
- Leave the rest
+> Leave the rest
 
 
 
