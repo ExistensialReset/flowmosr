@@ -4,7 +4,7 @@
 
 You don’t need to optimize your life.
 
-You need to remove what is blocking it.
+You need to remove what is *blocking* it.
 
 ---
 
@@ -55,6 +55,16 @@ That’s normal.
 
 ---
 
+This whole repository includes:
+- Practical guides to start locally (2–5 people)
+- Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class)
+- Infrastructure plans (food, energy, shelter)
+- Full transition models from current society
+
+You can **try it** today. You **can build it long-term**.
+
+---
+
 ## What this is not
 
 Flow is not something you join.  
@@ -65,6 +75,11 @@ You can try it, ignore it, adapt it, or walk away.
 
 ---
 
+This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
+# 🌼 
+
+---
+
 ## Start where you are
 
 You can:
@@ -72,14 +87,85 @@ You can:
 - Start a small circle  
 - Share resources without tracking value  
 - Rest without earning it  
+- Read this repository together 
 - Pay attention to what actually helps  
 
 That’s enough.
 
 ---
 
-## Final
+## Where do you want to start?
 
-Flow is not a finished system.
+**Feeling curious, not sure what this is?**  
+→ [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
+
+**Want to try this in your own life?**  
+→ [`FLOW_STARTER_GUIDE`](./guides/activation/FLOW_STARTER_GUIDE.md)
+
+**Want to build a real community (Node)?**  
+→ [`TRANSITION_PLAYBOOK`](./guides/economics/TRANSITION_PLAYBOOK.md)
+
+---
+
+## 🌊 
+
+Flow is a way of living built on one simple shift in the way of thinking
+
+
+---
+
+
+If you are starting a circle and want to connect - please do -  let us weave a web of Flow circles in this world:
+
+📧 flowmosr@proton.me
+
+---
+
+Flow is not a finished system. You are more than welcome to join in writing! 
 
 It is a way of testing whether a different kind of life is possible — starting small, and staying grounded in reality.
+
+---
+
+## 🔧 If you want to go deeper
+
+**Philosophy & ethos**  
+→ [`MANIFESTO`](./ethos/MANIFESTO.md)  
+→ [`EARTH_OUR_MOTHER`](./ethos/EARTH_OUR_MOTHER.md)
+
+**Governance system**  
+→ [`LOTUS`](./03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
+
+**Build & infrastructure**  
+→ [`MASTER_RESOURCE_PLAN`](./02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
+
+**The complete living architecture**  
+→ All layers: core, principles, documents, governance, ethos, guides, simulations, economics
+
+---
+ 
+
+To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
+(nice colors) go to github.com/ExistensialReset/flowmosr 
+
+---
+
+## 🛡️ License
+
+CC BY-NC-SA 4.0 — Use freely, no extraction.
+
+---
+
+ 💬 If you have read all these words, and maybe already something from the repository, please send me an email and tell me your thoughts on this. I am so curious about other people's minds. 
+
+Elinor Frejd  
+elinor.frejd@proton.me
+
+---
+
+***Flow is not a destination.***
+
+***Flow is how you move.***
+
+# 🌊 
+
