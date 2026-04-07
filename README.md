@@ -73,6 +73,8 @@ It is not a call to leave your current life.
 
 You can try it, ignore it, adapt it, or walk away.
 
+But if you need rest first, please go to [Refugium Anima](./ethos/REFUGIUM_ANIMA.md) 
+
 ---
 
 This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
@@ -92,6 +94,8 @@ You can:
 
 That’s enough.
 
+**Flow is small groups making sure no one has to struggle alone — and seeing what becomes possible from there.**
+
 ---
 
 ## Where do you want to start?
@@ -109,11 +113,27 @@ That’s enough.
 
 ## 🌊 
 
-Flow is a way of living built on one simple shift in the way of thinking
-
+Flow is a way of living built on one simple shift in the way of thinking:
+**You don’t need to earn your living**. 
 
 ---
 
+## If you try this
+
+If you and a few people try Flow — even just once — I would love to hear what happened.
+
+It doesn’t have to be structured or complete.
+
+A few lines is enough:
+- What did you try?
+- What felt different?
+- What didn’t work?
+
+You can email me or write in your own words, in your own time.
+
+There is no expectation to continue.
+
+Just knowing that something was tried is meaningful.
 
 If you are starting a circle and want to connect - please do -  let us weave a web of Flow circles in this world:
 
@@ -121,7 +141,7 @@ If you are starting a circle and want to connect - please do -  let us weave a w
 
 ---
 
-Flow is not a finished system. You are more than welcome to join in writing! 
+Flow is not a finished system. You are more than welcome to join in shaping it! 
 
 It is a way of testing whether a different kind of life is possible — starting small, and staying grounded in reality.
 
