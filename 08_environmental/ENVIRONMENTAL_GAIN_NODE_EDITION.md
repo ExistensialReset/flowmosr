@@ -1,7 +1,7 @@
 # 🌍 ENVIRONMENTAL_GAIN_NODE_EDITION.md
 **Status**: Operational Guide  
 **Purpose**: Help each Node measure and improve its ecological impact using Flow‑compatible, non‑coercive, low‑energy methods.  
-Principle: A Node does not need to be perfect — it only needs to reduce friction and regenerate more than it extracts.
+**Principle**: A Node does not need to be perfect — it only needs to reduce friction and regenerate more than it extracts.
 
 ---
 
