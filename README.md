@@ -162,11 +162,6 @@ If you and a few people try Flow — even just once — I would love to hear wha
 
 It doesn’t have to be structured or complete.
 
-A few lines is enough:
-- What did you try?
-- What felt different?
-- What didn’t work?
-
 You can email me or write in your own words, in your own time.
 
 There is no expectation to continue.
