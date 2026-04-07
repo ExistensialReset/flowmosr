@@ -74,7 +74,7 @@ Key components:
 - Cross-Circle sharing maintains **lateral accountability**  
 
 ### Layer 3: Architectural Reset
-- Trigger: L×S×I <0.6 for 6 months, Mirror ignored, Axioms rewritten without consensus  
+- Trigger: Mirror ignored, Axioms rewritten without consensus  
 - Reflection Pause (14 days): Suspend non-Baseline decisions, convene listening circles  
 - **Fork, Don’t Fight:** Minority interpretations may form new Circle; evolution tests interpretations  
 
