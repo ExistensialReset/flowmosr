@@ -79,7 +79,7 @@ This repo is a complete living architecture for Flow:
 🧬 Transition models
 - How to build a Node  
 - How to scale  
-- How to stay sovereign inside Mammon  
+- How to stay sovereign inside todays economic system  
 
 🌿 Human systems
 - Rest protocols  
