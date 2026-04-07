@@ -37,8 +37,7 @@ Flow is an open‑source architecture for living systems where:
 - Small groups self‑organize without hierarchy  
 - Conflicts are expected and handled locally  
 - Rest is a right, not a reward
-
-Flow is not a community you join.  
+  
 It is a pattern you can test anywhere.
 
 ---
