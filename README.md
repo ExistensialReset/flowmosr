@@ -146,7 +146,7 @@ It is a way of testing whether a different kind of life is possible — starting
  
 
 To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
-(nice colors) go to github.com/ExistensialReset/flowmosr 
+(nice colors) go to https://github.com/ExistensialReset/flowmosr 
 
 ---
 
