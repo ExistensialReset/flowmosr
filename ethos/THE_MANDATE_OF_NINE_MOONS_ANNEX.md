@@ -1,4 +1,4 @@
-# THE_MANDATE_OF_NINE_MOONS_ANNEX.dm
+# THE_MANDATE_OF_NINE_MOONS_ANNEX.md
 
 Status: Interpretive & Protective Annex  
 Applies to: THE_MANDATE_OF_NINE_MOONS.md  
