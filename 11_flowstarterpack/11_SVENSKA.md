@@ -1,19 +1,20 @@
 # 🌱 Flow Starter Folder — Svensk Version
 
-***Denna mapp är den enklaste möjliga ingången till Flow.***
+***Denna mapp är den enklaste möjliga ingången till Flödet.***
 
-Inuti denna mapp finns olika dörrar. De möter dig där du är:
+Inuti denna mapp finns olika sorters dörrar. De möter upp dig där du är:
 
-- **WHISPER.md** — mjuk introduktion för utmattade personer  
-- **FLOW_PRIMER.md** — vad Flow är på en sida  
-- **FIRST7DAYS.md** — hur du börjar Flow utan att kalla det Flow  
-- **TRANSITIONPLAYBOOK_LITE.md** — kondenserad övergångsplan  
-- **HYBRID_LITE.md** — överlevnadsverktyg för de som inte kan lämna kapitalismen  
-- **GLOBALSOUTH_LITE.md** — anpassad väg för Global South  
-- **URBAN_LITE.md** — anpassad väg för urbana informella bosättningar  
-- **CLEAN_WATER.md** — praktisk vattenrening och aktiverad kol  
-- **LOTUS_LITE.md** — minimal styrningsprimer  
-- **FLOWCOREENTRY.md** — kärnan och startpunkten för Flow  
+- [**WHISPER.md**](WHISPER.md) — mjuk introduktion för utmattade personer  
+- [**FLOW_PRIMER.md**](FLOW_PRIMER.md) — vad Flow är på en sida  
+- [**FIRST7DAYS.md**](FIRST7DAYS.md) — hur du börjar Flödet  
+- [**TRANSITIONPLAYBOOK_LITE.md**](TRANSITIONPLAYBOOK_LITE.md) — kondenserad övergångsplan  
+- [**HYBRID_LITE.md**](HYBRID_LITE.md) — överlevnadsverktyg för de som inte kan lämna kapitalismen  
+- [**GLOBALSOUTH_LITE.md**](GLOBALSOUTH_LITE.md) — anpassad väg för Global South  
+- [**URBAN_LITE.md**](URBAN_LITE.md) — anpassad väg för urbana informella bosättningar  
+- [**CLEAN_WATER.md**](CLEAN_WATER.md) — praktisk vattenrening och aktiverad kol  
+- [**LOTUS_LITE.md**](LOTUS_LITE.md) — minimal styrningsprimer  
+- [**FLOWCOREENTRY.md**](FLOWCOREENTRY.md) — kärnan och startpunkten för Flow  
+- [**11_SVENSKA.md**](11_SVENSKA.md) — hela samlingen i en fil
 
 ---
 
@@ -21,16 +22,16 @@ Inuti denna mapp finns olika dörrar. De möter dig där du är:
 
 En mjuk landning för alla som är nyfikna på Flow:
 
-- Ingen jargong  
+- Ingen förklarad jargong  
 - Ingen press  
-- Ingen ideologi – Flow är inte en ny ideologi  
+- Ingen ideologi – Flödet är inte en ny ideologi  
 - Ingen förpliktelse  
 
-**Bara vila, klarhet och en liten handling som gör livet enklare idag.**
+**Bara vila, klarhet och små handlingar som gör livet enklare idag.**
 
 ---
 
-## 🌬️ WHISPER — Den Tysta Frågan
+## 🌬️ [WHISPER.md](WHISPER.md) — Den Tysta Frågan
 
 Det finns ett sätt att leva där du inte behöver förtjäna rätten att existera.
 
@@ -38,7 +39,7 @@ Du behöver inte tillåtelse för vila.
 Du behöver inte kämpa för varje droppe vatten.  
 Du behöver inte överlåta din styrka till någon som lovar skydd.
 
-Detta är ingen regel eller plan.  
+Detta är ingen regel eller utstuderad plan.  
 Det är bara en mjuk fråga inuti ditt bröst:
 
 *Vad om överlevnad inte behövde vara en daglig kamp?*
@@ -59,20 +60,20 @@ Det behövs inga beslut idag.
 
 ---
 
-## 🌊 Flow Primer — Vad Flow Är (Kort)
+## 🌊 [FLOW_PRIMER.md](FLOW_PRIMER.md) — Vad Flow Är (Kort)
 
 Flow är ett sätt att leva där:
 
 - Alla har Baseline (mat, vatten, skydd, sjukvård)  
 - Ingen utsätts för tvång  
-- Styrning roterar (LOTUS)  
-- Vila är infrastruktur (Refugium Anima)  
-- Barn har röst  
+- Styrning roterar ([LOTUS_LITE.md](LOTUS_LITE.md))  
+- Vila är infrastruktur ([Refugium Anima](FLOWCOREENTRY.md))  
+- Barn har en viktig röst  
 - Människor organiserar sig i små cirklar (3–30 personer)  
 - System växer långsamt, säkert och frivilligt  
 
-Flow är inte kollektivboende, inte socialism, inte kapitalism, inte välgörenhet.  
-Det är kollektiv tillräcklighet, byggt steg för steg.
+Flödet är inte kollektivboende, inte socialism, inte kapitalism, inte välgörenhet.  
+Det är **kollektiv tillräcklighet, byggt steg för steg**.
 
 **Flow börjar med**:
 
@@ -82,13 +83,13 @@ Det är kollektiv tillräcklighet, byggt steg för steg.
 
 ---
 
-## 🚀 Första 7 Dagarnas Guide — Börja Flow utan att kalla det Flow
+## 🚀 [FIRST7DAYS.md](FIRST7DAYS.md) — Första 7 Dagarnas Guide
 
 **Dag 1:** Hitta 2–5 personer. Fråga: “Vad är svårast just nu?”  
-**Dag 2:** Välj EN liten gemensam handling (måltid, vatten, barnpassning, verktyg).  
+**Dag 2:** Välj EN liten gemensam handling (dela måltid, vattenhämtning, barnpassning, verktygsdelning).  
 **Dag 3:** Gör det en gång.  
 **Dag 4:** Upprepa + justera.  
-**Dag 5:** Lägg till en andra liten handling.  
+**Dag 5:** Lägg till en andra mindre handling.  
 **Dag 6:** Skapa en enkel rotation.  
 **Dag 7:** Sitt tillsammans och reflektera: Vad blev lättare?
 
@@ -104,20 +105,20 @@ Om människor känner:
 Fråga: “Vad hände i din kropp när det hände?”  
 Lyssna utan att fixa.  
 Om du inte kan lösa det, låt det vila.  
-Återvänd imorgon. Konflikt är normalt. Brott betyder inte misslyckande.
+Återvänd imorgon. Konflikt är normalt. Bråk betyder inte misslyckande.
 
 **Om du är ensam just nu:**  
 Börja med Dag 1 för dig själv. Vad är svårast?  
 Välj en liten handling som gör DITT liv enklare idag.  
 Vila. Andas.  
-Cirkeln kommer. För nu är du tillräcklig.
+Cirkeln kommer. Just nu är du tillräcklig.
 
 ---
 
-## 🪜 Transition Playbook (Kondenserad)
+## 🪜 [TRANSITIONPLAYBOOK_LITE.md](TRANSITIONPLAYBOOK_LITE.md) — Transition Playbook (Kondenserad)
 
 Du kan inte teleportera ut ur kapitalismen.  
-Du går ut långsamt, säkert, med andra.
+Du går ut långsamt, säkert, tillsammans med andra.
 
 **PHASE 0 — Recognition**  
 Kartlägg systemet. Skriv ner:  
@@ -125,19 +126,19 @@ Kartlägg systemet. Skriv ner:
 - Vad du absolut behöver för att överleva  
 
 **PHASE 1 — Mapping**  
-- Beräkna din True Baseline (se Glossary)  
+- Beräkna din Baslinje ([FLOWCOREENTRY.md](FLOWCOREENTRY.md))  
 - Lista dina färdigheter  
-- Identifiera 3 personer till en cirkel  
+- Identifiera 3 personer för en cirkel  
 
 **PHASE 2 — Parallel Building**  
-- Behåll ditt jobb  
-- Bygg Flow vid sidan av  
-- Minska en beroende ofta nog för att det ska kännas hanterbart  
+- Behåll ditt jobb om du har ett  
+- Bygg Flödet vid sidan av  
+- Minska ett beroende tillräckligt ofta för att det ska kännas hanterbart  
 - Dela verktyg, måltider, barnpassning  
-- Praktisera 15 min lugn — andas, vila, sitt stilla  
+- Praktisera 15 min Lugn dagligen — andas, vila, sitt stilla  
 
 **PHASE 3 — Threshold**  
-Fråga: Om jag slutade tjäna idag, skulle jag svälta eller skulle jag klara mig minst en vecka?  
+Fråga: Om jag slutade tjäna pengar idag, skulle jag svälta eller skulle jag klara mig minst en månad?  
 Om nej → hybrid eller delvis exit är möjlig.
 
 **PHASE 4 — Early Flow**  
@@ -148,11 +149,11 @@ Ditt nervsystem återkalibreras, vila blir lättare. Detta är inte lathet.
 Du bidrar för att du vill.  
 Du blir en bro för andra när dina egna basbehov är stabila.
 
-Du får gå långsamt, utan skam.
+Gå långsamt, utan skam.
 
 ---
 
-## 🧩 Hybrid Survival Guide (Kondenserad)
+## 🧩 [HYBRID_LITE.md](HYBRID_LITE.md) — Hybrid Survival Guide (Kondenserad)
 
 För de som inte kan “bara lämna”.
 
@@ -180,11 +181,11 @@ Hybrid är överlevnad.
 
 ---
 
-## 🌍 Global South Pathway (Kondenserad)
+## 🌍 [GLOBALSOUTH_LITE.md](GLOBALSOUTH_LITE.md) — Global South Pathway
 
 Detta är inte en blueprint. Måste anpassas lokalt.
 
-**LEVEL 0 — Survival Circle (Vecka 1)**  
+**LEVEL 0 — Survival Circle**  
 5–15 personer delar:  
 - Måltider  
 - Vatteninsamling  
@@ -192,33 +193,33 @@ Detta är inte en blueprint. Måste anpassas lokalt.
 - Verktyg  
 - Nattlig säkerhet  
 
-**LEVEL 1 — Water First (Månad 1–3)**  
+**LEVEL 1 — Water First**  
 Regnvatteninsamling, biosandfilter, skyddade brunnar.  
 Kvinnor leder vattenprojekt.
 
-**LEVEL 2 — Food Security (Månad 3–12)**  
+**LEVEL 2 — Food Security**  
 Gemenskapsodling, fröbevarande, höns, torktåliga grödor.
 
-**LEVEL 3 — Economic Resilience (Månad 6–18)**  
+**LEVEL 3 — Economic Independence**  
 ROSCA, kollektiva inkomstprojekt, nödfond.
 
-**LEVEL 4 — Health Autonomy (År 1–3)**  
+**LEVEL 4 — Health Autonomy**  
 Community health worker, örtträdgård, sanitet.
 
-**LEVEL 5 — Energy Access (År 2–4)**  
+**LEVEL 5 — Energy Access**  
 Solsystem, laddstationer, förbättrade spisar, biogas.
 
-**LEVEL 6 — Education (År 3–5)**  
-Lärcenter, lokala lärare, läs- och skrivkunnighet för alla.
+**LEVEL 6 — Education**  
+Lärcenter, lokala lärare, läs- och skrivkunnighet.
 
-**LEVEL 7 — Small Node (År 5–10)**  
+**LEVEL 7 — Small Node**  
 200–500 personer med vatten, mat, energi, hälsa, utbildning, styrning.
 
 Delvis Flow räddar liv.
 
 ---
 
-## 🏙️ Flow i Urbana Informella Bosättningar (Kondenserad)
+## 🏙️ [URBAN_LITE.md](URBAN_LITE.md) — Flow i Urbana Informella Bosättningar
 
 Stad ≠ landsbygd.  
 Ingen mark, hög densitet, hög hyra, hög våldsnivå.
@@ -243,69 +244,61 @@ Börja med:
 1. Hyra  
 2. Vatten  
 3. Säkerhet  
-4. Små inkomstprojekt  
+4. Små inkomstprojekt
 
 ---
 
-## 🌊 Water Filtration & Activated Charcoal
+## 🌊 [CLEAN_WATER.md](CLEAN_WATER.md) — Water Filtration & Activated Charcoal
 
-**Syfte:** Säkerställa rent vatten utan vinstbarriärer.
+Se filen för komplett steg-för-steg guide inklusive aktiverad kol, SODIS, diagram, och Flow Node tips.  
 
-**Principer:**  
-Vatten ska skydda mot: stora partiklar, kemikalier, mikroorganismer, smak/odor.  
+Kortversion:  
 
-**Material:** plastflaskor/bucket, sand, grus, små stenar, aktiverad kol, tyg/kaffe-filter, sol/eld.  
-
-**Filtersteg (top → bottom):**  
-- Tratt/flaskhals → tyg → fin sand → grov sand → grus → samlingskärl  
-
-**Mikrobiell säkerhet:**  
-- Koka 5 min  
-- SODIS 6–8 h  
-
-**Aktiverad kol:**  
-- Görs från trä (hårdträ) genom pyrolys → krossas → aktiveras med CaCl₂ eller citron  
-- Placera i filtret mellan sand och tyg.  
-- Byts var 2–3 månad.  
-
-**Andra användningar:** första hjälpen, jordförbättring, luktborttagning.  
-
-Diagram finns i originalguide (mermaid/text).  
+- Filter: Tratt/flaskhals → tyg → fin sand → grov sand → grus → samlingskärl  
+- Koka minst 5 min / SODIS 6–8 h  
+- Aktiverad kol: egen pyrolys + aktivering med CaCl₂ eller citron, placera mellan sand och tyg  
+- Byts var 2–3 månad  
+- Andra användningar: första hjälpen, jordförbättring, luktborttagning  
 
 ---
 
-## 🌼 LOTUS Governance (Kort)
+## 🌼 [LOTUS_LITE.md](LOTUS_LITE.md) — LOTUS Governance (Kort)
 
 **LOTUS = Lottery, Open, Turn-based, Uncentralized, Safe**
 
 - Ledarskap roterar via lottning  
-- Ingen kan hålla makt tillräckligt länge för att fånga den  
+- Ingen kan hålla makt länge nog att besitta den  
 - Cirklar fattar beslut via konsensus  
 - Transparens är standard  
 - Barn har röst  
 - Vila är skyddad  
-- Skada hanteras via återställning, inte straff  
+- Skada hanteras via återställning, inte straff
 
-LOTUS förhindrar hierarki innan den bildas.
+LOTUS förhindrar hierarki innan den hinner bildas.
+
+---
+
+## [FLOWCOREENTRY.md](FLOWCOREENTRY.md) — Flow Kärna & Startpunkt
+
+Se FLOWCOREENTRY.md för protokoll, vila, och L × S × I-principen.
 
 ---
 
 ## 📖 Flow Glossary (Kort)
 
-**Baseline** — ovillkorlig överlevnad (mat, vatten, skydd, sjukvård).  
-**Circle** — 3–30 personer som stöttar varandra.  
-**LOTUS** — roterande styrning via lottning.  
-**Refugium Anima** — vila och emotionell säkerhet.  
-**L × S × I** — Lugn × Spontanitet × Inkännande.  
-**Hybrid** — delvis i Mammon, delvis i Flow.  
-**Node** — 30–500 personer med delad infrastruktur.  
+**Baseline/Baslinje** — ovillkorlig överlevnad (mat, vatten, skydd, sjukvård)  
+**Circle** — 3–30 personer som stöttar varandra  
+**LOTUS** — roterande styrning via lottning  
+**Refugium Anima** — vila och emotionell säkerhet  
+**L × S × I** — Lugn × Spontanitet × Inkännande  
+**Hybrid** — delvis i Mammon, delvis i Flow  
+**Node** — 30–500 personer med delad infrastruktur
 
 ---
 
 ## 🌱 Sammanfattning
 
 Flow börjar med vila, säkerhet, förtroende och en liten handling som gör livet enklare idag.  
-Det är gradvis, lokalt anpassat och tillgängligt för alla som visar upp sig, precis som de är.  
+Det är gradvis, lokalt anpassat och tillgängligt för alla som vill, precis som de är.  
 
-**Ta det som hjälper. Lämna det som inte hjälper.**  
-Flow börjar med den som dyker upp.
+**Ta det som hjälper. Skippa det som inte hjälper dig.**
