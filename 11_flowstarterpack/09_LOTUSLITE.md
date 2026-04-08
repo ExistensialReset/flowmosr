@@ -11,3 +11,5 @@ LOTUS = Lottery, Open, Turn-based, Uncentralized, Safe.
 - Harm is addressed through restoration, not punishment  
 
 **LOTUS prevents hierarchy before it forms.**
+
+Full document [LOTUS Governance](/03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md) 
