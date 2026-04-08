@@ -1,4 +1,3 @@
-
 # 🌬️ WHISPER — The Quiet Question
 
 There is a way of living where you don’t have to earn the right to exist.
@@ -14,11 +13,11 @@ It is only a soft question inside your chest:
 What if survival didn’t have to be a daily battle?
 
 If one day you want to try, start with rest.
-Tell someone you trust:
+If you have someone you trust, you can say:
 
 “Today we rest together. No one has to earn it.”
 
-You are already enough.
+You are already enough, even like this. Always - however you feel today. 
 
 You don't need to bring anything but your exhaustion. 
 
@@ -27,3 +26,5 @@ Rest is contribution.
 Receiving is participation. 
 
 The circle begins with whoever shows up – exactly as they are.
+
+There is no need for decide anything today. 
