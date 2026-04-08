@@ -1,5 +1,4 @@
-
-🪜 Transition Playbook (Condensed)
+# 🪜 Transition Playbook (Condensed)
 
 You cannot teleport out of capitalism.  
 You walk out slowly, safely, with others.
