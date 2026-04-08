@@ -1,4 +1,3 @@
-
 # 🧩 Hybrid Survival Guide (Condensed)
 
 For people who cannot “just leave.”
