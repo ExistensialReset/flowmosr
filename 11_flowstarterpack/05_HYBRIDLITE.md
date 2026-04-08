@@ -24,4 +24,4 @@ Live the rest in Flow.
 **Hybrid is not failure.  
 Hybrid is survival.**
 
-Full Guide at [
+Full Guide at [Hybrid Survival Guide](/guides/economics/HYBRID_SURVIVAL_GUIDE.md)
