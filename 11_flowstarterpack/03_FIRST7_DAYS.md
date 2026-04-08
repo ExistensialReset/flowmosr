@@ -11,7 +11,13 @@
 **If people feel**:
 - **Less** stress  
 - **More** time  
-- **More support**  
+- **More support** 
+
 
 They will continue.  
-This is Level 0.
+This is Level 0. 
+
+
+**If you're alone right now**: Start with Day 1 for yourself. What is hardest? Choose one small action that makes YOUR life easier today. Rest. Breathe. The circle will come. *For now, you are enough*. 
+
+ 
