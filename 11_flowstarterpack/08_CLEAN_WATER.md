@@ -3,6 +3,11 @@
 
 ---
 
+> [!NOTE]: 
+> A sand‑and‑charcoal filter clarifies water and removes many chemical contaminants, but to make water safe from bacteria and viruses you must either boil it or use solar disinfection (SODIS) after filtering.
+
+---
+
 ## 1️⃣ Principles
 
 Water must be **safe from four threats**:
@@ -393,3 +398,4 @@ Explanation of Layers:
 - Combine with **boiling or SODIS** for microbial safety.
 - Materials are locally available and replicable in Flow Node Circles.
 - System emphasizes **local capacity sufficiency**: anyone with energy, knowledge, and basic tools can implement it.
+
