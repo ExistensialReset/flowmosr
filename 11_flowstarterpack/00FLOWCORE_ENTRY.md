@@ -1,4 +1,4 @@
-This folder is the simplest possible doorway into Flow.
+# This folder is the simplest possible doorway into Flow.
 
 It contains:
 - A gentle introduction (WHISPER)
@@ -10,6 +10,6 @@ It contains:
 - Clean Water Guide (CLEAN_WATER)
 - A minimal governance primer (LOTUS_LITE)
 
-Flow begins with rest, safety, and one small action that makes life easier today.
+**Flow begins with rest, safety, and one small action that makes life easier today.**
 
-Take what helps. Leave what doesn’t.
+**Take what helps. Leave what doesn’t.**
