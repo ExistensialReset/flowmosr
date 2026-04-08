@@ -34,3 +34,5 @@ Community learning space, local teachers, literacy for all.
 200–500 people with water, food, energy, health, education, governance.
 
 **Partial Flow saves lives.**
+
+Full Guide [Global South Pathway](/guides/economics/GLOBAL_SOUTH_PATHWAY.md)
