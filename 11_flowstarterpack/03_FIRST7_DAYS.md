@@ -1,4 +1,3 @@
-
 # 🚀 First 7 Days — Start Flow Without Calling It Flow
 
 **Day 1**: Find 2–5 people. Ask: “What is hardest right now?”  
