@@ -1,4 +1,4 @@
-## Individual Primacy Principle
+# Individual Primacy Principle
 
 The foundational unit of M-OS-R is the person.
 
