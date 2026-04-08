@@ -3,7 +3,7 @@
 
 ***This folder is the simplest possible doorway into Flow***.
 
-It contains:
+Inside this folder are different little doors. Each one will meet you where you are:
 - **WHISPER.md** — a gentle invitation for exhausted people  
 - **FLOW_PRIMER.md** — what Flow is, in one page  
 - **FIRST7DAYS.md** — how to start Flow without calling it Flow  
@@ -13,7 +13,7 @@ It contains:
 - **URBAN_LITE.md** — adapted pathway för urban informal settlements  
 - **CLEAN_WATER.md** — practical water filtration and charcoal activation  
 - **LOTUS_LITE.md** — minimal governance primer  
-- **FLOWCOREENTRY.md** — the “start here” core entry point for Flow
+- **FLOWCOREENTRY.md** — the core entry point for Flow
 
 ---
 
@@ -34,9 +34,8 @@ A soft landing for anyone curious about Flow:
 1. Start with WHISPER.md  
    If someone is exhausted, scared, or overwhelmed — this is the doorway.
 
-2. Then read FLOWCOREENTRY.md  
-   This is the real “Start Here” file.  
-   It explains Flow in the simplest possible way.
+2. Then read FLOWCOREENTRY.md   
+   This file explains Flow in the simplest possible way.
 
 3. If you want to begin immediately:  
    Open FIRST7DAYS.md.
@@ -50,7 +49,7 @@ A soft landing for anyone curious about Flow:
 6. If you want to understand governance:  
    Open LOTUS_LITE.md.
 
-7. If you need clean water:  
+7. If your situation is unstable and resources are limited:  
    Open CLEAN_WATER.md.
 
 ---
@@ -85,3 +84,11 @@ All documents in this folder are:
 **Take what helps.  
 Leave what doesn’t.  
 Flow begins with whoever shows up — exactly as they are.**
+
+# 🌱 Now, try this (30 seconds)
+- Sit down
+- Do nothing
+- Remove one small pressure from your day
+(even something as simple as postponing one thing)
+
+***That’s Flow starting.***
