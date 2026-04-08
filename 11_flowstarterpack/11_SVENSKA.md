@@ -66,7 +66,7 @@ Flow är ett sätt att leva där:
 - Alla har Baseline (mat, vatten, skydd, sjukvård)  
 - Ingen utsätts för tvång  
 - Styrning roterar (LOTUS)  
-- Vila är infrastruktur [Refugium Anima](/ethos/REFUGIUM_ANIMA.md) 
+- Vila är infrastruktur ([Refugium Anima](/ethos/REFUGIUM_ANIMA.md)) 
 - Barn har en viktig röst  
 - Människor organiserar sig i små cirklar (3–30 personer)  
 - System växer långsamt, säkert och frivilligt  
