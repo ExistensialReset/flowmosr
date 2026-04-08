@@ -17,7 +17,26 @@
 They will continue.  
 This is Level 0. 
 
+**If conflict arises**: Pause. Breathe. 
 
-**If you're alone right now**: Start with Day 1 for yourself. What is hardest? Choose one small action that makes YOUR life easier today. Rest. Breathe. The circle will come. *For now, you are enough*. 
+Ask: 'What happened in your body when that occurred?' 
+
+Listen without fixing. 
+
+If you can't resolve it, let it rest. 
+
+Return tomorrow. Conflict is normal. Rupture doesn't mean failure.
+
+
+
+**And, if you're alone right now**: 
+
+Start with Day 1 for yourself. What is hardest? 
+
+Choose one small action that makes YOUR life easier today. 
+
+Rest. Breathe. 
+
+The circle will come. *For now, you are enough*. 
 
  
