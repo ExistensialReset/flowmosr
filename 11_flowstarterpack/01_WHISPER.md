@@ -3,9 +3,10 @@
 
 There is a way of living where you don’t have to earn the right to exist.
 
+
 You don’t need permission to rest.
 You don’t need to fight for every drop of water.
-You don’t need to hand your strength to someone who says “I will protect you.”
+And you don’t need to hand your strength to someone who promises protection. 
 
 This is not a rule or a plan.
 It is only a soft question inside your chest:
