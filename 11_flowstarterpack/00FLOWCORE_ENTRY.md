@@ -1,6 +1,7 @@
 # This folder is the simplest possible doorway into Flow.
 
-It contains:
+Inside this folder are small doors.
+Each one meets you where you are:
 - A gentle introduction (WHISPER)
 - A short explanation of what Flow is (FLOW_PRIMER)
 - A practical “start here” guide (FIRST7DAYS)
@@ -82,12 +83,14 @@ This is Level 0.
 
 ---
 
-## 🪜 The Path (Short Version)
+## 🪜 If you want to go further (optional)
+
+🌄 The Path (Short Version)
 
 Flow grows in phases:
 
 **PHASE 0** — Recognition
-You see the system clearly. You map your Baseline.
+You see the system clearly. Make sure everyone has what they need to live (food, water, shelter, healthcare).
 
 **PHASE 1** — Mapping
 You list your skills. You find 2–5 people.
@@ -143,6 +146,9 @@ Hybrid is survival.
 **LOTUS** =  
 Lottery, Open, Turn-based, Uncentralized, Safe
 
+Governance is simple and rotating (LOTUS).
+No one holds power for long.
+
 - Leadership rotates by random draw  
 - No one holds power long enough to capture it  
 - Circles decide by consensus  
@@ -181,7 +187,7 @@ Flow will meet you there.
 
 ---
 
-🥰 If you have any questions, write me an email: elinor.frejd@proton.me 
+🥰 If you have any questions, reach out: elinor.frejd@proton.me 
 
 🌊 If you start a circle: 
 flowmosr@proton.me 
