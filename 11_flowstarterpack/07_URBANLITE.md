@@ -24,3 +24,5 @@ Start with:
 2. Water  
 3. Safety  
 4. Small income projects
+
+Full Guide [Flow in Informal Settlements](/guides/economics/FLOW_IN_INFORMAL_SETTLEMENTS.md)
