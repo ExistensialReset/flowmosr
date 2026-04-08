@@ -1,4 +1,3 @@
-
 # 🌼 LOTUS Governance (Short)
 
 LOTUS = Lottery, Open, Turn-based, Uncentralized, Safe.
