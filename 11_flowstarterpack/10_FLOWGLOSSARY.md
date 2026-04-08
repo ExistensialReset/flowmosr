@@ -1,5 +1,4 @@
-
-📖 Flow Glossary (Short)
+# 📖 Flow Glossary (Short)
 
 **Baseline** — unconditional survival (food, water, shelter, healthcare).  
 **Circle** — 3–30 people who support each other.  
