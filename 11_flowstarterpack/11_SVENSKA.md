@@ -19,9 +19,9 @@ Inuti denna mapp finns olika sorters dörrar. De möter upp dig där du är:
 
 ## 🌊 Vad Denna Mapp Är
 
-En mjuk landning för alla som är nyfikna på Flow:
+En mjuk landning för alla som är nyfikna på Flödet:
 
-- Ingen förklarad jargong  
+- Ingen oförklarad jargong  
 - Ingen press  
 - Ingen ideologi – Flödet är inte en ny ideologi  
 - Ingen förpliktelse  
