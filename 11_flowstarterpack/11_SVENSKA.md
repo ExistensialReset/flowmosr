@@ -5,7 +5,7 @@
 Inuti denna mapp finns olika sorters dörrar. De möter upp dig där du är:
 
 - **WHISPER.md** — mjuk introduktion för utmattade personer  
-- **FLOW_PRIMER.md** — vad Flow är på en sida  
+- **FLOW_PRIMER.md** — vad Flödet är på en sida  
 - **FIRST7DAYS.md** — hur du börjar Flödet  
 - **TRANSITIONPLAYBOOK_LITE.md** — kondenserad övergångsplan  
 - **HYBRID_LITE.md** — överlevnadsverktyg för de som inte kan lämna kapitalismen  
