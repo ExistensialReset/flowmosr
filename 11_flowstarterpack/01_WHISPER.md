@@ -18,3 +18,11 @@ Tell someone you trust:
 “Today we rest together. No one has to earn it.”
 
 You are already enough.
+
+You don't need to bring anything but your exhaustion. 
+
+Rest is contribution. 
+
+Receiving is participation. 
+
+The circle begins with whoever shows up – exactly as they are.
