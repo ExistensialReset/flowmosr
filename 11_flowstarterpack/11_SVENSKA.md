@@ -4,17 +4,16 @@
 
 Inuti denna mapp finns olika sorters dörrar. De möter upp dig där du är:
 
-- [**WHISPER.md**](WHISPER.md) — mjuk introduktion för utmattade personer  
-- [**FLOW_PRIMER.md**](FLOW_PRIMER.md) — vad Flow är på en sida  
-- [**FIRST7DAYS.md**](FIRST7DAYS.md) — hur du börjar Flödet  
-- [**TRANSITIONPLAYBOOK_LITE.md**](TRANSITIONPLAYBOOK_LITE.md) — kondenserad övergångsplan  
-- [**HYBRID_LITE.md**](HYBRID_LITE.md) — överlevnadsverktyg för de som inte kan lämna kapitalismen  
-- [**GLOBALSOUTH_LITE.md**](GLOBALSOUTH_LITE.md) — anpassad väg för Global South  
-- [**URBAN_LITE.md**](URBAN_LITE.md) — anpassad väg för urbana informella bosättningar  
-- [**CLEAN_WATER.md**](CLEAN_WATER.md) — praktisk vattenrening och aktiverad kol  
-- [**LOTUS_LITE.md**](LOTUS_LITE.md) — minimal styrningsprimer  
-- [**FLOWCOREENTRY.md**](FLOWCOREENTRY.md) — kärnan och startpunkten för Flow  
-- [**11_SVENSKA.md**](11_SVENSKA.md) — hela samlingen i en fil
+- **WHISPER.md** — mjuk introduktion för utmattade personer  
+- **FLOW_PRIMER.md** — vad Flow är på en sida  
+- **FIRST7DAYS.md** — hur du börjar Flödet  
+- **TRANSITIONPLAYBOOK_LITE.md** — kondenserad övergångsplan  
+- **HYBRID_LITE.md** — överlevnadsverktyg för de som inte kan lämna kapitalismen  
+- **GLOBALSOUTH_LITE.md** — anpassad väg för Global South  
+- **URBAN_LITE.md** — anpassad väg för urbana informella bosättningar  
+- **CLEAN_WATER.md** — praktisk vattenrening och aktiverad kol  
+- **LOTUS_LITE.md** — minimal styrningsprimer  
+- **FLOWCOREENTRY.md** — kärnan och startpunkten för Flow  
 
 ---
 
@@ -31,7 +30,7 @@ En mjuk landning för alla som är nyfikna på Flow:
 
 ---
 
-## 🌬️ [WHISPER.md](WHISPER.md) — Den Tysta Frågan
+## 🌬️ WHISPER — Den Tysta Frågan
 
 Det finns ett sätt att leva där du inte behöver förtjäna rätten att existera.
 
@@ -60,14 +59,14 @@ Det behövs inga beslut idag.
 
 ---
 
-## 🌊 [FLOW_PRIMER.md](FLOW_PRIMER.md) — Vad Flow Är (Kort)
+## 🌊 Flow Primer — Vad Flow Är (Kort)
 
 Flow är ett sätt att leva där:
 
 - Alla har Baseline (mat, vatten, skydd, sjukvård)  
 - Ingen utsätts för tvång  
-- Styrning roterar ([LOTUS_LITE.md](LOTUS_LITE.md))  
-- Vila är infrastruktur ([Refugium Anima](FLOWCOREENTRY.md))  
+- Styrning roterar (LOTUS)  
+- Vila är infrastruktur (Refugium Anima)  
 - Barn har en viktig röst  
 - Människor organiserar sig i små cirklar (3–30 personer)  
 - System växer långsamt, säkert och frivilligt  
@@ -83,7 +82,7 @@ Det är **kollektiv tillräcklighet, byggt steg för steg**.
 
 ---
 
-## 🚀 [FIRST7DAYS.md](FIRST7DAYS.md) — Första 7 Dagarnas Guide
+## 🚀 Första 7 Dagarnas Guide — Börja Flödet
 
 **Dag 1:** Hitta 2–5 personer. Fråga: “Vad är svårast just nu?”  
 **Dag 2:** Välj EN liten gemensam handling (dela måltid, vattenhämtning, barnpassning, verktygsdelning).  
@@ -115,7 +114,7 @@ Cirkeln kommer. Just nu är du tillräcklig.
 
 ---
 
-## 🪜 [TRANSITIONPLAYBOOK_LITE.md](TRANSITIONPLAYBOOK_LITE.md) — Transition Playbook (Kondenserad)
+## 🪜 Transition Playbook (Kondenserad)
 
 Du kan inte teleportera ut ur kapitalismen.  
 Du går ut långsamt, säkert, tillsammans med andra.
@@ -126,16 +125,16 @@ Kartlägg systemet. Skriv ner:
 - Vad du absolut behöver för att överleva  
 
 **PHASE 1 — Mapping**  
-- Beräkna din Baslinje ([FLOWCOREENTRY.md](FLOWCOREENTRY.md))  
+- Beräkna din Baslinje (Baseline - se Glossary)  
 - Lista dina färdigheter  
-- Identifiera 3 personer för en cirkel  
+- Identifiera, om du har möjlighet, 3 personer till en cirkel  
 
 **PHASE 2 — Parallel Building**  
 - Behåll ditt jobb om du har ett  
 - Bygg Flödet vid sidan av  
 - Minska ett beroende tillräckligt ofta för att det ska kännas hanterbart  
 - Dela verktyg, måltider, barnpassning  
-- Praktisera 15 min Lugn dagligen — andas, vila, sitt stilla  
+- Praktisera 15 min Lugn dagligen — andas, vila, sitt stilla utan telefon  
 
 **PHASE 3 — Threshold**  
 Fråga: Om jag slutade tjäna pengar idag, skulle jag svälta eller skulle jag klara mig minst en månad?  
@@ -143,17 +142,17 @@ Om nej → hybrid eller delvis exit är möjlig.
 
 **PHASE 4 — Early Flow**  
 Avgiftning från prestationsskuld.  
-Ditt nervsystem återkalibreras, vila blir lättare. Detta är inte lathet.
+Ditt nervsystem återkalibreras, vila blir lättare. Detta är inte lathet, möt det med glädje.
 
 **PHASE 5 — Integrated Flow**  
 Du bidrar för att du vill.  
-Du blir en bro för andra när dina egna basbehov är stabila.
+Du kan bli en bro för andra, när dina egna basbehov är stabila.
 
-Gå långsamt, utan skam.
+Du får gå långsamt framåt, utan skam.
 
 ---
 
-## 🧩 [HYBRID_LITE.md](HYBRID_LITE.md) — Hybrid Survival Guide (Kondenserad)
+## 🧩 Hybrid Survival Guide (Kondenserad)
 
 För de som inte kan “bara lämna”.
 
@@ -181,7 +180,7 @@ Hybrid är överlevnad.
 
 ---
 
-## 🌍 [GLOBALSOUTH_LITE.md](GLOBALSOUTH_LITE.md) — Global South Pathway
+## 🌍 Global South Pathway (Kondenserad)
 
 Detta är inte en blueprint. Måste anpassas lokalt.
 
@@ -195,7 +194,7 @@ Detta är inte en blueprint. Måste anpassas lokalt.
 
 **LEVEL 1 — Water First**  
 Regnvatteninsamling, biosandfilter, skyddade brunnar.  
-Kvinnor leder vattenprojekt.
+Kvinnor leder med fördel vattenprojekt.
 
 **LEVEL 2 — Food Security**  
 Gemenskapsodling, fröbevarande, höns, torktåliga grödor.
@@ -210,7 +209,7 @@ Community health worker, örtträdgård, sanitet.
 Solsystem, laddstationer, förbättrade spisar, biogas.
 
 **LEVEL 6 — Education**  
-Lärcenter, lokala lärare, läs- och skrivkunnighet.
+Lärcenter, lokala lärare, läs- och skrivkunnighet för alla.
 
 **LEVEL 7 — Small Node**  
 200–500 personer med vatten, mat, energi, hälsa, utbildning, styrning.
@@ -219,7 +218,7 @@ Delvis Flow räddar liv.
 
 ---
 
-## 🏙️ [URBAN_LITE.md](URBAN_LITE.md) — Flow i Urbana Informella Bosättningar
+## 🏙️ Flow i Urbana Informella Bosättningar (Kondenserad)
 
 Stad ≠ landsbygd.  
 Ingen mark, hög densitet, hög hyra, hög våldsnivå.
@@ -244,55 +243,60 @@ Börja med:
 1. Hyra  
 2. Vatten  
 3. Säkerhet  
-4. Små inkomstprojekt
+4. Små inkomstprojekt  
 
 ---
 
-## 🌊 [CLEAN_WATER.md](CLEAN_WATER.md) — Water Filtration & Activated Charcoal
+## 🌊 Water Filtration & Activated Charcoal
 
-Se filen för komplett steg-för-steg guide inklusive aktiverad kol, SODIS, diagram, och Flow Node tips.  
+**Syfte:** Säkerställa rent vatten utan vinstbarriärer.
 
-Kortversion:  
+**Principer:**  
+Vatten ska skydda mot: stora partiklar, kemikalier, mikroorganismer, smak/odor.  
 
-- Filter: Tratt/flaskhals → tyg → fin sand → grov sand → grus → samlingskärl  
-- Koka minst 5 min / SODIS 6–8 h  
-- Aktiverad kol: egen pyrolys + aktivering med CaCl₂ eller citron, placera mellan sand och tyg  
+**Material:** plastflaskor/bucket, sand, grus, små stenar, aktiverad kol, tyg/kaffe-filter, sol/eld.  
+
+**Filtersteg (top → bottom):**  
+- Tratt/flaskhals → tyg → fin sand → grov sand → grus → samlingskärl  
+
+**Mikrobiell säkerhet:**  
+- Koka 5 min  
+- SODIS 6–8 h  
+
+**Aktiverad kol:**  
+- Görs från trä (hårdträ) genom pyrolys → krossas → aktiveras med CaCl₂ eller citron  
+- Placera i filtret mellan sand och tyg  
 - Byts var 2–3 månad  
-- Andra användningar: första hjälpen, jordförbättring, luktborttagning  
+
+**Andra användningar:** första hjälpen, jordförbättring, luktborttagning  
 
 ---
 
-## 🌼 [LOTUS_LITE.md](LOTUS_LITE.md) — LOTUS Governance (Kort)
+## 🌼 LOTUS Governance (Kort)
 
 **LOTUS = Lottery, Open, Turn-based, Uncentralized, Safe**
 
 - Ledarskap roterar via lottning  
-- Ingen kan hålla makt länge nog att besitta den  
+- Ingen kan hålla makt tillräckligt länge för att besitta den  
 - Cirklar fattar beslut via konsensus  
 - Transparens är standard  
-- Barn har röst  
-- Vila är skyddad  
-- Skada hanteras via återställning, inte straff
+- Barn har en viktig röst  
+- Vila är helgat  
+- Skada hanteras via återställning, inte straff, men det beror på vilket brott som begåtts  
 
 LOTUS förhindrar hierarki innan den hinner bildas.
 
 ---
 
-## [FLOWCOREENTRY.md](FLOWCOREENTRY.md) — Flow Kärna & Startpunkt
-
-Se FLOWCOREENTRY.md för protokoll, vila, och L × S × I-principen.
-
----
-
 ## 📖 Flow Glossary (Kort)
 
-**Baseline/Baslinje** — ovillkorlig överlevnad (mat, vatten, skydd, sjukvård)  
+**Baseline/Baslinjen** — ovillkorlig överlevnad (mat, vatten, skydd, sjukvård)  
 **Circle** — 3–30 personer som stöttar varandra  
 **LOTUS** — roterande styrning via lottning  
 **Refugium Anima** — vila och emotionell säkerhet  
 **L × S × I** — Lugn × Spontanitet × Inkännande  
 **Hybrid** — delvis i Mammon, delvis i Flow  
-**Node** — 30–500 personer med delad infrastruktur
+**Node** — 30–500 personer med delad infrastruktur  
 
 ---
 
