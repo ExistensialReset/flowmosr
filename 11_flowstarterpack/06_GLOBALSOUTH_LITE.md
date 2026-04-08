@@ -1,4 +1,3 @@
-
 # 🌍 Global South Pathway (Condensed)
 
 This is not a blueprint.  
