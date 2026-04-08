@@ -1,9 +1,10 @@
-# 🌊 Water Filtration Guide
-**Ensuring Local Clean Water Without Profit Barriers**
+
+> [!NOTE]: A sand‑and‑charcoal filter clarifies water and removes many chemical contaminants, but to make water safe from bacteria and viruses you must either boil it or use solar disinfection (SODIS) after filtering.
 
 ---
 
-> [!NOTE]: A sand‑and‑charcoal filter clarifies water and removes many chemical contaminants, but to make water safe from bacteria and viruses you must either boil it or use solar disinfection (SODIS) after filtering.
+# 🌊 Water Filtration Guide
+**Ensuring Local Clean Water Without Profit Barriers**
 
 ---
 
