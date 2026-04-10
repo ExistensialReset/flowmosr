@@ -372,6 +372,6 @@ flowchart TD
     
     click A href "https://github.com/ExistensialReset/manifesto" "Go to Phase 0 Documentation"
     click B href "https://github.com/ExistensialReset/manifesto" "Go to Phase 1 Documentation"
-    click C href "https://github.com/ExistensialReset/manifesto" "Go to Phase 2 Documentation"
+    click C href "https://github.com/ExistensialReset/flowmosr" "Go to Phase 2 Documentation"
     click D href "https://github.com/ExistensialReset/manifesto" "Go to Phase 3 Documentation"
     click E href "https://github.com/ExistensialReset/manifesto" "Go to Phase 4 Documentation"
