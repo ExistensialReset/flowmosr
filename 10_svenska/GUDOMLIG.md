@@ -18,7 +18,7 @@
 
 ### 1.1 Om Tro och Ramverk
 
-Jag tror att det finns en skapande kraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Jag är inte fäst vid något enskilt namn. Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
+Jag tror att det finns en Skaparkraft som genomströmmar allt. Jag vet inte vad den ska kallas. Olika traditioner har namngivit den olika — Gud, Brahman, Tao, Den Stora Mystiken, Fältet. Jag är inte fäst vid något enskilt namn. Jag menar att många vägar kan uppfatta samma underliggande verklighet från olika vinklar, och att denna mångfald i sig är ett tecken på något större än någon enskild beskrivning kan omfatta.
 
 GUDOMLIG är mitt försök att tänka rigoröst om villkoren under vilka denna skapande kraft blir mest levande i mänsklig upplevelse. Det är inte teologi. Det är inte bevisad vetenskap. Det är en arbetshypotes uttryckt med hjärta.
 
@@ -54,7 +54,7 @@ Hennes 2006 *Nature Materials*-artikel om mesoporös kiseldioxid inspirerad av k
 
 **Ψ(x,t) = [EV ⊗ (L × S × I × K × R × F)] + Σ**
 
-Detta är inte en fysikekvation i formell bemärkelse. Det är en **konceptuell karta** — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Fullständig operationalisering och mätning finns i /annex.
+Detta är *inte* en fysikekvation i formell bemärkelse. Det är en **konceptuell karta** — ett sätt att namnge villkoren under vilka livet blir mest fullt levande. Fullständig operationalisering och mätning finns i /annex.
 
 **Ψ(x,t)** — *Gudomlig Potential.* Den lokala intensiteten av koherent, meningsfull, kreativ upplevelse. Hög Ψ motsvarar tillstånd vi erkänner som heliga, levande, berörda av nåd.
 
@@ -140,7 +140,7 @@ Strømmes arbete om atypiska medvetandetillstånd—Nära Döden Tillstånd; dju
 
 ## 3. Räddningsfunktionen: Spjuver, Σ
 
-Spjuvern, Σ, representerar medvetandefältets oreducerbara spontanitet. Oavsett hur väl du optimerar alla andra variabler kan du inte förutsäga när eller hur Spjuvern Σ kommer manifestera.
+Spjuvern, Σ, representerar medvetandefältets oreducerbara spontanitet. Oavsett hur väl du optimerar alla andra variabler kan du inte förutsäga när eller hur Spjuvern, Σ, kommer manifestera.
 
 **I SCFT-termer:**
 - Kvantumvakuumfluktuationer — oreducerbar osäkerhet vid verklighetens grund
@@ -174,9 +174,9 @@ I Strømmes materialarbete: biomimetiska strukturer uppnår styrka genom hierark
 
 Avlägsna komponenter, och fältet degraderas till patologiska tillstånd. Detta är fysik, inte moralism.
 
-**Avlägsna L (Lugn) →** Permanent brus, ångest, oförmåga att integrera. Mentalsjukdomsepidemier, kronisk stress, fragmenterad uppmärksamhet.
+**Avlägsna L (Lugn) →** Permanent brus, ångest, oförmåga att integrera. Psykiatriska sjukdomsepidemier, kronisk stress, fragmenterad uppmärksamhet.
 
-**Avlägsna S (Spontanitet) →** Stagnation, sterilitet, själsdöd. Allt instrumentellt. Lek försvinner. Konst blir en vara. Fältet kan inte utforska nya möjligheter.
+**Avlägsna S (Spontanitet) →** Stagnation, sterilitet, själsdöd. Allt blir bara instrumentellt. Lek försvinner. Konst blir en vara. Fältet kan inte utforska nya möjligheter.
 
 **Avlägsna I (Inkännande) →** Isolering, fragmentering. Individer upplever sig som isolerade enheter som konkurrerar om knappa resurser. Empati dör. Ensamheten blir epidemisk.
 
