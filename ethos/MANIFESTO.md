@@ -280,7 +280,7 @@ No hierarchy is invoked.
 
 # IV. THE MEASURE OF LIFE
 
-**Life = Calm × Spontaneity × Interconnection**  
+**Life = Lugn / Calm × Spontanitet / Spontaneity × Inkännande / Interconnection**  
 
 If any factor reaches zero, quality of life itself collapses to zero.  
 All three must be protected simultaneously.
