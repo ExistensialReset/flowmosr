@@ -34,11 +34,15 @@ Flow is an open‑source architecture for living systems where:
 
 - Survival is unconditional  
 - Resources are shared based on need, not merit  
-- Small groups self‑organize without hierarchy  
+- Small groups self‑organize without any permanent hierarchy  
 - Conflicts are expected and handled locally  
 - Rest is a right, not a reward
   
 It is a pattern you can test anywhere.
+
+---
+
+♾️❤️ This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. But I genuinely wish a better future for Earth and all the life on it. That is why I'm writing Existential Reset Repository. Welcome to my, and my AI allies, world for a while. You are welcome to pick out what ever suits you. I am very happy you found Flow! 
 
 ---
 
@@ -92,7 +96,7 @@ It is a living blueprint you are invited to shape.
 
 ---
 
-❤️✨ This whole repository includes:
+✨ This whole repository includes:
 - Practical guides to start locally (2–5 people)
 - Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class)
 - Infrastructure plans (food, energy, shelter)
@@ -132,6 +136,10 @@ You can:
 That’s enough.
 
 **Flow is small groups making sure no one has to struggle alone — and seeing what becomes possible from there.**
+
+---
+
+Some attempts might feel awkward, uneven, or fail completely. That is part of the system working.
 
 ---
 
@@ -223,7 +231,8 @@ Not as feedback.
 Not as critique.  
 Just as a glimpse into another mind.
 
-All the best, Elinor Frejd, 
+All the best, 
+Elinor Frejd, 
 📧 elinor.frejd@proton.me
  
 ---
