@@ -42,7 +42,7 @@ It is a pattern you can test anywhere.
 
 ---
 
-♾️❤️ This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. But I genuinely wish a better future for Earth and all the life on it. That is why I'm writing Existential Reset Repository. Welcome to my, and my AI allies, world for a while. You are welcome to pick out what ever suits you. I am very happy you found Flow! 
+♾️❤️ This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. This came from outside traditional activism. But I genuinely wish a better future for Earth and all the life on it. That is why I'm writing Existential Reset Repository. Welcome to my, and my AI allies, world for a while. You are welcome to pick out what ever suits you. I am very happy you found Flow! 
 
 ---
 
@@ -58,6 +58,17 @@ You don’t need land, money, or a plan.
 
 That’s it.  
 Flow begins in the smallest possible unit.
+
+Example:
+Three friends, one weekend.
+Person A: "I need help moving furniture."
+Person B: "I need emotional support after breakup."
+Person C: "I need someone to cook because I'm exhausted."
+Distribution:
+- A & C help B move furniture (2 hours)
+- B listens to C talk about breakup (1 hour)
+- C cooks dinner for all three
+No tracking. No debt. Just flow.
 
 ---
 
@@ -158,8 +169,7 @@ Some attempts might feel awkward, uneven, or fail completely. That is part of th
 
 ## 🌊 
 
-Flow is a way of living built on one simple shift in the way of thinking:
-**You don’t need to earn your living**. 
+Flow is a way of living built on one simple shift in the way of thinking. 
 
 ---
 
@@ -243,3 +253,4 @@ Elinor Frejd,
 
 # 🌊 
 
+# Ψ ≠ 0
