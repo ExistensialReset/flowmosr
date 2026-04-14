@@ -13,6 +13,11 @@
 
 ---
 
+You are not late. Never been late. 
+
+---
+
+
 # I. Origin
 
 ## 🌱 Why Flow exists
