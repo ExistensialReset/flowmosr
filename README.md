@@ -80,7 +80,7 @@ Enough to shift the week.
 
 ## 📦 What this repository holds
 
-If you are at the visual GitHub Pages site https://github.io/ExistensialReset/flowmosr and want to read the full repository please visit https://github.com/ExistensialReset/flowmosr 
+If you are at the visual GitHub Pages site https://github.io/flowmosr and want to read the full repository please visit https://github.com/ExistensialReset/flowmosr 
 
 This is a living blueprint of Flow. 
 
