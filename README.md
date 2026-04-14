@@ -206,17 +206,20 @@ Just curiosity.
 ## 🔧 For those who want to descend further
 
 **Philosophy & ethos**  
-→ [Manifesto](/ethos/MANIFESTO.md) 
 
-→ [Earth Our Mother](/ethos/EARTH_OUR_MOTHER.md) 
+👉 [Manifesto](/ethos/MANIFESTO.md) 
 
-- [Divine](/ethos/DIVINE.md) 
+👉 [Earth Our Mother](/ethos/EARTH_OUR_MOTHER.md) 
+
+👉 [Divine](/ethos/DIVINE.md) 
 
 **Governance**  
-→ [LOTUS Governance](/03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md) 
+
+👉 [LOTUS Governance](/03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md) 
 
 **Infrastructure** 
-→ [Hydroponics Master Plan](/02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) 
+
+👉 [Hydroponics Master Plan](/02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) 
 
 ---
 
