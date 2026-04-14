@@ -8,6 +8,9 @@
 
 ### It is something small you can try right now
 
+
+> Flow is a living architecture for human flourishing, built to be tested in the smallest possible unit: a few people, one week, one shift in how we care for each other.
+
 ---
 
 # I. Origin
@@ -124,7 +127,8 @@ You are welcome to speak it.
 
 ## ❌ What Flow is not
 
-Flow is not something you join.  
+Flow is not something you join. 
+> Flow is a living architecture for human flourishing, built to be tested in the smallest possible unit: a few people, one week, one shift in how we care for each other.
 Not a belief system.  
 Not a call to abandon your life.
 
