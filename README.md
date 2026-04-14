@@ -207,7 +207,9 @@ Just curiosity.
 
 **Philosophy & ethos**  
 → [Manifesto](/ethos/MANIFESTO.md) 
+
 → [Earth Our Mother](/ethos/EARTH_OUR_MOTHER.md) 
+
 - [Divine](/ethos/DIVINE.md) 
 
 **Governance**  
