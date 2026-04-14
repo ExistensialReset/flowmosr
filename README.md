@@ -2,11 +2,11 @@
 
 ## A different way of living is actually possible
 
-## A blueprint for a life where no one has to earn the right to exist
+## A simple blueprint for a life where no one has to earn the right to exist
 
-## This is not a theory of the future.
+## This is not a theory of the future
 
-## It is something small you can try right now
+### It is something small you can try right now
 
 ---
 
@@ -80,7 +80,7 @@ Enough to shift the week.
 
 ## 📦 What this repository holds
 
-This is a living blueprint of Flow 
+This is a living blueprint of Flow. 
 
 This is not something you need to understand.
 
@@ -157,6 +157,8 @@ Failure is data. Share it.
 
 You can **try it** today. You **can build it long-term**.
 
+This will be uneven. Sometimes it won’t work. That’s part of the pattern.
+
 ---
 
 # VII. Pathways
@@ -201,15 +203,15 @@ Just curiosity.
 
 ## 🔧 For those who want to descend further
 
-Philosophy & ethos  
+**Philosophy & ethos**  
 → [Manifesto](/ethos/MANIFESTO.md) 
 → [Earth Our Mother](/ethos/EARTH_OUR_MOTHER.md) 
 - [Divine](/ethos/DIVINE.md) 
 
-Governance  
+**Governance**  
 → [LOTUS Governance](/03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md) 
 
-Infrastructure  
+**Infrastructure** 
 → [Hydroponics Master Plan](/02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) 
 
 ---
@@ -217,8 +219,7 @@ Infrastructure
 # X. License
 
 🛡 CC BY‑NC‑SA 4.0
-Use freely.  
-No extraction.
+Use freely. No extraction. No extractive use of people, resources, or work.
 
 ---
 
@@ -239,7 +240,7 @@ This did not come from traditional activism. But I genuinely wish a better futur
 
 That is why I'm writing Existential Reset Repository. 
 
-Welcome to my, and my AI allies, world for a while. You are welcome to pick out whatever suits you. I am very happy you found Flow! 
+Welcome to my world for a while. You are welcome to pick out whatever suits you. I am very happy you found Flow! 
 
 
 This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
