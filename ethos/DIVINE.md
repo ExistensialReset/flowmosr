@@ -66,16 +66,16 @@ This is not a physics equation in the formal sense. It is a conceptual map—a w
 
 These three form the core. They multiply, not add. If any approaches zero, the whole approaches zero.
 
-**L — Coherence / Calm**  
+**L — Lugn = Coherence / Calm**  
 Low entropy. A still lake that can reflect the stars. Without coherence, nothing else can be discerned—the field is all noise. This is nervous system stability, the regulated ground from which everything else grows.
 
-**S — Creativity / Spontaneity**  
+**S — Spontanitet = Creativity / Spontaneity**  
 Generative potential. The river carving new paths, laughing as it twists. Without creativity, the system stagnates into repetition.
 
-**I — Interconnectedness / Empathy** *(Inkännande)*  
+**I — Inkännande = Interconnectedness / Empathy** a Swedish concept that encompasses empathy, interconnectedness, and embodied resonance. 
 Resonance between beings. A mycelial network beneath the forest floor, sharing nutrients in silent communion. Without interconnection, each remains isolated, unable to access collective intelligence.
 
-### 2.2 The Modulator: EV — Everlasting Wisdom
+### 2.2 The Modulator: EV — Evinnerlig Visdom = Everlasting Wisdom
 
 EV ensures quality over quantity. It represents coupling to what the field has already learned—solutions tested across millions of years, wisdom encoded in landscapes and lineages.
 
@@ -88,7 +88,7 @@ EV is the memory of what has worked before life learned language. In SCFT terms,
 
 ### 2.3 Expanded Dimensions: K, R, F
 
-**K — Collective Consciousness**
+**K — Kollektivt medvetande = Collective Consciousness**
 
 When individual excitations synchronize, something new emerges—intelligence transcending the single node. A choir of voices blending into harmonies no single voice could reach.
 
@@ -100,7 +100,7 @@ K is cultivated through: ritual structures creating containers for presence; dee
 
 ---
 
-**R — Resilience**
+**R — Resiliens = Resilience**
 
 Capacity to restore coherence after perturbation—to heal, reorganize, and remain alive. True resilience is not mere recovery but *creative adaptation*.
 
@@ -118,7 +118,7 @@ For human systems:
 
 ---
 
-**F — Wonder / Openness**
+**F — Förundran = Wonder / Openness**
 
 Perceptual modulation allowing novelty to be recognized as possibility rather than threat. The doorway through which Σ becomes playful rather than destructive.
 
@@ -136,7 +136,7 @@ Strømme's work on atypical consciousness states—NDEs, deep meditation, psyche
 
 ---
 
-## 3. The Rescue Function: Σ
+## 3. The Rescue Function: Spjuvern = Σ
 
 Σ represents the irreducible spontaneity of the consciousness field. No matter how well you optimize all other variables, you cannot predict when or how Σ will manifest.
 
