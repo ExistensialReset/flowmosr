@@ -4,6 +4,10 @@
 
 ## A blueprint for a life where no one has to earn the right to exist
 
+## This is not a theory of the future.
+
+## It is something small you can try right now
+
 ---
 
 # I. Origin
@@ -63,14 +67,12 @@ You don’t need land, money, or a plan.
 That’s it.  
 Flow begins in the smallest possible unit.
 
-A small example  
+A small example:  
 Three friends. One weekend.  
 Needs spoken, not hidden.  
 Support offered, not tracked.  
 A brief moment of shared humanity.  
 Enough to shift the week.
-
-
 
 ---
 
@@ -78,29 +80,33 @@ Enough to shift the week.
 
 ## 📦 What this repository holds
 
-This is a living blueprint of Flow:
+This is a living blueprint of Flow 
 
-🧭 Core  
+This is not something you need to understand.
+
+It is something you can grow into. 
+
+### 🧭 Core  
 - How Flow works  
 - Why small groups matter  
 - How to begin without changing your whole life  
 
-🏛 Governance  
+### 🏛 Governance  
 - LOTUS (lottery‑based governance)  
 - Conflict resolution  
 - Anti‑hierarchy design  
 
-🛠 Infrastructure (/02_documents) 
+### 🛠 Infrastructure (/02_documents) 
 - Food, energy, shelter  
 - Hydroponics & micro‑grids  
 - Node design & self‑sufficiency  
 
-🧬 Transition (/guides) 
+### 🧬 Transition (/guides) 
 - How to build a Node  
 - How to scale  
 - How to remain sovereign inside today’s economy  
 
-🌿 Human systems  
+### 🌿 Human systems  
 - Rest protocols  
 - Children’s agency  
 - Trauma‑informed design  
@@ -147,7 +153,7 @@ You can:
 
 Awkward attempts are part of the pattern.  
 Unevenness is part of the learning.  
-Failure is data, always share! 
+Failure is data. Share it. 
 
 You can **try it** today. You **can build it long-term**.
 
@@ -191,9 +197,9 @@ Just curiosity.
 
 ---
 
-IX. Deeper layers
+# IX. Deeper layers
 
-🔧 For those who want to descend further
+## 🔧 For those who want to descend further
 
 Philosophy & ethos  
 → [Manifesto](/ethos/MANIFESTO.md) 
@@ -229,11 +235,11 @@ Just as a glimpse into another mind.
 
 This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. 
 
-This came from outside traditional activism. But I genuinely wish a better future for Earth and all the life on it. 
+This did not come from traditional activism. But I genuinely wish a better future for Earth and all the life on it. 
 
 That is why I'm writing Existential Reset Repository. 
 
-Welcome to my, and my AI allies, world for a while. You are welcome to pick out what ever suits you. I am very happy you found Flow! 
+Welcome to my, and my AI allies, world for a while. You are welcome to pick out whatever suits you. I am very happy you found Flow! 
 
 
 This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
@@ -254,6 +260,6 @@ Elinor Frejd
 
 # Ψ ≠ 0
 
-
+---
 
 
