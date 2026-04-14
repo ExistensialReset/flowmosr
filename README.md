@@ -70,7 +70,7 @@ Support offered, not tracked.
 A brief moment of shared humanity.  
 Enough to shift the week.
 
-**
+
 
 ---
 
