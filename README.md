@@ -229,7 +229,7 @@ Just curiosity.
 
 # X. License
 
-🛡 CC BY‑NC‑SA 4.0
+## 🛡 CC BY‑NC‑SA 4.0
 Use freely. No extraction. No extractive use of people, resources, or work.
 
 ---
