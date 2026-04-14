@@ -1,4 +1,4 @@
-# 🌊 Flow / M-OS-R
+# 🌊 Flow / M‑OS‑R / Existential Reset Repository 
 
 ## A different way of living is actually possible
 
@@ -6,47 +6,51 @@
 
 ---
 
-🌱 Why Flow?
+# I. Origin
+
+## 🌱 Why Flow exists
 
 Most people are not exhausted because they are weak.  
 They are exhausted because they live inside systems that demand constant performance.
 
 Flow begins from a different assumption:
 
-> Life does not need to be optimized.  
-It needs to be unblocked.
+> **Life does not need to be optimized.  
+It needs to be unblocked.**
 
-Flow is what happens when a few people decide:
+Flow emerges when a small group of people quietly decide:
 
-“No one in this small group should feel unsafe this week.”
+“No one in this circle should feel unsafe this week.”
 
-Not as a utopia.  
 Not as a revolution.  
-Just as a test — something real, something small, something now.
+Not as a utopia.  
+Just as a test — small, real, now.
 
-From that tiny shift, a different way of living becomes possible.
+From that shift, another way of living becomes possible.
 
 ---
 
-💡 What is Flow?
+# II. Essence
 
-Flow is an open‑source architecture for living systems where:
+## 💡 What Flow is
+
+Flow is an **open‑source architecture** for living systems where:
 
 - Survival is unconditional  
-- Resources are shared based on need, not merit  
-- Small groups self‑organize without any permanent hierarchy  
+- Resources are shared by need, not merit  
+- Small groups self‑organize without permanent hierarchy  
 - Conflicts are expected and handled locally  
 - Rest is a right, not a reward
-  
-It is a pattern you can test anywhere.
+
+Flow is not a belief.  
+It is a **pattern**.  
+A **way of living you can test anywhere**.
 
 ---
 
-♾️❤️ This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. This came from outside traditional activism. But I genuinely wish a better future for Earth and all the life on it. That is why I'm writing Existential Reset Repository. Welcome to my, and my AI allies, world for a while. You are welcome to pick out what ever suits you. I am very happy you found Flow! 
+# III. Ritual
 
----
-
-🧪 Try Flow (24 hours)
+## 🧪 Flow in 24 hours
 
 You don’t need land, money, or a plan.
 
@@ -59,198 +63,197 @@ You don’t need land, money, or a plan.
 That’s it.  
 Flow begins in the smallest possible unit.
 
-Example:
-Three friends, one weekend.
-Person A: "I need help moving furniture."
-Person B: "I need emotional support after breakup."
-Person C: "I need someone to cook because I'm exhausted."
-Distribution:
-- A & C help B move furniture (2 hours)
-- B listens to C talk about breakup (1 hour)
-- C cooks dinner for all three
-No tracking. No debt. Just flow.
+A small example  
+Three friends. One weekend.  
+Needs spoken, not hidden.  
+Support offered, not tracked.  
+A brief moment of shared humanity.  
+Enough to shift the week.
+
+**
 
 ---
 
-📦 What this repository contains
+# IV. The Architecture
 
-This repo is a complete living architecture for Flow:
+## 📦 What this repository holds
 
-🧭 Core concepts
+This is a living blueprint of Flow:
+
+🧭 Core  
 - How Flow works  
 - Why small groups matter  
-- How to start without changing your whole life  
+- How to begin without changing your whole life  
 
-🏛 Governance
+🏛 Governance  
 - LOTUS (lottery‑based governance)  
 - Conflict resolution  
 - Anti‑hierarchy design  
 
-🛠 Infrastructure
+🛠 Infrastructure (/02_documents) 
 - Food, energy, shelter  
 - Hydroponics & micro‑grids  
 - Node design & self‑sufficiency  
 
-🧬 Transition models
+🧬 Transition (/guides) 
 - How to build a Node  
 - How to scale  
-- How to stay sovereign inside todays economic system  
+- How to remain sovereign inside today’s economy  
 
-🌿 Human systems
+🌿 Human systems  
 - Rest protocols  
 - Children’s agency  
 - Trauma‑informed design  
 - Cultural adaptation  
 
-Flow is not a finished system.  
-It is a living blueprint you are invited to shape.
+Flow is not finished.  
+It is a living language.  
+You are welcome to speak it.
 
 ---
 
-✨ This whole repository includes:
-- Practical guides to start locally (2–5 people)
-- Governance systems (LOTUS, lottery based selection, short mandate, both to avoid a career-based political class)
-- Infrastructure plans (food, energy, shelter)
-- Full transition models from current society
+# V. Boundaries
 
-You can **try it** today. You **can build it long-term**.
-
----
-
-## What this is not
+## ❌ What Flow is not
 
 Flow is not something you join.  
-It is not a belief system.  
-It is not a call to leave your current life.
+Not a belief system.  
+Not a call to abandon your life.
 
-You can try it, ignore it, adapt it, or walk away.
+It is a tool.  
+A test.  
+A possibility.
 
-But if you need rest first, please go to [Refugium Anima](./ethos/REFUGIUM_ANIMA.md) 
-
----
-
-This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
-# 🌼 
+If you need rest first, visit:  
+→ [Refugium Anima](/ethos/REFUGIUM_ANIMA.md) 
 
 ---
 
-## Start where you are
+# VI. Threshold
+
+## 🌼 Start where you are
 
 You can:
 
 - Start a small circle  
 - Share resources without tracking value  
 - Rest without earning it  
-- Read this repository together 
-- Pay attention to what actually helps  
+- Read this repository together  
+- Notice what actually helps  
 
-That’s enough.
+**That is enough.**
 
-**Flow is small groups making sure no one has to struggle alone — and seeing what becomes possible from there.**
+> Flow is small groups making sure no one has to struggle alone — and seeing what becomes possible from there.
 
----
+Awkward attempts are part of the pattern.  
+Unevenness is part of the learning.  
+Failure is data, always share! 
 
-Some attempts might feel awkward, uneven, or fail completely. That is part of the system working.
-
----
-
-## Where do you want to start?
-
-**Feeling curious, not sure what this is?**  
-→ [`00_FLOW_CORE_ENTRY`](./00_core/00_FLOW_CORE_ENTRY.md)
-
-**Want to try this in your own life?**  
-→ [`FLOW_STARTER_GUIDE`](./guides/activation/FLOW_STARTER_GUIDE.md)
-
-**Want to build a real community (Node)?**  
-→ [`TRANSITION_PLAYBOOK`](./guides/economics/TRANSITION_PLAYBOOK.md)
+You can **try it** today. You **can build it long-term**.
 
 ---
 
-## 🌊 
+# VII. Pathways
 
-Flow is a way of living built on one simple shift in the way of thinking. 
+## 🧭 Choose your direction
+
+Curious, unsure?  
+→ [Flow Core Entry](/00_core/00_FLOW_CORE_ENTRY.md) 
+
+Want to try Flow in your life?  
+→ [Flow Starter Guide](/guides/activation/FLOW_STARTER_GUIDE.md) 
+
+Want to build a Node?  
+→ [Transition Playbook](/guides/economics/TRANSITION_PLAYBOOK.md) 
+
+Want the full architecture?  
+→ Explore all layers: core, principles, documents, governance, ethos, guides, simulations, economics
 
 ---
 
-## If you try this
+# VIII. Resonance
 
-If you and a few people try Flow — even just once — I would love to hear what happened.
+## ✉️ If you try Flow
 
-It doesn’t have to be structured or complete.
+If you and a few people try Flow — even once —  
+I would love to hear what happened.
 
-You can email me or write in your own words, in your own time.
+A few lines are enough:
 
-There is no expectation to continue.
-
-Just knowing that something was tried is meaningful.
-
-If you are starting a circle and want to connect - please do -  let us weave a web of Flow circles in this world:
+- What you tried  
+- What felt different  
+- What didn’t work  
 
 📧 flowmosr@proton.me
 
-A few lines is enough:
-
-- What did you try?  
-- What felt different?  
-- What didn’t work?  
+No expectations.  
+Just curiosity.
 
 ---
 
-Flow is not a finished system. You are more than welcome to join in shaping it! 
+IX. Deeper layers
 
-It is a way of testing whether a different kind of life is possible — starting small, and staying grounded in reality.
+🔧 For those who want to descend further
 
----
+Philosophy & ethos  
+→ [Manifesto](/ethos/MANIFESTO.md) 
+→ [Earth Our Mother](/ethos/EARTH_OUR_MOTHER.md) 
+- [Divine](/ethos/DIVINE.md) 
 
-## 🔧 If you want to go deeper
+Governance  
+→ [LOTUS Governance](/03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md) 
 
-**Philosophy & ethos**  
-→ [`MANIFESTO`](./ethos/MANIFESTO.md)  
-→ [`EARTH_OUR_MOTHER`](./ethos/EARTH_OUR_MOTHER.md)
-
-**Governance system**  
-→ [`LOTUS`](./03_governance/LOTUS_GOVERNANCE_PROTOCOL_v2.md)
-
-**Build & infrastructure**  
-→ [`MASTER_RESOURCE_PLAN`](./02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md)
-
-**The complete living architecture**  
-→ All layers: core, principles, documents, governance, ethos, guides, simulations, economics
-
----
- 
-→
-To read the whole repository, if you're on https://existensialreset.github.io/flowmosr 
-(with the nice colors) go to → https://github.com/ExistensialReset/flowmosr 
+Infrastructure  
+→ [Hydroponics Master Plan](/02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) 
 
 ---
 
-## 🛡️ License
+# X. License
 
-CC BY-NC-SA 4.0 — Use freely, no extraction.
+🛡 CC BY‑NC‑SA 4.0
+Use freely.  
+No extraction.
 
 ---
 
-💬 A personal note
+# XI. Closing
 
-If you’ve read this far — or anything in this repository —  
+## 💬 A personal note
+
+If you’ve read this far — or anything in this architecture —  
 I would genuinely love to hear your thoughts.
 
-Not as feedback.  
 Not as critique.  
+Not as feedback.  
 Just as a glimpse into another mind.
 
+This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. 
+
+This came from outside traditional activism. But I genuinely wish a better future for Earth and all the life on it. 
+
+That is why I'm writing Existential Reset Repository. 
+
+Welcome to my, and my AI allies, world for a while. You are welcome to pick out what ever suits you. I am very happy you found Flow! 
+
+
+This repository is not moving anywhere. If you want to take a break and read more later or some other day, that's fine. Just wanted to tell you. 
+
+
 All the best, 
-Elinor Frejd, 
+♾️ ❤️ 🫧 
+Elinor Frejd  
 📧 elinor.frejd@proton.me
- 
+
 ---
+
+# 🌊 
 
 ***Flow is not a destination.***
 
 ***Flow is how you move.***
 
-# 🌊 
-
 # Ψ ≠ 0
+
+
+
+
