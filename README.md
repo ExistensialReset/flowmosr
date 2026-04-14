@@ -241,6 +241,11 @@ Use freely. No extraction. No extractive use of people, resources, or work.
 
 # XI. Closing
 
+**Notice that one moment today where you felt alive. Not productive. Not useful. Not 'good'. Alive.**
+
+That **moment** — wherever it was — **is Flow**. Everything else in this manual/repository is just ways to find more of those moments. But you already know how: **You've always known**.
+
+
 ## 💬 A personal note
 
 If you’ve read this far — or anything in this architecture —  
