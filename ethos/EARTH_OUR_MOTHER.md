@@ -2,7 +2,6 @@
 
 **Status:** Primary Axiom for Planetary Resonance  
 **Core Principle:** Under capitalism/Mammon, the Earth is not "managed"—she is consumed. We choose to revere her as a living body with finite limits.
-
 **Planetary Baseline: Geobiological Integrity Protocol**.
 
 ---
