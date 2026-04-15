@@ -215,7 +215,9 @@ Just curiosity.
 
 Everything here exists for one reason: to make that small weekly circle sustainable over time.
 
-**Philosophy & ethos**  
+**Philosophy & ethos**
+
+👉 [Enter thru another door](/reflections/OLD_README_ROOT.md) 
 
 👉 [Manifesto](/ethos/MANIFESTO.md) 
 
