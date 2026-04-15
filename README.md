@@ -13,7 +13,7 @@
 
 ---
 
-You are not late. Never been late. 
+You are not late. You have never been late. 
 
 ---
 
@@ -70,7 +70,7 @@ You don’t need land, money, or a plan.
 2. Share a meal (no transactions)  
 3. Ask: “What do we need to feel okay this week?”  
 4. Distribute tasks voluntarily  
-5. Notice what changes  
+5. Notice what changes— in the week, in the group, in yourself.  
 
 That’s it.  
 Flow begins in the smallest possible unit.
@@ -92,7 +92,7 @@ If you are at the visual GitHub Pages site https://github.io/flowmosr and want t
 
 This is a living blueprint of Flow. 
 
-This is not something you need to understand.
+This is not something you need to understand all of, at first.
 
 It is something you can grow into. 
 
@@ -162,8 +162,7 @@ You can:
 
 > Flow is small groups making sure no one has to struggle alone — and seeing what becomes possible from there.
 
-Awkward attempts are part of the pattern.  
-Unevenness is part of the learning.  
+Awkward attempts are part of the pattern.    
 Failure is data. Share it. 
 
 You can **try it** today. You **can build it long-term**.
@@ -214,6 +213,8 @@ Just curiosity.
 
 ## 🔧 For those who want to descend further
 
+Everything here exists for one reason: to make that small weekly circle sustainable over time.
+
 **Philosophy & ethos**  
 
 👉 [Manifesto](/ethos/MANIFESTO.md) 
@@ -241,9 +242,20 @@ Use freely. No extraction. No extractive use of people, resources, or work.
 
 # XI. Closing
 
-**Notice that one moment today where you felt alive. Not productive. Not useful. Not 'good'. Alive.**
+## 🧠 Philosophical Ending
 
-That **moment** — wherever it was — **is Flow**. Everything else in this manual/repository is just ways to find more of those moments. But you already know how: **You've always known**.
+**Notice that one moment today where you felt alive. 
+
+Not productive. 
+Not useful. 
+Not 'good'. 
+Alive.**
+
+That **moment** — wherever it was — **is Flow**. 
+
+Everything else in this manual/repository is just ways to find more of those moments. 
+
+But you already know how: **You've always known**.
 
 
 ## 💬 A personal note
