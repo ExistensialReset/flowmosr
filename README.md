@@ -169,6 +169,8 @@ You can **try it** today. You **can build it long-term**.
 
 This will be uneven. Sometimes it won’t work. That’s part of the pattern.
 
+🌍 [Flow Starter Pack](/11_flowstarterpack) 
+
 ---
 
 # VII. Pathways
@@ -183,6 +185,9 @@ Want to try Flow in your life?
 
 Want to build a Node?  
 → [Transition Playbook](/guides/economics/TRANSITION_PLAYBOOK.md) 
+
+Want to understand Flow more deeply? 
+[Beginner's way in to Flow](/identity/BEGINNERS_WAY_IN_TO_FLOW.md) 
 
 Want the full architecture?  
 → Explore all layers: core, principles, documents, governance, ethos, guides, simulations, economics
@@ -215,7 +220,7 @@ Just curiosity.
 
 Everything here exists for one reason: to make that small weekly circle sustainable over time.
 
-**Philosophy & ethos**
+**Philosophy & Ethos**
 
 👉 [Enter thru another door](/reflections/OLD_README_ROOT.md) 
 
@@ -232,6 +237,10 @@ Everything here exists for one reason: to make that small weekly circle sustaina
 **Infrastructure** 
 
 👉 [Hydroponics Master Plan](/02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) 
+
+**Justice & Integrity **
+
+👉 [Flow Justice Principles](/06_justice/FLOW_JUSTICE_PRINCIPLES.md) 
 
 ---
 
@@ -271,7 +280,7 @@ Just as a glimpse into another mind.
 
 This repository is, to be honest, a gift from someone who never walked in your shoes or thoughts. 
 
-This did not come from traditional activism. But I genuinely wish a better future for Earth and all the life on it. 
+I genuinely wish a better future for Earth and all the life on it. 
 
 That is why I'm writing Existential Reset Repository. 
 
@@ -294,9 +303,9 @@ Elinor Frejd
 
 # 🌊 
 
-***Flow is not a destination.***
+# ***Flow is not a destination.***
 
-***Flow is how you move.***
+# ***Flow is how you move.***
 
 # Ψ ≠ 0
 
