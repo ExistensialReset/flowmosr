@@ -46,7 +46,7 @@ From that shift, another way of living becomes possible.
 
 ## 💡 What Flow is
 
-Flow is an **open‑source architecture** for living systems where:
+Flow is something people can try together, without permission or hierarchy, where: 
 
 - Survival is unconditional  
 - Resources are shared by need, not merit  
@@ -88,7 +88,7 @@ Enough to shift the week.
 
 ## 📦 What this repository holds
 
-If you are at the visual GitHub Pages site https://github.io/flowmosr and want to read the full repository please visit https://github.com/ExistensialReset/flowmosr 
+If you are at the visual GitHub Pages site https:// ExistensialReset.github.io/flowmosr and want to read the full repository please visit https://github.com/ExistensialReset/flowmosr 
 
 This is a living blueprint of Flow. 
 
@@ -133,9 +133,8 @@ You are welcome to speak it.
 ## ❌ What Flow is not
 
 Flow is not something you join. 
-> Flow is a living architecture for human flourishing, built to be tested in the smallest possible unit: a few people, one week, one shift in how we care for each other.
-Not a belief system.  
-Not a call to abandon your life.
+It is not a belief system.  
+Not a call to escape or abandon your life.
 
 It is a tool.  
 A test.  
@@ -218,7 +217,7 @@ Just curiosity.
 
 ## 🔧 For those who want to descend further
 
-Everything here exists for one reason: to make that small weekly circle sustainable over time.
+Everything here exists for one reason: to make that small weekly circle sustainable over time. And you don't have to read it all to get started. 
 
 **Philosophy & Ethos**
 
@@ -264,9 +263,8 @@ Alive.**
 
 That **moment** — wherever it was — **is Flow**. 
 
-Everything else in this manual/repository is just ways to find more of those moments. 
+Everything in this repository is just ways to find more of those moments. 
 
-But you already know how: **You've always known**.
 
 
 ## 💬 A personal note
