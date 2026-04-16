@@ -106,6 +106,8 @@ It is something you can grow into.
 - Conflict resolution  
 - Anti‑hierarchy design  
 
+(I know informal roles will emerge. That is expected and can be renegotiated.) 
+
 ### 🛠 Infrastructure (/02_documents) 
 - Food, energy, shelter  
 - Hydroponics & micro‑grids  
