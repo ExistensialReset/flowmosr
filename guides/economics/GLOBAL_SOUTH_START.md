@@ -1,4 +1,11 @@
 ---
+## 📌 WHAT THIS IS
+
+This is the shortest possible way to start Flow. No theory. No big words. Just seven days of very small actions.
+
+If you have water, food, or safety crises – start here anyway. Doing one small thing together builds the trust you need to face the bigger things later.
+
+---
 
 ## 🚀 FIRST 7 DAYS PROTOCOL
 ### How to Start Flow (Without Calling It Flow)
