@@ -115,6 +115,27 @@ Often it is both.
 
 The system's job is to keep them alive and safe — not to decide which category they belong to.
 
+### §3A.1 CRISIS CLARITY RULE
+
+**During suspected psychosis or mania, all unusual perceptions are treated as potentially unreliable for decision-making, regardless of their possible long-term meaning.**
+
+This means:
+
+- Perceptions may be documented respectfully  
+- Perceptions may be explored later  
+- Perceptions do NOT guide current crisis decisions
+
+**Examples:**
+
+- Node reports "X is poisoning me" → intervention focuses on safety, not on debating whether X actually is
+- Node reports "trees are showing me the future" → intervention ensures physical safety, does not validate or invalidate the perception
+- Node reports "I have special powers" → intervention prevents risky behavior, does not argue about powers
+
+**Principle:**  
+Epistemic humility during crisis means: we don't know if it's true, but we can't risk acting as if it is.
+
+---
+
 ### §3A.2 When Interpretation Becomes Harmful to Others
 
 **Tension:** A node has the right to interpret their own crisis experience. But what if their interpretation demonizes other Circle members, justifies violence, or creates ongoing fear?
@@ -140,6 +161,161 @@ The system's job is to keep them alive and safe — not to decide which category
 
 **Long-term reality:**
 Some nodes will never "agree" with the Circle's framing of their crisis. They will always believe they were not ill, but seeing clearly. This does not revoke their belonging. The Circle learns to coexist with this difference, provided behavior remains within community norms.
+
+**When interpretations persist and cause ongoing harm:**
+Interpretations that involve persistent external accusations or alternative realities affecting others require ongoing boundary management and may trigger:
+- structured mediation with neutral third party
+- temporary physical distance
+- clear behavioral contracts
+
+The node's belonging is not revoked. The community's safety is also protected.
+
+---
+
+### §3A.3 BEHAVIORAL RED LINES
+
+**Principle:** Belief is free. Behavior has limits.
+
+The following behaviors **always** require immediate intervention, regardless of the node's interpretive framework:
+
+**Physical safety threats:**
+- Threats of violence, even vague or symbolic
+- Possession or acquisition of weapons
+- Stalking or following behavior
+- Attempts to physically harm self or others
+
+**Relational boundaries:**
+- Repeated, targeted accusations against specific individuals
+- Harassment via any medium (in-person, digital, written)
+- Intrusion into others' private spaces (homes, rooms, devices)
+- Creating climate of fear or intimidation
+
+**Collective sustainability:**
+- Sabotage of shared resources (food, water, infrastructure)
+- Deliberate disruption of others' Baseline (sleep deprivation, noise, blocking access)
+- Financial manipulation or theft
+- Destruction of common property
+
+**Consent violations:**
+- Any form of sexual boundary crossing
+- Coercion or manipulation
+- Ignoring explicitly stated "no"
+
+**These red lines apply to everyone, regardless of mental state.**
+
+Crossing a red line triggers:
+1. Immediate intervention
+2. Separation if needed for safety
+3. Documentation
+4. Professional consultation
+5. Behavioral contract before return to full participation
+
+Mental illness explains behavior. It does not excuse harm.
+
+---
+
+## §3B. DECISION AUTHORITY IN CRISIS STATES
+
+**Problem:**  
+Protocols describe what should happen, but not who decides when it happens.  
+This creates confusion, delays, and conflicts during actual crises.
+
+**Solution: The Crisis Lead role**
+
+### Structure:
+
+**1. Every Circle designates a Crisis Lead**
+- Rotated role, 1-3 month terms
+- Not a permanent authority, but a temporary decision-maker
+- Can be declined by anyone who feels unable to bear the weight
+
+**2. Crisis Lead mandate:**
+The Crisis Lead has authority to:
+- Initiate crisis protocols
+- Activate Ulysses Contracts
+- Decide on temporary separation
+- Contact professional services
+- Make safety-critical decisions in real-time
+
+**3. Safeguards:**
+- All Crisis Lead decisions are **documented immediately**
+- All decisions are **reviewed by the full Circle within 72 hours**
+- Crisis Lead can be overridden by unanimous Circle consensus
+- Crisis Lead must step down if personally involved in the crisis
+
+**4. When Crisis Lead is unavailable:**
+- Secondary Crisis Lead must be designated
+- If both unavailable: any two Circle members can jointly activate protocol
+
+**5. Limits of Crisis Lead authority:**
+Crisis Lead **cannot**:
+- Make permanent decisions about the node's membership
+- Modify Baseline guarantees
+- Act in contradiction to documented Ulysses Contracts without Circle review
+- Use authority for personal grievances
+
+**Principle:**  
+Clear authority during chaos saves lives.  
+Distributed review after crisis preserves collective wisdom.
+
+Both are necessary.
+
+---
+
+## §3C. POWER DYNAMICS AND SAFEGUARDS
+
+**Reality check:**  
+Circles are not neutral, harmonious collectives. Power imbalances always exist:
+- age and life experience
+- neurotype (neurotypical vs neurodivergent)
+- social capital and charisma
+- language fluency
+- economic resources
+- physical ability
+- cultural/racial privilege
+
+**These imbalances shape who gets believed, whose boundaries are respected, and whose "crisis" is taken seriously.**
+
+### Mandatory safeguards:
+
+**1. No unilateral decisions**
+Major interventions (separation, professional escalation, Ulysses Contract activation) require **minimum two people** to agree.
+
+Exception: immediate physical danger (violence, suicide attempt) allows single-person action, but must be reported immediately.
+
+**2. Conflict of interest rules**
+The following people **may not** be sole decision-makers in a crisis:
+- Current or former romantic/sexual partners of the node
+- Blood relatives
+- People with active conflicts with the node
+- People mentioned in the node's Ulysses Contract as potentially unsafe
+
+**3. Documentation of disagreement**
+Circles must record **dissent**, not just consensus.
+
+If intervention happens over objections:
+- objections are documented
+- reasons for proceeding anyway are documented
+- review process is triggered
+
+**4. External consultation requirement**
+For major decisions (involuntary hospitalization, permanent separation, ending care), Circle must:
+- consult at least one external advisor (another Node, professional, trusted elder)
+- document this consultation
+- consider their input seriously
+
+**5. Annual power audit**
+Once per year, Circle conducts explicit review:
+- Who makes most decisions?
+- Whose voice is heard first?
+- Whose concerns are minimized?
+- Are there patterns?
+
+This is uncomfortable. It is also necessary.
+
+**Principle:**  
+Power cannot be eliminated.  
+It can be made visible, rotated, and accountable.
 
 ---
 
@@ -219,6 +395,147 @@ Inconsistency escalates harm.
 
 ---
 
+## §4A. VIOLENCE AND THREAT PROTOCOL
+
+**Reality:** Mental illness sometimes includes violence. Pretending otherwise endangers everyone.
+
+### What counts as violence:
+
+**Physical:**
+- Hitting, pushing, restraining
+- Throwing objects at people
+- Blocking exits or trapping people
+- Intentional property destruction meant to intimidate
+
+**Verbal:**
+- Explicit threats ("I will hurt you")
+- Implicit threats ("Something bad might happen to you")
+- Sustained screaming at close range
+- Slurs, dehumanizing language meant to degrade
+
+**Symbolic:**
+- Displaying weapons
+- Leaving threatening notes or images
+- Simulating violence (choking gestures, mock hits)
+
+### Immediate actions when violence occurs:
+
+**1. Protect people first**
+- Remove others from the space immediately
+- Do not attempt physical restraint unless trained
+- Create physical distance
+
+**2. Call for help**
+- Crisis Lead or any two Circle members can call emergency services
+- Document exactly what happened (time, location, witnesses)
+- Do NOT minimize or explain away
+
+**3. Activate separation immediately**
+- Node is moved to separate space or asked to leave
+- This is not punishment; this is safety
+
+**4. Professional consultation required**
+- Circle cannot handle violence alone
+- Psychiatric or crisis services must be involved
+- Document all professional recommendations
+
+### After violence:
+
+**1. Care for those harmed**
+- Medical attention if needed
+- Emotional support
+- Space to process without minimizing
+
+**2. Mandatory review process**
+- What led to this?
+- What warning signs were missed?
+- What needs to change?
+
+**3. Conditions for return**
+- Professional assessment
+- Medication adjustment if relevant
+- Behavioral contract with specific limits
+- Gradual reintegration, not immediate full participation
+
+**4. Zero-tolerance boundary**
+If violence recurs:
+- Permanent separation from this specific Circle
+- Transition to professional care setting
+- Baseline maintained, belonging honored, but this community cannot be the care structure
+
+**Principle:**  
+Mental illness can coexist with accountability.  
+The node is not evil. The behavior is still unacceptable.
+
+---
+
+## §4B. WHEN A NODE REFUSES ALL FORMS OF CARE
+
+**Scenario:**  
+Node is in severe crisis (psychotic, manic, severely depressed, actively suicidal) AND refuses:
+- medication
+- professional help
+- Circle support
+- separation
+- any intervention
+
+**This is one of the hardest situations a Circle will face.**
+
+### Circle's response framework:
+
+**1. Minimum safety floor**
+Circle defines non-negotiable baseline:
+- Access to food and water
+- Shelter
+- Someone checks in daily (even if node refuses to engage)
+
+**If node refuses even this, Circle has reached its limit.**
+
+**2. Document refusal clearly**
+- What was offered
+- What was refused
+- When and by whom
+- Node's stated reasons (if given)
+
+This documentation protects both node and Circle.
+
+**3. Escalate to professional/legal systems if:**
+- Immediate danger to self (suicide attempt)
+- Immediate danger to others
+- Complete inability to meet own Baseline (no food, exposure to elements)
+
+**In these cases, Circle may need to:**
+- Contact family (if appropriate)
+- Call crisis services
+- In extreme cases: initiate involuntary hold
+
+This feels like betrayal. It is sometimes necessary.
+
+**4. Acknowledge the limit**
+Circle tells the node clearly:
+> "We want to support you. You have refused all forms of help we can offer. We cannot keep you safe if you will not allow any intervention. We are going to [specific action]. We do this with grief, not anger. Your Baseline and belonging remain. But we cannot do nothing while you are in danger."
+
+**5. Maintain Baseline throughout**
+Even if node is in professional care against their will:
+- Circle visits if allowed
+- Circle ensures basic needs are met
+- Circle does not abandon
+
+**6. Post-crisis reconciliation**
+When node stabilizes:
+- Circle acknowledges the harm of forced intervention
+- Circle explains why it felt necessary
+- Circle and node work to repair trust
+- Circle learns from what happened
+
+**Principle:**  
+Autonomy is sacred.  
+Life is more sacred.  
+
+When these collide, we choose life — then we grieve the violation, repair what we can, and learn.
+
+---
+
 ## §5. THE ULYSSES CONTRACT
 
 Nodes may, during stable periods, create a **Ulysses Contract**.
@@ -231,6 +548,7 @@ Ulysses Contracts may specify:
 - permitted interventions
 - acceptable autonomy restrictions
 - non-negotiable safety boundaries
+- people who should NOT be involved in care decisions
 
 **Safeguard:**  
 Ulysses Contracts guide action — they do not replace judgment, care, or contextual awareness.
@@ -243,14 +561,45 @@ They are instruments of sovereignty, not tools of control.
 
 Supporting severe mental illness is inherently taxing.
 
-Flow therefore mandates:
-- rotated caregiving responsibilities
-- explicit time limits on support roles
-- access to Refugium or equivalent rest structures
+Flow therefore mandates structured limits:
 
-No node may destroy their own Baseline in the act of caring for another.
+### Operational caregiver limits:
+
+**Maximum hours per week:**
+- Primary caregiver: 20 hours maximum
+- Secondary caregiver: 15 hours maximum
+- Anyone else: 10 hours maximum
+
+**Maximum consecutive days:**
+- No one carries primary responsibility more than 3 consecutive days
+- Mandatory 2-day break after 3-day shift
+
+**Mandatory handover protocol:**
+- Written log of what happened during shift
+- Verbal briefing to next caregiver
+- Emotional check-in for outgoing caregiver
+
+**Access to Refugium:**
+- Caregivers have guaranteed access to Refugium or equivalent rest space
+- No questions asked, no guilt
+- Minimum 4 hours per week during active care periods
+
+**Circle check-ins:**
+- Weekly caregiver circle to share load, vent, process
+- External facilitator if possible
+
+**No node may destroy their own Baseline in the act of caring for another.**
 
 Burnout is a system failure, not a personal one.
+
+If caregivers are consistently exceeding limits, the system must change:
+- Expand the Circle
+- Reduce the node's expectations
+- Transition care to professional settings
+- Acknowledge capacity limits
+
+**Soft abandonment is still abandonment.**  
+It just happens slowly and guiltily instead of cleanly and honestly.
 
 ---
 
@@ -261,6 +610,9 @@ The following constitute system failure:
 - abandonment disguised as "respecting autonomy"
 - coercion disguised as care
 - caregivers silently exceeding their limits
+- unacknowledged power imbalances
+- violence minimized or explained away
+- believing that love alone is enough
 
 Care without boundaries harms.  
 Boundaries without care abandon.
@@ -283,110 +635,101 @@ It does **not** change:
 
 Long-term illness alters *how* a node participates — not *whether* they belong.
 
-### §8.1 Temporary Separation Protocol
+---
 
-**Definition:** Temporary separation is a **time-limited, reversible, dignity-preserving** boundary. It is NOT exile, punishment, or abandonment.
+## §8.1 WHEN A CIRCLE REACHES CAPACITY LIMITS
 
-**Conditions for activation:**
-- The node's current state creates **ongoing, documented** safety risks to others that cannot be mitigated by presence alone
-- Less restrictive measures (calm space, reduced stimulation, Ulysses Contract activation) have been tried and are insufficient
-- The separation is **proportional** to the specific risk, not a blanket removal
+**Reality:**  
+Sometimes a Circle cannot safely or sustainably support a node's level of need.
 
-**What separation MUST include:**
-- **Clear, written rationale** shared with the node (even if they cannot process it now)
-- **Defined duration** (e.g., "72 hours, then review")
-- **Baseline continuity:** Food, shelter, medical care continue **without interruption** in the separated space
-- **Daily check-ins** by a designated, consistent person
-- **Defined review point** where separation is reassessed (not automatic extension)
+This is not moral failure. This is structural reality.
 
-**What separation MUST NOT include:**
-- Isolation (the node should have access to communication, even if limited)
-- Shaming or moralizing language
-- Indefinite timeline ("until you get better" is not acceptable)
-- Withdrawal of Baseline
+**Indicators that capacity is exceeded:**
+- Caregivers consistently burning out despite rotation
+- Other nodes' Baseline being compromised to maintain one node's care
+- Violence or threats becoming regular
+- Professional services refusing or unable to help
+- Node's condition worsening despite all efforts
 
-**Example documentation:**
-> "Separation initiated: [Date], [Time]. Reason: [Specific behavior creating safety risk, e.g., 'repeatedly entered others' private spaces without consent while in manic state']. Less restrictive measures tried: [e.g., 'calm space offered, declined; Ulysses Contract requested reduced stimulation, insufficient']. Duration: 72 hours. Review point: [Date/Time]. Baseline maintained: Food delivered daily at 9am, shelter in [location], medical needs [list]. Designated contact: [Name]."
+**When this happens, the Circle must:**
 
-**If separation becomes recurrent or prolonged:**
-After three separation episodes within 6 months, OR any separation exceeding 14 days:
-- A formal Circle review is triggered
-- External consultation is sought (neighboring Node, mental health professional if available)
-- The Circle must honestly assess: "Do we have capacity to safely include this person, or are we failing both them and ourselves?"
+**1. Name it explicitly**
+> "We have reached our capacity limit. We cannot safely continue this level of care without harm to ourselves and others."
 
-### §8.2 Honest Acknowledgment of the Weight
+This is said aloud, in Circle, with the affected node present if possible.
 
-**This is hard. Let us not pretend otherwise.**
+**2. No blame**
+- This is not the node's fault for being "too sick"
+- This is not the Circle's fault for being "not good enough"
+- This is system-level mismatch between need and capacity
 
-Supporting a node with severe, chronic mental illness—over months and years—is **exhausting**. It tests relationships, drains energy, and sometimes breaks communities.
+**3. Maintain Baseline throughout transition**
+- Housing continues
+- Food continues
+- Dignity continues
+- Someone still checks in
 
-**Caregivers will feel:**
-- Frustration ("Why won't they take their medication?")
-- Guilt ("I'm not doing enough.")
-- Resentment ("Why does this always fall on me?")
-- Helplessness ("Nothing I do helps.")
-- Fear ("What if they hurt themselves or someone else?")
+**4. Active transition support**
+- Help node find alternative care (family, supported housing, professional facility)
+- Maintain relationship if node wants it (visits, calls, letters)
+- Stay involved in advocacy and oversight
+- Do not just "hand off and disappear"
 
-**These feelings are normal. They are not moral failures.**
-
-**What the Circle must do:**
-- **Name the weight openly.** Create space for caregivers to express exhaustion without judgment.
-- **Rotate relentlessly.** No single person should carry this alone for more than 3 months consecutively.
-- **Accept limits.** Some Circles will discover they cannot safely include someone with severe, unmanaged mental illness. This is not a failure of love. It is a failure of *capacity*. Acknowledging this honestly and helping the person find alternative support is more loving than silent endurance that breeds resentment.
-
-**For the node living with severe mental illness:**
-You may feel like a burden. You may feel that the Circle's "care" is condescending or controlling. You may feel that no one truly understands.
-
-**We cannot promise we will always get it right.** We will make mistakes. We will sometimes fail you. But we commit to:
-- **Trying again** after failure
-- **Listening** when you tell us we're wrong
-- **Never revoking** your belonging, even when we must set boundaries
-- **Learning** from each crisis
-
-**This is not a fairy tale.** This is messy, exhausting, sacred work. And we choose it—not because we are saints, but because we believe that a community is measured by how it treats its most vulnerable.
-
-### §8.3 When the Circle Reaches Its Limit
-
-**Sometimes, despite best efforts, a Circle cannot safely or sustainably include a node with severe mental illness.**
-
-**Indicators that limits have been reached:**
-- Multiple caregivers have burned out or left
-- The node's safety cannot be maintained without professional intervention that is unavailable
-- The node's behavior consistently disrupts others' Baseline (sleep deprivation from noise, fear from aggression, etc.)
-- The Circle has tried all reasonable accommodations and is still failing
-
-**This is not a moral judgment on the node. It is an honest assessment of capacity.**
-
-**Protocol for acknowledging limits:**
-
-1. **Internal honesty first:** The Circle meets (without the node) to assess: "Are we helping or are we drowning together?"
-
-2. **External consultation:** Seek input from neighboring Nodes, regional mental health contacts, or (if available) professionals.
-
-3. **Transparent communication with the node:**
-   - "We love you. And we have reached the limits of what we can provide. You deserve better care than we are able to give."
-   - This is said with grief, not anger.
-
-4. **Active transition support:**
-   - Help the node find alternative living/care arrangements (family, supported housing, other Node with more capacity)
-   - Maintain Baseline throughout transition
-   - Offer continued relationship (visits, calls, ongoing connection) if the node desires it
-
-5. **Acknowledge the loss:**
-   - The Circle grieves this. It is a form of community failure, even when unavoidable.
-   - Document lessons learned to improve future capacity.
+**5. Grieve the loss**
+- Circle acknowledges this is painful
+- Circle documents what was learned
+- Circle improves future capacity if possible
 
 **What this is NOT:**
-- Exile or abandonment
+- Exile
 - "You're too sick for us"
 - Washing hands of responsibility
 
 **What this IS:**
-- Honoring limits
-- Prioritizing the node's actual wellbeing over the Circle's desire to feel virtuous
-- A painful, necessary act of love
+- Honoring actual limits
+- Choosing honesty over slow resentment
+- Loving the node enough to say "we can't, and here's what we can do instead"
 
-**Principle:** It is better to honestly transition care than to silently resent and eventually explode.
+**Principle:**  
+It is better to transition care clearly than to collapse slowly and hurt everyone.
+
+---
+
+## §8.1A. PSYCHOLOGICAL SAFETY DURING SEPARATION
+
+**Problem:**  
+For people with trauma, attachment disorders, or BPD, separation can feel like death.  
+If separation is done carelessly, it causes severe retraumatization.
+
+### How to separate without abandonment:
+
+**Before separation:**
+- Calm, clear explanation (not during peak crisis if avoidable)
+- Validation of feelings: "I know this feels terrible. It is not punishment."
+- Specific timeframe: "This separation will last [X hours/days]. Then we reassess."
+- Name who will check in and when
+
+**During separation:**
+- Predictable, scheduled check-ins (not random)
+- Same person checks in each time if possible
+- Check-ins are brief, calm, consistent
+- Node knows: "Tomorrow at 10am, [Name] will visit for 15 minutes"
+
+**After separation:**
+- Structured return conversation
+- "What did you experience during this?"
+- "What do you need from us going forward?"
+- Clear behavioral expectations for return
+- No punishment, no grudges
+
+**If node refuses all contact during separation:**
+- Daily brief message: "We're here. We care. We'll check again tomorrow."
+- Leave food/water accessible
+- Respect the boundary while maintaining presence
+
+**Principle:**  
+Separation is not exile.  
+It is temporary distance for safety, held with care.
 
 ---
 
@@ -478,49 +821,170 @@ Use this checklist to ensure severe mental illness care is context-sensitive whi
 
 ---
 
-### §11 WHEN PROFESSIONAL CARE IS UNAVAILABLE OR UNSAFE
+## §11. WHEN PROFESSIONAL CARE IS UNAVAILABLE OR UNSAFE
 
 **Reality:** In many contexts, "appropriate professional systems" are:
 - Non-existent (rural areas, underfunded regions)
 - Inaccessible (cost, distance, waiting lists)
-- Actively harmful (abusive institutions, forced medication without consent)
+- Actively harmful (abusive institutions, forced medication without consent, cultural incompetence)
 
 **When this occurs, the Circle's role shifts from "routing" to "harm reduction with presence."**
 
-**Minimum viable care when external help is absent:**
+### Minimum viable care when external help is absent:
 
-1. **Safety-first containment:**
-   - Create a low-stimulation space (quiet, dim, predictable)
-   - Remove access to immediate dangers (weapons, heights, vehicles)
-   - Ensure at least one calm person is present at all times (rotated every 4-6 hours)
+**1. Safety-first containment:**
+- Create low-stimulation space (quiet, dim, predictable)
+- Remove access to immediate dangers (weapons, heights, vehicles)
+- Ensure at least one calm person present at all times (rotated every 4-6 hours)
 
-2. **Non-professional de-escalation techniques:**
-   - Speak slowly, softly, with simple sentences
-   - Validate emotion without validating dangerous content
-   - "I hear you're terrified. You're safe right now. I'm here."
-   - Never argue about reality. Never lie. Never make promises you can't keep.
+**2. Non-professional de-escalation:**
+- Speak slowly, softly, with simple sentences
+- Validate emotion without validating dangerous content
+- "I hear you're terrified. You're safe right now. I'm here."
+- Never argue about reality. Never lie. Never make promises you can't keep.
 
-3. **Documentation for future advocacy:**
-   - Record what happened, when, and what was tried
-   - This creates evidence if/when professional care becomes accessible
-   - This protects both the node and the Circle from future accusations
+**3. Documentation for future advocacy:**
+- Record what happened, when, what was tried
+- Creates evidence if/when professional care becomes accessible
+- Protects both node and Circle from future accusations
 
-4. **Clear limits:**
-   - The Circle CAN: provide calm presence, ensure Baseline, prevent immediate harm
-   - The Circle CANNOT: diagnose, treat, medicate, or guarantee safety beyond basic containment
-   - If the situation exceeds these limits, the Circle must acknowledge this openly
+**4. Clear limits:**
+- Circle CAN: provide calm presence, ensure Baseline, prevent immediate harm
+- Circle CANNOT: diagnose, treat, medicate, or guarantee safety beyond basic containment
+- If situation exceeds these limits, Circle must acknowledge this openly
 
 **Acknowledgment of failure:**
 Sometimes, despite best efforts, a Circle cannot keep someone safe without professional help.
+
 This is not moral failure. This is reality.
-When this occurs, the Circle must:
-- Document the limits honestly
+
+When this occurs:
+- Document limits honestly
 - Seek any available external support (telehealth, neighboring Nodes, crisis hotlines)
-- If all fails, prioritize protecting the collective while maintaining the node's Baseline
+- If all fails: prioritize protecting the collective while maintaining the node's Baseline
 
 ---
 
-## §11. A NOTE ON MADNESS AND PROPHECY
+## §11A. RELATIONSHIP TO STATE PSYCHIATRIC SYSTEMS
+
+**Tension:**  
+Flow respects professional expertise AND knows that state systems can be coercive, racist, ableist, and harmful.
+
+**Flow's position:**
+
+**1. Professional care is valuable**
+- Medication saves lives
+- Therapy supports healing
+- Crisis intervention prevents death
+- Diagnosis helps some people understand themselves
+
+**2. State systems can also harm**
+- Involuntary commitment is traumatic
+- Restraints cause injury
+- Medications have severe side effects
+- Marginalized people face disproportionate coercion
+
+**3. Flow works WITH systems where possible, AROUND them when necessary**
+
+### When to engage state systems:
+- Immediate danger to life
+- Node explicitly consents to professional care
+- Ulysses Contract specifies professional intervention
+- Circle has reached capacity limit
+
+### When Flow maintains autonomy:
+- Node is unsafe but not imminently dying
+- Professional system has history of harm to this specific node
+- Cultural/linguistic incompetence makes care unsafe
+- Node refuses AND Circle has capacity to contain
+
+### Decision protocol:
+**Ask:**
+1. Is death or severe harm imminent? (Yes = engage state system immediately)
+2. Does node consent? (Yes = engage system)
+3. Does Ulysses Contract specify this? (Yes = engage system)
+4. Can Circle safely contain without state involvement? (No = engage system)
+5. Will state involvement cause more harm than help? (Requires case-by-case assessment)
+
+**Document all decisions and reasoning.**
+
+**After involuntary intervention:**
+- Circle maintains contact if node allows
+- Circle advocates for humane treatment
+- Circle does not abandon
+- Circle acknowledges the violation and works to repair trust
+
+**Principle:**  
+We do not romanticize mental illness or demonize treatment.  
+We also do not pretend state systems are neutral or always safe.  
+
+We make hard choices in impossible situations, document them, and live with the consequences together.
+
+---
+
+## §11B. LOW-CAPACITY MODE
+
+**Reality:**  
+Not all Circles have the resources, skills, or energy for full protocol implementation.
+
+When Circle is small, new, exhausted, or under-resourced:
+
+### Low-Capacity Mode priorities:
+
+**1. Core functions only:**
+- Safety (prevent immediate death/severe harm)
+- Food (ensure node eats something daily)
+- Sleep (protect node's sleep and others' sleep)
+- Presence (someone checks in daily)
+
+**Everything else is paused.**
+
+**2. Document limitations openly:**
+> "We are in Low-Capacity Mode. We can provide X, Y, Z. We cannot provide A, B, C. This is temporary."
+
+Tell the node. Tell the Circle. Tell external advisors.
+
+**3. Prioritize external help:**
+- Professional services
+- Family (if safe)
+- Neighboring Nodes
+- Crisis hotlines
+
+Circle acknowledges: "We need backup."
+
+**4. Pause non-acute processes:**
+- Behavioral contracts can wait
+- Restorative justice can wait
+- Deep processing conversations can wait
+- Ulysses Contract creation can wait
+
+**Survival first. Everything else later.**
+
+**5. Shorter, more frequent rotations:**
+- Instead of 8-hour shifts: 2-4 hour shifts
+- Instead of 3-day stretches: 1-day on, 1-day off
+- Reduces burnout, maintains presence
+
+**6. Lower expectations across the board:**
+- For the node in crisis
+- For caregivers
+- For the collective
+
+**Good enough is good enough.**
+
+### Exiting Low-Capacity Mode:
+
+When crisis stabilizes OR Circle gains capacity:
+- Explicit announcement: "We are exiting Low-Capacity Mode"
+- Gradual restoration of full protocols
+- Review what was learned
+
+**Principle:**  
+A small amount of care sustained is better than ambitious care that collapses.
+
+---
+
+## §12. A NOTE ON MADNESS AND PROPHECY
 
 Throughout human history, the line between "madness" and "visionary perception" has been contested, culturally variable, and often weaponized.
 
@@ -548,3 +1012,20 @@ This is complexity.
 ---
 
 **END OF PROTOCOL**
+
+---
+
+## APPENDIX: WHEN TO USE WHICH SECTION
+
+**Quick reference for crisis response:**
+
+| Situation | Primary Section | Supporting Sections |
+|-----------|----------------|---------------------|
+| Node in active psychosis | §4 (Schizophrenia), §3A.1 (Crisis Clarity) | §3B (Decision Authority), §4A (if violence) |
+| Node refuses all help | §4B (Refusal of Care) | §3B (Decision Authority), §11A (State Systems) |
+| Violence occurs | §4A (Violence Protocol) | §3B (Decision Authority), §8.1A (Separation) |
+| Caregiver burning out | §6 (Caregiver Protection) | §11B (Low-Capacity Mode), §8.1 (Capacity Limits) |
+| Node's interpretation causing harm | §3A.2 (Harmful Interpretations) | §3A.3 (Behavioral Red Lines) |
+| Circle at capacity limit | §8.1 (Capacity Limits) | §11B (Low-Capacity Mode) |
+| No professional help available | §11 (No Professional Care) | §11B (Low-Capacity Mode) |
+| Power dynamics concern | §3C (Power Dynamics) | §3B (Decision Authority) |
