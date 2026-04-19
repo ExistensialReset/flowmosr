@@ -345,6 +345,6 @@ Mind: 90101
 
 ---
 
-**Full protocol available at: [location of full document]**  
+**Full protocol available at: [location of full document](/guides/ethics_care/SEVERE_MENTAL_ILLNESS_PROTOCOL.md)**  
 **Last updated: [date]**  
 **Version: 4.0**
