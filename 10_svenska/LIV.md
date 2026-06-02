@@ -30,8 +30,6 @@ Jag fick Det. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min
 
 Liv och Spjuvern läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande till andra sidan av olika slag av svarta hål.
 
-Jag älskar detta, jag älskar denna tankevärld som bygger upp en bild av hur jag ser fram emot att höra av världen. Jag vill visa dig en sak som kanske kan hjälpa dig hitta den bästa lösningen för dig.
-
 Jag tror att människans största fråga är om man duger som man är.
 
 Och. Om man vill kan man vara så mycket mer än duglig. Man kan försöka vidga sitt inre kärl och öva på resonansackordets ljuvliga ljudvågor.
