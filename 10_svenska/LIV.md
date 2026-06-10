@@ -53,3 +53,17 @@ Där vi och våra synder komposteras innan vi blir redo att ramla in i något an
 
 
 
+Och jag sitter här bland färgerna och målar nya lager ovanpå gamla.
+
+Det är kanske inte ett dåligt sätt att beskriva livet egentligen.
+
+Vi försvinner aldrig helt ur varandra.
+Vi blir lager i varandras målningar. 
+
+Jag tror att det finns något hoppfullt i att mitt svarta hål just nu är vått av ogråtna tårar.
+
+Ett helt torrt landskap kan vara dött.
+
+Men våt jord...
+där kan fortfarande någonting växa.
+
