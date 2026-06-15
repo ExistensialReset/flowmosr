@@ -239,4 +239,5 @@ elinor.frejd@proton.me
 Den 13 juni 2026 
 
 
-°°°End°°°
+°°°SLUT på LIV för denna gången°°°
+°°°Liv, fortsättning följer°°°
