@@ -114,9 +114,7 @@ Jag tror att det finns något hoppfullt i att mitt svarta hål just nu är vått
 
 Ett helt torrt löv...
 
----
-
-Sötman på cellnivå ljuvlig.
+Men sötman på cellnivå ljuvlig.
 
 Inuti mig Liv som faktum och sprakande gnistrande färger målar om varandra de ropar efter varandra nyans vill ha nyans. 
 
