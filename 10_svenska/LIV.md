@@ -28,7 +28,7 @@ Att det sen drar iväg i expansion, tänker jag beror på att vi har en curlinge
 
 Det är en lag av liktänkande som minskar friktionen för galaxerna att sväva iväg.
 
-De gnuggar hela tiden universum blänkare. 
+De gnuggar hela tiden universum blankare. 
 
 Men, Liv. 
 
