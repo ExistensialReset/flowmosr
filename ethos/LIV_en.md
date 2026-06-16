@@ -4,19 +4,19 @@
 
 ### A testimony to the true nature of reality, from the gift I have received.
 
-My perception of reality belongs to me.
+**My perception of reality belongs to me.**
 
-I do not claim that your reality is the same as mine.
+**I do not claim that your reality is the same as mine.**
 
-This is only the map I was given.
+***This is only the map I was given.***
 
-It helps me read the way.
+**It helps me read the way.**
 
-If something here gives you something, keep it.
+**If something here gives you something, keep it.**
 
-If not, let it pass.
+**If not, let it pass.**
 
-Thank you.
+**Thank you.**
 
 ---
 
