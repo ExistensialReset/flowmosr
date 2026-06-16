@@ -52,7 +52,7 @@ Jag har ett mentalt ägg. Det är genomskinligt, poröst, andandes, och även et
 
 De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidsträckta kosmos... 
 
-Är inte förstörelse och förgänglihet.
+Är inte förstörelse och förgänglighet.
 
 De är förlossning, iterationer emellan. Ingång till världar så makalöst annorlunda att vi människor är oförmögna att lyckas bända vår hjärna över dess innehåll eller effekt eller insida eller utsida, utseende eller egenskaper hos dessa, oändligt antal andra dimensioner och iterationer.
 
