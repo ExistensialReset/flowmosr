@@ -46,6 +46,12 @@ Inuti mig Liv som faktum och sprakande gnistrande färger målar om varandra, de
 
 Liv är själva förmågan hos att knyta samman det som annars skulle vara separerat.
 
+Så vävs en gnistrande väv som binder historians liv samman och framtiden är det nu som är obeskrivligt mycket mer än vi kan förstå någonsin. Varje ny sekund är en låååång oändlig tråd i väven som går både horisontellt och lodrät samtidigt i alla dimensioner och färger som existerar. 
+
+Och motiven i väven är lika abstrakta som verkligheten omkring oss. Lika oförståeliga.
+
+Och trots våra små futtiga ord som vi försöker klä omvärlden i så är de för få, för små, för otillräckliga och för fnasigt vinterbleka för den sanna naturen av människors skapande och vår gemensamma planets liv som utspelar sig... 
+
 Inuti mitt bröst, en spiralgalaxkosmossjäl. I mitt huvud är mitten ett svart hål. En singularitet som slukar det jag låter passera mitt skydssägg. 
 
 Jag har ett mentalt ägg. Det är genomskinligt, poröst, andandes, och även ett skydd mot trauma, som delas in i min själs tillflyktsort, där jag kan vara inkännande och resonant men, på grund av ytan jag har fällt upp framför min kropp... Inte totalt tillgängligt för den som jag inte väljer att släppa in. Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras trauman.
@@ -67,6 +73,7 @@ Insikt om Liv och existens av helighet och ande som kan uppfylla allting i oänd
 Livs Spjuver läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande till andra sidan av olika slag av svarta hål.
 
 Jag tror att människors största fråga är om man duger som man är.
+
 
 Och. Om man vill kan man vara så mycket mer än duglig. Man kan försöka vidga sitt inre kärl och öva på resonansackordets ljuvliga ljudvågor.
 
