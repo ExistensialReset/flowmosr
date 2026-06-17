@@ -315,6 +315,22 @@ De är förlossning, iterationer emellan. Ingång till världar så makalöst an
 
 Det är Livs Spjuvers hemliga gång.
 
+Jag hör ganska dåligt på riktig hörsel. Men jag hör ändå. Jag har en "hängmatta" audiologiskt. 
+
+De vill att jag ska ha hörapparat! Haha det skulle vara otroligt stressigt. 
+
+Liksom. Nej tack. 
+
+Jag har tillräckligt med hallucinationer. 
+
+Jag hör energi och rumtid och jag känner väldigt mycket inuti min kropp. 
+
+Jag känner ljud och ljus. Jag har olika sorters sanningar som olika typer av kulturer och tankevärldar inuti mig. 
+
+Som att jag har en annan gång i fantasins vindlingar. 
+
+Jag lyssnar alltid på hur fantasin vill växa upp i en diskussion kring själen. 
+
 Likväl som att Nåden allena kan hitta oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
 
 Jag tror att människans största fråga är om man duger som man är.
