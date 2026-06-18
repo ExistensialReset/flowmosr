@@ -14,6 +14,8 @@ Det är en lag av liktänkande som minskar friktionen för galaxerna att sväva 
 
 De gnuggar hela tiden universum blankare. Det kommer att bli enklare att använda den. När alltinget är borta. 
 
+Om allt verkligen gled isär för alltid skulle det inte finnas någon berättelse.
+
 Men, Liv. 
 
 Liv är orsaken till Alltet alltid. Så Liv är det yttersta uttrycket för Minskad Friktion och Lustens Kraftstyrka för Den att sammanfoga. 
@@ -121,6 +123,8 @@ Det är kanske inte ett dåligt sätt att beskriva livet egentligen.
 Vi försvinner aldrig helt ur varandra.
 Vi blir lager i varandras målningar. 
 
+Explosioner bygger dåligt. Det blir trasigt. Ofta gör dom ont. Det river upp det som varit med otroligt hög kraft. Det blir sår och död i det som funnits sedan lång tid eller kort tid innan... 
+
 Jag tror att det finns något hoppfullt i att mitt svarta hål just nu är vått av ogråtna tårar.
 
 Ett helt torrt löv...Prasslar i vinden. 
@@ -144,6 +148,14 @@ De är förlossning, iterationer emellan. Ingång till världar så makalöst an
 Det är Livs Spjuvers hemliga gång.
 
 Likväl som att Nåden allena kan läcka till oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
+
+*Rymdens ljud* Untraljud, ultrarapida ljudvågor. Det är så låga ljudfrekvenser att inte mänskliga öron kan uppfatta dem. 
+
+Jag hör dom i rummets rörelse i rumtiden. Det är en frekvens som inte uppfattas av öronen utan i kroppen om man lyssnar inuti. 
+
+Jag har alltid musik. Under verkligt hörande låga frekvenser. 
+
+Untraljud. Väldigt låga frekvenser. 
 
 Jag fick Det. Liv. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min kropp till bredden. 
 
@@ -178,9 +190,27 @@ Och jag sitter här bland färgerna och målar nya lager ovanpå gamla.
 Vi försvinner aldrig helt ur varandra.
 Vi blir lager i varandras målningar. 
 
+Ja i väntan utvecklas tanken. I vilan växer fantasins vindlingar... De utökas med oförutsedda detaljer.
+
 Jag tror att det finns något hoppfullt i att mitt svarta hål just nu är vått av ogråtna tårar.
 
 Ett helt torrt löv kan på något sätt tyda vägen. 
+
+Jag har en önskan om resonans. Världen hade blivit bättre för de flesta då. Om vi lyssnar mer på varandras energier.
+
+Det ger resonans. Det ger ett flöde i rummets rörelse i den tid som är min för tillfället. 
+
+Den kan vara direkt ett nu eller oändligt lång. 
+
+Det behöver inte betyda att något är fel. Det kan vara i samklang. Ibland för litet ögonblink. Ibland en gigantisk tidslucka. 
+
+Om vi lät varandra ha vår egen tidsresonans. 
+
+Tid är otroligt svårt att få plats i. Tiden går så väldigt olika. Den är öppen för alla fall av hastighet. Men den har väldigt stark vilja. 
+
+Jag har, just nu, ändå tid och utrymme för väntan. 
+
+Jag lyssnar på Liv och har frön som växer på balkongen. Jag har småfåglar.
 
 Om något av det ger dig något, behåll det. Om du inte håller med, kontakta mig gärna för en fortsatt diskussion. Tack!
 
@@ -246,6 +276,8 @@ Likväl som att Nåden allena kan hitta oss och ge plötsliga möjligheter till 
 
 Jag fick Det. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min kropp till bredden. 
 
+Den ser mig. Tydligt. Men inte dömande. Trots att jag gör mycket fel. I mitt vardagliga liv. Men Liv ser mig och ler. Låter mig...
+
 Insikt om Liv och existens av helighet och ande som kan uppfylla allting i oändlighet. Medkännande i allt i oändlighet. Det är en kraft, obeskrivligt mycket att erfara.
 
 Livs Spjuver läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande till andra sidan av olika slag av svarta hål.
@@ -307,13 +339,17 @@ Liv är själva förmågan hos att knyta samman det som annars skulle vara separ
 
 Inuti mitt bröst, en spiralgalaxkosmossjäl. I mitt huvud är mitten ett svart hål. En singularitet som slukar det jag låter passera mitt skydssägg. Jag har ett mentalt ägg. Det är genomskinligt, poröst, andandes, och även ett skydd mot trauma, som delas in i min själs tillflyktsort, där jag kan vara Inkännande och resonant men, på grund av ytan jag har fällt upp framför min kropp... Inte totalt tillgängligt för den som jag inte väljer att släppa in. Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras trauman.
 
-De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidsträckta kosmos
+De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidsträckta kosmos. 
+
+Gliphålen. 
 
 Är inte förstörelse och förgänglihet.
 
 De är förlossning, iterationer emellan. Ingång till världar så makalöst annorlunda att vi människor är oförmögna att lyckas bända vår hjärna över innehåll och effekt och insida eller utsida, utseende eller egenskaper hos dessa, oändligt antal andra dimensioner och iterationer.
 
 Det är Livs Spjuvers hemliga gång.
+
+Någonting läcker mellan det som egentligen borde vara separerat.
 
 Jag hör ganska dåligt på riktig hörsel. Men jag hör ändå. Jag har en "hängmatta" audiologiskt. 
 
@@ -421,6 +457,28 @@ Men våt jord...
 där kan fortfarande någonting växa.
 
 Så: Njut och låt njuta. Trots en våtmark i ditt svarta hål. Tänk att, där renas gifter ur ditt processande, just nu. Där blir det rent. I njutningen sprakar livets alla perspektiv och färgar allting igen. 
+
+Men jag känner mig säker på
+untraljud.
+
+Kanske är det för att untraljudet är mitt på ett sätt som de andra orden inte är. Det är kopplat till min kropp, min hörsel, min hängmatta på audiogrammet, min vägran att bära hörapparat. Det är inte en teologisk innovation – det är en självbiografisk detalj inskriven i kosmologin. 
+
+Jag hör universums baston. Jag har alltid gjort det. Och nu har jag gett det ett namn.
+
+Men gliphålen är också viktiga för det är i gliphål och svarta hål iterationerna håller samman. Trots curlingenergin. Trots minskad friktion. 
+
+Där kliver glatt Liv in och väller ut sin elektrifierade älskande gyllene honung in i livet. 
+
+Där visar Den sin Spjuversida och bjuder på Överraskning och Förundran. 
+
+Där bär Liv fram Lilith till alla förtryckta som behöver Resiliens och Kraft. 
+
+Där får Lilith själv flyga på sin dinosauriefågelsvingar och skrika NEEEEEEJ så högt att det skallrar i porslinet i skåp nära just DET gliphålet.
+
+Det är bara gott som läcker mellan iterationer. 
+
+Inte Mammon eller Ha-Satan. Dom är nog i denna iteration. I andra sorters iterationer kan jag mycket väl tänka mig att det finns andra sorters ondska att bekämpa. 
+
 
 ---
 
