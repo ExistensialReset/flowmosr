@@ -6,6 +6,7 @@
 # REFUGIUM_ANIMA.md
 
 **Refugium Anima – Själens Tillflykt**  
+
 *Ett återställande, inkluderande rum för att återvända till Flödet – utan diagnos, rättfärdigande eller tidslinje*
 
 **Status:** Levande Tillflykt för Alla Människor  
