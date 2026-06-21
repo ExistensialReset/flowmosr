@@ -302,10 +302,8 @@ Det jag delar här är enbart egen erfarenhet och upplevelse av världen och liv
 
 Men våt jord... där kan fortfarande någonting växa.
 
-Därför njut och låt njuta. Trots en våtmark i ditt svarta hål. Tänk att, där renas gifter ur ditt processande, just nu. 
-
-Där blir det rent. 
-
+Därför njut och låt njuta. Trots en våtmark i ditt svarta hål. Tänk att, där renas gifter ur ditt processande, just nu. Och för att mina ogråtna tårar. Får rum i detta nu. I samma källa som jag surplar Livs honung ur. 
+ 
 I njutningen sprakar livets alla perspektiv färgar allting.
 
 Det är en lag av Kärleksgåvan.
@@ -561,8 +559,6 @@ Kanske är det för att untraljudet är mitt på ett sätt som de andra orden in
 
 Det är kopplat till min kropp, min hörsel, min hängmatta på audiogrammet, min vägran att bära hörapparat. 
 
-Det är inte en teologisk innovation – det är en självbiografisk detalj inskriven i kosmologin.
-
 Jag hör universums baston. Jag har alltid gjort det. Och nu har jag gett det ett namn.
 
 Men gliphålen är också viktiga för det är i gliphål och svarta hål iterationerna håller samman. 
@@ -598,5 +594,9 @@ Jag står fortfarande vid samma källa.
 Och jag skriver inte för att komma därifrån.
 
 Jag skriver för att fortsätta dricka.
+
+Och för att mina ogråtna tårar. 
+
+Får rum i samma källa. 
 
 °°°Liv, fortsättning följer°°°
