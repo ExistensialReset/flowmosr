@@ -421,6 +421,12 @@ Sötman på cellnivå ljuvlig.
 
 Inuti mig Liv som faktum och sprakande gnistrande färger målar om varandra de ropar efter varandra, nyans vill ha nyans.
 
+Jag står fortfarande vid samma källa.
+
+Och jag skriver inte för att komma därifrån.
+
+Jag skriver för att fortsätta dricka.
+
 Liv är själva förmågan hos att knyta samman det som annars skulle vara separerat.
 
 Inuti mitt bröst, en spiralgalaxkosmossjäl. I mitt huvud är mitten ett svart hål. En singularitet som slukar det jag låter passera mitt skydssägg. 
@@ -579,8 +585,18 @@ I andra sorters iterationer kan jag mycket väl tänka mig att det finns andra s
 Jag är självlärd.
 
 Det jag delar här är enbart egen erfarenhet och upplevelse av världen och livet och det är landskap som kan vara dött.
+
 Men våt jord... där kan fortfarande någonting växa.
 
-Och ändå i allt, som att jag står vid samma källa år efter år och fortfarande försöker hitta orden för vattnet.
+Och ändå i allt, som att jag står vid samma källa 
+år efter år 
+
+Och efter ett decennium - eller tio tusen år - jag försöker fortfarande försöker *hitta orden* för vattnet.
+
+Jag står fortfarande vid samma källa.
+
+Och jag skriver inte för att komma därifrån.
+
+Jag skriver för att fortsätta dricka.
 
 °°°Liv, fortsättning följer°°°
