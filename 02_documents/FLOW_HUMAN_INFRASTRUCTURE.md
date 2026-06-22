@@ -132,3 +132,30 @@ flowchart LR
     Contribution --> Recognition
     Recognition --> FlowNetwork
     FlowNetwork --> Baseline
+```
+
+## 13. CAPACITY-BRIDGE PROTOCOL (Harmonizing Rotation & Consent)
+
+To ensure that the principle of **“All tasks rotate”** does not conflict with **“Participation according to capacity and consent”**, Flow implements a **Dynamic Capacity Profile (DCP)**.
+
+### 13.1 Self-Reported Capacity Profile
+- Every individual may maintain a voluntary, private profile indicating their **physical, cognitive, and emotional availability** (e.g., “mobility limitations”, “high cognitive load”, “currently recovering from burnout”).
+- This profile is **visible only to the Node’s rotation scheduler** (anonymized to the community).
+- The profile can be updated at any time without explanation or shame.
+
+### 13.2 Adaptive Task Rotation
+- The Heavy Work Assignment (HWA) system uses the DCP to **filter out tasks** that exceed the individual’s stated capacity.
+- The individual is never asked to “justify” their profile; it is treated as a factual constraint, like weather data.
+- This ensures that no one is forced into a physically or mentally impossible task, while still participating in all other tasks they *can* perform.
+
+### 13.3 Emergency Override & After-Action Review
+- In acute crises (e.g., natural disaster, system failure), the current **Crisis Role Holder** (rotated weekly) is authorized to make **immediate executive decisions** without prior deliberation.
+- Within 48 hours, a mandatory **After-Action Review** is held with the affected Circle and Node panel. The review is purely restorative and adaptive – not punitive.
+- This prevents paralysis in emergencies while maintaining ultimate accountability.
+
+### 13.4 Collective Wellbeing Triggers
+- Wellbeing metrics are aggregated and anonymized. No individual’s score is shared publicly.
+- If the Node’s *aggregate* wellbeing score drops below a threshold for 30 days, a **Node Reflection Council** is automatically convened – not to find fault, but to ask: *“Is the rotation too heavy? Is the Refugium accessible? Do we need more rest?”*
+- Responses are voluntary, but the data ensures the system adapts to human need, not the other way around.
+
+> **Principle:** *“The system serves the human. The human does not serve the system. Rotation is a tool for fairness, not a rigid law.”*
