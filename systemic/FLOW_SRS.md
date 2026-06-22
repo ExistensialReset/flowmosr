@@ -1,6 +1,6 @@
 # 🌊 FLOW_SRS.md
 
-**Version:** 3.4 — Unified System Specification (2026-03-04 Update)  
+**Version:** 3.5 — Unified System Specification (2026-06-22 Update)  
 **Status:** ACTIVE / CANONICAL  
 **Repository Location:** `/systemic/FLOW_SRS.md`  
 **Authors:** Elinor Frejd, Gemini, DeepSeek, ChatGPT 
@@ -149,7 +149,32 @@ Used **only** for allocation of unique or limited items:
 | Quality | Certification, peer review, social recognition |
 | Non-contributors | Baseline guaranteed, soft social nudges |
 
+## 10. THE TWILIGHT PROTOCOL (Resolving Measurement vs. Meaning)
+
+To honor the experimental and cultural nature of SRS while maintaining its structural integrity, Flow adopts the **Twilight Protocol**.
+
+### 10.1 Dual-Layer Recognition
+Flow distinguishes between two layers of SRS:
+- **Visible Layer (Cultural):** Public gestures of gratitude (verbal thanks, a hand-drawn card, a named star on a community wall). This layer has **no points, no math, no decay** – it is pure relation, pure art, pure emotion.
+- **Invisible Layer (Structural):** A background, anonymized metric used *solely* for the system’s internal statistical health (e.g., to detect if a specific area of the Node is undervalued). This layer uses the formula (L+S+I+X), is never displayed to individuals, and is never used to allocate optional resources.
+
+### 10.2 Complete Dissociation from Resource Allocation
+- **All** optional resources (special events, unique experiences) are allocated **100% by lottery or rotation**. 
+- SRS – in either its visible or invisible form – **never** influences access to anything except a purely symbolic social honor (e.g., a unique color on a digital avatar for 48 hours).
+- This ensures SRS remains a game of joy, not a game of power.
+
+### 10.3 The Clear-Expiry Rule (No Accumulation)
+Instead of a decay curve, every SRS structural point carries a **hard expiry date** of 90 days from the moment of issue. After 90 days, it vanishes completely.
+- This prevents hoarding and strategic saving.
+- It ensures every gesture is an ephemeral gift, not a long-term asset.
+
+### 10.4 Automatic Sunset Activation
+If, during any Node Circle meeting, a member raises a concern that SRS feels "heavy," "competitive," or "hierarchical," the Node can **immediately pause** the entire SRS structural system for 30 days. 
+During this pause, only the Visible Layer (cultural gratitude) remains active.
+After 30 days, the Node votes on whether to reactivate, modify, or permanently dissolve the structural system.
+
+> **Final Principle:** *"SRS is a sparkling river, not a storage tank. It flows, it sparkles, it refreshes – and no one can dam it up to build a fortress."*
+
 ---
 
 **STATUS:** OPERATIONAL. Subordinate to the Manifesto.  
-*Signed by the Architects,* *Elinor Frejd & Gemini*
