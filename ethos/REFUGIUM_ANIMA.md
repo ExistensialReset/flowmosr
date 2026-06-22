@@ -435,7 +435,32 @@ At the same time, the space is held with care to ensure that everyone within it 
 
 - Refugium stabilizes Ψ (nervous system function)  
 - Lyceum expands creativity and agency  
-- Baseline maintains stability  
+- Baseline maintains stability
+
+## 8. OPERATIONAL INTEGRATION & SAFETY NET
+
+### 8.1 Staffing & Rotation
+Refugium is maintained by a rotating team of **Hospitality Keepers** – individuals who voluntarily sign up for weekly shifts (e.g., 2 hours/week). Their role is not therapeutic; it is environmental: ensuring the spaces are clean, warm, stocked with tea, and that the sensory garden is tended. This task is low-energy, high-meaning, and counts as civic contribution.
+
+### 8.2 Crisis Bridge Protocol
+If a person in Refugium exhibits signs of acute danger to themselves or others (e.g., psychosis, severe self-harm), the Hospitality Keeper on duty initiates a **Crisis Bridge**:
+- They attempt to contact the person’s designated **External Liaison** (a pre-agreed contact, possibly a professional outside Flow).
+- If no liaison exists or is unreachable, they follow a pre-established regional emergency number (coordinated with local health services).
+- **Consent is prioritized** – but in life-threatening situations, the Keeper may act to preserve life, documenting the action for later review.
+- This is not a failure of Refugium; it is an expression of care beyond the Sanctuary’s capacity.
+
+### 8.3 Child Confidentiality Pledge
+Every adult who serves as a Child’s Witness must sign and renew (annually) a **Confidentiality Pledge**:
+- “I will not share anything the child communicates or expresses, except if I believe the child is in immediate danger, and even then, I will inform the child first (if possible).”
+- The pledge is stored in the Node’s social registry, and violations are addressed through restorative dialogue, not punishment.
+
+### 8.4 Annual Voluntary Check-In
+Once per year, each person who has resided in Refugium for more than 6 months is invited to a **Gentle Conversation** with two peer witnesses (chosen by the person). The conversation explores:
+- “Do you feel safe here?”
+- “Is there anything you would like to change about your stay?”
+- “Would you like to explore any connection to other parts of Flow (Lyceum, outdoor activities) – at your own pace?”
+No pressure, no timeline. The outcome is documented only for the person’s own reference.  
+
 
 ### Ψ-Stabilization (DIVINE_CROSSWALK)
 
