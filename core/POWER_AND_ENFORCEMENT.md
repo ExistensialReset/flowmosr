@@ -88,6 +88,18 @@ Their role is interpretative, not legislative.
 
 Operational specifics are defined separately.
 
+### 3 Override and Appeal Mechanisms
+
+To ensure that coercive actions remain accountable, all interventions are subject to the following:
+
+- **Automatic Expiry:** Any temporary restriction or boundary protection measure expires automatically after **30 days** unless renewed by a LOTUS majority vote of the affected Circle.
+- **Appeal Process:** Any individual subject to a coercive measure may request a formal review by a **Regional Review Panel** (composed of rotating members from neighboring Nodes). The panel must convene within 14 days of the request.
+- **Documentation:** Every coercive action must be documented in a public (anonymized) log, including the rationale, evidence, proportionality assessment, and review dates.
+
+### 4 Definition of "Exhausted Dialogue"
+
+For the criterion "dialogue and mediation attempts exhausted" to be considered met, at least **three separate mediation sessions** with different mediators (rotated from the Circle) must have been attempted and documented. A single mediator cannot declare dialogue exhausted.
+
 ---
 
 ## V. AI Involvement and Human Sovereignty
