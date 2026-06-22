@@ -245,6 +245,16 @@ Within every Circle operating under Flow principles, **participation is never co
 
 ---
 
+### SEED PROTOCOL – How a Circle Begins
+
+A Circle does not require permission. It begins when two or more people agree to treat each other according to these axioms.
+
+- Start with a shared resource: a kitchen, a tool, a room, a garden.
+- Keep the Baseline visible: ensure everyone in the circle has access to food, water, shelter, and care.
+- Use existing infrastructure legally; do not break laws that would risk the circle's survival.
+- Document what you do and share it openly, so others can replicate without debt.
+- The Seed Protocol is not a requirement; it is a possibility. If you already have a Circle, you are already living it.
+
 # II. THE SOVEREIGN STATE
 
 Sovereignty is inherent. It is recognized, never granted.
