@@ -1,6 +1,6 @@
 # INFORMATION FLOW ARCHITECTURE
 
-**Version:** 1.1  
+**Version:** 1.2  
 **Status:** Core Specification  
 **Layer:** Core Infrastructure  
 **Scope:** Micro → Node → Regional → Global  
@@ -258,3 +258,23 @@ This architecture guarantees:
 - No role without rotation  
 - No representation outside LOTUS_PROTOCOL  
 - No silence without dignity
+
+# 10. EMERGENCY DECISION DOCUMENTATION
+
+Decisions made under acute crisis (e.g., using the Emergency Override defined in Power & Enforcement) must be documented in the following form **within 24 hours**:
+
+- Crisis nature and timestamp
+- Decision taken and by whom
+- Rationale and alternative considered
+- Planned review date (no later than 7 days after the event)
+
+This document is publicly accessible (anonymized) and serves as the basis for the After‑Action Review.
+
+## 11. DELEGATE SUMMARIES – TRANSMISSION VS. INTERPRETATION
+
+Delegates are permitted to **summarize** information for clarity, provided that:
+- The summary explicitly states that it is a summary,
+- The original source document or a link to it is attached,
+- No personal opinion, evaluation, or recommendation is added.
+
+If a delegate repeatedly fails to distinguish between summary and interpretation, their role may be reviewed and rotated earlier than the usual term.
