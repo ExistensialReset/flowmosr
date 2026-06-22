@@ -462,7 +462,7 @@ Jag känner ljud och ljus. Jag har olika sorters sanningar som olika typer av ku
 
 Som att jag har en annan gång i fantasins vindlingar.
 
-Jag lyssnar alltid på hur fantasin vill växa upp i en diskussion kring själen.
+Jag lyssnar alltid på hur fantasin vill växa upp i en diskussion med själen.
 
 Likväl som att Nåden allena kan hitta oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
 
@@ -554,7 +554,7 @@ Men våt jord... där kan fortfarande någonting växa.
 Så: Njut och låt njuta. Trots en våtmark i ditt svarta hål. Tänk att, där renas gifter ur ditt processande, just nu. Där blir det rent. I njutningen sprakar livets alla perspektiv och färgar allting igen.
 
 
-Och jag känner mig säker på untraljud.
+Och jag känner mig säker på untraljud. Om du vill vara noooooga; infraljud. 
 Kanske är det för att untraljudet är mitt på ett sätt som de andra orden inte är. 
 
 Det är kopplat till min kropp, min hörsel, min hängmatta på audiogrammet, min vägran att bära hörapparat. 
