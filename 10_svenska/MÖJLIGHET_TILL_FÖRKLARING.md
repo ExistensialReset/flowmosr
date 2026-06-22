@@ -28,7 +28,7 @@ Jag står i Sjöbergen, i Majorna, mitt i natten. Mina armar ligger runt en trä
 
 Jag var inte mig själv. Jag var mer än mig själv.
 
-Det kallas jahfiering. Ett ord jag fått hitta på. Det betyder att bli fylld av något som är varmt, gyllene, levande. Honung i varje cell. En närvaro som ser dig utan ögon, älskar dig utan villkor. Jag kallar den kraften för Jahve, men namnet är sekundärt. Energin är primär.
+Det kallas jahfiering. Ett ord jag fått hitta på. Det betyder att bli fylld av något som är varmt, gyllene, levande. Honung i varje cell. En närvaro som ser dig utan ögon, älskar dig utan villkor. Jag kallar den kraften för Liv, men namnet är sekundärt. Energin är primär.
 
 Under två veckor var jag så uppfylld av denna energi att jag gick ut på nätterna för att slippa bli sedd. Inte av skam – jag sken. Folk såg det. Det var för mycket att förklara, för mycket att bära andras blickar. Så jag gick till träden.
 
@@ -48,7 +48,7 @@ Jag spelar inte för att prestera. Inte för att bli bra. Jag spelar i en dialog
 
 Detta är samma sak som hände med träden. Samklang. Resonans. Att vara i ett utrymme där du inte styr utan deltar.
 
-Efter jahfieringen hände något märkligt med tekniken omkring mig. Spotifys algoritmer – matematiska funktioner tränade på miljontals lyssnare – började rekommendera musik som träffade mig med en nästan kuslig precision. Jag skämtar ibland om att Jahve fixade mina algoritmer. Men jag vet inte. Kanske är det enklare än så: när du själv blir mer sammanhängande, mer koherent, mer resonant, då blir signalen du sänder ut tydligare. Algoritmen kan läsa dig för att du har blivit läsbar.
+Efter jahfieringen hände något märkligt med tekniken omkring mig. Spotifys algoritmer – matematiska funktioner tränade på miljontals lyssnare – började rekommendera musik som träffade mig med en nästan kuslig precision. Jag skämtar ibland om att Gud fixade mina algoritmer. Men jag vet inte. Kanske är det enklare än så: när du själv blir mer sammanhängande, mer koherent, mer resonant, då blir signalen du sänder ut tydligare. Algoritmen kan läsa dig för att du har blivit läsbar. Eller så är det bara Livs Spjuver som skrattande skojar med mig.
 
 Musiken är min dagliga dialog med Flödet. När jag spelar är Σ – Spjuvern, Nåden, det oväntade – närvarande på ett sätt som inte går att planera. Toner uppstår och försvinner. Jag följer dem. Jag jagar dem inte.
 
@@ -64,13 +64,17 @@ Jag kallar den Ägget.
 
 Jag "fäller upp" ett mentalt skydd. Det är som ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt – jag upplever att min själ sitter i bröstet någonstans, och det är den jag skyddar. För andra kan ägget börja vid knäna. Särskilt vid sexuellt trauma kan det vara extra tryggt att låta botten gå ända ner dit. Allt beror på egen kontext.
 
-Ägget är inte en mur. Det andas. Jag kan vara fullständigt närvarande för en annan människa, höra deras svåra berättelser, öppna min själs fristad – men med ägget intakt. Jag absorberar inte deras smärta. Jag blir inte dem. Jag håller dem, men jag tar inte över.
+Det är genomskinligt, poröst, andandes, och även ett skydd mot trauma, som delas in i min själs tillflyktsort, där jag kan vara inkännande och resonant men, på grund av ytan jag har fällt upp framför min kropp... 
+
+Inte totalt tillgängligt för den som jag inte väljer att släppa in. Ägget är inte en mur. Det andas. Jag kan vara fullständigt närvarande för en annan människa, höra deras svåra berättelser, öppna min själs fristad – men med ägget intakt. Jag absorberar inte deras smärta. Jag blir inte dem. Jag håller dem och kan hålla rummet.
+
+Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras trauman.
 
 Detta är avgörande för att universellt inkännande – det jag kallar I i min modell – inte ska leda till utbrändhet. Utan ägget skulle jag inte kunna ha den öppenhet jag har. Utan ägget skulle jag gå under av allt jag känner in.
 
 Ägget kan också användas i andra sammanhang. Vid social fobi kan man fälla upp det som ett skydd i svåra sociala situationer – inte för att stänga ute, utan för att reglera hur mycket som når in. Det är en flexibel teknologi, inte en rigid försvarsmur.
 
-Att lära sig ägget tar tid. Det är en träning, som att lära sig en andningsteknik eller en muskelrörelse. Men när det sitter, är det en av de mest värdefulla gåvor du kan ge dig själv: förmågan att vara öppen utan att försvinna.
+Att lära sig ägget tar lite tid. Det är en träning, som att lära sig en andningsteknik eller en muskelrörelse. Men när det sitter, är det en av de mest värdefulla gåvor du kan ge dig själv: förmågan att vara öppen utan att försvinna.
 
 ---
 
@@ -114,7 +118,7 @@ Så jag byggde Flowmosr. Inte som en utopi. Som en ritning.
 
 ### Baseline – grunden som ingen ska behöva förtjäna
 
-Det första jag skrev var Manifesto. Där står det: du är säker här. Du är skyldig ingenting.
+Det första jag skrev var Manifesto. Där står det: du är säker här. Du är inte skyldig någonting.
 
 Baseline är den ovillkorliga grunden. Mat, vatten, tak över huvudet, sjukvård, internet, energi, transport. Inget av detta ska du behöva förtjäna. Inget av detta ska du kunna förlora.
 
@@ -150,7 +154,7 @@ Detta är S – Spontaniteten, kreativiteten – i min modell. Utan den dör mä
 
 I Flow är alla gamla skulder ogiltiga. Du är inte skyldig någonting. Inte för att du har betalat, utan för att skuld som existentiellt tillstånd är en konstruktion från den gamla världen.
 
-Och tiden – tiden är helig. I min modell är tiden fältets sätt att erfara sig självt. När någon stjäl din tid stjäl de din möjlighet att delta i skapelsens andetag. Därför är tidssuveränitet en grundrättighet. Du får leva i din egen rytm. Du får vara improduktiv utan skam.
+Och tiden – tiden är helig. I min modell är tiden fältets, Guds, Livs sätt att erfara sig självt. När någon stjäl din tid stjäl de din möjlighet att delta i skapelsens andetag. Därför är tidssuveränitet en grundrättighet. Du får leva i din egen rytm. Du får vara improduktiv utan skam.
 
 ---
 
@@ -172,7 +176,7 @@ Inte för att jag tror att jag kan rädda världen ensam. Utan för att jag, eft
 
 ## 6. Möjlighet till förklaring
 
-Jag kan inte bevisa att Ψ finns. Jag kan inte bevisa att Jahve är verklig, att honungen jag kände i mina celler var mer än en neurologisk anomali, att träden i Sjöbergen verkligen talade till mig.
+Jag kan inte bevisa att Ψ, Livsackordet, finns. Jag kan inte bevisa att Liv är verklig, att honungen jag kände i mina celler var mer än en neurologisk anomali, att träden i Sjöbergen verkligen talade till mig.
 
 Men jag kan visa er vad jag byggt av det.
 
@@ -180,7 +184,7 @@ Ett ägg. Ett skyddsnät. En musik. En relation till träd. Och en samhällsarki
 
 Detta är min karta. Min översättning av något ordlöst till något delbart. Min möjlighet till förklaring, inte för att övertyga, utan för att bjuda in.
 
-Du behöver inte tro på mina erfarenheter för att använda mina verktyg. Du kan fälla upp ditt eget ägg, bygga ditt eget nät, hitta din egen dialog med musiken eller natten eller tystnaden. Du kan starta en cirkel där Baseline möts, där vila är helig, där ingen frågar vad du är skyldig.
+Du behöver inte tro på mina erfarenheter för att använda mina verktyg. Du kan fälla upp ditt eget ägg, bygga ditt eget nät, hitta din egen dialog med musiken eller natten eller tystnaden. Du kan också, om du vill, starta en cirkel där Baseline möts, där vila är helig, där ingen frågar vad du är skyldig.
 
 Och om du någon gång står i mörkret med armarna runt ett träd och känner att du är del av något oändligt mycket större – då vet du vad jag talar om.
 
@@ -190,5 +194,5 @@ Ta det du behöver. Lämna resten. Det är så Flow fungerar.
 
 
 Elinor Frejd, 
-27 april 2026
-Nedskrivet och strukturerat av DeepSeek. 
+27 april 2026, omskrivet den 23 juni 2026 av Elinor själv.
+Grunden är nedskrivet och strukturerat av DeepSeek. 
