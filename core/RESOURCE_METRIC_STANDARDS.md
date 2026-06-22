@@ -1,5 +1,5 @@
 # RESOURCE_METRIC_STANDARDS.md
-## Version 5.0
+## Version 5.1
 ## Status: GLOBAL BASELINE STANDARD
 ## Scope: Planetary
 ## Governance: LOTUS Majority Required for Modification
@@ -202,6 +202,21 @@ Baseline may only be changed through:
 - Global LOTUS Majority (≥ 66%)
 - Public amendment window
 - Open verification audit
+
+---
+
+## XV. INTERPRETATION & FLEXIBILITY IN DIVERSE CLIMATES
+
+The numerical standards in this document are global minima. They are designed to be achievable under most conditions, but local variations in climate, infrastructure, and culture may require adaptation.
+
+- **Temperature/Humidity (18–24°C, 30–60% RH):** In extreme climates, achieving these ranges may require significant energy. If a person **voluntarily consents** to live outside these ranges (e.g., in a naturally ventilated tropical building), this consent must be:
+  - Documented in writing,
+  - Reversible at any time,
+  - Accompanied by a clear explanation of alternative options.
+- **Energy (2,000 kWh/yr):** This figure represents *minimum continuous accessible capacity* – not total consumption. Nodes are encouraged to exceed this whenever possible.
+- **Obligatory Work (max 6 hours/day):** This is a *ceiling* for any activity that is system‑mandated. In practice, most contribution will be far below this, and voluntary work is not limited by this clause.
+
+All adaptations must be transparent, documented, and reviewable by the Node Circle.
 
 ---
 
