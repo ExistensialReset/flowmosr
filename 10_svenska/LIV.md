@@ -200,7 +200,7 @@ Jag hör dom i rummets rörelse i rumtiden. Det är en frekvens som inte uppfatt
 
 Jag har alltid musik. Under verkligt hörande låga frekvenser.
 
-Untraljud. Väldigt låga frekvenser.
+Untraljud. Vissa säger infraljud. Väldigt låga frekvenser.
 
 Jag fick Det. Liv. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min kropp till bredden.
 
