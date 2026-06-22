@@ -151,3 +151,46 @@ Free Riding may result from:
 - Recognizes that contribution may be invisible, non-linear, or temporarily absent.  
 - Ensures **system resilience** without coercion or shaming.  
 - Supports the **full diversity of human circumstance**.
+
+## 12. COLLECTIVE SELF-REFLECTION & SYSTEM RESILIENCE
+
+Flow’s approach to Free Riders is built on trust, patience, and unconditional support. However, a system that never looks at itself risks becoming fragile over time. This section adds gentle, non-coercive practices that strengthen the social fabric without stigmatising anyone.
+
+### 12.1 Voluntary Contribution Visibility
+- Nodes may maintain a **simple, public, opt‑in board** (digital or physical) where members can record their contributions (e.g., “I watered the microgreens today”, “I repaired the water pump”).
+- **No obligation** – the board is purely a tool for mutual appreciation and cultural awareness.
+- The purpose is not to compare, but to let visible care become a quiet social norm. Over time, many will find it natural to note their efforts, and those who rarely contribute may notice the collective rhythm.
+
+### 12.2 Threshold Response Protocol
+When the aggregated share of Free Riders exceeds **30%** over a **6‑month period** (or a lower threshold if the node agrees), the Node Circle (a rotating group of respected community members) convenes a **community dialogue** – not to blame, but to explore:
+
+- *“What barriers prevent people from contributing?”*
+- *“Are there tasks we could redesign to be more accessible?”*
+- *“Is the system too complex, too unclear, or too demanding?”*
+- *“Do we need more mentorship, more tools, or different roles?”*
+
+This dialogue is **open, optional, and safe**. Its goal is to adapt the system, not to pressure individuals.
+
+### 12.3 Handling Persistent Friction
+For rare cases where a person actively undermines community morale, spreads hostility, or engages in repeated disruptive behaviour, Flow uses a **gentle escalation path**:
+
+1. **Peer Buddies** (as described in Section 5) initiate one‑on‑one conversations – not to reprimand, but to understand.
+2. If the behaviour continues, the community may propose a **”Change of Scene”** – the person can voluntarily choose to relocate to another Node where the social climate might suit them better. This is offered, not imposed.
+3. Only in extreme, repeated cases where the individual refuses all support and persistently damages trust, the Node may collectively decide to **reduce certain optional privileges** (e.g., access to specialised workshops, extended travel resources) while **Baseline needs remain absolutely intact** – food, water, housing, healthcare, and basic learning are never touched.
+
+This is a last resort and is only enacted through a **super‑majority consensus** of the affected peer group, ensuring it is never arbitrary.
+
+### 12.4 Annual Collective Reflection
+Once a year, the Node gathers for a **”Health Check”** – a community discussion (optional participation) that reviews:
+
+- Aggregated Free Rider patterns (anonymised)
+- Recurring barriers to contribution
+- The emotional state of contributors – are they feeling appreciated?
+- Improvements to the Micro‑Contribution menu (Section 7)
+
+This is **not a performance review** – it is a shared ritual of adaptation. It keeps the system alive, honest, and flexible. If people feel overburdened, they can speak. If someone feels invisible, they can be seen. If the community feels imbalance, they can address it together, without blame.
+
+### 12.5 Core Principle
+> *“Flow does not require everyone to contribute at all times. But Flow does require the community to remain aware, compassionate, and willing to adapt. A system that never questions itself becomes rigid – and rigidity is the enemy of resilience.”*
+
+
