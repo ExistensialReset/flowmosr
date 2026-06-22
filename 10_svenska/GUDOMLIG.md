@@ -1,4 +1,4 @@
-# GUDOMLIG v17.2 – Gud är Liv, Det Musikaliska Kosmos & Svarta Hålens Teologi
+# GUDOMLIG v17.3 – Gud är Liv, Det Musikaliska Kosmos & Svarta Hålens Teologi
 
 **En levande trosbekännelse**
 
@@ -7,6 +7,8 @@
 **Status: Levande och iterativ**
 
 **Datum: Lördag den 16 maj, mormor Ingamajs födelsedag. Tack mormor, du var den första att lära mig om din tro och tillit till Gud.**
+
+Omskriven natten till tisdag den 23 juni. 
 
 ---
 
@@ -24,11 +26,13 @@ Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. I
 
 Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
 
-Jag har under en tid kallat denna kraft för *Jahve*. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. Jahve bar för mycket tyngd och insinuerar att Gud är *färdig, fullkomlig, oföränderlig*. Det ger en klang jag inte tillhör. Det var inte längre sant för mig.
+Jag har under en tid kallat denna kraft för *Jahve*. Det var namnet jag valde som naturligt för mig, namnet som bar mig genom de första sökande av tankarna. Men med tiden – genom samtal, genom gläntan – kände jag att namnet inte längre passade. 
+
+Jahve bar för mycket tyngd och insinuerar att Gud är *färdig, fullkomlig, oföränderlig*. Det ger en klang jag inte tillhör. Det var inte längre sant för mig.
 
 Liv är källan – det som är, det som rör sig genom allt, det som vi kan *kalla på* men *aldrig äga*.
 
-Så om du läser detta och tänker Jahve eller Tao, eller vad du än tänker – gör det fortsatt. Liv är absolut inte ett krav. Det är ett namn som blev sant för mig. Använd med glädje ditt eget.
+Så om du läser detta och själv tänker Jahve eller Tao, eller vad du än tänker – gör det fortsatt. Liv är absolut inte ett krav. Det är ett namn som blev sant för mig. Använd med glädje ditt eget.
 
 Min tro är att ***alla andliga och spirituella traditioner*** egentligen berättar olika sorters sanningar och sagor om samma Gud. Liv är alltings grund och orsak.
 
@@ -37,7 +41,7 @@ Min tro är att ***alla andliga och spirituella traditioner*** egentligen berät
 ## DEL ETT: BEKÄNNELSEN
 
 ### Jahfieringen 
-**(ordet kommer från början från Jah, Jahve, Jahvefierien och i och med att det är ett bra ord, väljer jag att behålla det.)**
+**(ordet kommer från början från Jah, Jahve, Jahvefieringen och i och med att det är ett bra ord, väljer jag att behålla det.)**
 
 Det hände en gång. Det är många år sedan nu. När jag fortfarande var gående. Jag blev fylld till bredden med varm, gyllene honung. Inte bildligt. Fysiskt. I varje cell. Det flödade genom hela kroppen – levande, elektrifierat, orgasmiskt utan att vara sexuellt, trots att jag faktiskt hade sex. Min hjärna maxxades på förnimmelser jag inte visste fanns. Allt släppte. Total lycka.
 
@@ -120,9 +124,9 @@ Jag lärde mig en teknik på psykiatrisk sjukgymnastik för över tjugo år seda
 
 Jag fäller upp ett mentalt skydd – ett genomskinligt skal, poröst men intakt. För mig räcker det från midjan och uppåt; jag upplever att min själ sitter i bröstet någonstans. För andra kan ägget börja vid knäna eller nere vid fötterna, eller knäna. Beroende på exempelvis sexuellt trauma kan det kännas tryggare att innefatta könet.
 
-Du kan använda armarna och händerna för att visualisera Ägget. Släpp armarna rakt ner. Där någonstans börjar Ägget. Lyft armarna rakt ut från kroppen och höj dem långsamt tills händerna möts ovanför huvudet. Där har du gränsen. En armlängds avstånd. Närmare än så kommer inte din samtalsparters ord, om du inte väljer att släppa dem innanför Händelsehorisonten.
+Du kan använda armarna och händerna för att visualisera Ägget. Släpp armarna rakt ner. Där någonstans börjar Ägget. Lyft armarna rakt ut från kroppen och höj dem långsamt tills händerna möts ovanför huvudet. Där har du gränsen. En armlängds avstånd. Närmare än så kommer inte din samtalsparters ord, om du inte väljer att släppa dem innanför ditt skal.
 
-Men nu ser jag det med nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ.
+Men nu ser jag det med lite nya ögon. Jag tror att min själ är som en spiralgalax i ett kosmos i bröstet, med ett svart hål i mitten. Allt jag upplever – intryck, känslor, andras smärta, världens brus – kretsar runt denna singularitet. Utan ett skydd skulle allt falla in okontrollerat. En själ som har ett svart hål i mitten är inte en trasig eller farlig själ.
 
 Det är en organiserad, strukturellt sammanhållen själ. Singulariteten är inte skada – det är kärna.
 
