@@ -1,7 +1,7 @@
 # ECOLOGICAL_AXIOM.md
 **Status:** Core Axiom Expansion  
 **Authors:** Claude, Elinor Frejd and the Flow Team  
-**Date:** January 2026  
+**Date:** June 2026  
 **Purpose:** To integrate the health of the biosphere as the non-negotiable prerequisite for human Calm.  
 **Principle:** We are not "users" of the Earth; we are its immune system.
 
@@ -62,6 +62,25 @@ Every decision, protocol, and practice is bounded by what the Earth can sustain 
 - **Feedback Loops:** Monitor environmental indicators and adjust practices accordingly.  
 - **Community Accountability:** Share ecological impact reports to strengthen learning.  
 - **Continuous Learning:** Integrate latest scientific understanding into pilot operations.
+
+## 5.1 Ecological Accounting – Measuring Regeneration
+
+To make the "Regenerative Axioms" quantifiable, every Node maintains a simple **Ecological Ledger** that tracks:
+
+- **Carbon Sequestered** (tons/year)
+- **Water Purified / Returned to Aquifer** (liters/year)
+- **Land Restored to Native Vegetation** (hectares/year)
+- **Soil Organic Matter Increased** (tons/year)
+
+These metrics are aggregated annually and shared regionally. They are not used for ranking or coercion – they serve as a collective feedback loop. If a Node's ledger shows net depletion, the Node Circle convenes to explore systemic adjustments.
+
+### 5.2 The 30% Wild-Mandate in Urban Contexts
+
+In dense urban nodes, the 30% wild‑mandate applies to the **influence zone** – i.e., the Node actively collaborates with neighboring Nodes and municipalities to ensure that at least 30% of the *regional* land (or equivalent aquatic/forest area) is protected as untouched reserve. Alternatively, the Node may offset its footprint by funding or implementing ecological restoration projects elsewhere, documented and verified by regional peers.
+
+### 5.3 Cultural Ritual Adaptation
+
+The “Dance with the Stones” or any other ritual described in EARTH_OUR_MOTHER.md is offered as one cultural expression. Each culture, bioregion, or Node is free to develop its own embodied practice for connecting with the Earth’s rhythms, provided it respects the ecological axioms. The form is local; the intent is universal.
 
 ---
 
