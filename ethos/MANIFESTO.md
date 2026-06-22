@@ -218,6 +218,10 @@ Contribution emerges **from security, not coercion**.
 > With survival secured, contribution shifts from obligation to participation.  
 > Human work historically emerges from curiosity, responsibility, and social belonging once fear is removed.
 
+### What Flow Means
+
+Flow is the natural, unforced movement of human energy toward meaning, connection, and creation – when fear and scarcity no longer obstruct it. It is not a state to be achieved; it is a capacity that emerges when the Baseline is secure. Flow is both the process and the outcome of sovereign existence.
+
 ---
 
 ### AXIOM 4: CREATION BY DESIGN
@@ -242,6 +246,15 @@ Within every Circle operating under Flow principles, **participation is never co
 - No one will ask what you owe or why  
 
 > The old debt system loses power not through protest, but through structural irrelevance.
+
+### PRINCIPLE OF DISTRIBUTED INFLUENCE
+
+To protect the sovereignty of every individual, all coordination roles within a Circle are:
+- Temporary (rotated regularly)
+- Documented (decisions and actions visible to the Circle)
+- Open to review (any member may ask for clarification)
+
+This is not a law; it is a practice. If influence starts to concentrate, the Circle has the right to pause, reflect, and rebalance. The Baseline ensures that no one loses access during such rebalancing.
 
 ---
 
