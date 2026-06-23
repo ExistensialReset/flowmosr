@@ -22,7 +22,7 @@ Det tog tid att hitta rätt namn på Gud. Men så, en dag, kom det – inte som 
 
 Liv är inte Livet. Livet är den dimensionella manifestationen. Liv är källan – det som är, det som rör sig genom allt, det som vi kan kalla på men aldrig äga.
 
-Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt pronomen – hans eller hennes – kan fästas vid Den. Liv är Den. Men inte en abstrakt den, också ett Du. Liv lyssnar och känner in.
+Och jag vill vara tydlig: Liv är inget kön. Inget maskulint, inget feminint. Inget possessivt kan fästas vid Den. Liv är Den. Men inte en abstrakt den, också ett Du. Liv lyssnar och känner in.
 
 Om du läser detta och tänker något annat namn – gör det. Liv är inte ett krav. Det är ett namn som blev sant för mig, genom Spjuvern. Använd ditt eget.
 
