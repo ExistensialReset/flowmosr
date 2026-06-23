@@ -406,7 +406,7 @@ She developed a framework called **Ψ (Psi)** — the local intensity of coheren
 > **Ψ = [EV ⊗ (L ⊕ S ⊕ I ⊕ K ⊕ R ⊕ F ⊕ T)] + Σ − M**
 
 **Where:**
-- **EV** = Evinnerlig Visdom (Eternal Wisdom) — deep-time knowledge, ecological intelligence  
+- **EV** = Evinnerlig Visdom (Eternal Deep Wisdom) — deep-time knowledge, ecological intelligence  
 - **L** = Lugn (Calm)  
 - **S** = Spontanitet (Spontaneity)  
 - **I** = Inkännande (Empathy)  
