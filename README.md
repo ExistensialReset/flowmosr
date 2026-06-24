@@ -104,6 +104,8 @@ This is not something you need to understand all of, at first.
 
 It is something you can grow into. 
 
+If you want to have the fastest way in: read [SUMMARY](/identity/SUMMARY.md)
+
 ### 🧭 Core  
 - How Flow works  
 - Why small groups matter  
@@ -121,7 +123,7 @@ It is something you can grow into.
 - Hydroponics & micro‑grids  
 - Node design & self‑sufficiency  
 
-### 🧬 Transition (/guides) 
+### 🧬 Transition (/guides/economics) 
 - How to build a Node  
 - How to scale  
 - How to remain sovereign inside today’s economy  
@@ -245,7 +247,7 @@ Everything here exists for one reason: to make that small weekly circle sustaina
 
 **Infrastructure** 
 
-👉 [Hydroponics Master Plan](/02_documents/HYDROPONIC_AGRICULTURE_ENERGY_MASTER_PLAN.md) 
+👉 [Hydroponics Master Plan](/02_documents/URBAN_HYDRO_FLOW_NODE_MASTER_PLAN.md) 
 
 **Justice & Integrity **
 
