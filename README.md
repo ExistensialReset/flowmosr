@@ -106,6 +106,10 @@ It is something you can grow into.
 
 If you want to have the fastest way in: read [SUMMARY](/identity/SUMMARY.md)
 
+Then read [M-OS-R as an operating system](/identity/M-OS-R_AS_AN_OPERATING_SYSTEM.md) 
+
+If you do this you will get a pretty good grip of this philosophy and how it works. 
+
 ### 🧭 Core  
 - How Flow works  
 - Why small groups matter  
@@ -331,5 +335,4 @@ Elinor Frejd
 # Ψ ≠ 0
 
 ---
-
 
