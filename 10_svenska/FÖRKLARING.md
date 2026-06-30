@@ -1,6 +1,6 @@
 # 🌍 FÖRKLARING: Vad Flödet Egentligen Är
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Status:** Kärnförklaringslager  
 **Syfte:** Tillhandahålla en tydlig, jordnära förståelse av Flödet som system — vad det är, vad det inte är och hur resten av repositoriet ska tolkas.
 
@@ -24,6 +24,10 @@ Detta dokument existerar för att klargöra:
 > Flödet är inte en ideologi.  
 > Flödet är inte ett trossystem.  
 > Flödet är en **strukturell omkonfigurering av hur mänskligt liv organiseras**.
+
+---
+
+Flödet bygger på värderingar om människovärde och relation, men är inte en ideologi i betydelsen ett system som kräver lojalitet till en politisk lära.
 
 ---
 
