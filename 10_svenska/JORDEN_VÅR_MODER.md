@@ -5,6 +5,10 @@
 
 ---
 
+Flödet försöker inte göra naturen till en resurs med bättre regler. Flow försöker göra människan till en deltagare i ett större levande sammanhang.
+
+---
+
 ## 1. Förord: Tidens Kropp
 Vi lever på en planet som använde 4,5 miljarder år för att bygga sig själv. Varje lager av hennes kropp är resultatet av djup tid. Under utvinningslogiken behandlas hon som ett dött lager. I Flödet erkänner vi henne som en levande organism vars system systematiskt monteras ned. 
 
