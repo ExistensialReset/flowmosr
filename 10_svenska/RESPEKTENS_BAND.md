@@ -6,6 +6,10 @@
 
 ---
 
+Flödet skyddar inte bara människors rättigheter. Det försöker skydda människors förmåga att förbli människor.
+
+---
+
 ## 1. Förord: Suveränitet i Gemenskap
 
 Existentiell suveränitet är kärnfilosofin i detta kontrakt. Att vara suverän är inte att dominera andra, utan att fullt ut bebo sitt eget liv samtidigt som man respekterar allt livs suveränitet. Ingen människa äger en annans tid, tankar eller framtid. Respekt är grundnivån vi beviljar varandra.
