@@ -16,6 +16,10 @@ För strukturella krav och systemstabilitet, se:
 
 ---
 
+Dessa protokoll är praktiska uttryck för de gränser som definieras i GRÄNSER.
+
+---
+
 ## 1️⃣ Protokoll 1: Villkorslös Grundnivå
 Vi måste tillsammans säkerställa tillgång till **mat, kläder, hälsovård, boende, internet och transport** för alla, utan villkor, skuld eller efterlevnad. Detta är Jordens gåva — livets utgångspunkt. Inkludera **vila- och läranderum** (Refugium och Lyceum).  
 
