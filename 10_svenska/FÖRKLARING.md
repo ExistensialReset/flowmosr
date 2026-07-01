@@ -46,6 +46,7 @@ Det bygger på en kärnobservation:
 > utan av hur tillgång till resurser kontrolleras.*
 
 *Se /data_validation 
+
 ---
 
 ## KÄRNFÖRSKJUTNINGEN
