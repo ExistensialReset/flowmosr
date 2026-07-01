@@ -43,8 +43,9 @@ Flödet är ett **post-knapphetens koordinationssystem** utformat för att:
 Det bygger på en kärnobservation:
 
 > Merparten av mänskligt lidande idag orsakas inte av brist på resurser —  
-> utan av hur tillgång till resurser kontrolleras.
+> utan av hur tillgång till resurser kontrolleras.*
 
+*Se /data_validation 
 ---
 
 ## KÄRNFÖRSKJUTNINGEN
