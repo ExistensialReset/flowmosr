@@ -21,6 +21,8 @@ Båda är felaktiga.
 
 Detta dokument existerar för att klargöra:
 
+M-OS-R/Flödet handlar om att skydda förutsättningarna för levande relationer. 
+
 > Flödet är inte en ideologi.  
 > Flödet är inte ett trossystem.  
 > Flödet är en **strukturell omkonfigurering av hur mänskligt liv organiseras**.
