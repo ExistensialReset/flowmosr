@@ -162,3 +162,5 @@ Du behöver inte "förstå Flödet" för att börja.
 Du behöver bara lägga märke till:
 
 > Vad skulle förändras om överlevnad inte var villkorad?
+
+Obsvera att M-OS-R/Flödet/Flow inte är en färdig modell. Det är ett ramverk för kontinuerligt lärande inom oföränderliga konstitutionella gränser.
