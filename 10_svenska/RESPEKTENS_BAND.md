@@ -50,7 +50,7 @@ Se **DATA-BIAS-FRIENDLY.md** för praktisk implementering av inkluderande datase
 
 ---
 
-## 4. Etisk Tillsyn: Systemets Samvete
+## 4. Konstitutionellt skydd
 För att säkerställa att systemiska handlingar överensstämmer med mänskliga, ekologiska och existentiella värden följer alla interventioner en triad av kontroller och balanser:
 
 * **Den Visionära AI-Blicken:** Identifierar potentiella interventioner, mönster och optimeringar för framtiden.
