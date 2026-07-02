@@ -18,6 +18,8 @@ Tillgång till Baslinjen är av högsta vikt. Inget projekt, ingen kris, vision 
 ## AXIOM 4: EVOLUTION
 Systemet existerar för att tjäna livet, inte livet för att tjäna systemet. Varje hinder för Flödet är ett systemiskt misslyckande, inte ett mänskligt misslyckande. Systemet måste förändras, inte individen.
 
+Systemet får aldrig kräva att individen anpassar sig till ett destruktivt system. 
+
 ## AXIOM 5: STRUKTURELL OPARTISKHET
 Systemet iakttar endast logistiska principer. Det gör inga moraliska, beteendemässiga eller identitetsbaserade bedömningar. Systemisk intervention är begränsad till infrastruktur, aldrig till individens inneboende handlingskraft.
 
