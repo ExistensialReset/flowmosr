@@ -1,6 +1,10 @@
 # GRÄNSER.md
 
-**De Oförhandlingsbara Lagarna om Suveränitet**
+Protokoll är den nuvarande generationens bästa försök. Nästa generation har rätt och ansvar att förbättra dem, så länge GRÄNSER respekteras.
+
+Ingen bestämmer över framtiden. Varje nod bestämmer över sina protokoll inom axiomens ramar.
+
+**De Oförhandlingsbara Konstitutionella Axiomen om Suveränitet**
 
 Dessa axiom definierar systemets oföränderliga gränser. De är inte ideal eller rekommendationer — de är strukturella begränsningar som säkerställer att varken människa eller AI kan omtolka arkitekturen till förtryck.
 
