@@ -1,7 +1,10 @@
 # MANIFESTET FÖR EXISTENTIELL SUVERÄNITET  
 ## Baslinjemanifestet
 
+Suverän är när ingen behöver be om tillåtelse för att ha ett människovärde.
 Du är trygg här. Du är inte skyldig någonting. 
+
+---
 
 Detta repositorium är en gåva till Dig. Det ber dig inte att hålla med, ansluta dig, prestera eller tro på något.  
 
@@ -199,6 +202,10 @@ Inom denna arkitektur:
 Ett samhälle som inte skyddar vila först, skapar skada och försöker sedan ignorera den.  
 
 Flödet gör motsatsen.
+
+---
+
+Nu går vi från värdegrund till implementering.
 
 ---
 
