@@ -282,6 +282,10 @@ Total labor: Every family contributes 10-15 days over year
 
 ---
 
+**Communities that achieve reliable access to clean water generally report major reductions in disease and time spent collecting water.**
+
+---
+
 ### LEVEL 2: FOOD SECURITY (Month 3-12)
 **Size:** 15-50 people  
 **Timeline:** 3-12 months (one growing season)  
