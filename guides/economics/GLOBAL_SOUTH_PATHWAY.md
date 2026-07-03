@@ -35,6 +35,9 @@
 **THIS IS A CONVERSATION STARTER, NOT A BLUEPRINT.**
 
 If you find errors, blind spots, or harmful assumptions - please tell us so we can improve it.
+---
+
+**If your experience contradicts this document, your experience wins.**
 
 ---
 
