@@ -47,6 +47,8 @@ When local production expands, dependence on coercive systems decreases.
 
 This document describes that transition.
 
+---
+
 # II. Philosophy & Purpose
 
 ## Why This Document Exists
