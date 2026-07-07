@@ -47,9 +47,9 @@ When local production expands, dependence on coercive systems decreases.
 
 This document describes that transition.
 
-II. Philosophy & Purpose
+# II. Philosophy & Purpose
 
-Why This Document Exists
+## Why This Document Exists
 
 Flow is often imagined as something that emerges only after stability has already been achieved.
 
@@ -65,13 +65,13 @@ It is not the only pathway.
 
 ---
 
-A Document About Starting Conditions
+## A Document About Starting Conditions
 
 Despite its predecessor being called Global South Pathway, this document is intentionally broader.
 
 Low-income conditions exist across the world.
 
-They can be found in:
+**They can be found in:**
 
 - rural villages,
 - informal settlements,
@@ -95,7 +95,7 @@ Flow adapts to material reality rather than political borders.
 
 ---
 
-The First Principle
+## The First Principle
 
 Flow does not begin with governance.
 
@@ -131,7 +131,7 @@ They are the minimum conditions under which human freedom can become meaningful.
 
 ---
 
-Beyond Baseline
+## Beyond Baseline
 
 Baseline alone does not create a society.
 
@@ -145,7 +145,7 @@ After Baseline comes Relational Infrastructure.
 
 Relational Infrastructure consists of the human systems that allow communities to remain resilient over time.
 
-These include:
+**These include:**
 
 - trust,
 - mutual care,
@@ -165,7 +165,7 @@ Flow therefore develops both together.
 
 ---
 
-A Different Definition of Wealth
+## A Different Definition of Wealth
 
 Conventional economics primarily measures accumulated capital.
 
@@ -189,7 +189,7 @@ The objective is to reduce unnecessary dependence.
 
 ---
 
-The Direction of Transition
+## The Direction of Transition
 
 Flow does not ask people to abandon existing systems overnight.
 
@@ -208,13 +208,13 @@ Each successful step creates greater freedom for the next.
 
 ---
 
-Local Knowledge Comes First
+## Local Knowledge Comes First
 
 This document cannot replace lived experience.
 
 Every region possesses knowledge that cannot be reproduced by external authors.
 
-Local communities understand:
+**Local communities understand:**
 
 - their climate,
 - their culture,
@@ -223,7 +223,7 @@ Local communities understand:
 - their opportunities,
 - and their history.
 
-Therefore:
+**Therefore:**
 
 This document proposes principles.
 
@@ -233,7 +233,7 @@ Whenever this document conflicts with verified local knowledge that still protec
 
 ---
 
-The Goal
+## The Goal
 
 The purpose of Low-Income Pathways is not simply survival.
 
@@ -248,6 +248,8 @@ Every completed step should reduce coercion.
 Every completed step should strengthen human dignity.
 
 That is the direction of Flow.
+
+---
 
 # III. Design Principles
 
@@ -555,6 +557,7 @@ Each completed step should leave the next generation with more freedom than the 
 
 That is the direction of Flow.
 
+---
 
 # IV. The Foundations of a Low-Income Pathway
 
@@ -832,6 +835,7 @@ Every successful step becomes the foundation for the next.
 
 That is how Flow grows.
 
+---
 
 # V. The Pathway Structure
 
@@ -1152,6 +1156,8 @@ then the pathway is moving in the right direction.
 
 That is the measure that matters.
 
+---
+
 # VI. Stage 0 — The Immediate Survival Circle
 
 ## Purpose
@@ -1465,7 +1471,9 @@ rests upon the relationships built here.
 
 Infrastructure can always be expanded later.
 
-Trust must be built from the beginning. 
+Trust must be built from the beginning.
+
+--- 
 
 # VII. Stage 1 — Water Security
 
@@ -1735,6 +1743,8 @@ It is the foundation upon which food, health, education, local production, and c
 Every hour no longer spent searching for water becomes an hour available for building the future.
 
 That is the purpose of Stage 1.
+
+---
 
 # VIII. Stage 2 — Food Security
 
@@ -2057,6 +2067,8 @@ Every healthy generation strengthens the future.
 
 That is the purpose of Stage 2.
 
+---
+
 # IX. Stage 3 — Economic Stability
 
 ## Purpose
@@ -2317,6 +2329,8 @@ Economic systems should allow people to build meaningful lives without fear of l
 When the economy serves life rather than life serving the economy, resilience becomes possible.
 
 That is the purpose of Stage 3.
+
+---
 
 # X. Stage 4 — Health & Wellbeing
 
@@ -2609,6 +2623,8 @@ A healthy society protects all of these together.
 
 That is the purpose of Stage 4.
 
+---
+
 # XI. Stage 5 — Education & Knowledge
 
 ## Purpose
@@ -2884,6 +2900,8 @@ Knowledge shared becomes resilience shared.
 
 That is the purpose of Stage 5.
 
+---
+
 # XII. Stage 6 — Governance & Self-Determination
 
 ## Purpose
@@ -3124,6 +3142,8 @@ It is to help people coordinate their lives together.
 The strongest institutions are those that gradually make coercion less necessary because trust, competence, and cooperation have become stronger.
 
 That is the purpose of Stage 6.
+
+---
 
 # XIII. Stage 7 — Long-Term Resilience
 
@@ -3372,6 +3392,8 @@ Every generation leaves one behind.
 The purpose of Flow is to ensure that the world we leave is more resilient, more humane, and more capable than the one we received.
 
 That is the purpose of Stage 7.
+
+---
 
 # XIV. Integration with the Global Flow System
 
