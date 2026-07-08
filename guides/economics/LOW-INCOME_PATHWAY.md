@@ -4514,3 +4514,151 @@ It is to help communities build from a common understanding while remaining free
 
 
 ---
+
+
+# Appendix F — Guiding Questions for Community Assessment
+
+This appendix is intended to support dialogue.
+
+It is **not** an audit.
+
+It is **not** a scoring system.
+
+Its purpose is to help communities identify their own strengths, vulnerabilities, and priorities before deciding what to improve next.
+
+There are no correct answers.
+
+Only honest ones.
+
+---
+
+# Baseline
+
+## Food
+
+- Does everyone have enough nutritious food throughout the year?
+- Are children growing well?
+- Are elders receiving adequate nutrition?
+- What creates food insecurity?
+
+---
+
+## Water
+
+- Is safe drinking water always available?
+- How much time is spent collecting water?
+- Is water reliable during drought?
+- Is water infrastructure maintained?
+
+---
+
+## Shelter
+
+- Does everyone have safe housing?
+- Is housing protected from weather?
+- Is there sufficient living space?
+- Are sanitation facilities reliable?
+
+---
+
+## Energy
+
+- Is electricity reliable?
+- Are cooking fuels safe and accessible?
+- Which activities become impossible during power outages?
+
+---
+
+# Health
+
+- Which illnesses are most common?
+- Which illnesses are preventable?
+- How accessible is healthcare?
+- What health knowledge already exists within the community?
+
+---
+
+# Education
+
+- Can everyone learn throughout life?
+- Which practical skills are missing?
+- Which knowledge is at risk of disappearing?
+- How can local expertise be shared more effectively?
+
+---
+
+# Economy
+
+- Which livelihoods exist?
+- Which livelihoods are most vulnerable?
+- What resources leave the community unnecessarily?
+- Which local opportunities remain underdeveloped?
+
+---
+
+# Governance
+
+- Do people trust local leadership?
+- Are decisions transparent?
+- Can disagreements usually be resolved peacefully?
+- Do people feel heard?
+
+---
+
+# Environment
+
+- Is the local ecosystem becoming healthier or weaker?
+- Are soils improving?
+- Is biodiversity increasing or decreasing?
+- Which environmental changes worry the community most?
+
+---
+
+# Relational Infrastructure
+
+- Do neighbors trust one another?
+- Do people cooperate during difficulties?
+- Are elders respected?
+- Do young people feel included?
+- Where is trust strongest?
+- Where has trust weakened?
+
+---
+
+# Future Generations
+
+- What will children inherit if nothing changes?
+- Which decisions today will matter most in fifty years?
+- Which knowledge must never be lost?
+- Which investments create benefits across generations?
+
+---
+
+# Reflection
+
+After discussing these questions, communities are encouraged to ask one final question:
+
+> **What is the single next improvement that would strengthen the greatest number of people's lives?**
+
+Flow grows through many small improvements.
+
+Communities do not become resilient overnight.
+
+They become resilient one thoughtful decision at a time.
+
+---
+
+# Final Principle
+
+Good questions are often more valuable than immediate answers.
+
+Questions encourage observation.
+
+Observation improves understanding.
+
+Understanding enables wiser action.
+
+That is why every resilient community remains curious.
+
+---
+
