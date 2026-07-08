@@ -495,3 +495,414 @@ That is already Flow.
 🌊💚
 
 ---
+
+---
+
+## APPENDIX B — IMPLEMENTATION CHECKLIST
+
+This checklist is a tool for reflection and planning.
+
+It is not a certification or a test.
+
+Use it to notice where your community is strong and where the next improvement might be.
+
+---
+
+### Step 0 — Immediate Circle
+☐ A small group (3–5 people) meets regularly  
+☐ You have asked: "What is hurting us most right now?"  
+☐ You have mapped your existing skills and resources  
+☐ You have started one shared practice (meal, childcare, water collection)  
+
+---
+
+### Step 1 — Water Security
+☐ Safe drinking water is reliably available  
+☐ Water sources are protected from contamination  
+☐ Water systems can be maintained locally  
+☐ Time spent collecting water has significantly decreased  
+
+---
+
+### Step 2 — Food Security
+☐ Nutritional needs are met most of the time  
+☐ Seasonal food shortages are decreasing  
+☐ Food production is diversified  
+☐ Local seed knowledge is preserved  
+
+---
+
+### Step 3 — Economic Resilience
+☐ Multiple livelihoods exist within the community  
+☐ A savings or ROSCA system is functioning  
+☐ An emergency fund is in place  
+☐ Local production and value creation are increasing  
+
+---
+
+### Step 4 — Health and Learning
+☐ Basic health knowledge is shared within the community  
+☐ Preventive health measures are in place  
+☐ Children and adults have access to learning  
+☐ Local health capacity is growing  
+
+---
+
+### Step 5 — Long-Term Resilience
+☐ Energy access is improving  
+☐ Governance is transparent and roles rotate  
+☐ Knowledge is documented and shared  
+☐ Children are better off than their parents were  
+
+---
+
+## APPENDIX C — FREQUENTLY ASKED QUESTIONS
+
+---
+
+### Why does Flow begin with Baseline?
+
+Because people who lack secure access to food, water, shelter, energy, or basic health cannot meaningfully exercise freedom.
+
+Baseline is not equality of outcome.
+
+It is the minimum foundation required for genuine autonomy.
+
+---
+
+### Is Flow against markets?
+
+No.
+
+Markets are valuable tools for coordinating voluntary exchange.
+
+Flow does not replace markets.
+
+It ensures that participation in markets is voluntary rather than structurally coerced by deprivation below Baseline.
+
+Healthy markets and protected Baseline can coexist.
+
+---
+
+### Is this socialism or capitalism?
+
+Neither.
+
+Flow is not organized around ownership models.
+
+It is organized around outcomes.
+
+The central question is always:
+
+**Does this strengthen Baseline, Relational Infrastructure, and long-term resilience?**
+
+Different communities may reach that goal through different institutional arrangements.
+
+---
+
+### Must every community follow the steps exactly?
+
+No.
+
+The steps describe a common progression observed in many contexts.
+
+Communities may work on several steps simultaneously.
+
+Local priorities should always guide implementation.
+
+The sequence is guidance, not prescription.
+
+---
+
+### Can technology solve these challenges?
+
+Technology is an important tool.
+
+It is not a complete solution.
+
+Technology succeeds when it:
+- strengthens resilience
+- remains maintainable
+- expands local capability
+- protects Baseline
+
+Technology that creates unnecessary dependency may reduce resilience despite increasing short-term efficiency.
+
+---
+
+### How is progress measured?
+
+Progress is measured primarily against the community's own previous condition.
+
+Questions include:
+- Is Baseline becoming more secure?
+- Is trust increasing?
+- Are people healthier?
+- Is knowledge expanding?
+- Is resilience improving?
+
+Communities are not expected to compete with one another.
+
+---
+
+### Who decides what is best?
+
+Whenever possible, local communities do.
+
+Flow provides principles.
+
+Communities provide implementation.
+
+Global standards protect Baseline.
+
+Local autonomy protects diversity.
+
+Both are necessary.
+
+---
+
+### Can Flow work in wealthy countries?
+
+Yes.
+
+Although this guide focuses on low-income contexts, the underlying principles apply everywhere.
+
+Every society benefits from stronger Baseline protection, healthier relationships, resilient infrastructure, and continuous learning.
+
+Flow is scalable.
+
+Not geographically limited.
+
+---
+
+## APPENDIX D — GLOSSARY
+
+---
+
+**Baseline**
+
+The globally protected minimum conditions required for every human being to live with biological stability, cognitive capacity, and human dignity.
+
+Baseline is a floor – never a ceiling.
+
+Baseline cannot be revoked as punishment or used as leverage.
+
+---
+
+**Relational Infrastructure**
+
+The network of trust, cooperation, reciprocity, and social connection that enables communities to function effectively.
+
+Unlike physical infrastructure, Relational Infrastructure cannot simply be constructed.
+
+It grows through repeated positive interactions over time.
+
+Flow treats Relational Infrastructure as essential infrastructure.
+
+---
+
+**ROSCA (Rotating Savings and Credit Association)**
+
+A traditional mutual aid system where a group of people contribute a fixed amount regularly, and each member receives the full pool in rotation.
+
+Common names include:
+- Chama (Kenya)
+- Tontines (West Africa)
+- Susus (Ghana)
+- Arisan (Indonesia)
+- Tandas (Mexico)
+- Esusu (Nigeria)
+
+Flow expands and strengthens these existing structures.
+
+---
+
+**LOTUS**
+
+A governance mechanism based on random selection (sortition).
+
+Leadership roles rotate regularly and are assigned by lottery rather than election.
+
+This prevents power from concentrating in any individual or group.
+
+LOTUS is described in detail in `LOTUS_GOVERNANCE_PROTOCOL.md`.
+
+---
+
+**Node**
+
+A self-governing Flow community.
+
+A Node may represent a village, neighborhood, cooperative, or other community.
+
+Nodes coordinate locally while participating voluntarily in wider Flow networks.
+
+---
+
+**Resilience**
+
+The capacity of individuals, communities, or systems to adapt, recover, and continue functioning after disruption.
+
+Flow prioritizes resilience over maximum short-term efficiency.
+
+---
+
+**Stewardship**
+
+The responsibility to care for resources, ecosystems, infrastructure, institutions, and relationships in ways that strengthen future generations.
+
+Stewardship extends beyond ownership.
+
+It is about leaving things better than you found them.
+
+---
+
+## APPENDIX E — IMPLEMENTATION EXAMPLES
+
+These examples are illustrative.
+
+They are not templates to be copied without adaptation.
+
+Every community should develop solutions that reflect its own geography, culture, history, institutions, and priorities.
+
+Flow encourages principles over prescriptions.
+
+---
+
+### Example 1 — Rural Agricultural Community
+
+**Starting conditions:**
+- Seasonal water shortages
+- Low agricultural productivity
+- Limited electricity
+- Strong community relationships
+- High dependence on external food markets
+
+**Early priorities:**
+- Rainwater harvesting
+- Well rehabilitation
+- Soil restoration
+- Community seed banks
+- Crop diversification
+
+**Medium-term priorities:**
+- Local food processing
+- Community maintenance teams
+- Basic healthcare expansion
+- Vocational education
+
+**Long-term goals:**
+- Stable Baseline
+- Economic diversification
+- Strong local governance
+- Ecological restoration
+
+---
+
+### Example 2 — Urban Informal Settlement
+
+**Starting conditions:**
+- High population density
+- Limited sanitation
+- Insecure housing
+- Irregular employment
+- Existing market activity
+
+**Early priorities:**
+- Safe drinking water
+- Sanitation
+- Waste collection
+- Community health
+- Public lighting
+
+**Medium-term priorities:**
+- Skills training
+- Local entrepreneurship
+- Cooperative purchasing
+- Digital connectivity
+
+**Long-term goals:**
+- Improved housing
+- Reliable infrastructure
+- Economic resilience
+- Participatory governance
+
+---
+
+### Example 3 — Remote Indigenous Community
+
+**Starting conditions:**
+- Strong cultural identity
+- Deep ecological knowledge
+- Geographic isolation
+- Limited healthcare access
+- Limited transportation
+
+**Early priorities:**
+- Protect existing food systems
+- Strengthen healthcare access
+- Improve communications
+- Support local education
+
+**Medium-term priorities:**
+- Renewable energy
+- Local technical training
+- Cultural documentation
+- Ecological monitoring
+
+**Long-term goals:**
+- Cultural continuity
+- Environmental stewardship
+- Youth education
+- Sustainable self-determination
+
+---
+
+### Common Patterns
+
+Although communities differ greatly, similar patterns often emerge.
+
+Successful implementation usually includes:
+- beginning with immediate needs,
+- strengthening local capability,
+- protecting Baseline,
+- expanding knowledge,
+- improving governance,
+- maintaining infrastructure,
+- strengthening relationships.
+
+The order may vary.
+
+The principles remain consistent.
+
+---
+
+### Learning Between Communities
+
+Communities implementing Flow are encouraged to exchange:
+- practical solutions,
+- technical knowledge,
+- governance experience,
+- educational materials,
+- ecological practices,
+- maintenance techniques.
+
+Learning travels faster than infrastructure.
+
+Knowledge shared today may solve another community's challenge tomorrow.
+
+---
+
+### Final Principle
+
+There is no perfect implementation.
+
+There are only communities becoming progressively more resilient through continuous learning, cooperation, and adaptation.
+
+Flow succeeds not because every community looks the same.
+
+Flow succeeds because every community becomes stronger while remaining fully itself.
+
+---
+
+# 🌊💚
