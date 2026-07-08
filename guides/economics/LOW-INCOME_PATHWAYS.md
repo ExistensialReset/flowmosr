@@ -1,4 +1,4 @@
-# LOW-INCOME PATHWAY – A Guide to Flow
+# LOW-INCOME PATHWAYS – A Guide to Flow
 
 **Version:** 3.0  
 **Status:** Revised  
