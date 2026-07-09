@@ -351,3 +351,92 @@ Sometimes the most courageous act is not holding on.
 
 Sometimes the most courageous act is letting go.
 
+# X. The Living World
+
+Human beings do not exist separate from the living world.
+
+We are born into it.
+
+We depend upon it.
+
+We influence it.
+
+We are changed by it.
+
+Every breath is a relationship.
+
+Every meal is a relationship.
+
+Every place we call home is a relationship.
+
+The living world is not a collection of resources surrounding humanity.
+
+It is the greater network of relationships that makes all life possible.
+
+A forest is not only wood.
+
+A river is not only water.
+
+An animal is not only a function.
+
+A living being is a participant in the same world we inhabit.
+
+Relational infrastructure therefore extends beyond human relationships.
+
+It includes the relationships between humanity and the Earth itself.
+
+---
+
+# XI. Care for the Living World
+
+To care for the living world is to recognise that we are already part of it.
+
+Care does not begin with ownership.
+
+It begins with belonging.
+
+When we understand our relationship with the Earth, responsibility becomes less about obligation and more about connection.
+
+We protect what we recognise ourselves as being part of.
+
+The Earth does not need humanity to exist.
+
+Humanity needs the Earth.
+
+Yet our choices still matter.
+
+Every generation inherits relationships created before them.
+
+Every generation shapes relationships that continue after them.
+
+The way we live becomes part of the world future generations will enter.
+
+---
+
+# XII. Future Generations
+
+Every relationship carries time within it.
+
+We are shaped by those who came before us.
+
+We shape the lives of those who come after us.
+
+This is the resonance of time.
+
+The choices made today are not isolated moments.
+
+They become part of a larger story.
+
+A society is not only responsible for those who are alive now.
+
+It also carries a relationship with those who have not yet arrived.
+
+Future generations cannot speak in our decisions.
+
+But they will live with their consequences.
+
+To build healthy relational infrastructure is therefore to care across time.
+
+To leave behind more possibilities than we inherited.
+
+To become good ancestors.
