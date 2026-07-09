@@ -248,53 +248,106 @@ It can reveal possibilities that neither side had imagined.
 
 When approached with openness, conflict does not weaken relational infrastructure.
 
-It can deepen it.
+It can deepen it. 
 
 ---
 
-# VIII. Repair or Leave
 
-Not every relationship can, or should, continue.
+# VIII. Repair
 
-Some relationships become harmful.
+Every living relationship will eventually become imperfect.
 
-Some repeatedly diminish dignity.
+Words are misunderstood.
 
-Some consistently replace honesty with manipulation.
+People become tired.
 
-Some make fear larger than trust.
+Needs change.
 
-Flow encourages sincere efforts to repair living relationships.
+Mistakes are made.
 
-Repair begins with openness.
+Repair is therefore not a sign that a relationship has failed.
 
-With listening.
+It is one of the ways living relationships continue to grow.
 
-With accountability.
+Repair begins with honesty.
 
-With a shared willingness to grow.
+It continues through listening.
 
-Yet repair cannot be carried by only one person.
+It becomes possible when every person involved is willing to recognise both their own experience and the experience of another.
 
-Nor should anyone remain in a relationship that continually harms their wellbeing, dignity, or sense of safety.
+Repair cannot erase the past.
 
-Sometimes the kindest path is to repair.
+It cannot undo harm.
 
-Sometimes the kindest path is to part peacefully.
+But it can allow new understanding to emerge.
 
-Leaving is not always a failure.
+Sometimes a sincere apology opens a door.
 
-Sometimes it is the beginning of healing.
+Sometimes forgiveness follows.
 
-A healthy society does not ask people to endure unnecessary harm.
+Sometimes it does not.
 
-It helps people recognise when a relationship can flourish again, and when it is time to let one another continue on different paths.
+Flow does not expect every relationship to be restored.
 
-Relationships deserve care.
+It simply invites every relationship to be met with openness before judgement, curiosity before certainty, and dignity before pride.
 
-People deserve safety.
+Where repair is possible, life often becomes stronger because of it.
 
-Both truths can exist together.
+---
 
+# IX. When Leaving Is the Courageous Act
 
+Not every relationship can continue.
+
+Some relationships gradually lose the conditions that allow life to flourish.
+
+Some replace honesty with manipulation.
+
+Some replace trust with fear.
+
+Some replace care with control.
+
+Some repeatedly ask one person to become smaller so another may feel larger.
+
+Such relationships slowly weaken the relational infrastructure that allows people to live freely, safely, and with dignity.
+
+Remaining is not always the most loving choice.
+
+Sometimes leaving is.
+
+No relationship should require you to surrender your dignity in order to preserve it.
+
+No relationship should ask you to abandon your safety in exchange for belonging.
+
+No relationship should demand silence in place of truth.
+
+Leaving a destructive relationship is not a failure to care.
+
+It may be one of the deepest expressions of care.
+
+Care for your own life.
+
+Care for those who love you.
+
+Care for the relationships that still have the possibility to flourish.
+
+Flow therefore honours those who choose to leave relationships that consistently diminish their wellbeing, freedom, dignity, or safety.
+
+Walking away from harm is not walking away from love.
+
+It is making space for love to become possible again.
+
+Some relationships are healed by staying.
+
+Some relationships are healed by parting.
+
+Wisdom is learning the difference.
+
+A society that values relational infrastructure does not ask people to endure abuse in the name of loyalty.
+
+It helps people recognise that every living being deserves relationships where they are free to grow, free to speak truthfully, free to be safe, and free to remain fully alive.
+
+Sometimes the most courageous act is not holding on.
+
+Sometimes the most courageous act is letting go.
 
