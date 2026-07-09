@@ -204,7 +204,117 @@ Every healthy community is strengthened by it.
 
 Trust is one of the quiet foundations upon which resilient societies are built.
 
-# VII. Conflict
+# VII. Power
+
+Every relationship contains power.
+
+Sometimes power comes from strength.
+
+Sometimes from knowledge.
+
+Sometimes from resources.
+
+Sometimes from position, responsibility, or the ability to influence the choices available to others.
+
+Power is not the opposite of relationship.
+
+It is one of the conditions within which relationships exist.
+
+The question is not whether power is present.
+
+The question is how power is carried.
+
+---
+
+Power can protect life.
+
+A parent uses power to protect a child.
+
+A community uses power to protect its members.
+
+A society uses power to create conditions where people can live safely and freely.
+
+Power becomes part of relational infrastructure when it is used with awareness, restraint, and responsibility.
+
+But power can also weaken relationships.
+
+When power becomes hidden, denied, or disconnected from accountability, it can become domination.
+
+It can turn care into control.
+
+Protection into possession.
+
+Leadership into authority without responsibility.
+
+---
+
+Healthy relational infrastructure does not seek to eliminate power.
+
+It seeks to make power visible.
+
+Visible power can be questioned.
+
+Visible power can be limited.
+
+Visible power can be held accountable.
+
+Hidden power cannot be examined.
+
+Unacknowledged power cannot be responsibly carried.
+
+---
+
+The presence of power creates responsibility.
+
+Those with greater ability to influence a relationship also carry a greater responsibility to consider the effects of their actions.
+
+Strength does not create the right to diminish others.
+
+Knowledge does not create the right to silence others.
+
+Authority does not create the right to escape accountability.
+
+Power is not measured only by what it can achieve.
+
+Power is also measured by what it allows others to become.
+
+---
+
+Care and power must remain connected.
+
+Care without power may be unable to protect.
+
+Power without care may become harmful.
+
+A healthy relationship does not remove differences in capacity, experience, or influence.
+
+It creates the conditions where those differences can exist without becoming oppression.
+
+---
+
+Every society must answer the question of how power is carried.
+
+Not whether power exists.
+
+It always will.
+
+The question is whether power strengthens the living weave or weakens it.
+
+Whether it creates more freedom or less.
+
+Whether it allows life to flourish or requires life to become smaller.
+
+---
+
+Flow therefore does not seek a world without power.
+
+It seeks a world where power remains connected to truth, care, trust, and responsibility.
+
+A world where strength is not measured by how much one can control.
+
+But by how much life can continue to grow in one's presence.
+
+# VIII. Conflict
 
 Conflict is a natural part of life.
 
@@ -253,7 +363,7 @@ It can deepen it.
 ---
 
 
-# VIII. Repair
+# IX. Repair
 
 Every living relationship will eventually become imperfect.
 
@@ -295,7 +405,7 @@ Where repair is possible, life often becomes stronger because of it.
 
 ---
 
-# IX. When Leaving Is the Courageous Act
+# X. When Leaving Is the Courageous Act
 
 Not every relationship can continue.
 
@@ -351,7 +461,7 @@ Sometimes the most courageous act is not holding on.
 
 Sometimes the most courageous act is letting go.
 
-# X. The Living World
+# XI. The Living World
 
 Human beings do not exist separate from the living world.
 
@@ -387,7 +497,7 @@ It includes the relationships between humanity and the Earth itself.
 
 ---
 
-# XI. Care for the Living World
+# XII. Care for the Living World
 
 To care for the living world is to recognise that we are already part of it.
 
@@ -413,7 +523,7 @@ The way we live becomes part of the world future generations will enter.
 
 ---
 
-# XII. Future Generations
+# XIII. Future Generations
 
 Every relationship carries time within it.
 
@@ -441,7 +551,7 @@ To leave behind more possibilities than we inherited.
 
 To become good ancestors.
 
-# XIII. The Weave of Stewardship
+# XIV. The Weave of Stewardship
 
 Stewardship begins with belonging.
 
@@ -453,7 +563,7 @@ Every living being participates in a greater weave of relationships.
 
 To practice stewardship is to become aware of the threads we hold, the threads we influence, and the threads we pass forward.
 
-# XIV. Returning to Relationship
+# XV. Returning to Relationship
 
 Relational infrastructure is not built only through systems, institutions, or agreements.
 
