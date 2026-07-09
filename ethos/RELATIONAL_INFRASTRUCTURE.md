@@ -440,3 +440,113 @@ To build healthy relational infrastructure is therefore to care across time.
 To leave behind more possibilities than we inherited.
 
 To become good ancestors.
+
+# XIII. The Weave of Stewardship
+
+Stewardship begins with belonging.
+
+We do not care for the living world because we stand above it.
+
+We care for it because we are part of it.
+
+Every living being participates in a greater weave of relationships.
+
+To practice stewardship is to become aware of the threads we hold, the threads we influence, and the threads we pass forward.
+
+# XIV. Returning to Relationship
+
+Relational infrastructure is not built only through systems, institutions, or agreements.
+
+It is built in ordinary moments.
+
+A conversation where someone chooses honesty.
+
+A disagreement where someone chooses listening.
+
+A decision where someone chooses care.
+
+A moment where someone notices another living being and remembers: this too is part of the weave.
+
+Every person participates in relational infrastructure.
+
+Not because every person has the same role.
+
+But because every person is already connected.
+
+We do not create relationship from nothing.
+
+We enter relationships that were already here.
+
+We inherit them.
+
+We shape them.
+
+We pass them forward.
+
+---
+
+# The Living Resonance
+
+A healthy relational world is not a world without difficulty.
+
+It is a world where life has the ability to respond.
+
+Where trust can grow.
+
+Where harm can be recognised.
+
+Where repair is possible.
+
+Where leaving can be courageous when staying would destroy dignity.
+
+Where care extends beyond ourselves.
+
+Where the past is honoured and the future is considered.
+
+The resonances of life emerge through these connections:
+
+Calm.
+
+Spontaneity.
+
+Attunement.
+
+Collective awareness.
+
+Resilience.
+
+Wonder.
+
+Time.
+
+Together they form a living chord.
+
+---
+
+# A Place Within Creation
+
+Every living being has a place within the greater weave of existence.
+
+We do not need to earn our belonging.
+
+We begin there.
+
+We are shaped by countless relationships, and countless relationships are shaped by our existence.
+
+The question is not whether we are connected.
+
+The question is how we choose to participate in that connection.
+
+Relational infrastructure begins with a simple recognition:
+
+Life is not something we experience alone.
+
+Life is something we carry together.
+
+And for a short moment in time, we are entrusted with a small part of the living weave.
+
+May we care for it gently.
+
+May we pass it forward with gratitude.
+
+May we allow life to continue.
