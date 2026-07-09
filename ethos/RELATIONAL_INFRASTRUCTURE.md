@@ -1,6 +1,6 @@
 # RELATIONAL_INFRASTRUCTURE.md
 
-## Version 1.0
+## Version 1.2
 
 ## Status: Foundational Flow Principle
 
