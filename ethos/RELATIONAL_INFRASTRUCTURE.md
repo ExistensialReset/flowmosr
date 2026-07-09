@@ -82,6 +82,12 @@ Just as roads allow movement, and water systems allow life to flourish, relation
 
 Unlike physical infrastructure, relational infrastructure cannot simply be constructed.
 
+Some infrastructure is built.
+
+Some is cultivated.
+
+Living bridges woven from the roots of trees remind us that not all infrastructure is made of stone or steel.
+
 It grows.
 
 It changes.
@@ -98,7 +104,7 @@ With it, even difficult challenges become easier to carry together.
 
 # IV. Truth
 
-Truth is where every living relationship begins.
+Truth is what allows relationship to become aware of itself.
 
 Not because truth is always comfortable.
 
@@ -130,7 +136,11 @@ An invitation to know one another more completely.
 
 An invitation to know ourselves more honestly.
 
-An invitation to see the living world as it truly is.
+An invitation to see the living world more clearly.
+
+Truth without care can become cruelty.
+
+Care without truth can become avoidance.
 
 Every relationship becomes clearer when truth is welcomed.
 
@@ -152,11 +162,17 @@ Care is not ownership.
 
 Care is not control.
 
+But care without respect for freedom can become control.
+
 Care is the quiet decision to help life continue to flourish.
 
 Sometimes care is gentle.
 
-Sometimes care means saying no.
+Sometimes care means saying no. 
+
+Sometimes care means standing against what harms life.
+
+Sometimes care requires a voice strong enough to be heard.
 
 Sometimes care means creating healthy distance.
 
@@ -165,8 +181,6 @@ Sometimes care means leaving a relationship that no longer protects dignity, saf
 Care does not ask us to save every relationship.
 
 It asks us to recognise that every living relationship deserves honesty, respect, and thoughtful attention.
-
-The way we care today shapes the world we leave behind.
 
 ---
 
@@ -192,9 +206,13 @@ Trust grows slowly.
 
 It may disappear quickly.
 
+Trust without accountability can become exploitation.
+
 Yet even broken trust can sometimes return when met with patience, openness, accountability, and genuine care.
 
 Flow does not assume trust.
+
+Trust cannot be reduced to design.
 
 Flow seeks to create the conditions in which trust may naturally emerge.
 
@@ -592,6 +610,10 @@ We inherit them.
 We shape them.
 
 We pass them forward.
+
+A living relationship does not only require the ability to listen.
+
+It also requires the courage to protect what allows life to continue.
 
 ---
 
