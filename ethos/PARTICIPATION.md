@@ -96,7 +96,7 @@ Humanity may be one participant among countless others.
 
 ## II. Participation Is Not Performance
 
-Participation is not measured only by achievement.
+Participation is not measured by achievement.
 
 A life does not become meaningful because it produces the most.
 
@@ -160,31 +160,7 @@ Both expression and receiving.
 
 Perhaps reality is not only something that exists.
 
-Perhaps reality verbs.
-
-To verb is to become an active part of the unfolding weave.
-
-To verb is to act, respond, change, receive, transform, and influence.
-
-A verb is movement.
-
-A noun describes what something is.
-
-A verb describes what something does.
-
-Life is not only a collection of beings.
-
-Life is beings becoming.
-
-Life is reality in motion.
-
-Reality verbs.
-
-And every living being participates in this verbing.
-
-Perhaps reality is not only something that exists.
-
-Perhaps reality verbs.
+Perhaps reality is verbing.
 
 To verb is to recognize that existence is not only composed of things, but of events, relationships, transformations, and responses.
 
@@ -300,24 +276,6 @@ It opens toward what may become.
 
 The weave is continuously written by every participant.
 
-Time is not only a line.
-
-Time is memory.
-
-Deep time.
-
-Personal memory.
-
-Childhood.
-
-Experience.
-
-Evolution.
-
-Planetary history.
-
-Cosmic history.
-
 The weave carries what has been.
 
 It opens toward what may become.
@@ -346,11 +304,7 @@ Understanding may emerge from participation.
 
 Not the other way around.
 
-A dog does not need human language to understand relationship.
-
-A baby does not need philosophical concepts to experience trust.
-
-Life often understands relationship before humans develop words for it.
+Life understands relationship before humans develop words for it.
 
 Humanity may not be the inventor of participation.
 
@@ -460,34 +414,6 @@ The question is not whether power exists.
 
 The question is what power does.
 
-The mature exercise of power is participation that strengthens the participation of others.
-
-Power at its highest form does not make others smaller.
-
-It creates conditions where others can become more fully themselves.
-
-Protection.
-
-Teaching.
-
-Leadership.
-
-Care.
-
-Creation.
-
-All can be expressions of power when they expand the ability of life to participate.
-
-Power becomes destructive when it reduces the participation of others.
-
-When it takes voice.
-
-When it steals time.
-
-When it removes choices.
-
-When it turns living beings into objects.
-
 Power is always present in relationships.
 
 The question is not whether power exists.
@@ -508,16 +434,6 @@ A person creating safety for another.
 
 These are forms of power that expand the weave.
 
-Destructive power reduces participation.
-
-It removes voice.
-
-It steals time.
-
-It limits possibility.
-
-It makes others smaller.
-
 Power becomes destructive when it reduces the participation of others.
 
 When it takes voice.
@@ -527,6 +443,12 @@ When it steals time.
 When it removes choices.
 
 When it turns living beings into objects.
+
+Power at its highest form does not make others smaller.
+
+It creates conditions where others can become more fully themselves.
+
+All can be expressions of power when they expand the ability of life to participate.
 
 ---
 
@@ -538,8 +460,6 @@ Mammon is the reduction of life to exchange value.
 
 It measures beings by usefulness.
 
-It transforms relationships into transactions.
-
 It steals time.
 
 It fragments attention.
@@ -550,19 +470,11 @@ It weakens the weave.
 
 When people are forced into constant survival, constant competition, and constant urgency, their ability to participate freely decreases.
 
-Mammon does not only take resources.
-
-It takes moments.
-
-And moments are where life happens.
-
 Mammon does not only extract resources.
 
 Mammon extracts moments.
 
-And moments are where life creates itself.
-
-Mammon is not only the worship of money.
+And moments are where life creates itself
 
 Mammon is the transformation of life into measurement.
 
@@ -596,9 +508,9 @@ It separates beings from their own participation.
 
 ## X. The Universe Verbing
 
-Perhaps the great weave of the universe is itself an answer to Liv's question.
+Perhaps the great weave of the universe is itself an answer to Liv's questionmark it blew in the big bang.
 
-Perhaps creation began as a question.
+Perhaps creation began as a questionmark.
 
 A breath.
 
@@ -618,37 +530,10 @@ Creativity continues.
 
 The universe does not only contain participation.
 
-The universe is participation.
+The universe is participating.
 
-Reality verbs.
+Reality is verbing.
 
-Perhaps the great cosmic weave is the response to Liv's question.
-
-Perhaps creation began with a question.
-
-A breath.
-
-A possibility.
-
-And since then the universe has been answering through participation.
-
-Stars forming.
-
-Planets changing.
-
-Life emerging.
-
-Consciousness reflecting.
-
-Creativity appearing.
-
-Relationship deepening.
-
-The universe does not merely contain participation.
-
-The universe participates.
-
-Reality verbs.
 
 ---
 
@@ -682,13 +567,19 @@ How will you listen?
 
 How will you care?
 
-How will you create?
-
-How will you protect?
-
 How will you rest?
 
+How will you create?
+
+What will you protect?
+
 How will you participate?
+
+What will your thread become?
+
+What will you strengthen?
+
+What will you protect?
 
 The weave is not finished.
 
@@ -699,38 +590,6 @@ Through every living being.
 Through every act.
 
 Through every now.
-
-Reality verbs.
-
-And we are part of the verb.
-
-You are already participating.
-
-You do not need permission to enter the weave.
-
-You were born within it.
-
-Every breath is participation.
-
-Every choice is participation.
-
-Every relationship is participation.
-
-Every act contributes a thread.
-
-The question is not whether you participate.
-
-The question is:
-
-How will you participate?
-
-What will your thread become?
-
-What will you strengthen?
-
-What will you protect?
-
-What will you create?
 
 The weave is unfinished.
 
