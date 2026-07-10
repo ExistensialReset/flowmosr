@@ -456,7 +456,7 @@ Everything that becomes leaves a trace.
 
 ---
 
-## XIV. The Meaning of Verb
+## XIV. The Meaning of Verbing
 
 Verbing is the movement of existence through participation.
 
