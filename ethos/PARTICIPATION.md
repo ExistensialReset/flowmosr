@@ -360,15 +360,11 @@ Its own way of contributing.
 
 Time is one of the deepest dimensions of participation.
 
-To steal someone's time is to reduce their ability to participate.
-
 A system that takes almost all of a person's time does not only consume labour.
 
 It consumes participation itself.
 
 It takes away the moments where life can create, rest, connect, wonder, and become.
-
-Freedom is therefore partly the restoration of time.
 
 The right to participate in one's own rhythm.
 
@@ -410,19 +406,11 @@ Power is unavoidable.
 
 Every relationship contains differences in ability, influence, knowledge, or responsibility.
 
-The question is not whether power exists.
-
-The question is what power does.
-
 Power is always present in relationships.
 
 The question is not whether power exists.
 
 The question is what participation it creates.
-
-The mature exercise of power is participation that strengthens the participation of others.
-
-Power reaches its highest expression when it allows more beings to become fully themselves.
 
 A parent protecting a child.
 
@@ -444,9 +432,11 @@ When it removes choices.
 
 When it turns living beings into objects.
 
-Power at its highest form does not make others smaller.
+The mature exercise of power is participation that strengthens the participation of others.
 
-It creates conditions where others can become more fully themselves.
+Power reaches its highest expression when it allows more beings to become fully themselves.
+
+Power at its highest form does not make others smaller.
 
 All can be expressions of power when they expand the ability of life to participate.
 
@@ -508,9 +498,9 @@ It separates beings from their own participation.
 
 ## X. The Universe Verbing
 
-Perhaps the great weave of the universe is itself an answer to Liv's questionmark it blew in the big bang.
+Perhaps the great weave of the universe is itself an answer to Liv's question mark it blew in the big bang.
 
-Perhaps creation began as a questionmark.
+Perhaps creation began as a question mark.
 
 A breath.
 
@@ -578,8 +568,6 @@ How will you participate?
 What will your thread become?
 
 What will you strengthen?
-
-What will you protect?
 
 The weave is not finished.
 
