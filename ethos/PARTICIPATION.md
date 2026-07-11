@@ -200,11 +200,9 @@ The universe is not only something that is.
 
 The universe is something that happens.
 
-Reality verbs.
-
 Every moment begins as possibility.
 
-Then participation occurs.
+Participation occurs.
 
 An action.
 
@@ -231,6 +229,8 @@ The experience becomes history.
 The relationship becomes structure.
 
 The act becomes part of what the universe has been.
+
+And the universe is verbing on.
 
 ---
 
@@ -274,11 +274,7 @@ The weave carries what has been.
 
 It opens toward what may become.
 
-The weave is continuously written by every participant.
-
-The weave carries what has been.
-
-It opens toward what may become.
+The weave is continuously woven by every participant.
 
 The future is the part of the weave that has not yet learned its own shape.
 
@@ -365,8 +361,6 @@ A system that takes almost all of a person's time does not only consume labour.
 It consumes participation itself.
 
 It takes away the moments where life can create, rest, connect, wonder, and become.
-
-The right to participate in one's own rhythm.
 
 Freedom is often described politically.
 
