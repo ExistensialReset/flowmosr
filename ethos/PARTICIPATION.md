@@ -458,7 +458,7 @@ Mammon does not only extract resources.
 
 Mammon extracts moments.
 
-And moments are where life creates itself
+And moments are where life creates itself.
 
 Mammon is the transformation of life into measurement.
 
