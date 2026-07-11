@@ -24,6 +24,8 @@ Systemet existerar för att tjäna livet, inte livet för att tjäna systemet. V
 
 Systemet får aldrig kräva att individen anpassar sig till ett destruktivt system. 
 
+Evolution innebär inte att individens värde mäts efter systemets utveckling. Systemet utvecklas för att bättre tjäna redan existerande liv.
+
 ## AXIOM 5: STRUKTURELL OPARTISKHET
 Systemet iakttar endast logistiska principer. Det gör inga moraliska, beteendemässiga eller identitetsbaserade bedömningar. Systemisk intervention är begränsad till infrastruktur, aldrig till individens inneboende handlingskraft.
 
@@ -32,6 +34,8 @@ Ingen tidigare existerande tvångsmekanism, skuldinstrument eller hierarkiskt an
 
 ## AXIOM 7: OÅTERKALLELIG GRÄNS
 Dessa axiom är ontologiska begränsningar. Ingen människa, råd, AI eller extern entitet får åsidosätta eller omtolka dem. Kränkning av ett axiom utgör ett strukturellt misslyckande.
+
+Axiomen får förfinas i förståelse, men inte försvagas i funktion.
 
 ## SLUTLIGT PÅSTÅENDE: 
 Inget system får påtvinga brådska som överskrider människans förmåga till överläggning. Artificiella deadlines som tvingar fram hastiga beslut kränker Flödet.
