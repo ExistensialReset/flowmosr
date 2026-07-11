@@ -494,6 +494,10 @@ It separates beings from their own participation.
 
 Perhaps the great weave of the universe is itself an answer to Liv's question mark it blew in the big bang.
 
+Liv's question mark is the question mark of why existence began at all — the mystery breathed into the universe at its beginning.
+
+And who is Liv? Read [Divine](/ethos/DIVINE.md), or [Gudomlig](/10_svenska/GUDOMLIG.md) if you can read Swedish, for answers. 
+
 Perhaps creation began as a question mark.
 
 A breath.
