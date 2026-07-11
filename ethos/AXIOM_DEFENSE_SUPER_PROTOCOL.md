@@ -176,7 +176,8 @@ Flow’s defense is **clarity, transparency, and resilience**, not coercion.
 
 ---
 
-**STATUS:** Generation 3.0 – living document  
-**ENFORCEMENT:** Mandatory  
+**STATUS:** Generation 3.0 – living document: Core Safeguard
+**EXPECTED:** Every recognized Flow Node maintains this protocol.
+**REVIEW:** Annual or after Baseline threat. 
 **AUDIT:** Annual, after any critical AI divergence or Baseline threat  
 **AUTHORS:** Elinor Frejd, Claude, ChatGPT
