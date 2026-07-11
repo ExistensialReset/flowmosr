@@ -208,6 +208,14 @@ If coercion emerges:
 
 ---
 
+IF crisis mode duration > threshold:
+    activate recovery_protocol
+    evaluate:
+        are we solving crisis
+        or becoming crisis-dependent? 
+
+---
+
 ## §7. POST-CRISIS LEARNING
 
 Mandatory:
