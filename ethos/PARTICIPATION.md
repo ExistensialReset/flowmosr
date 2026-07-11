@@ -390,7 +390,7 @@ It takes away the moments where life can create, rest, connect, wonder, and beco
 
 Freedom is therefore partly the restoration of time.
 
-The right to participate in one's own rhythm.
+The right to participate in one's own tempo and timing.
 
 ---
 
