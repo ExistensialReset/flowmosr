@@ -34,6 +34,18 @@ Crisis Mode activates automatically when:
 - OR critical infrastructure failure is detected  
 - OR rapid degradation trend (>10% decline within 48h)
 
+Social Drift TRIGGER:
+
+IF:
+    participation ↓
+    trust ↓
+    conflict avoidance ↑
+    voluntary contribution ↓
+
+THEN:
+    activate early_warning_mode
+
+
 > No vote required for initial activation
 
 ---
