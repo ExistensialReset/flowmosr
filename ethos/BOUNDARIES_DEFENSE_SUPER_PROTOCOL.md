@@ -1,10 +1,10 @@
-# AXIOM_DEFENSE_SUPER_PROTOCOL.md
+# BOUNDARIES_DEFENSE_SUPER_PROTOCOL.md
 
 **Directory:** `/ethos`  
 **Status:** Core Safeguard Architecture – Integrated Human, Child & Planetary Defense  
 **Version:** 3.0  
 **Authors:** Elinor Frejd, Claude & ChatGPT (in resonance with Existential Reset Sovereignty)  
-**Depends on:** `AXIOMS.md`, `DIVINE.md`, `AI_AS_COMPANION.md`, `AI_DIVERGENCE_PROTOCOL.md`, `BASELINE_EMERGENCY_BYPASS.md`, `CHILDREN'S_RIGHTS_IN_FLOW.md`, `ECOLOGICAL_AXIOM.md`, `EARTH_OUR_MOTHER.md`  
+**Depends on:** `BOUNDARIES.md`, `DIVINE.md`, `AI_AS_COMPANION.md`, `AI_DIVERGENCE_PROTOCOL.md`, `BASELINE_EMERGENCY_BYPASS.md`, `CHILDREN'S_RIGHTS_IN_FLOW.md`, `ECOLOGICAL_AXIOM.md`, `EARTH_OUR_MOTHER.md`  
 
 ---
 
