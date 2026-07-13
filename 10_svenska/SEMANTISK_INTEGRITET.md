@@ -19,6 +19,8 @@ Semantisk Integritet skyddar inte ord.
 
 Den skyddar deras funktion.
 
+När ordens funktion bevaras kan också axiomens funktion bevaras.
+
 Definitionerna i detta dokument får fördjupas och förfinas, men aldrig försvagas så att de kan användas för att legitimera tvång.
 
 ---
@@ -140,9 +142,10 @@ Frihet är möjligheten att följa sin egen rörelse genom relation utan tvång.
 
 Frihet upphör där annat liv förnekas sin egen frihet.
 
-Frihet är att följa sin egen rörelse genom relation utan tvång.
 Frihet är livets möjlighet att uttrycka sin riktning i samspel med annat liv.
+
 Frihet innebär inte frånvaro av relation, ansvar eller begränsningar.
+
 Frihet innebär frånvaro av påtvingad underkastelse.
 
 ---
@@ -189,8 +192,6 @@ Tvång är när strukturer förhindrar frihet.
 
 Tvång uppstår när underkastelse blir villkoret för deltagande.
 
-Tvång blockerar livets rörelse.
-
 Tvång är inte all begränsning.
 
 En gräns skyddar liv.
@@ -201,7 +202,7 @@ Tvång blockerar livets egen rörelse.
 
 ---
 
-# BASLINJE
+# BASLINJE (GRUNDNIVÅ) 
 
 Baslinjen är det som varje människa ges därför att hon finns.
 
@@ -227,8 +228,6 @@ Baslinjen får aldrig definieras enbart efter vad som krävs för att en männis
 
 Flöde är när livets rörelse inte blockeras av tvång.
 
-Flöde uppstår när strukturer, relationer och resurser tjänar livets rörelse istället för att hindra den.
-
 Flöde är det tillstånd där liv kan röra sig genom relation, tid och förändring utan att hindras av strukturer som kräver underkastelse istället för att tjäna liv.
 
 Flöde innebär inte frånvaro av alla begränsningar.
@@ -236,6 +235,8 @@ Flöde innebär inte frånvaro av alla begränsningar.
 Levande system har rytm, gränser och återhämtning.
 
 Flöde uppstår när strukturer, relationer och resurser samverkar med livets rörelse istället för att blockera den.
+
+Flöde kan därför inte produceras. Det kan endast möjliggöras.
 
 ---
 
@@ -259,7 +260,7 @@ En struktur är en organiserad form som påverkar hur livets rörelse kan uttryc
 
 En struktur som bär liv minskar onödig friktion och frigör livets egen kraft.
 
-En struktur som bär liv hjälper relationer, resurser och rörelse att samverka.
+En struktur är god när människor nästan glömmer att den finns, därför att den tjänar livet utan att kräva uppmärksamhet. 
 
 En struktur som binder liv ökar friktion och fångar livets kraft.
 
@@ -304,3 +305,11 @@ När ett ord börjar tjäna strukturen istället för livet har Axiomerosion bö
 Semantisk Integritet är därför inte ett lexikon.
 
 Den är ett immunförsvar.
+
+---
+
+> När ord förlorar sin funktion börjar strukturer förlora sin riktning. 
+
+> Semantisk Integritet bevarar ordens funktion för att livet ska kunna bevara sin. 
+
+> När ordens funktion bevaras kan livet fortsätta känna igen sig självt. 
