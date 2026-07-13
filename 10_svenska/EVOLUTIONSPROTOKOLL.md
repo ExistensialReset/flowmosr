@@ -265,7 +265,13 @@ Ett Flödesförslag får spridning genom observerad funktion, inte genom auktori
 
 ---
 
-# PRINCIP 13: SKYDD MOT EVOLUTIONSERO­SION
+# PRINCIP 13: ÖVERLEVNAD AV BÄTTRE IDÉER, INTE STARKARE AKTÖRER
+
+Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
+
+---
+
+# PRINCIP 14: SKYDD MOT EVOLUTIONSERO­SION
 
 Evolution får aldrig användas för att legitimera:
 
@@ -281,7 +287,7 @@ Systemet utvecklas för att bättre tjäna livet.
 
 ---
 
-# PRINCIP 14: VILA SOM EVOLUTION
+# PRINCIP 15: VILA SOM EVOLUTION
 
 Ett system som alltid förändras kan förlora sin förmåga att känna sin riktning.
 
@@ -292,12 +298,6 @@ Att bevara något som fungerar är också ett aktivt val.
 Lugn är inte motsatsen till utveckling.
 
 Lugn är en förutsättning för hållbar utveckling.
-
----
-
-# PRINCIP 15: ÖVERLEVNAD AV BÄTTRE IDÉER, INTE STARKARE AKTÖRER
-
-Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
 
 
 ---
