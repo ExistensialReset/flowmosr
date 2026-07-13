@@ -22,6 +22,10 @@ Evolution är när strukturer, relationer och protokoll förändras för att bä
 
 Detta dokument definierar hur förändring sker inom Flow/M-OS-R.
 
+Evolution sker där livet möter verkligheten.
+
+Protokoll bevarar lärdomar, men får aldrig ersätta levande erfarenhet.
+
 ---
 
 # GRUNDPRINCIP
