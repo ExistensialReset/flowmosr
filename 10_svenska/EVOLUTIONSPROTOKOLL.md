@@ -70,6 +70,9 @@ Ett Flödesförslag bedöms inte efter vem som skapat det.
 
 Det bedöms efter dess konsekvenser för livets rörelse.
 
+
+Ett Flödesförslag mäter inte framgång genom maximal effektivitet, utan genom minskad friktion med bibehållen livskvalitet.
+
 ---
 
 # PRINCIP 3: FLÖDESFÖRSLAGETS STRUKTUR
@@ -251,6 +254,12 @@ Att bevara något som fungerar är också ett aktivt val.
 Lugn är inte motsatsen till utveckling.
 
 Lugn är en förutsättning för hållbar utveckling.
+
+---
+
+# PRINCIP 14: ÖVERLEVNAD AV BÄTTRE IDÉER, INTE STARKARE AKTÖRER
+
+Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
 
 ---
 
