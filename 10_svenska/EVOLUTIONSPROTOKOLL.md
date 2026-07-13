@@ -78,7 +78,7 @@ En Patch är en begränsad experimentell förändring som implementeras under en
 Begreppet Patch används eftersom det beskriver en begränsad förändring som kan testas utan att hela systemets struktur behöver ändras:
 - den ändrar inte hela systemet
 - den kan testas
-- den kan rullas tillbaka
+- den ska, när det är möjligt, kunna rullas tillbaka 
 - den bygger vidare på befintlig protokollstruktur. 
 
 ---
@@ -133,6 +133,8 @@ Syftet med testperioden är inte att bevisa att förslaget är rätt.
 
 Syftet är att låta verkligheten ge återkoppling.
 
+Mikrocirkeln avgör själv om en Patch får testas, så länge den inte påverkar andra mikrocirklar, eller skapar irreversibla konsekvenser för andra, eller bryter mot axiomen.
+
 ---
 
 # PRINCIP 6: UTVÄRDERING
@@ -173,7 +175,7 @@ En Patch ska, när det är möjligt, vara:
 - observerbar
 - möjlig att återgå från 
 
-En förändring som inte kan återkallas kräver en högre prövningsnivå innan implementering. 
+En förändring som inte kan återkallas kräver ytterligare prövningsnivå innan implementering. 
 
 LOTUS kan användas som granskningsmekanism när förändringen påverkar flera mikrocirklar eller systemets konstitutionella funktion.
 
@@ -197,11 +199,13 @@ Mångfald av fungerande lösningar är ett tecken på evolution, inte ett system
 
 När ett Flödesförslag eller en Patch visat sig minska friktion och bättre tjäna livet kan det bli en del av mikrocirkelns protokoll.
 
-Om samma princip visar sig fungera i många olika sammanhang kan den erbjudas som gemensam Flow-standard.
+Om samma princip visar sig fungera i många olika sammanhang kan den erbjudas som gemensam Flow-standard. 
 
 En standard är ett destillerat lärande.
 
 Den är inte ett kommando.
+
+Särskilt om förändringen påverkar Baslinjen, kognitiv suveränitet eller axiomens funktion.
 
 ---
 
@@ -257,6 +261,8 @@ till
 
 Gemensam standard.
 
+Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
+
 ---
 
 # PRINCIP 13: SKYDD MOT EVOLUTIONSERO­SION
@@ -292,6 +298,28 @@ Lugn är en förutsättning för hållbar utveckling.
 # PRINCIP 15: ÖVERLEVNAD AV BÄTTRE IDÉER, INTE STARKARE AKTÖRER
 
 Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
+
+
+---
+
+# PRINCIP 16: TRANSPARENS VID FÖRÄNDRING
+
+En förändring av ett protokoll ska alltid dokumenteras tillsammans med dess ursprung, syfte, testresultat och observerade konsekvenser. 
+
+Evolution får aldrig endast optimera framtiden genom att förlora tidigare generationers erfarenheter.
+
+---
+
+# PRINCIP 17: LÅNGSAMHETENS PRINCIP
+
+Ju fler människor en förändring påverkar, desto långsammare och mer observerbar måste förändringsprocessen vara.
+
+
+---
+
+# PRINCIP 18: SEMANTISK KONTINUITET
+
+Ingen protokollförändring får ske genom att centrala begrepp ändrar betydelse utan att förändringen dokumenteras, förklaras och prövas mot SEMANTISK_INTEGRITET.md.
 
 ---
 
