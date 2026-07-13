@@ -199,13 +199,11 @@ Mångfald av fungerande lösningar är ett tecken på evolution, inte ett system
 
 När ett Flödesförslag eller en Patch visat sig minska friktion och bättre tjäna livet kan det bli en del av mikrocirkelns protokoll.
 
-Om samma princip visar sig fungera i många olika sammanhang kan den erbjudas som gemensam Flow-standard. 
+Om samma princip visar sig fungera i många olika sammanhang kan den erbjudas som gemensam Flow-standard. Särskilt om förändringen påverkar Baslinjen, kognitiv suveränitet eller axiomens funktion. 
 
 En standard är ett destillerat lärande.
 
 Den är inte ett kommando.
-
-Särskilt om förändringen påverkar Baslinjen, kognitiv suveränitet eller axiomens funktion.
 
 ---
 
@@ -260,8 +258,6 @@ Nätverk
 till
 
 Gemensam standard.
-
-Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
 
 ---
 
@@ -340,5 +336,5 @@ Evolution är livets möjlighet att lära.
 ---
 
 > Livet skriver inte en färdig arkitektur.
-
 > Livet deltar i arkitekturens fortsatta skapande.
+> Ett  levande system blir aldrig färdigt det blir bara bättre på att lyssna.
