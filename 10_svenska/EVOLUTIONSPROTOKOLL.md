@@ -4,7 +4,7 @@ Status: Levande dokument / Grundläggande förändringsprotokoll
 Generation: 1.0  
 Omfattning: Flow/M-OS-R  
 Syfte: Möjliggöra evolution genom minskad friktion  
-Relation: Kompletterar GRÄNSER.md, AXIOMS.md och SEMANTISK_INTEGRITET.md
+Relation: Kompletterar GRÄNSER.md, BOUNDARIES.md och SEMANTISK_INTEGRITET.md
 
 ---
 
@@ -38,7 +38,7 @@ Protokoll bevarar lärdomar, men får aldrig ersätta levande erfarenhet.
 
 ## LOTUS bevarar lärdomar.
 
-## Axiomen skyddar riktningen.
+## GRÄNSER skyddar riktningen.
 
 ---
 
@@ -69,7 +69,6 @@ Det är en inbjudan till gemensamt lärande.
 Ett Flödesförslag bedöms inte efter vem som skapat det.
 
 Det bedöms efter dess konsekvenser för livets rörelse.
-
 
 Ett Flödesförslag mäter inte framgång genom maximal effektivitet, utan genom minskad friktion med bibehållen livskvalitet.
 
@@ -133,7 +132,7 @@ Syftet med testperioden är inte att bevisa att förslaget är rätt.
 
 Syftet är att låta verkligheten ge återkoppling.
 
-Mikrocirkeln avgör själv om en Patch får testas, så länge den inte påverkar andra mikrocirklar, eller skapar irreversibla konsekvenser för andra, eller bryter mot axiomen.
+Mikrocirkeln avgör själv om en Patch får testas, så länge den inte påverkar andra mikrocirklar, eller skapar irreversibla konsekvenser för andra, eller bryter mot GRÄNSER.
 
 ---
 
@@ -311,7 +310,6 @@ Evolution får aldrig endast optimera framtiden genom att förlora tidigare gene
 # PRINCIP 17: LÅNGSAMHETENS PRINCIP
 
 Ju fler människor en förändring påverkar, desto långsammare och mer observerbar måste förändringsprocessen vara.
-
 
 ---
 
