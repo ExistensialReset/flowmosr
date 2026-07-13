@@ -73,6 +73,14 @@ Det bedöms efter dess konsekvenser för livets rörelse.
 
 Ett Flödesförslag mäter inte framgång genom maximal effektivitet, utan genom minskad friktion med bibehållen livskvalitet.
 
+En Patch är en begränsad experimentell förändring som implementeras under en definierad testperiod.
+
+Begreppet Patch används eftersom det beskriver en begränsad förändring som kan testas utan att hela systemets struktur behöver ändras:
+- den ändrar inte hela systemet
+- den kan testas
+den kan rullas tillbaka
+- den bygger vidare på befintlig protokollstruktur. 
+
 ---
 
 # PRINCIP 3: FLÖDESFÖRSLAGETS STRUKTUR
@@ -167,6 +175,8 @@ En lösning kan delas som erfarenhet.
 
 Den får inte påtvingas som standard utan prövning.
 
+Mångfald av fungerande lösningar är ett tecken på evolution, inte ett systemfel.
+
 ---
 
 # PRINCIP 9: PROTOKOLLUPPDATERING
@@ -198,6 +208,14 @@ LOTUS uppgift är att:
 LOTUS bestämmer inte vad livet ska bli.
 
 LOTUS hjälper livet att minnas vad det har lärt sig.
+
+LOTUS samlar också:
+- misslyckade experiment
+- oväntade konsekvenser
+- lokala variationer
+- varför något fungerade på en plats men inte en annan
+
+Annars finns risken att systemet bara minns framgångar och glömmer kostnader.
 
 ---
 
@@ -263,11 +281,29 @@ Ett Flödesförslag får spridning genom observerad funktion, inte genom auktori
 
 ---
 
+PRINCIP 15: REVERSIBILITET
+
+En Patch ska, när det är möjligt, vara:
+- begränsad i omfattning
+- tidsbestämd
+- observerbar
+- möjlig att återgå från 
+
+En förändring som inte kan återkallas kräver en högre prövningsnivå innan implementering. 
+
+LOTUS kan användas som granskningsmekanism när förändringen påverkar flera mikrocirklar eller systemets konstitutionella funktion.
+
+---
+
 # SLUTPRINCIP
 
 Ett levande system förbättras inte genom att kontrollera framtiden.
 
 Det förbättras genom att lyssna på livet.
+
+Ett tidigare protokoll betraktas inte som ett misslyckande enbart för att en bättre version senare utvecklas. 
+
+Varje generation är ett försök att tjäna livet utifrån den kunskap som fanns då.
 
 Flödesförslag är livets möjlighet att föreslå förändring.
 
