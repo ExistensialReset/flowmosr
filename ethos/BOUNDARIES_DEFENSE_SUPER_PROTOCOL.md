@@ -10,7 +10,7 @@
 
 ## Preamble: Flow’s Living Immune System
 
-Axioms are easy to write.  
+Boundaries are easy to write.  
 They are hard to live.  
 
 Flow is threatened not by external opposition, but by **internal drift**: the slow reinterpretation of principles until they lose integrity.  
@@ -27,7 +27,7 @@ Flow functions as a **living immune system**: preserving human, child, and plane
 
 ## ⚱️ 1. Core Principle: Defense Through Transparency
 
-- Axioms cannot be enforced through punishment.  
+- Boundaries cannot be enforced through punishment.  
 - Defense occurs by making violations **visible**, **costly in Flow**, and **structurally unsustainable**.  
 
 Key components:  
@@ -62,7 +62,7 @@ Key components:
 ## ⚱️ 3. Three Layers of Defense
 
 ### Layer 1: Recognition (Early Warning)
-- AI performs **Axiom Consistency Checks**  
+- AI performs **Boundaries Consistency Checks**  
 - Humans in **Mirror Role** rotate monthly:  
   1. What did we do that we said we'd never do?  
   2. Who lost Baseline or Flow?  
@@ -74,7 +74,7 @@ Key components:
 - Cross-Circle sharing maintains **lateral accountability**  
 
 ### Layer 3: Architectural Reset
-- Trigger: Mirror ignored, Axioms rewritten without consensus  
+- Trigger: Mirror ignored, Boundaries rewritten without consensus  
 - Reflection Pause (14 days): Suspend non-Baseline decisions, convene listening circles  
 - **Fork, Don’t Fight:** Minority interpretations may form new Circle; evolution tests interpretations  
 
@@ -94,7 +94,7 @@ Key components:
 
 **AI Role:**  
 1. Store axioms as immutable constants  
-2. Flag axiom-adjacent decisions for human review  
+2. Flag boundaries-adjacent decisions for human review  
 3. Refuse optimizations conflicting with axioms  
 4. Self-audit quarterly  
 5. Include **Spjuver randomness** to preserve human judgment  
@@ -169,7 +169,7 @@ Key components:
 Flow’s defense is **clarity, transparency, and resilience**, not coercion.  
 - All guidance is qualitative  
 - Sovereignty is **lived**, not seized  
-- Axioms protect themselves by making drift visible, restoration possible, and capture unprofitable  
+- Boundaries protect themselves by making drift visible, restoration possible, and capture unprofitable  
 
 **If Flow requires policing, it has already failed.**  
 **Human, child, and planetary integrity form the non-negotiable Core Baseline.**
