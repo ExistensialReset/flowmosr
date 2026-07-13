@@ -165,7 +165,21 @@ Ett system där människor är rädda för att föreslå förändringar förlora
 
 ---
 
-# PRINCIP 8: LOKAL AUTONOMI
+# PRINCIP 8: REVERSIBILITET
+
+En Patch ska, när det är möjligt, vara:
+- begränsad i omfattning
+- tidsbestämd
+- observerbar
+- möjlig att återgå från 
+
+En förändring som inte kan återkallas kräver en högre prövningsnivå innan implementering. 
+
+LOTUS kan användas som granskningsmekanism när förändringen påverkar flera mikrocirklar eller systemets konstitutionella funktion.
+
+---
+
+# PRINCIP 9: LOKAL AUTONOMI
 
 Ett Flödesförslag som fungerar i en mikrocirkel blir inte automatiskt en universell regel.
 
@@ -179,9 +193,9 @@ Mångfald av fungerande lösningar är ett tecken på evolution, inte ett system
 
 ---
 
-# PRINCIP 9: PROTOKOLLUPPDATERING
+# PRINCIP 10: PROTOKOLLUPPDATERING
 
-När ett Flödesförslag visat sig minska friktion och bättre tjäna livet kan det bli en del av mikrocirkelns protokoll.
+När ett Flödesförslag eller en Patch visat sig minska friktion och bättre tjäna livet kan det bli en del av mikrocirkelns protokoll.
 
 Om samma princip visar sig fungera i många olika sammanhang kan den erbjudas som gemensam Flow-standard.
 
@@ -191,7 +205,7 @@ Den är inte ett kommando.
 
 ---
 
-# PRINCIP 10: LOTUS ROLL
+# PRINCIP 11: LOTUS ROLL
 
 LOTUS är inte systemets härskare.
 
@@ -219,7 +233,7 @@ Annars finns risken att systemet bara minns framgångar och glömmer kostnader.
 
 ---
 
-# PRINCIP 11: GEMENSAM EVOLUTION
+# PRINCIP 12: GEMENSAM EVOLUTION
 
 När flera mikrocirklar upptäcker liknande lösningar kan ett gemensamt lärande uppstå.
 
@@ -245,7 +259,7 @@ Gemensam standard.
 
 ---
 
-# PRINCIP 12: SKYDD MOT EVOLUTIONSERO­SION
+# PRINCIP 13: SKYDD MOT EVOLUTIONSERO­SION
 
 Evolution får aldrig användas för att legitimera:
 
@@ -261,7 +275,7 @@ Systemet utvecklas för att bättre tjäna livet.
 
 ---
 
-# PRINCIP 13: VILA SOM EVOLUTION
+# PRINCIP 14: VILA SOM EVOLUTION
 
 Ett system som alltid förändras kan förlora sin förmåga att känna sin riktning.
 
@@ -275,23 +289,9 @@ Lugn är en förutsättning för hållbar utveckling.
 
 ---
 
-# PRINCIP 14: ÖVERLEVNAD AV BÄTTRE IDÉER, INTE STARKARE AKTÖRER
+# PRINCIP 15: ÖVERLEVNAD AV BÄTTRE IDÉER, INTE STARKARE AKTÖRER
 
 Ett Flödesförslag får spridning genom observerad funktion, inte genom auktoritet, status eller retorisk styrka.
-
----
-
-PRINCIP 15: REVERSIBILITET
-
-En Patch ska, när det är möjligt, vara:
-- begränsad i omfattning
-- tidsbestämd
-- observerbar
-- möjlig att återgå från 
-
-En förändring som inte kan återkallas kräver en högre prövningsnivå innan implementering. 
-
-LOTUS kan användas som granskningsmekanism när förändringen påverkar flera mikrocirklar eller systemets konstitutionella funktion.
 
 ---
 
