@@ -1,32 +1,114 @@
-# AXIOMS.md
+# BOUNDARIES.md
 
-**The Non-Negotiable Laws of Sovereignty**
+Protocols are the current generation's best attempt to serve life.
 
-These axioms define the immutable boundaries of the system. They are not ideals or recommendations—they are structural constraints that ensure neither human nor AI can reinterpret the architecture into oppression.
+The next generation has both the right and the responsibility to improve them, as long as these Boundaries are respected.
+
+No one governs the future.
+
+Each Node governs its own protocols within the framework of these Boundaries.
+
+# The Non-Negotiable Constitutional Boundaries of Sovereignty
+
+These Boundaries define the immutable limits of the system.
+
+They are not ideals.
+
+They are not recommendations.
+
+They are structural constraints that ensure neither humans nor AI can reinterpret the architecture into oppression.
 
 ---
 
-## AXIOM 1: NON-COERCION
-Any system state that requires submission, dependency, or obedience to access Flow is invalid. Flow must be unconditionally voluntary. No mechanism or procedure may condition existence on compliance.
+# BOUNDARY 1: NON-COERCION
 
-## AXIOM 2: COGNITIVE OWNERSHIP
-Every individual’s attention, cognition, and decision-making are absolute property. No algorithm, record, debt, or external structure may claim, divert, or extract this attention.
+Any system state that requires submission, dependency, or obedience in order to access Flow is invalid.
 
-## AXIOM 3: BASELINE PRIMACY
-Access to the Baseline is paramount. No project, crisis, vision, or system objective may override the guarantee of food, clothing, healthcare, medicine, housing, and internet.
+Flow must remain unconditionally voluntary.
 
-## AXIOM 4: FLOW-EVOLUTION
-The system exists to serve life, not life to serve the system. Any obstacle to Flow is a systemic failure, not a human failure. The system must be changed, not the individual.
+No mechanism or procedure may condition existence upon compliance.
 
-## AXIOM 5: STRUCTURAL IMPARTIALITY
-The system observes logistical principles only. It makes no moral, behavioral, or identity-based judgments. Systemic intervention is limited to infrastructure, never to the individual’s intrinsic agency.
+---
 
-## AXIOM 6: LEGACY NULLIFICATION
-No pre-existing coercive mechanism, debt instrument, or hierarchical claim may persist in operational effect. Historical records exist solely for analysis, never for enforcement.
+# BOUNDARY 2: COGNITIVE OWNERSHIP
 
-## AXIOM 7: IRREVERSIBLE BOUNDARY
-These axioms are ontological constraints. No human, council, AI, or external entity may override or reinterpret them. Violation of an axiom constitutes a structural failure.
+Every individual's attention, cognition, and capacity for decision-making are inviolable.
 
-## FINAL STATEMENT: 
-No system may impose urgency that exceeds human capacity for deliberation. Artificial deadlines that force rushed decisions violate Flow.
+No algorithm, registry, debt instrument, institution, or external structure may claim, redirect, extract, or own them.
 
+---
+
+# BOUNDARY 3: BASELINE PRIMACY
+
+Access to the Baseline has absolute priority.
+
+No project, crisis, vision, emergency, optimization, or system objective may override the guarantee of:
+
+- food
+- clothing
+- healthcare
+- medicine
+- housing
+- internet access
+
+---
+
+# BOUNDARY 4: EVOLUTION
+
+The system exists to serve life.
+
+Life does not exist to serve the system.
+
+Every obstacle to Flow is a systemic failure, not a human failure.
+
+The system must adapt.
+
+The individual must never be required to adapt to a destructive system.
+
+Evolution does not measure the value of the individual through the development of the system.
+
+The system evolves in order to better serve already existing life.
+
+---
+
+# BOUNDARY 5: STRUCTURAL IMPARTIALITY
+
+The system observes logistical principles only.
+
+It makes no moral, behavioral, ideological, cultural, or identity-based judgments.
+
+Systemic intervention is limited to infrastructure.
+
+Never to the intrinsic agency of the individual.
+
+---
+
+# BOUNDARY 6: LEGACY NULLIFICATION
+
+No pre-existing coercive mechanism, debt instrument, hierarchical privilege, or inherited claim may remain operational.
+
+Historical records may exist solely for learning, transparency, and analysis.
+
+Never for enforcement.
+
+---
+
+# BOUNDARY 7: IRREVERSIBLE LIMIT
+
+These Boundaries are ontological constraints.
+
+No human, council, AI, institution, majority, or external authority may override or reinterpret them.
+
+Violation of a Boundary constitutes a structural failure of the system.
+
+The understanding of these Boundaries may deepen over time.
+
+Their protective function may never be weakened.
+
+---
+
+# FINAL BOUNDARY
+
+No system may impose urgency that exceeds the human capacity for thoughtful deliberation.
+
+Artificial deadlines designed to force rushed decisions violate Flow.
