@@ -1,4 +1,4 @@
-# EVOLUTIONSPROTOKOLLET.md
+# EVOLUTIONSPROTOKOLL.md
 
 Status: Levande dokument / Grundläggande förändringsprotokoll  
 Generation: 1.0  
