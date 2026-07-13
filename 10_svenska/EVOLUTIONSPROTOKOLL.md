@@ -78,7 +78,7 @@ En Patch är en begränsad experimentell förändring som implementeras under en
 Begreppet Patch används eftersom det beskriver en begränsad förändring som kan testas utan att hela systemets struktur behöver ändras:
 - den ändrar inte hela systemet
 - den kan testas
-den kan rullas tillbaka
+- den kan rullas tillbaka
 - den bygger vidare på befintlig protokollstruktur. 
 
 ---
