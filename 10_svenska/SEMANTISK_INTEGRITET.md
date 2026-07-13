@@ -6,6 +6,8 @@ Omfattning: Flow/M-OS-R
 Syfte: Skydd mot Axiomerosion
 Relation: Kompletterar GRÄNSER.md och AXIOMS.md
 
+**Semantisk Integritet kräver inte att ord aldrig förändras. Den kräver att varje förändring erkänns öppet, motiveras tydligt och prövas mot axiomens funktion.**
+
 ---
 
 # PREAMBEL
