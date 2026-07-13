@@ -1,8 +1,115 @@
 # SEMANTISK_INTEGRITET.md
 
-Status: Levande dokument
+Status: Levande dokument/Grundläggande skyddslager
 Generation: 1.0
+Omfattning: Flow/M-OS-R
 Syfte: Skydd mot Axiomerosion
+Relation: Kompletterar GRÄNSER.md och AXIOMS.md
+
+---
+
+# PREAMBEL
+
+Ord är infrastruktur.
+
+Ett system består inte endast av människor, resurser och protokoll.
+
+Det består också av betydelser.
+
+När betydelsen av centrala begrepp förändras utan att förändringen erkänns, kan ett system behålla samma språk men förlora sin ursprungliga funktion.
+
+Detta kallas semantisk erosion.
+
+Semantisk erosion är en primär risk för alla värdebaserade system.
+
+Därför skyddas inte endast handlingar.
+Även språkets integritet skyddas.
+
+
+## PRINCIP 1: FUNKTION FÖRE FORM
+
+Ett begrepp definieras inte endast av sitt namn.
+
+Ett begrepp definieras av vilken funktion det har i relation till livet.
+
+Om ett ord behåller sin form men byter funktion har en förändring skett.
+
+Den förändringen måste göras synlig.
+
+## PRINCIP 2: INGA SKYDDSORD FÅR ANVÄNDAS FÖR ATT MOTIVERA MOTSATSEN
+
+Ett system får inte använda ett värdeord för att legitimera handlingar som förstör värdets grundfunktion.
+
+Exempel:
+Frihet får inte definieras som rätten att välja inom strukturer som tar bort faktisk handlingsförmåga.
+
+Säkerhet får inte definieras som kontroll över individens autonomi.
+
+Effektivitet får inte definieras som maximal produktion på bekostnad av Baseline.
+
+Demokrati får inte definieras enbart som majoritetsbeslut utan skydd för individuell suveränitet.
+
+## PRINCIP 3: DEFINITIONER ÄR LEVANDE MEN INTE GODTYCKLIGA
+
+Nästa generation får förbättra förståelsen av begrepp.
+
+Men förbättring innebär fördjupning.
+
+Inte omvändning.
+
+Ett ord får utvecklas.
+
+Det får inte tömmas på sin ursprungliga skyddande funktion.
+
+## Grundprincip
+
+Ord är infrastruktur.
+
+Precis som fysisk infrastruktur kan förstöras genom missbruk kan begrepp förstöras genom betydelseförskjutning.
+
+Ett system som förlorar kontroll över sina centrala begrepp förlorar förmågan att korrigera sig självt.
+
+1. Definition
+Semantisk integritet innebär att centrala ord inom ett system måste behålla en spårbar relation mellan:
+Ord → Definition → Praktik → 
+Konsekvens
+
+Ett ord är inte vad systemet säger att det betyder.
+
+Ett ord är vad systemet faktiskt gör under dess namn.
+
+2. Axiomskydd
+När ett begrepp används för att legitimera handlingar måste frågan ställas:
+"Överensstämmer handlingen med den ursprungliga strukturella betydelsen?"
+Exempel:
+"Baslinje"
+
+Om Baslinje betyder:
+garanterad tillgång till mänskliga grundbehov
+men i praktiken betyder:
+tillgång för dem som bidrar tillräckligt
+då har ordet eroderats.
+
+3. Erosionssignaler
+
+Semantisk erosion uppstår när:
+undantag blir standard
+- definitioner breddas utan erkännande
+- ord används som moraliska sköldar
+- kritik av ordets användning betraktas som kritik av gruppens identitet
+ursprunglig funktion ersätts av symboliskt värde
+
+4. Reparationsprocess
+
+När ett centralt begrepp misstänks ha eroderat:
+
+- Begreppet pausas
+- Historisk definition granskas
+- Praktisk användning kartläggs
+- Berörda människor hörs
+- Definitionen återställs eller förändras öppet
+
+> Ingen förändring sker genom tyst glidning.
 
 ---
 
