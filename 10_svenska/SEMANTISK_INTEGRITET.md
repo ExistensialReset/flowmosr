@@ -96,7 +96,7 @@ Relation är den process genom vilken liv påverkar, formas och möjliggör anna
 
 ---
 
-# INKÄNNANDE
+# INKÄNNANDE (I) 
 
 Inkännande är att känna tillhörighet till livet och allt det innebär.
 
