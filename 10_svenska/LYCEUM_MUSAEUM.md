@@ -332,7 +332,7 @@ Det **avlägsnar endast hinder**.
 **VALIDERING:** Montessori, Sudbury, unschooling, Urfolkspedagogik, neurovetenskap  
 **ÅTAGANDE:** Lärande utan rädsla, tvång eller berövande  
 
-# DIVINE_CROSSWALK  
+## DIVINE_CROSSWALK  
 *Hur Lyceum Musaeum Genererar Höga Ψ-Villkor*
 
 ---
