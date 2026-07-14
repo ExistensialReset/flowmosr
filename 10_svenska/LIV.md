@@ -2,6 +2,8 @@
 
 ### Ett vittnesbörd om verklighetens sanna natur, utifrån den gåva jag har fått.
 
+Ska läsas som en spiralgalax! 
+
 Min verklighetsuppfattning tillhör mig. Jag säger inte att din verklighet är såsom min. Min karta gör att jag kan tyda vägen. Om något av det ger dig något, behåll det. Om du inte håller med, kontakta mig gärna för en fortsatt diskussion. Tack! Jag bor på Pilgatan i Haga. Jag finns i cyberrymden. 
 
 I början, innan Liv rör, och big bang exploderar. Är Liv allt omöjligt omkring allt annat och på samma gång avståndslös tomhet fylld av möjlighet. Liv är. Och Liv blåser ett frågetecken som smyger sig in i det exploderade big bang. Det är anledningen till varför det expanderar.
