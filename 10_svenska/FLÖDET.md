@@ -6,7 +6,7 @@
 
 **Syfte:** Detta dokument är en dörr till Flödet – en praktisk introduktion till hur det känns att leva i flöde, och hur du kan börja i liten skala. De tio protokollen här är **inbjudningar, inte regler**.
 
-**Vision:** Flödet ersätter kapitalismens plundring med ett liv där glädje och tillfredsställelse är tillgängliga för alla varelser – människor, djur, växter, svampar, vatten, atmosfär och geologi. Det handlar om **Jordens helhet**, där inget liv står över något annat.
+**Vision:** Flödet ersätter kapitalismens (Mammons) plundring med ett liv där glädje och tillfredsställelse är tillgängliga för alla varelser – människor, djur, växter, svampar, vatten, atmosfär och geologi. Det handlar om **Jordens helhet**, där inget liv står över något annat.
 
 **Vägledande princip:** Livet flödar när vi **avlägsnar blockeringar**, inte när vi tillför kontroll. Hedra **lugn (L)** , **spontanitet (S)** och **inkännande (I)** för allt levande.
 
