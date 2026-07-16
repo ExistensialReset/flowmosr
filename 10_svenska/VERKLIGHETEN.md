@@ -9,7 +9,21 @@
 
 ---
 
-# I. Början: Att se verkligheten
+# Förord: Att beskriva verkligheten
+
+Detta dokument är inte ett försök att ersätta verkligheten med en modell.
+
+Det är ett försök att beskriva några återkommande observationer om verkligheten, och de principer som kan följa från dessa observationer.
+
+Varje mänsklig beskrivning är en karta.
+
+Ingen karta är hela landskapet.
+
+Därför måste varje påstående förbli öppet för prövning.
+
+---
+
+# 1. Början: Att se verkligheten
 
 Innan vi bygger system.
 
@@ -31,7 +45,7 @@ Inte genom våra modeller av den.
 
 ---
 
-# II. Den första observationen
+# 2. Den första observationen
 
 När vi betraktar världen ser vi något som är svårt att bortse från:
 
@@ -49,7 +63,7 @@ Den påverkar människors möjligheter att delta i livet.
 
 ---
 
-# III. Verklighetens första fråga
+# 3. Verklighetens första fråga
 
 Om alla människor är deltagare i samma verklighet uppstår en grundläggande fråga:
 
@@ -67,7 +81,7 @@ Flow börjar med denna fråga.
 
 ---
 
-# IV. Baslinjen
+# 4. Baslinjen (Grundnivå) 
 
 Ett levande system kräver vissa grundläggande villkor.
 
@@ -95,7 +109,7 @@ En grundnivå kan inte vara villkorad utan att själva möjligheten till deltaga
 
 ---
 
-# V. Baslinjen är inte ett tak
+# 5. Baslinjen är inte ett tak
 
 Baslinjen definierar inte vad ett liv får vara.
 
@@ -115,7 +129,7 @@ Den skapar inte riktning.
 
 ---
 
-# VI. Verkligheten är relationell
+# 6. Verkligheten är relationell
 
 Inget levande existerar helt isolerat.
 
@@ -135,7 +149,7 @@ Det som påverkar en del av väven kan påverka helheten.
 
 ---
 
-# VII. Verkligheten är deltagande
+# 7. Verkligheten är deltagande
 
 Existens är inte bara att vara.
 
@@ -159,7 +173,7 @@ Frågan är:
 
 ---
 
-# VIII. Orättvisa som ett brott mot deltagande
+# 8. Orättvisa som en allvarlig begränsning av deltagande
 
 Om en människa saknar de grundläggande villkoren för att kunna leva, påverkas inte bara hennes materiella situation.
 
@@ -183,7 +197,7 @@ Det är begränsningar av deltagande.
 
 ---
 
-# IX. Systemets plats i verkligheten
+# 9. Systemets plats i verkligheten
 
 Människan skapar system.
 
@@ -211,7 +225,7 @@ Därför gäller en grundprincip:
 
 ---
 
-# X. Makt och ansvar
+# 10. Makt och ansvar
 
 Makt finns i alla relationer.
 
@@ -235,7 +249,7 @@ Det är förmågan att skapa större möjlighet för andra.
 
 ---
 
-# XI. Sanning och begränsning
+# 11. Sanning och begränsning
 
 Att söka verkligheten kräver ödmjukhet.
 
@@ -256,7 +270,7 @@ Ett system som inte kan möta verkligheten kan inte tjäna verkligheten.
 
 ---
 
-# XII. Flow-principen
+# 12. Flow-principen
 
 Flow utgår från några grundläggande observationer:
 
@@ -269,7 +283,7 @@ Flow utgår från några grundläggande observationer:
 
 ---
 
-# XIII. Verkligheten är inte färdig
+# 13. Verkligheten är inte färdig
 
 Universum är inte endast något som har varit.
 
@@ -287,9 +301,199 @@ Framtiden är inte helt bestämd.
 
 Den formas genom deltagande.
 
+
 ---
 
-# XIV. Inbjudan
+# 14. Verklighetens mysterium
+
+Människan möter verkligheten från en begränsad position.
+
+Vi har begränsad perception.
+
+Begränsad tid.
+
+Begränsad kunskap.
+
+Därför är ödmjukhet inte svaghet.
+
+Det är en konsekvens av verklighetens storlek. 
+
+---
+
+# 15. Att utsätta modellen för verkligheten
+
+En beskrivning av verkligheten måste kunna möta invändningar.
+
+Ett system som bara samlar bekräftelse är inte en sökning efter sanning.
+
+Därför innehåller Flow en princip om aktiv självkritik:
+
+Varje grundantagande ska kunna ifrågasättas.
+
+Varje lösning ska kunna testas.
+
+Varje vision ska kunna möta verklighetens motstånd.
+
+---
+
+## Invändning 1: Är orättvisa alltid ett systemfel?
+
+En möjlig invändning är att skillnader mellan människor inte alltid kan eller bör elimineras.
+
+Människor har olika behov, förmågor, kulturer, prioriteringar och livsval.
+
+Ett försök att skapa total jämlikhet kan riskera att skapa nya former av kontroll.
+
+### Svar:
+
+Flow gör inte anspråk på att alla utfall ska vara identiska.
+
+Flow skiljer mellan:
+
+**lika värde**
+
+och
+
+**lika resultat.**
+
+Baslinjen handlar inte om att göra människor lika.
+
+Den handlar om att ingen ska nekas de grundläggande villkor som krävs för deltagande.
+
+---
+
+## Invändning 2: Finns det verkligen tillräckliga resurser?
+
+En möjlig invändning är att planetens resurser är begränsade och att universella garantier kan vara fysiskt omöjliga.
+
+### Svar:
+
+Flow måste därför inte börja med antagandet att allt är möjligt.
+
+Varje Baslinjegaranti måste granskas mot:
+
+- Ekologiska gränser
+- Energitillgång
+- Teknisk kapacitet
+- Lokal variation
+- Långsiktig hållbarhet
+
+Ett löfte som inte kan uppfyllas är inte en rättighet.
+
+Det är en illusion.
+
+---
+
+## Invändning 3: Kan ett sådant system missbrukas?
+
+En möjlig invändning är att även välmenande system kan utvecklas till kontrollstrukturer.
+
+### Svar:
+
+Denna risk erkänns som central.
+
+Därför finns Boundaries:
+
+- Ingen tvångsanslutning
+- Ingen kontroll av tanke eller tro
+- Ingen villkorad Baseline
+- Ingen makt utan begränsning
+
+Ett system som inte kan begränsa sin egen makt är inte säkert.
+
+---
+
+## Invändning 4: Varför skulle människor bidra om överlevnaden är säkrad?
+
+En klassisk invändning är att trygghet kan minska motivation.
+
+### Svar:
+
+Detta är en empirisk fråga, inte en trosfråga.
+
+Det måste testas.
+
+Flow antar att människor ofta skapar, hjälper och undersöker även utan tvång.
+
+Men detta antagande måste möta verkligheten genom observation.
+
+---
+
+## Invändning 5: Är "Liv" en objektiv verklighet eller en personlig tolkning?
+
+Flow använder begreppet Liv som namn för existensens källa och sammanhang.
+
+Detta kan förstås religiöst, filosofiskt eller symboliskt.
+
+### Svar:
+
+Flow gör inte anspråk på att andra måste använda samma språk.
+
+Namnet är en relationell tolkning.
+
+Inte ett krav.
+
+## Invändning 6: Kan Baseline skapa beroende?
+
+### Svar:
+
+Detta är en empirisk fråga.
+
+Flow antar inte att trygghet automatiskt leder till skapande.
+
+Flow antar endast att ständig existentiell osäkerhet inte är den enda eller bästa vägen till mänsklig utveckling.
+
+Effekten måste observeras.
+
+## Invändning 7: Vem avgör vad "liv" kräver?
+
+###Svar:
+
+Baslinjen vara begränsad till observerbara mänskliga behov.
+
+Ingen modell får använda "människans bästa" som ursäkt för att kontrollera människor.
+
+---
+
+# 16. Vetenskaplig hållning
+
+Flow skiljer mellan:
+
+**Observation**
+Vad vi faktiskt kan se.
+
+**Tolkning**
+Hur vi förstår det vi ser.
+
+**Hypotes**
+Vad vi tror kan förklara det.
+
+**Design**
+Vad vi väljer att göra utifrån detta.
+
+Att blanda ihop dessa nivåer skapar förvirring.
+
+Verkligheten har företräde framför modellen.
+
+---
+
+## Falsifieringsprincip
+
+Flow måste kunna svara på:
+
+Vilka observationer skulle visa att en del av modellen är fel?
+
+Om en decentraliserad vattenmodell inte fungerar i praktiken måste den omprövas.
+
+Om Baslinjen skapar oönskade effekter måste designen ändras.
+
+Om människor inte blomstrar under vissa villkor måste antagandena korrigeras.
+
+Ett system som inte kan lära sig kan inte tjäna livet.
+
+---
+
+# 17. Inbjudan
 
 Detta dokument ber inte om tro.
 
