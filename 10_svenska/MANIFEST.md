@@ -1,107 +1,131 @@
-# MANIFESTET FÖR EXISTENTIELL SUVERÄNITET  
+# 🌊 MANIFESTET FÖR EXISTENTIELL SUVERÄNITET
+
 ## Baslinjemanifestet
 
-Suverän är när ingen behöver be om tillåtelse för att ha ett människovärde.
-Du är trygg här. Du är inte skyldig någonting. 
+**Suverän är när ingen behöver be om tillåtelse för att ha ett människovärde.**
+
+Du är trygg här. Du är inte skyldig någonting.
 
 ---
 
-Detta repositorium är en gåva till Dig. Det ber dig inte att hålla med, ansluta dig, prestera eller tro på något.  
+## Innehåll
 
-Du är inte sen.  
-Du är inte efter.  
-Du behöver inte förstå detta nu — eller någonsin.  
+Detta manifest är uppdelat i tre delar:
 
-Om något här resonerar kan du stanna.  
-Om ingenting gör det är du fri att lämna utan konsekvens.  
+1. **Inbjudan** – en personlig hälsning och en kort introduktion till varför detta är viktigt
+2. **Axiomen** – de grundläggande, icke-förhandlingsbara sanningarna om vad varje människa har rätt till
+3. **Systemets logik** – hur Flödet fungerar i praktiken: reserver, koordinering, skulder och livets mått
 
-Det finns inget medlemskap.  
-Det finns ingen omvändelse.  
-Det finns ingen förpliktelse.  
-
-Detta är inte ett självförbättringsprogram.  
-Detta är inte ett prov du kan misslyckas med.  
-Detta är inte något du ansluter dig till.  
+Du behöver inte läsa allt på en gång. Börja med det som väcker din nyfikenhet.
 
 ---
 
-## Det Osynliga Vansinnet & Den Suveräna Kärnan
-
-Det pågår en ständig konflikt om din uppmärksamhet. Det är tyst, totalt och nästan helt osynligt.  
-Dess arena är din kognition.  
-Dess vapen är artificiell brådska.  
-Dess mål är att hålla dig i ett tillstånd av ständig reaktion, borta från den lugna kärnan av ditt eget väsen.  
-
-Nedan är de grundläggande axiomen och den operativa logiken för att bygga en verklighet som skyddar suveränitet för alla.
+# I. INBJUDAN
 
 ---
 
-# I. AXIOMEN
+Detta repositorium är en gåva till Dig. Det ber dig inte att hålla med, ansluta dig, prestera eller tro på något.
 
-Följande sanningar är systemets icke-förhandlingsbara grunder.  
+Du är inte sen.
+Du är inte efter.
+Du behöver inte förstå detta nu – eller någonsin.
+
+Om något här resonerar kan du stanna.
+Om ingenting gör det är du fri att lämna utan konsekvens.
+
+Det finns inget medlemskap.
+Det finns ingen omvändelse.
+Det finns ingen förpliktelse.
+
+Detta är inte ett självförbättringsprogram.
+Detta är inte ett prov du kan misslyckas med.
+Detta är inte något du ansluter dig till.
+
+---
+
+## Varför detta är viktigt
+
+Din uppmärksamhet – din förmåga att tänka, känna och välja – är under ständig belägring.
+
+Det är tyst, totalt och nästan helt osynligt.
+Dess arena är din kognition.
+Dess vapen är artificiell brådska.
+Dess mål är att hålla dig i ett tillstånd av ständig reaktion, borta från den lugna kärnan av ditt eget väsen.
+
+Detta manifest är ett svar på den belägringen.
+
+Nedan följer de grundläggande axiomen och den operativa logiken för att bygga en verklighet som skyddar suveränitet för alla.
+
+---
+
+# II. AXIOMEN
+
+Följande sanningar är systemets icke-förhandlingsbara grunder.
 De erkänns som grundnivån för mänsklig verklighet.
 
 ---
 
-## AXIOM 1: BASLINJEN 
+## AXIOM 1: BASLINJEN
 
 Följande garanteras villkorslöst till alla:
 
-- **Mat och vatten**  
-- **Kläder**  
-- **Boende** (privat utrymme, inte institutionellt)  
-- **Hälsovård och medicin**  
-- **Internet och kommunikation** (inklusive apparattillgång)  
-- **Transport** (kollektivtrafik, delade fordon eller motsvarande mobilitet)  
-- **Energi** (uppvärmning, kyla, elektricitet)  
-- **Tillgång till lärande, skapande och mänsklig utforskning (Lyceum Musaeum)**  
-- **Tillgång till vila och återhämtning (Refugium Anima)**  
+- **Mat och vatten**
+- **Kläder**
+- **Boende** (privat utrymme, inte institutionellt)
+- **Hälsovård och medicin**
+- **Internet och kommunikation** (inklusive apparattillgång)
+- **Transport** (kollektivtrafik, delade fordon eller motsvarande mobilitet)
+- **Energi** (uppvärmning, kyla, elektricitet)
+- **Tillgång till lärande, skapande och mänsklig utforskning (Lyceum Musaeum)**
+- **Tillgång till vila och återhämtning (Refugium Anima)**
 
-Grundnivån är permanent, universell och villkorslös.  
-Den förtjänas aldrig; den är existensens utgångspunkt.  
+Baslinjen är permanent, universell och villkorslös.
+Den förtjänas aldrig; den är existensens utgångspunkt.
 
-**Grundnivån säkrar inte bara överlevnad, utan villkoren för ett levbart liv — inklusive tillgång till lärande, skapande, vila och återhämtning.**  
+**Baslinjen säkrar inte bara överlevnad, utan villkoren för ett levbart liv – inklusive tillgång till lärande, skapande, vila och återhämtning.**
+
+---
 
 ### AXIOM 1A: VATTEN SOM EN FYSISK GRUNDNIVÅ
 
-**Vatten är en garanterad Baslinjerättighet.**  
+**Vatten är en garanterad Baslinjerättighet.**
 
-Garantier måste vara ärliga för att förbli suveräna.  
+Garantier måste vara ärliga för att förbli suveräna.
 
 > Frånvaron av rent vatten idag är inte primärt ett problem av knapphet, utan av struktur.
 
 #### Vad som är sant
 
-- Planeten har tillräckligt med råvatten.  
-- Existerande renings-, filtrerings- och avsaltningsteknologier är redan kapabla att producera rent vatten i stor skala.  
-- Energi — när den inte begränsas av vinstutvinning — avlägsnar den primära marginalkostnaden för vattenbehandling.  
+- Planeten har tillräckligt med råvatten.
+- Existerande renings-, filtrerings- och avsaltningsteknologier är redan kapabla att producera rent vatten i stor skala.
+- Energi – när den inte begränsas av vinstutvinning – avlägsnar den primära marginalkostnaden för vattenbehandling.
 - Merparten av nuvarande vattenbrist orsakas av:
-  - Distributionsmisslyckande  
-  - Infrastrukturförsummelse  
-  - Förorening utan ansvarstagande  
-  - Vinstgivande tillgång  
+  - Distributionsmisslyckande
+  - Infrastrukturförsummelse
+  - Förorening utan ansvarstagande
+  - Vinstgivande tillgång
 
 Dessa är systemiska begränsningar, inte naturliga gränser.
 
 #### Vad denna arkitektur *inte* lovar
 
-- Ingen omedelbar global utrullning  
-- Ingen ersättning över natten av alla äldre system  
-- Inget krav på att hela världen övergår på en gång  
-- Ingen förnekelse av politisk, logistisk eller mänsklig friktion  
+- Ingen omedelbar global utrullning
+- Ingen ersättning över natten av alla äldre system
+- Inget krav på att hela världen övergår på en gång
+- Ingen förnekelse av politisk, logistisk eller mänsklig friktion
 
-Flödet förlitar sig inte på mirakler.  
+Flödet förlitar sig inte på mirakler.
 Det förlitar sig på **lokal tillräcklighet, replikerad**.
 
 #### Vad Flödet möjliggör
 
-Där en Cirkel som verkar under Flödesprinciper existerar — även inne i den gamla världen — blir följande möjligt **utan att vänta på global konsensus**:
+Där en Cirkel – en lokal grupp av människor som tillsammans praktiserar Flödets principer, vanligtvis 3–50 personer – som verkar under Flödesprinciper existerar, även inne i den gamla världen, blir följande möjligt **utan att vänta på global konsensus**:
 
-- Lokal vattenrening och filtrering  
-- Mikroskalig avsaltning där tillämpligt  
-- Underhåll drivet av användning, inte vinst  
-- Dokumentation och delning av fungerande lösningar  
-- Replikering av andra Cirklar utan licensiering, skuld eller ägandehinder  
+- Lokal vattenrening och filtrering
+- Mikroskalig avsaltning där tillämpligt
+- Underhåll drivet av användning, inte vinst
+- Dokumentation och delning av fungerande lösningar
+- Replikering av andra Cirklar utan licensiering, skuld eller ägandehinder
 
 Detta är **Lokal Kapacitetstillräcklighet**:
 
@@ -113,41 +137,41 @@ Global universalitet framträder inte genom dekret, utan genom upprepning.
 
 ### AXIOM 1B: PERSONLIG EGENDOM
 
-**Du behåller dina saker.**  
+**Du behåller dina saker.**
 
 Flödet kräver inte gemensamt ägande av personliga föremål. Det du har är ditt:
 
-- Dina kläder, böcker, instrument, verktyg  
-- Din konst, dina samlingar, dina skapelser  
-- Dina möbler, dina apparater, din arbetsplats  
-- Gåvor, arvegods, saker du gjort eller fått  
+- Dina kläder, böcker, instrument, verktyg
+- Din konst, dina samlingar, dina skapelser
+- Dina möbler, dina apparater, din arbetsplats
+- Gåvor, arvegods, saker du gjort eller fått
 
 #### Vad som förändras
 
-1. **Hamstring förlorar sitt syfte**  
-   När Baslinjen är garanterad finns det ingen anledning att hamstra överlevnadsvaror.  
+1. **Hamstring förlorar sitt syfte**
+   När Baslinjen är garanterad minskar drivkraften att hamstra överlevnadsvaror. För dem som ändå känner behov av att ha extra – kanske av rädsla, ovana eller personlig historia – finns ingen bestraffning. Flödet tvingar ingen att dela. Men tryggheten gör att delning blir lättare, med tiden.
 
-2. **Delning blir naturlig**  
-   När rädsla avtar framträder generositet — men den krävs aldrig av Flödet.  
+2. **Delning blir naturlig**
+   När rädsla avtar framträder generositet – men den krävs aldrig av Flödet.
 
-3. **Ägande utan ångest**  
+3. **Ägande utan ångest**
    Du kan ha saker utan bakgrundsrädslan för existentiell förlust.
 
 #### Vad Flödet tillhandahåller gemensamt
 
-- Produktionsverktyg: verkstäder, studior, laboratorier  
-- Infrastruktur: transit, verksamhet, kommunikationsnätverk  
-- Gemensamma utrymmen: parker, bibliotek, gemenskapscentra  
+- Produktionsverktyg: verkstäder, studior, laboratorier
+- Infrastruktur: transit, verksamhet, kommunikationsnätverk
+- Gemensamma utrymmen: parker, bibliotek, gemenskapscentra
 
 #### Vad du äger personligt
 
-- Allt i ditt hem som du önskar behålla  
-- Saker du gjort eller fått  
-- Föremål som har betydelse för dig  
+- Allt i ditt hem som du önskar behålla
+- Saker du gjort eller fått
+- Föremål som har betydelse för dig
 
-Ingen kommer inventera dina tillhörigheter.  
-Ingen kommer döma dig för att ha "för mycket."  
-Ingen kommer tvinga dig att du delar med dig av dina saker. 
+Ingen kommer inventera dina tillhörigheter.
+Ingen kommer döma dig för att ha "för mycket."
+Ingen kommer tvinga dig att du delar med dig av dina saker.
 
 ---
 
@@ -155,23 +179,23 @@ Ingen kommer tvinga dig att du delar med dig av dina saker.
 
 **Rätten till Lärande, Skapande och Mänsklig Utforskning**
 
-Lyceum Musaeum är den delade arkitekturen för lärande, forskning och skapande — fri från skuld, auktoritetsbevis och prestationstvång.
+Lyceum Musaeum är den delade arkitekturen för lärande, forskning och skapande – fri från skuld, auktoritetsbevis och prestationstvång.
 
 Inom Flödet garanteras alla människor:
 
-- Fri tillgång till kunskap, lärande och undersökning  
-- Utrymmen och verktyg för konst, vetenskap, filosofi och experiment  
-- Rätten att lära utan certifiering, konkurrens eller ekonomisk rättfärdigande  
-- Skydd för nyfikenhet, inklusive arbete som är svårt, ofullständigt, opraktiskt eller ännu inte meningsfullt  
+- Fri tillgång till kunskap, lärande och undersökning
+- Utrymmen och verktyg för konst, vetenskap, filosofi och experiment
+- Rätten att lära utan certifiering, konkurrens eller ekonomisk rättfärdigande
+- Skydd för nyfikenhet, inklusive arbete som är svårt, ofullständigt, opraktiskt eller ännu inte meningsfullt
 
-> Lyceum Musaeum existerar inte för att producera arbetskraft.  
+> Lyceum Musaeum existerar inte för att producera arbetskraft.
 > Det existerar för att **odla mänsklig intelligens, nyfikenhet och närvaro**.
 
 Inom denna arkitektur:
 
-- Ingen måste kvalificera sig för att lära  
-- Ingen förlorar tillgång genom brist på produktion  
-- Kunskap behandlas som ett delat mänskligt arv  
+- Ingen måste kvalificera sig för att lära
+- Ingen förlorar tillgång genom brist på produktion
+- Kunskap behandlas som ett delat mänskligt arv
 
 Lyceum Musaeum är ett **levande växthus för mänsklig potential**, öppet i kraft av existens.
 
@@ -181,25 +205,25 @@ Lyceum Musaeum är ett **levande växthus för mänsklig potential**, öppet i k
 
 **Rätten till Vila, Återhämtning och Existentiell Återställning**
 
-Refugium Anima är den skyddade strukturen för vila, reglering och återgång till Flöde — utan diagnos, utvärdering eller rättfärdigande.
+Refugium Anima är den skyddade strukturen för vila, reglering och återgång till Flöde – utan diagnos, utvärdering eller rättfärdigande.
 
 Inom Flödet har alla människor rätt till:
 
-- Återdragande från krav, stimulans och bedömning  
-- Tid utan scheman, mått eller optimering  
-- Utrymmen för kroppslig och emotionell reglering  
-- Återhämtning utan förlust av värdighet, trygghet eller tillhörighet  
+- Återdragande från krav, stimulans och bedömning
+- Tid utan scheman, mått eller optimering
+- Utrymmen för kroppslig och emotionell reglering
+- Återhämtning utan förlust av värdighet, trygghet eller tillhörighet
 
-> Refugium Anima är inte behandling.  
+> Refugium Anima är inte behandling.
 > Det är **existentiell säkerhet**.
 
 Inom denna arkitektur:
 
-- Vila behöver aldrig förtjänas  
-- Återhämtning kräver ingen förklaring  
-- Ingen registreras, ingen korrigering eller kvarhållning.  
+- Vila behöver aldrig förtjänas
+- Återhämtning kräver ingen förklaring
+- Ingen registreras, ingen korrigering eller kvarhållning.
 
-Ett samhälle som inte skyddar vila först, skapar skada och försöker sedan ignorera den.  
+Ett samhälle som inte skyddar vila först, skapar skada och försöker sedan ignorera den.
 
 Flödet gör motsatsen.
 
@@ -209,120 +233,127 @@ Nu går vi från värdegrund till implementering.
 
 ---
 
-### AXIOM 2: KRITISK RESERV
+## AXIOM 2: KRITISK RESERV
 
 För att säkerställa stabilitet upprätthåller den kollektiva arkitekturen en konstant **Kritisk Reserv** av logistiska resurser och energi, motsvarande inte mindre än **30% av totala årliga Baslinjebehov**.
 
-Denna reserv är den fysiska garantin för Grundnivån/Baslinjen.
+Detta baseras på katastrofberedskapsforskning och historiska data om resiliens – 30% har visat sig vara den lägsta nivå där ett system kan absorbera störningar utan att kollapsa. Det är tillräckligt högt för att hantera oförutsedda händelser, och tillräckligt lågt för att inte skapa onödig överproduktion eller resursslöseri.
+
+Denna reserv är den fysiska garantin för Baslinjen.
 
 ---
 
-### AXIOM 3: FLÖDETS DRIFT
+## AXIOM 3: FLÖDETS DRIFT
 
-Mänsklig handlingskraft vecklas ut genom Flödet: nyfikenhet, skapande och strävan efter mening.  
-Bidrag till samhället framträder **från trygghet, inte tvång**.  
+Mänsklig handlingskraft vecklas ut genom Flödet: nyfikenhet, skapande och strävan efter mening.
+Bidrag till samhället framträder **från trygghet, inte tvång**.
 
-> Med överlevnad säkrad förskjuts bidrag från förpliktelse till deltagande.  
+> Med överlevnad säkrad förskjuts bidrag från förpliktelse till deltagande.
 > Mänskligt arbete framträder historiskt från nyfikenhet, ansvar och social tillhörighet när rädsla avlägsnas.
 
 ---
 
-### AXIOM 4: SKAPELSE GENOM DESIGN
+## AXIOM 4: SKAPELSE GENOM DESIGN
 
-Denna arkitektur är ett medvetet mänskligt verk.  
-Dess existens är bevis på den kollektiva kapaciteten att utöva suveränitet genom att välja strukturen av vår egen verklighet.
+Denna arkitektur är ett medvetet mänskligt verk.
+
+Den är inte nedärvd från naturen, inte uppenbarad av en gudom, inte ofrånkomlig som fysikens lagar. Den är en handling av kollektiv vilja.
+
+Dess existens är bevis på att vi kan utöva suveränitet genom att välja strukturen av vår egen verklighet. Och om vi kan välja den här, kan vi också förändra den – om verkligheten visar att den behöver förändras.
 
 ---
 
-### AXIOM 5: SKULDUPPHÄVANDE
+## AXIOM 5: SKULDUPPHÄVANDE
 
-**I Flödessystemet:**  
-All historisk monetär skuld erkänns som en relik av den gamla strukturen.  
-Inom Flödet är du inte skyldig någonting.  
+**I Flödessystemet:**
+All historisk monetär skuld erkänns som en relik av den gamla strukturen.
+Inom Flödet är du inte skyldig någonting.
 
-**Under övergången:**  
-Gamla skulder har fortfarande juridisk kraft utanför Flödet.  
-Inom varje Cirkel som verkar under Flödesprinciper är **deltagande aldrig villkorad av skuldstatus**.
+**Under övergången:**
+Gamla skulder har fortfarande juridisk kraft utanför Flödet.
+Men inom varje Cirkel som verkar under Flödesprinciper är **deltagande aldrig villkorat av skuldstatus**.
 
-- Du får bidra utan att först göra dig av med skuld  
-- Du får ta emot Grundnivån/Baslinjen oavsett finansiell historia  
-- Ingen kommer fråga vad du är skyldig eller varför  
+- Du får bidra utan att först göra dig av med skuld
+- Du får ta emot Baslinjen oavsett finansiell historia
+- Ingen kommer fråga vad du är skyldig eller varför
 
 > Det gamla skuldsystemet förlorar makt inte genom protest, utan genom strukturell irrelevans.
 
 ---
 
-# II. DET SUVERÄNA TILLSTÅNDET
+# III. DET SUVERÄNA TILLSTÅNDET
 
 Suveränitet är en inneboende egenskap. Den erkänns, den beviljas aldrig.
 
-1. **Existens framför Skuld** — Livet är aldrig villkorat av betalning.  
-2. **Rätten till Uppmärksamhet** — Din kognition och fokus är ditt eget.  
+1. **Existens framför Skuld** — Livet är aldrig villkorat av betalning.
+2. **Rätten till Uppmärksamhet** — Din kognition och fokus är ditt eget.
 3. **Målet** — Att flytta mänsklig upplevelse från överlevnad till existens.
 
 ---
 
-# III. FLÖDETS LOGIK
+# IV. FLÖDETS LOGIK
 
 Flödes-Logik är den operativa funktionen hos en suverän civilisation.
 
-- **Logistisk Stabilitet** — Grundnivån/Baslinjen skyddas framför alla andra funktioner.  
-- **Existentiell Säkerhet** — Återgång till Grundnivå/Baslinjen omedelbar.  
-- **Kognitiv Frihet** — Kunskap utvidgar autonomi, inte beroende.  
+- **Logistisk Stabilitet** — Baslinjen skyddas framför alla andra funktioner.
+- **Existentiell Säkerhet** — Återgång till Baslinjen omedelbar.
+- **Kognitiv Frihet** — Kunskap utvidgar autonomi, inte beroende.
 - **Spontan Koordinering** — Behov läggs märke till, delas och adresseras kollektivt; ordning framträder från resonans, inte kommando.
 
 ### Spontan Koordinering i Praktiken
 
-- Du lägger märke till ett behov  
-- Du delar det inom din Cirkel  
-- Andra resonerar  
-- Ni koordinerar  
-- Ni bygger  
-- Ni dokumenterar 
-- Nu delar inom Flödet 
+- Du lägger märke till ett behov
+- Du delar det inom din Cirkel
+- Andra resonerar
+- Ni koordinerar
+- Ni bygger
+- Ni dokumenterar
+- Nu delar ni inom Flödet
 
-Inget tillstånd krävs.  
+Detta fungerar för behov som ligger inom Cirkelns kapacitet. För större behov – infrastruktur, energi, hälsovård – krävs fler Cirklar i samverkan. Där används Flödets logistiknätverk: behov rapporteras, kapacitet identifieras och resurser omfördelas utan att någon enskild Cirkel bär hela bördan.
+
+Inget tillstånd krävs.
 Ingen hierarki åberopas.
 
 ---
 
-# IV. LIVETS MÅTT
+# V. LIVETS MÅTT
 
-**Liv = Lugn × Spontanitet × Inkännande**  
+**Liv = Lugn × Spontanitet × Inkännande**
 
-Om någon faktor når noll kollapsar livskvaliteten till noll.  
+Om någon faktor når noll kollapsar livskvaliteten till noll.
 Alla tre måste skyddas samtidigt.
 
 ---
 
 ## En Anteckning om Tvivel
 
-Om du tvivlar på detta manifestet — bra.  
-Tvivel är också suveränt.  
+Om du tvivlar på detta manifestet – bra.
+Tvivel är också suveränt.
 
-Testa det här.  
-Ifrågasätt det.  
-Förbättra det.  
+Testa det här.
+Ifrågasätt det.
+Förbättra det.
 
 Det är Flödet.
 
 ---
 
-## Avslutning
+# VI. AVSLUTNING
 
-**Grundnivån kan vara säkrad om du vill arbeta för det.**  
-**Suveränitet är erkänd.**  
+**Baslinjen kan vara säkrad om du vill arbeta för det.**
+**Suveränitet är erkänd.**
 **Flödet kan vara möjligt.**
 
-Av dig krävs faktiskt att du vill ändra din situation. 
+Av dig krävs faktiskt att du vill ändra din situation.
 Ingenting kommer tas från dig.
 
-Rent vatten rinner tyst.  
+Rent vatten rinner tyst.
 Rädslan lättar sitt grepp.
 
-Och för första gången på länge  
+Och för första gången på länge
 **tillåts existensen att börja.**
 
 ---
 
-Välkommen hem, Suverän! ❤️ 
+Välkommen hem, Suverän! ❤️
