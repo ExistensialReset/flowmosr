@@ -13,7 +13,9 @@
 
 Detta dokument är inte ett försök att ersätta verkligheten med en modell.
 
-Det är ett försök att beskriva några återkommande observationer om verkligheten, och de principer som kan följa från dessa observationer.
+Det är ett försök att beskriva några återkommande observationer om verkligheten, och de principer som kan följa från dessa observationer. 
+
+Detta dokument gör inte anspråk på att beskriva verkligheten i sin helhet. Det försöker endast beskriva vissa återkommande mönster, observationer och frågor som uppstår när vi betraktar livet, relationer och mänskliga system. 
 
 Varje mänsklig beskrivning är en karta.
 
@@ -147,6 +149,10 @@ Den är också ett nätverk av samband.
 
 Det som påverkar en del av väven kan påverka helheten.
 
+Detta innebär inte att objekt inte existerar. 
+
+Det innebär att relationer också är en verklig del av det som sker.
+
 ---
 
 # 7. Verkligheten är deltagande
@@ -249,7 +255,21 @@ Det är förmågan att skapa större möjlighet för andra.
 
 ---
 
-# 11. Sanning och begränsning
+11. Verkligheten före modellen
+
+Ingen idé, teori eller vision står över verkligheten.
+
+En modell måste förändras när verkligheten visar något annat.
+
+Detta gäller även Flow.
+
+Flow är inte en slutpunkt.
+
+Det är ett försök att skapa *bättre frågor, bättre observationer och bättre handlingar*.
+
+---
+
+# 12. Sanning och begränsning
 
 Att söka verkligheten kräver ödmjukhet.
 
@@ -270,7 +290,7 @@ Ett system som inte kan möta verkligheten kan inte tjäna verkligheten.
 
 ---
 
-# 12. Flow-principen
+# 13. Flow-principen
 
 Flow utgår från några grundläggande observationer:
 
@@ -283,7 +303,7 @@ Flow utgår från några grundläggande observationer:
 
 ---
 
-# 13. Verkligheten är inte färdig
+# 14. Verkligheten är inte färdig
 
 Universum är inte endast något som har varit.
 
@@ -304,7 +324,7 @@ Den formas genom deltagande.
 
 ---
 
-# 14. Verklighetens mysterium
+# 15. Verklighetens mysterium
 
 Människan möter verkligheten från en begränsad position.
 
@@ -320,7 +340,7 @@ Det är en konsekvens av verklighetens storlek.
 
 ---
 
-# 15. Att utsätta modellen för verkligheten
+# 16. Att utsätta modellen för verkligheten
 
 En beskrivning av verkligheten måste kunna möta invändningar.
 
@@ -332,17 +352,29 @@ Varje grundantagande ska kunna ifrågasättas.
 
 Varje lösning ska kunna testas.
 
-Varje vision ska kunna möta verklighetens motstånd.
+Varje vision ska kunna möta verklighetens motstånd:
 
----
 
-## Invändning 1: Är orättvisa alltid ett systemfel?
+## Invändning: Kan Baseline minska personlig agens?
 
-En möjlig invändning är att skillnader mellan människor inte alltid kan eller bör elimineras.
+### Svar:
 
-Människor har olika behov, förmågor, kulturer, prioriteringar och livsval.
+Det finns en risk att trygghet kan användas passivt. 
 
-Ett försök att skapa total jämlikhet kan riskera att skapa nya former av kontroll.
+Därför kan Baslinjen aldrig ersätta mening, relationer, ansvar eller personlig utveckling. 
+
+Baslinjen är en grund för deltagande, inte ett slutmål.
+
+
+## Invändning: Kan en "relational worldview" romantisera gemenskap?
+
+### Svar:
+
+Relationer kan också vara destruktiva. 
+
+Därför måste varje relation bedömas utifrån om den stärker eller begränsar liv, värdighet och frihet.
+
+## Invändning: Är orättvisa alltid ett systemfel?
 
 ### Svar:
 
@@ -362,7 +394,7 @@ Den handlar om att ingen ska nekas de grundläggande villkor som krävs för del
 
 ---
 
-## Invändning 2: Finns det verkligen tillräckliga resurser?
+## Invändning: Finns det verkligen tillräckliga resurser?
 
 En möjlig invändning är att planetens resurser är begränsade och att universella garantier kan vara fysiskt omöjliga.
 
@@ -384,9 +416,7 @@ Det är en illusion.
 
 ---
 
-## Invändning 3: Kan ett sådant system missbrukas?
-
-En möjlig invändning är att även välmenande system kan utvecklas till kontrollstrukturer.
+## Invändning: Kan ett sådant system missbrukas?
 
 ### Svar:
 
@@ -403,9 +433,8 @@ Ett system som inte kan begränsa sin egen makt är inte säkert.
 
 ---
 
-## Invändning 4: Varför skulle människor bidra om överlevnaden är säkrad?
+## Invändning: Varför skulle människor bidra om överlevnaden är säkrad?
 
-En klassisk invändning är att trygghet kan minska motivation.
 
 ### Svar:
 
@@ -419,13 +448,13 @@ Men detta antagande måste möta verkligheten genom observation.
 
 ---
 
-## Invändning 5: Är "Liv" en objektiv verklighet eller en personlig tolkning?
+## Invändning: Är "Liv" en objektiv verklighet eller en personlig tolkning?
+
+### Svar:
 
 Flow använder begreppet Liv som namn för existensens källa och sammanhang.
 
 Detta kan förstås religiöst, filosofiskt eller symboliskt.
-
-### Svar:
 
 Flow gör inte anspråk på att andra måste använda samma språk.
 
@@ -433,7 +462,7 @@ Namnet är en relationell tolkning.
 
 Inte ett krav.
 
-## Invändning 6: Kan Baseline skapa beroende?
+## Invändning: Kan Baseline skapa beroende?
 
 ### Svar:
 
@@ -445,7 +474,7 @@ Flow antar endast att ständig existentiell osäkerhet inte är den enda eller b
 
 Effekten måste observeras.
 
-## Invändning 7: Vem avgör vad "liv" kräver?
+## Invändning: Vem avgör vad "liv" kräver?
 
 ###Svar:
 
@@ -453,9 +482,15 @@ Baslinjen vara begränsad till observerbara mänskliga behov.
 
 Ingen modell får använda "människans bästa" som ursäkt för att kontrollera människor.
 
+## Invändning: Kan Flow själv bli ett system som behöver skyddas från kritik?
+
+### Svar:
+
+Om Flow någon gång kräver skydd från kritik har det börjat bryta mot sina egna principer.
+
 ---
 
-# 16. Vetenskaplig hållning
+# 17. Vetenskaplig hållning
 
 Flow skiljer mellan:
 
@@ -493,7 +528,7 @@ Ett system som inte kan lära sig kan inte tjäna livet.
 
 ---
 
-# 17. Inbjudan
+# 18. Inbjudan
 
 Detta dokument ber inte om tro.
 
@@ -523,6 +558,6 @@ Och varje människa är redan en del av den.
 
 **Livet är inte ett objekt i verkligheten.**
 
-**Livet är en deltagare i verklighetens skapelse.**
+**Livet är deltagare i verklighetens skapelse.**
 
 **Att skydda möjligheten att delta är därför att skydda själva verklighetens fortsatta utveckling.**
