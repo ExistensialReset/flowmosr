@@ -1,166 +1,104 @@
 # 🌊 Flödet
-## En ingång på svenska
 
-Den här mappen innehåller Flow / M-OS-R uttryckt på svenska.
+## Den svenska ingången till Flow / M-OS-R
 
-Inte som en direkt översättning.  
-Utan som en **egen språklig och kulturell resonans**.
+Välkommen.
 
----
+Den här mappen innehåller den svenska uttrycksformen av **Flow (M-OS-R)**.
 
-## 🧭 Vad detta är
+Det är inte en direkt översättning av den engelska dokumentationen.
 
-Flow förändras inte.
-
-Men sättet det uttrycks på gör det.
-
-Språk formar:
-- Hur vi tänker  
-- Vad vi uppfattar  
-- Vad som känns sant  
-
-Detta är Flow genom ett svenskt språk.
+Det är samma grundläggande ramverk uttryckt genom ett svenskt språk, en svensk kultur och ett mer erfarenhetsnära sätt att skriva.
 
 ---
 
-## 🌱 Innehåll
+# Vad är Flödet?
 
-Här finns texter som speglar Flow ur ett annat perspektiv:
+Flödet börjar inte med ekonomi.
 
-- Manifest  
-- Förklaringar  
-- Strukturer  
-- Invarianter  
-- Relation till naturen  
-- Mänsklig upplevelse  
+Inte med politik.
 
----
+Inte med teknik.
 
-## 🧠 Hur detta skiljer sig
+Det börjar med en enkel observation:
 
-Detta är inte en teknisk ingång.
+> Livet kommer före systemen.
 
-Det är:
-- Mer poetiskt  
-- Mer direkt  
-- Mindre systemförklarande  
-- Mer upplevelsebaserat  
+System är verktyg.
+
+Livet är målet.
+
+Allt annat i Flow bygger vidare från denna utgångspunkt.
 
 ---
 
-## 🌊 Viktigt
+# Hur läser man den här mappen?
 
-Om något här och i engelska versionen skiljer sig:
+Om du är ny rekommenderas följande ordning:
 
-→ Gå tillbaka till core  
+1. **FLÖDET.md** – den kortaste introduktionen
+2. **MANIFEST.md** – de grundläggande idéerna
+3. **VERKLIGHETEN.md** – den filosofiska grunden
+4. **BASLINJEN.md** – vad som ingår i Flödets grundtrygghet. 
+5. **DELTAGANDE.md** – människans plats i Flödet
 
-Flow förändras inte.  
-Endast uttrycket gör det.
+Därefter kan du utforska resten utifrån ditt eget intresse.
 
 ---
 
-## 💙 En liten påminnelse
+# Vad innehåller mappen?
+
+Här finns texter om bland annat:
+
+- Flödets grundprinciper
+- Verklighet och filosofi
+- Människan och deltagande
+- Relationer
+- Baslinjen
+- Konstitutionella gränser
+- Struktur och invarianter
+- Kosmologi och existentiella texter
+
+---
+
+# Viktigt
+
+Flow är inte färdigt.
+
+Det är inte en ideologi.
+
+Det är ett ramverk för kontinuerligt lärande inom tydliga konstitutionella gränser.
+
+Om fysiken och verkligheten visar att en modell är fel ska modellen förändras.
+
+Inte verkligheten.
+
+---
+
+# Förhållandet till den engelska versionen
+
+Den engelska dokumentationen utgör projektets internationella kärna.
+
+Den svenska versionen är inte en översättning ord för ord.
+
+Den försöker istället uttrycka samma idéer på ett sätt som känns naturligt på svenska.
+
+Om formuleringar skiljer sig åt är det alltid de gemensamma grundprinciperna som har företräde.
+
+---
+
+# En sista tanke
+
+Du behöver inte hålla med om allt.
 
 Du behöver inte förstå allt.
 
-Du kan läsa detta som:
+Börja där du är.
 
-> Något du redan vet, men inte haft ord för.
+Läs långsamt.
 
-# 🌊 Flödets Kärna
-## Grunden för M-OS-R
+Behåll det som hjälper dig att se verkligheten lite klarare.
 
-Denna mapp innehåller **kärnlagret av Flödet** och svenska versioner av vissa texter, därför att jag som skriver och utarbetat Flödet är svensk.
+Låt resten vila.
 
-Den är inte dokumentation i traditionell bemärkelse.  
-Den är den **minimala struktur som krävs för att ett annorlunda sätt att leva ska existera**.
-
----
-
-## 🧭 Vad detta är
-
-Flödet börjar här.
-
-Inte med system.  
-Inte med styrning.  
-Inte med infrastruktur.
-
-Utan med **en förskjutning i hur överlevnad förstås**.
-
-> Överlevnad är inte något du förtjänar.
-
-Allt annat följer därav.
-
----
-
-## 📂 Struktur
-
-### [`FLÖDET`](./FLÖDET.md)
-Inträdesportalen.  
-Om du är ny i Flödet, börja här.
-
----
-
-### [`STRUKTUR.md`](./STRUKTUR.md)
-Definierar hur Flödet är strukturerat på den djupaste nivån.  
-Inte institutioner — utan relationer mellan behov, människor och system.
-
----
-
-### [`FÖRKLARING`](./FÖRKLARING.md)
-Översätter Flödet till något förståeligt.  
-Bygger broar mellan intuition och artikulation.
-
----
-
-### [`GRÄNSER`](./GRÄNSER.md)
-De icke-förhandlingsbara sanningarna.  
-Om dessa bryts, bryts Flödet.
-
----
-
-### [`INVARIANTER_UTVIDGAD`](./INVARIANTER_UTVIDGAD.md)
-Utvidgade invarianter.  
-Detaljerade begränsningar som skyddar systemet från kollaps eller infångande.
-
----
-
-### [`STRUKTURELLA_INVARIANER`](./STRUKTURELLA_INVARIANTER.md)
-Hur struktur förblir stabil över tid.  
-Förhindrar drift tillbaka till tvång eller hierarki.
-
----
-
-## 🧠 Hur man läser detta
-
-Du behöver inte förstå allt.
-
-Börja med:
-
-→ Flödet 
-→ Struktur  
-→ Gränser  
-
-Rör dig sedan utåt.
-
----
-
-## 🌊 Viktigt
-
-Detta är inte teori.
-
-Detta är ett **begränsningslager**.
-
-Allt annat i Flödet — styrning, ekonomi, infrastruktur — beror på att detta är korrekt.
-
----
-
-## 💙 En liten påminnelse
-
-Du behöver inte "förstå Flödet" för att börja.
-
-Du behöver bara lägga märke till:
-
-> Vad skulle förändras om överlevnad inte var villkorad?
-
-Obsvera att M-OS-R/Flödet/Flow inte är en färdig modell. Det är ett ramverk för kontinuerligt lärande inom oföränderliga konstitutionella gränser.
+🌊
