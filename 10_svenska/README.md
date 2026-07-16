@@ -120,7 +120,7 @@ Dela dina tankar, ställ dina frågor, eller fundera vidare på egen hand.
 Det viktigaste är att du nu bär med dig en fråga snarare än ett svar.
 
 Du är varmt välkommen att höra av dig till mig 
-elinor.frejd@proton.me 
+[elinor.frejd@proton.me](mailto:elinor.frejd@proton.me) 
 
 ---
 
