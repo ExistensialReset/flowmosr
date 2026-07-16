@@ -227,7 +227,37 @@ Därför gäller en grundprincip:
 
 > System existerar för att tjäna livet.
 >
-> Liv existerar inte för att tjäna system.
+> Liv existerar inte för att tjäna system.Invändning: Kan Flow bygga på en naiv människosyn?
+En möjlig invändning är att människor inte bara drivs av omsorg, kreativitet och samhörighet.
+Människan har också förmåga till:
+grymhet
+manipulation
+våld
+likgiltighet
+maktbegär
+självbedrägeri
+Ett system som endast bygger på antagandet att människor alltid väljer det goda riskerar därför att skapa nya former av sårbarhet.
+Svar:
+Flow utgår inte från att människan är perfekt.
+Människan är en varelse med möjlighet till både skapande och destruktion.
+Därför kan ett hållbart system inte bygga enbart på god vilja.
+Det måste också bygga på skyddande strukturer.
+Ett samhälle måste kunna hantera att:
+vissa människor kan missbruka makt
+vissa relationer kan bli destruktiva
+vissa grupper kan försöka dominera andra
+goda intentioner inte alltid leder till goda konsekvenser
+Därför kräver Flow:
+begränsning av maktkoncentration
+transparens
+möjlighet till kritik
+skydd för utsatta
+ansvar för skadliga handlingar
+mekanismer för korrigering
+Målet är inte att skapa ett system som kräver perfekta människor.
+Målet är att skapa ett system där ofullkomliga människor kan leva tillsammans utan att destruktivitet får obegränsad räckvidd.
+Människans möjlighet till godhet är en resurs.
+Människans möjlighet till skada är en verklighet som måste erkännas.
 
 ---
 
@@ -597,6 +627,53 @@ Ingen modell får använda "människans bästa" som ursäkt för att kontrollera
 ### Svar:
 
 Om Flow någon gång kräver skydd från kritik har det börjat bryta mot sina egna principer.
+
+## Invändning: Kan Flow bygga på en naiv människosyn?
+
+En möjlig invändning är att människor inte bara drivs av omsorg, kreativitet och samhörighet.
+
+Människan har också förmåga till:
+- grymhet
+- manipulation
+- våld
+- likgiltighet
+- maktbegär
+- självbedrägeri
+
+Ett system som endast bygger på antagandet att människor alltid väljer det goda riskerar därför att skapa nya former av sårbarhet.
+
+
+### Svar:
+Flow utgår inte från att människan är perfekt.
+
+Människan är en varelse med möjlighet till både skapande och destruktion.
+
+Därför kan ett hållbart system inte bygga enbart på god vilja.
+
+Det måste också bygga på skyddande strukturer.
+
+Ett samhälle måste kunna hantera att:
+vissa människor kan - missbruka makt
+- vissa relationer kan bli destruktiva
+- vissa grupper kan försöka dominera andra
+- goda intentioner inte alltid leder till goda konsekvenser
+
+Därför kräver Flow:
+- begränsning av maktkoncentration
+- transparens
+- möjlighet till kritik
+- skydd för utsatta
+- ansvar för skadliga handlingar
+- mekanismer för korrigering
+
+
+Målet är inte att skapa ett system som kräver perfekta människor.
+
+Målet är att skapa ett system där ofullkomliga människor kan leva tillsammans utan att destruktivitet får obegränsad räckvidd.
+
+Människans möjlighet till godhet är en resurs.
+
+Människans möjlighet till skada är en verklighet som måste erkännas.
 
 ---
 
