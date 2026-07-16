@@ -3,7 +3,7 @@
 ## Verklighetens Grundvillkor
 ### En Flow-beskrivning av verklighetens natur
 
-**Version:** 0.1 — Första utkast  
+**Version:** 1.0  
 **Status:** Filosofiskt grunddokument  
 **Syfte:** Att beskriva de observationer och principer som ligger till grund för Flow-arkitekturen.
 
@@ -374,7 +374,7 @@ Relationer kan också vara destruktiva.
 
 Därför måste varje relation bedömas utifrån om den stärker eller begränsar liv, värdighet och frihet.
 
-### Invändning: Kan deltagande bli ett nytt krav?
+## Invändning: Kan deltagande bli ett nytt krav?
 
 ### Svar:
 
@@ -424,7 +424,7 @@ Ett löfte som inte kan uppfyllas är inte en rättighet.
 
 Det är en illusion.
 
-Men för säkerhets skull läs gärna /data_validation 
+**Men för säkerhets skull läs gärna /data_validation**
 
 ## Invändning: Kan ett sådant system missbrukas?
 
@@ -454,7 +454,6 @@ Flow antar att människor ofta skapar, hjälper och undersöker även utan tvån
 Men detta antagande måste möta verkligheten genom observation.
 
 ## Invändning: Kommer människor att bidra om ekonomisk belöning inte längre är den primära drivkraften?
-
 
 En möjlig invändning är att många samhällen bygger på ekonomiska incitament. 
 
@@ -587,7 +586,7 @@ Effekten måste observeras.
 
 ## Invändning: Vem avgör vad "liv" kräver?
 
-###Svar:
+### Svar:
 
 Baslinjen vara begränsad till observerbara mänskliga behov.
 
