@@ -65,13 +65,21 @@ Här finns texter om bland annat:
 
 Flow är inte färdigt.
 
-Det är inte en ideologi.
+Det är inte en sluten ideologi.
 
 Det är ett ramverk för kontinuerligt lärande inom tydliga konstitutionella gränser.
 
-Om fysiken och verkligheten visar att en modell är fel ska modellen förändras.
+Flow försöker inte anpassa verkligheten efter en idé.
 
-Inte verkligheten.
+Det försöker förstå verkligheten tillräckligt väl för att kunna förändra de delar som skapar onödigt lidande.
+
+Om verklighetens observationer visar att en modell är fel ska modellen förändras.
+
+Om verkligheten visar att mänskliga system kan förbättras ska systemen förändras.
+
+Verkligheten är inte bara något vi observerar.
+
+Vi är också deltagare i dess fortsatta utveckling. 
 
 ---
 
