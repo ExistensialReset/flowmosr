@@ -179,7 +179,61 @@ Frågan är:
 
 ---
 
-## 8. Orättvisa som en allvarlig begränsning av deltagande
+## 8. Verkligheten innehåller konflikt
+
+Där liv finns uppstår också spänningar.
+
+Olika behov.
+
+Olika perspektiv.
+
+Olika intressen.
+
+Olika erfarenheter.
+
+Konflikt är därför inte ett undantag från verkligheten.
+
+Den är en del av den.
+
+Det avgörande är inte om konflikt uppstår.
+
+Det avgörande är hur människor möter den.
+
+Ett samhälle som försöker eliminera all konflikt riskerar att eliminera frihet.
+
+Ett samhälle som ignorerar konflikt riskerar att normalisera dominans.
+
+Flow söker därför inte ett konfliktfritt samhälle.
+
+Flow söker former där konflikter kan hanteras utan att människors värdighet går förlorad.
+
+Konflikter är inte nödvändigtvis tecken på att ett system har misslyckats.
+
+De är ofta en naturlig följd av att människor är olika, förändras över tid och lever tillsammans.
+
+Ett levande system kännetecknas därför inte av frånvaron av konflikt.
+
+Det kännetecknas av sin förmåga att möta konflikt utan att förlora respekt, frivillighet och omsorg.
+
+Ibland leder konflikter till fördjupad förståelse.
+
+Ibland leder de till förändring.
+
+Ibland leder de till att vägar skiljs åt.
+
+Även detta kan vara en del av ett levande systems utveckling.
+
+Flow betraktar därför inte alltid separation som ett misslyckande.
+
+I vissa situationer kan ett värdigt avslut vara det mest livsbejakande sättet att skydda människors fortsatta möjlighet att delta.
+
+Konflikt är därför inte motsatsen till Flow.
+
+Hur vi möter konflikten avgör om den blir destruktiv eller utvecklande.
+
+---
+
+## 9. Orättvisa som en allvarlig begränsning av deltagande
 
 Om en människa saknar de grundläggande villkoren för att kunna leva, påverkas inte bara hennes materiella situation.
 
@@ -203,7 +257,7 @@ Det är begränsningar av deltagande.
 
 ---
 
-## 9. Systemets plats i verkligheten
+## 10. Systemets plats i verkligheten
 
 Människan skapar system.
 
@@ -227,41 +281,11 @@ Därför gäller en grundprincip:
 
 > System existerar för att tjäna livet.
 >
-> Liv existerar inte för att tjäna system.Invändning: Kan Flow bygga på en naiv människosyn?
-En möjlig invändning är att människor inte bara drivs av omsorg, kreativitet och samhörighet.
-Människan har också förmåga till:
-grymhet
-manipulation
-våld
-likgiltighet
-maktbegär
-självbedrägeri
-Ett system som endast bygger på antagandet att människor alltid väljer det goda riskerar därför att skapa nya former av sårbarhet.
-Svar:
-Flow utgår inte från att människan är perfekt.
-Människan är en varelse med möjlighet till både skapande och destruktion.
-Därför kan ett hållbart system inte bygga enbart på god vilja.
-Det måste också bygga på skyddande strukturer.
-Ett samhälle måste kunna hantera att:
-vissa människor kan missbruka makt
-vissa relationer kan bli destruktiva
-vissa grupper kan försöka dominera andra
-goda intentioner inte alltid leder till goda konsekvenser
-Därför kräver Flow:
-begränsning av maktkoncentration
-transparens
-möjlighet till kritik
-skydd för utsatta
-ansvar för skadliga handlingar
-mekanismer för korrigering
-Målet är inte att skapa ett system som kräver perfekta människor.
-Målet är att skapa ett system där ofullkomliga människor kan leva tillsammans utan att destruktivitet får obegränsad räckvidd.
-Människans möjlighet till godhet är en resurs.
-Människans möjlighet till skada är en verklighet som måste erkännas.
-
+> Liv existerar inte för att tjäna system.
+ 
 ---
 
-## 10. Makt och ansvar
+## 11. Makt och ansvar
 
 Makt finns i alla relationer.
 
@@ -285,7 +309,7 @@ Det är förmågan att skapa större möjlighet för andra.
 
 ---
 
-## 11. Verkligheten före modellen
+## 12. Verkligheten före modellen
 
 Ingen idé, teori eller vision står över verkligheten.
 
@@ -299,7 +323,7 @@ Det är ett försök att skapa *bättre frågor, bättre observationer och bätt
 
 ---
 
-## 12. Sanning och begränsning
+## 13. Sanning och begränsning
 
 Att söka verkligheten kräver ödmjukhet.
 
@@ -320,7 +344,7 @@ Ett system som inte kan möta verkligheten kan inte tjäna verkligheten.
 
 ---
 
-## 13. Flow-principen
+## 14. Flow-principen
 
 Flow utgår från några grundläggande observationer:
 
@@ -333,7 +357,7 @@ Flow utgår från några grundläggande observationer:
 
 ---
 
-## 14. Verkligheten är inte färdig
+## 15. Verkligheten är inte färdig
 
 Universum är inte endast något som har varit.
 
@@ -354,7 +378,7 @@ Den formas genom deltagande.
 
 ---
 
-## 15. Verklighetens mysterium
+## 16. Verklighetens mysterium
 
 Människan möter verkligheten från en begränsad position.
 
@@ -370,7 +394,7 @@ Det är en konsekvens av verklighetens storlek.
 
 ---
 
-## 16. Att utsätta modellen för verkligheten
+## 17. Att utsätta modellen för verkligheten
 
 En beskrivning av verkligheten måste kunna möta invändningar.
 
@@ -677,7 +701,7 @@ Människans möjlighet till skada är en verklighet som måste erkännas.
 
 ---
 
-## 17. Vetenskaplig hållning
+## 18. Vetenskaplig hållning
 
 Flow skiljer mellan:
 
@@ -715,7 +739,7 @@ Ett system som inte kan lära sig kan inte tjäna livet.
 
 ---
 
-## 18. Inbjudan
+## 19. Inbjudan
 
 Detta dokument ber inte om tro.
 
