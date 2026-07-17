@@ -73,6 +73,10 @@ När ordens funktion bevaras kan också axiomens funktion bevaras.
 
 Definitionerna i detta dokument får fördjupas och förfinas, men aldrig försvagas så att de kan användas för att legitimera tvång.
 
+Definitionerna i detta dokument beskriver hur centrala begrepp används inom Flow. 
+
+De gör självklart inte anspråk på att vara de enda möjliga definitionerna i filosofi, vetenskap eller vardagsspråk.
+
 ---
 
 ## Principer
