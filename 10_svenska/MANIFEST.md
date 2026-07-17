@@ -60,7 +60,7 @@ Nedan följer de grundläggande axiomen och den operativa logiken för att bygga
 
 # II. AXIOMEN
 
-Följande sanningar är systemets icke-förhandlingsbara grunder.
+Följande tankar är systemets icke-förhandlingsbara grunder.
 De erkänns som grundnivån för mänsklig verklighet.
 
 ---
@@ -345,7 +345,7 @@ Det är Flödet.
 **Suveränitet är erkänd.**
 **Flödet kan vara möjligt.**
 
-Av dig krävs faktiskt att du vill ändra din situation.
+Det ingen annan kan göra för dig är förändring.
 Ingenting kommer tas från dig.
 
 Rent vatten rinner tyst.
