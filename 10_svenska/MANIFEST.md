@@ -237,7 +237,7 @@ Nu går vi från värdegrund till implementering.
 
 För att säkerställa stabilitet upprätthåller den kollektiva arkitekturen en konstant **Kritisk Reserv** av logistiska resurser och energi, motsvarande inte mindre än **30% av totala årliga Baslinjebehov**.
 
-Detta baseras på katastrofberedskapsforskning och historiska data om resiliens – 30% har visat sig vara den lägsta nivå där ett system kan absorbera störningar utan att kollapsa. Det är tillräckligt högt för att hantera oförutsedda händelser, och tillräckligt lågt för att inte skapa onödig överproduktion eller resursslöseri.
+Det är tillräckligt högt för att hantera oförutsedda händelser, och tillräckligt lågt för att inte skapa onödig överproduktion eller resursslöseri.
 
 Denna reserv är den fysiska garantin för Baslinjen.
 
