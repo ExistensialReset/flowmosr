@@ -196,10 +196,9 @@ Curious, unsure?
 → [Flow Core Entry](/00_core/00_FLOW_CORE_ENTRY.md) 
 
 Want to try Flow in your life?  
-→ [Flow Starter Guide](/guides/activation/FLOW_STARTER_GUIDE.md) 
-
-Want to build a Node?  
-→ [Transition Playbook](/guides/economics/TRANSITION_PLAYBOOK.md) 
+→ [START HERE](/guides/START_HERE.md)
+ 
+ 
 
 Want to understand Flow more deeply? 
 [Beginner's way in to Flow](/identity/BEGINNERS_WAY_IN_TO_FLOW.md) 
