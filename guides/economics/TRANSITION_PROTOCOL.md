@@ -14,7 +14,7 @@ You have debts, children, parents, and a nervous system trained to fear scarcity
 **This is not weakness. This is reality.**
 
 Flow does not ask you to burn your life down.  
-Flow asks: **Can you begin moving, one millimeter at a time, toward sovereignty?**
+Flow asks: **Can you begin moving, one millimeter at a time, toward toward greater freedom, resilience, and participation?**
 
 ---
 
@@ -46,7 +46,7 @@ Transition is not a cliff edge. It is a bridge.
   * **Path A:** The Leap (Full exit).  
   * **Path B:** The Hybrid (Part-time Mammon work for safety, remainder in Flow).
 
-### PHASE 4: EARLY FLOW (Detox)
+### PHASE 4: EARLY FLOW (RECALIBRATION)
 * **Withdrawal:** You will feel guilt for resting. You will feel panic without a boss.  
 * **Protocol:** Trust the Baseline. Let your nervous system recalibrate.  
 * **Milestone:** The first day you wake up without fear.
