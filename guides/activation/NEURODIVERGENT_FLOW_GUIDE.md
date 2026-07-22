@@ -25,6 +25,8 @@ They assume:
 
 **This guide is for you.**
 
+And, Note: Neurodivergence is not a single experience. The examples below are invitations, not assumptions. Ask the individual. 
+
 ---
 
 ## PART I: ADAPTATIONS FOR AUTISTIC FOLKS
