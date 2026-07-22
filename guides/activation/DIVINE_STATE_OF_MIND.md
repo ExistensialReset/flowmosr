@@ -105,7 +105,7 @@ When L, S, I stabilize, EV questions arise:
 
 ---
 
-## 6. Grace Emergence (Σ) ✨ (Months 3-6)
+## 6. Grace Emergence (Σ) ✨ When It Comes 
 
 You can’t force Σ. Signs it returns:  
 - Unexpected small joys 😄  
