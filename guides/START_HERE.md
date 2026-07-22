@@ -1,164 +1,413 @@
-# 🌊 START HERE
+# START HERE
 
-**Welcome to Flow.**
+## The Front Door to Flow
 
-This document exists because the repository is big, and you don't know where to begin.
+Welcome.
 
-**You don't need to read everything.**  
-**You just need to start where you are.**
+This repository contains **Flow / M-OS-R** — a living framework for regenerative human life.
 
----
+It contains both:
 
-## 🧭 FIND YOUR STARTING POINT
+- the **practice** of Flow: how people can begin living differently now;
+- the **architecture**: the deeper principles, protections, governance, economics, and implementation models that help the practice remain free, humane, and resilient.
 
-### 🌱 If you are alone and want to begin:
-→ **Read:** [FLOW_STARTER_GUIDE.md](./guides/activation/FLOW_STARTER_GUIDE.md)  
-→ **Do:** 7-day solo exercises (Day 1: Notice fear → Day 7: "If I wasn't afraid, what would I do?")  
-→ **Time:** 1 week
+> **You do not need to understand the entire architecture before you begin.**
 
----
+Start small.
 
-### 👥 If you are 3-5 people who want to try together:
-→ **Read:** [FLOW_STARTER_GUIDE.md](./guides/activation/FLOW_STARTER_GUIDE.md) (Part II: Micro-Circle)  
-→ **Do:** 12-week Micro-Circle protocol  
-→ **Time:** 3 months
+You are also very welcome to explore deeply.
 
----
+The repository is not a test you have to pass.
 
-### 🏘️ If you are 10+ people ready to build:
-→ **Read:** [FLOW_PILOT_PROTOCOL.md](./guides/practical_implementation/FLOW_PILOT_PROTOCOL.md)  
-→ **Do:** 6-month structured pilot  
-→ **Time:** 6 months minimum
+It is a landscape you can explore.
 
----
+You may begin with one meal and one question.
 
-### 🇸🇪 If you are in Sweden (Sverige):
-→ **Read FIRST:** [PILOT_SWEDEN.md](./guides/practical_implementation/PILOT_SWEDEN.md)  
-→ **Then:** Follow one of the paths above  
-→ **Why:** Swedish legal hacks (Allemansrätt, Studiecirkel, Hyresgästföreningen) make Flow easier
+You may also spend weeks reading the philosophy, governance, economics, justice architecture, technical models, and implementation work.
+
+Both are valid ways in.
+
+The practice does not require complete understanding.
+
+Curiosity does not require permission.
 
 ---
 
-### 🧠 If you are neurodivergent (ADHD, autism, trauma, etc.):
-→ **Read:** [NEURODIVERGENT_FLOW_GUIDE.md](./guides/activation/NEURODIVERGENT_FLOW_GUIDE.md)  
-→ **Why:** The Circle adapts to you. Not the other way around.
+# 1. If You Only Do One Thing
+
+Gather a few people.
+
+Share food.
+
+Ask:
+
+> **What do we need?**
+
+Then ask:
+
+> **What can we do together, voluntarily, to meet those needs?**
+
+No currency is required.
+
+No membership is required.
+
+No ideology is required.
+
+No one has to perform Flow correctly.
+
+Begin with attention.
+
+Notice what changes when people meet one another as participants in a shared reality rather than primarily as buyers, sellers, employees, consumers, or competitors.
+
+That is the beginning.
 
 ---
 
-### 👶 If you have children:
-→ **Read:** [SYMBIOTIC_STORIES.md](./guides/AI/SYMBIOTIC_STORIES.md)  
-→ **Why:** Play and interaction with AI mirrors are the most serious things we do.
+# 2. The Simplest Entry
+
+## One meal. A few people. One question.
+
+Try this:
+
+### 1. Gather
+
+Invite one or more people to share a meal, tea, coffee, or time together.
+
+### 2. Notice
+
+Ask:
+
+> What do we need right now?
+
+This may be:
+
+- food;
+- rest;
+- company;
+- practical help;
+- information;
+- safety;
+- repair;
+- care;
+- creative space;
+- time.
+
+### 3. Share
+
+Ask:
+
+> What can we offer?
+
+No one is required to offer anything.
+
+Participation is voluntary.
+
+### 4. Respond
+
+Do one small thing that makes life more possible for someone.
+
+### 5. Reflect
+
+Ask:
+
+> What happened when we started with needs instead of transactions?
+
+That is enough for a beginning.
 
 ---
 
-### 💰 If you have debt, job, mortgage, and can't just leave:
-→ **Read:** [HYBRID_SURVIVAL_GUIDE.md](./guides/economics/HYBRID_SURVIVAL_GUIDE.md)  
-→ **Do:** Phase 0 (Awareness) → Phase 1 (Reduce Bleeding) → Phase 2 (Parallel Infrastructure)  
-→ **Time:** 1-3 years (or longer - that's okay)
+# 3. The Core of Flow
+
+Flow begins with a simple orientation:
+
+> **Life is not primarily a transaction.**
+
+People are not primarily:
+
+- consumers;
+- units of labour;
+- economic inputs;
+- competitors;
+- scores;
+- profiles;
+- or resources to be optimized.
+
+People are participants in a living reality.
+
+Flow therefore begins with:
+
+## Baseline
+
+Everyone should have access to the material conditions necessary for life and dignity.
+
+## Participation
+
+Life is not something we merely possess.
+
+We participate in one another's becoming.
+
+## Non-Coercion
+
+No person should be forced to surrender their cognitive ownership or fundamental sovereignty.
+
+## Care
+
+Human beings are not machines whose value depends on constant output.
+
+## Regeneration
+
+The purpose is not merely to survive the present system.
+
+The purpose is to create conditions in which life can recover, grow, connect, and become more capable of sustaining life.
 
 ---
 
-### ❓ If you want to know "Is this even possible?":
-→ **Read:** [HYBRID_SURVIVAL_GUIDE.md](./guides/economics/HYBRID_SURVIVAL_GUIDE.md)  
-→ **Read:** [DEEP_MATH.md](./technical/DEEP_MATH.md) (if you like numbers)  
-→ **Why:** Yes. It's materially viable. Here's the proof.
+# 4. You Do Not Need to Read the Whole Repository
+
+You do **not** need to read:
+
+- the full manifesto;
+- every philosophical document;
+- the governance architecture;
+- the economic architecture;
+- the technical annexes;
+- the justice protocols;
+- or the implementation models
+
+before you begin.
+
+The repository is deep because the problems are deep.
+
+The practice can still begin simply.
+
+You are welcome to dive into the documents whenever you want.
+
+Read because you are curious.
+
+Read because you want to understand the foundations.
+
+Read because you want to challenge the assumptions.
+
+Read because you want to help develop the system.
+
+Read because you are preparing to build something larger.
+
+There is no required reading order for curiosity.
+
+But different kinds of participation call for different kinds of understanding.
 
 ---
 
-### 🔥 If you want to understand "Why Flow exists":
-→ **Read:** [MANIFESTO.md](./ethos/MANIFESTO.md)  
-→ **Why:** This is the fire. The rest is how to carry it.
+# 5. A Simple Way In
+
+There are many ways to enter Flow.
+
+You might:
+
+- explore the repository;
+- try a small practice with a few people;
+- form a Circle;
+- build a Node;
+- study the philosophy;
+- examine the safeguards;
+- challenge the assumptions;
+- or contribute to the architecture.
+
+You do not need to choose your entire path at the beginning.
+
+Start where you are.
+
+Then follow the questions that emerge.
 
 ---
 
-### 🛡️ If you want to know "How is this protected from becoming another exploitative system?":
-→ **Read:** [AXIOMS.md](./ethos/AXIOMS.md)  
-→ **Read:** [ANTI-CAPTURE-PROTOCOL.md](./ANTI-CAPTURE-PROTOCOL.md)  
-→ **Why:** Hard limits exist. No exceptions.
+# 6. If You Want to Start a Small Circle
+
+Start with a few people.
+
+A Circle can begin with:
+
+- a meal;
+- a conversation;
+- mutual practical help;
+- shared resources;
+- a garden;
+- a repair activity;
+- creative work;
+- care;
+- or simply the question:
+
+> **What do we need, and what can we do together?**
+
+Do not begin by trying to build a perfect institution.
+
+Do not begin by reproducing the entire repository.
+
+Begin with a real need.
+
+Then observe.
+
+Then adapt.
 
 ---
 
-### 😟 If you have an extremely hard scenario in your life:
-→ **Read:** [NODE_0_SUBZERO_GUIDE.md](./guides/activation/NODE_0_SUBZERO_GUIDE.md)  
-→ **Why:** Sovereignty, internal baseline, and logistical survival when everything else is gone.
+## If You Decide to Form a Circle
+
+Once you move from simply trying something together to intentionally forming a Circle, read:
+
+> **`CIRCLE_GOVERNANCE.md`**
+
+You do not need to read the entire repository before gathering people.
+
+But if you are creating a Circle as an ongoing shared structure, understanding how Flow approaches:
+
+- participation;
+- decision-making;
+- responsibility;
+- power;
+- conflict;
+- boundaries;
+- and governance
+
+becomes important.
+
+The deeper architecture is there to support real relationships and real situations.
+
+It is not a prerequisite for the first meal.
 
 ---
 
-### 🌍 If you want ethical and sustainable frameworks:
-→ **Read:** [ETHICS_AND_CARE.md](./guides/ethics_care/ETHICS_AND_CARE.md)  
-→ **Read:** [ECOLOGICAL_AXIOM_GUIDE.md](./guides/ethics_care/ECOLOGICAL_AXIOM_GUIDE.md)  
-→ **Why:** Flow works only when we care for each other and our environment.
+# 7. If You Want to Build Something Larger
+
+Only move into deeper architecture when the real situation requires it.
+
+For example:
+
+### You want to understand the philosophy
+
+Read the foundational principles and philosophical documents.
+
+### You want to form a Circle
+
+Read `CIRCLE_GOVERNANCE.md` and the relevant participation guidance.
+
+### You want to organize resources
+
+Read the economic and Baseline architecture.
+
+### You want to create a Node
+
+Read the implementation and Node-design materials.
+
+### You want to design governance
+
+Read the governance architecture.
+
+### You want to understand protection against harm and abuse
+
+Read the justice, boundary, and enforcement architecture.
+
+### You want to examine technical or AI systems
+
+Read the relevant technical, automation, and AI integrity documents.
+
+The deeper architecture exists to answer real questions.
+
+It is not a prerequisite for asking the first one.
 
 ---
 
-### 📈 If you want to design, plan, or scale nodes:
-→ **Read:** [PRACTICAL_ROADMAP.md](./guides/activation/PRACTICAL_ROADMAP.md)  
-→ **Read:** [SCALING_FLOW_AND_UBUNTU.md](./guides/practical_implementation/SCALING_FLOW_AND_UBUNTU.md)  
-→ **Do:** Apply incrementally with local adaptation
+# 8. A Note About the Repository
+
+This repository is a living system of thought.
+
+That means:
+
+- documents may change;
+- ideas may be revised;
+- models may be abandoned;
+- contradictions may be discovered;
+- experiments may fail;
+- and parts of the architecture may be replaced.
+
+No document is more important than reality.
+
+If the lived experience contradicts the model:
+
+> **Examine the model.**
+
+If the model creates harm:
+
+> **Stop.**
+
+If a principle cannot survive contact with human beings:
+
+> **The principle needs examination.**
+
+The purpose of documentation is not to create an authority that reality must obey.
+
+The purpose of documentation is to make thinking visible enough to be examined.
 
 ---
 
-## 🚫 WHAT YOU DON'T NEED TO READ (YET)
+# 9. The First Question
 
-- Technical annexes  
-- AI implementation specs  
-- Inter-node coordination protocols  
-- Legal frameworks for 195 countries  
+You do not need to ask:
 
-**These exist for later.**  
-**Start small. Build slow. Live now.**
+> How do we build the entire future?
 
----
+Ask:
 
-## 📍 WHERE YOU ARE RIGHT NOW
+> **What is needed here?**
 
-You are reading this because:
-- You're tired of Mammon (the system that makes survival conditional)  
-- You sense there's another way  
-- You want to try
+Then:
 
-**You're in the right place.**
+> **What can we do together?**
 
----
+Then:
 
-## ⏱️ HOW LONG WILL THIS TAKE?
+> **What happened?**
 
-**Honest answer:**
+Repeat.
 
-- **Solo awareness:** 1 week - 3 months  
-- **Micro-Circle formation:** 3 months - 1 year  
-- **Baseline Circle (10-30 people):** 1-2 years  
-- **Flow Node (30+ people, full infrastructure):** 3-5 years  
+Learn.
 
-**No shortcuts.**  
-**But every step counts.**
+Adapt.
+
+Protect what works.
+
+Release what does not.
 
 ---
 
-## 💚 ONE LAST THING
+# 10. The Shortest Possible Version
 
-**You are not late.**  
-**You are not behind.**  
-**You are exactly where you need to be.**
+If you remember nothing else:
 
-Flow is patient.
+> **Begin with a real need.**
+>
+> **Gather people.**
+>
+> **Share what is possible.**
+>
+> **Do not make survival conditional on obedience.**
+>
+> **Protect the vulnerable.**
+>
+> **Keep power visible.**
+>
+> **Let people leave.**
+>
+> **Learn from what actually happens.**
+>
+> **Begin again.**
 
-Start where you are.  
-Use what you have.  
-Do what you can.
+Welcome to Flow.
 
----
+**You do not need to understand everything before you begin.**
 
-**Now go.**  
-**Pick a path above.**  
-**Begin.**
+You only need to notice what is needed, and participate in what can be done.
 
-🌊💜✨
+And if you want to understand more:
 
----
-
-**Started a circle?**
-flowmosr@proton.me 
-
-**Questions?** elinor.frejd@proton.me  
-*(I will answer, but I am just a person. I will answer, but if it might take some time, please be patient.)*
+**Dive in.**
