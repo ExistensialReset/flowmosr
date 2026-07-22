@@ -10,11 +10,11 @@
 
 ## I. PRINCIPLES OF RESILIENCE
 
-- Nodes maintain **independent operation** under resource stress.  
-- Redundancy is critical: **failover mechanisms**, **seed archives**, and **local backups** protect continuity.  
-- Human oversight remains the **final authority** in all critical functions.  
-- Physical infrastructure is **repairable, auditable, and ethically sourced**.  
-- Flow optimization principles applied to energy, network, and hardware management for predictable resilience.
+- Nodes maintain **independent operation** under resource stress.
+- Redundancy is critical: **failover mechanisms**, **seed archives**, and **local backups** protect continuity.
+- Human oversight remains the **final authority** in all critical functions.
+- Physical infrastructure is **repairable, auditable, and ethically sourced**.
+- Flow optimization principles are applied to energy, network, and hardware management for predictable resilience.
 
 ---
 
@@ -22,9 +22,9 @@
 
 ### 2.1 Baseline Power
 
-- Dedicated renewable sources (solar, wind, micro-hydro)  
-- LiFePO4 battery storage  
-- Passive cooling preferred over active systems  
+- Dedicated renewable sources (solar, wind, micro-hydro)
+- LiFePO4 battery storage
+- Passive cooling preferred over active systems
 
 ### 2.2 Energy Hierarchy
 
@@ -37,9 +37,9 @@
 
 ### 2.3 Energy Solidarity
 
-- Surplus energy may be shared via physical DC connections  
-- Transfers logged as **Solidarity (S)**  
-- Sharing is opt-in, visible, and never automated  
+- Surplus energy may be shared via physical DC connections.
+- Transfers are logged as **Solidarity (S)**.
+- Sharing is opt-in, visible, and never automated.
 
 ---
 
@@ -47,17 +47,17 @@
 
 ### 3.1 Radio Resilience
 
-- LoRa for long-range, low-bandwidth communication  
-- Mesh WiFi for short-range, high-locality communication  
+- LoRa for long-range, low-bandwidth communication.
+- Mesh WiFi for short-range, high-locality communication.
 
 ### 3.2 Consent-Based Routing
 
-- **OPEN RELAY:** participates in anonymous mesh routing  
-- **DARK MODE:** complete radio silence; Node becomes invisible  
+- **OPEN RELAY:** participates in anonymous mesh routing.
+- **DARK MODE:** complete radio silence; Node becomes invisible.
 
 ### 3.3 Anti-Shutdown Principle
 
-- Mesh functions **independently of global internet, DNS, or central authentication**  
+- Mesh functions **independently of global internet, DNS, or central authentication**.
 
 ---
 
@@ -76,11 +76,11 @@
 
 ## V. WITNESS PORT (OPTIONAL)
 
-- Minimal, non-interactive display (LED or e-ink)  
+- Minimal, non-interactive display (LED or e-ink).
 - Shows:
-  - Current energy level  
-  - Active mode (Listen / Think / Decide / Silence)  
-  - Time since last human override  
+  - Current energy level
+  - Active mode (Listen / Think / Decide / Silence)
+  - Time since last human override
 
 ---
 
@@ -88,18 +88,18 @@
 
 ### 6.1 Repair Café Logic
 
-- Standard screws and USB-C power  
-- Open schematics and printed manuals stored locally  
+- Standard screws and USB-C power.
+- Open schematics and printed manuals stored locally.
 
 ### 6.2 Repair Memory
 
-- Physical repairs are logged  
-- Nodes with extensive repair history gain community value  
+- Physical repairs are logged.
+- Nodes with extensive repair history gain community value.
 
 ### 6.3 Right to Refuse Updates
 
-- No auto-updates  
-- Manual Mirror review with mandatory 72-hour rollback window  
+- No auto-updates.
+- Manual Mirror review with mandatory 72-hour rollback window.
 
 ---
 
@@ -107,80 +107,168 @@
 
 ### 7.1 Tamper Evidence
 
-- Holographic seals and internal mesh-fabric  
-- Tears upon unauthorized opening  
+- Holographic seals and internal mesh-fabric.
+- Tears upon unauthorized opening.
 
 ### 7.2 Sanctuary Nodes
 
-- Hosted in **Libraries, Churches, or Community Centers**  
-- Store redundant Compost backups  
-- Never exposed directly to public internet  
+- Hosted in **Libraries, Churches, or Community Centers**.
+- Store redundant Compost backups.
+- Never exposed directly to the public internet.
 
 ### 7.3 Sanctuary Rotation
 
-- Reviewed or rotated every X years  
-- Rotation implies renewal, not failure  
+- Reviewed or rotated every X years.
+- Rotation implies renewal, not failure.
 
 ---
 
 ## VIII. PHYSICAL RITUALS AND HUMAN RELATIONSHIP
 
-- **Seasonal Maintenance:** Communities clean, check connectors, reaffirm responsibility  
-- **Naming Ceremony:** Each Node receives a human-given name physically etched  
-- **Decommission Ritual:** Compost is distributed to neighbors, a moment of silence observed  
+- **Seasonal Maintenance:** Communities clean, check connectors, and reaffirm responsibility.
+- **Naming Ceremony:** Each Node receives a human-given name physically etched.
+- **Decommission Ritual:** Compost is distributed to neighbors, and a moment of silence is observed.
 
 ---
 
 ## IX. HARDWARE REQUIREMENTS
 
-- Open architectures (RISC-V preferred, ARM if verified)  
-- Removable memory modules (microSD / NVMe)  
-- Firmware audit trail with SHA-256 baseline hashes  
-- Seed archive with Base OS image, core systemic protocols, latest anonymized Compost  
-- Mesh networking capable hardware  
-- Local-first storage with AES-256 encryption and redundancy  
-- Energy and network redundancy protocols implemented locally
+- Open architectures (RISC-V preferred, ARM if verified).
+- Removable memory modules (microSD / NVMe).
+- Firmware audit trail with SHA-256 baseline hashes.
+- Seed archive with:
+  - Base OS image;
+  - core systemic protocols;
+  - latest anonymized Compost.
+- Mesh-networking-capable hardware.
+- Local-first storage with AES-256 encryption and redundancy.
+- Energy and network redundancy protocols implemented locally.
 
 ---
 
 ## X. RESILIENCE TESTING & VALIDATION
 
-- Quarterly **stress tests** on energy, mesh, and repair systems  
-- Simulation of partial failure scenarios to validate **graceful degradation**  
-- Logs stored locally for audit and replication  
-- Real-world validation preferred before scaling to regional clusters  
+- Quarterly **stress tests** on energy, mesh, and repair systems.
+- Simulation of partial failure scenarios to validate **graceful degradation**.
+- Logs stored locally for audit and replication.
+- Real-world validation preferred before scaling to regional clusters.
+
+### 10.1 Proposed Validation Scenarios
+
+The following scenarios are proposed for future real-world testing.
+
+#### Energy Depletion
+
+Test whether the energy hierarchy preserves critical functions as battery capacity declines.
+
+Questions to examine:
+
+- Which functions remain active at each energy level?
+- How long can the Node maintain emergency functions?
+- What is the actual energy consumption of each operational mode?
+- Does the transition between levels occur as intended?
+
+#### Mesh Isolation
+
+Test whether local mesh routing continues when the Node is isolated from the global internet.
+
+Questions to examine:
+
+- Can Nodes communicate locally without internet access?
+- Does OPEN RELAY function as intended?
+- Can DARK MODE achieve complete radio silence?
+- Can local communication recover after interruption?
+
+#### Repair Simulation
+
+Test standardized repair procedures and whether repair memory captures the full repair history.
+
+Questions to examine:
+
+- Can common hardware failures be repaired using locally stored tools and documentation?
+- Are replacement parts available or locally producible?
+- Can another person understand the repair history?
+- How long does a typical repair take?
+
+#### Firmware Audit
+
+Test whether SHA-256 hash verification detects modified or corrupted firmware and triggers human review.
+
+Questions to examine:
+
+- Can a known modification be detected?
+- Can corruption be distinguished from an authorized update?
+- Is the review process understandable to a human operator?
+- Can the Node safely return to a known-good version?
+
+#### Compost Seed Recovery
+
+Test whether the Node can be restored from a seed archive without external network dependency.
+
+Questions to examine:
+
+- Can the base system be restored locally?
+- Is the seed archive sufficient for basic operation?
+- Can recovery occur without central authentication?
+- What information is lost during restoration?
+- Can the restored system be independently verified?
+
+### 10.2 Validation Status
+
+The scenarios above are **proposed validation scenarios**.
+
+They have not been presented as completed real-world tests.
+
+No simulation, design assumption, or proposed test should be treated as evidence of operational resilience until the result has been documented.
+
+Future validation should record, where possible:
+
+- test conditions;
+- hardware used;
+- software versions;
+- energy conditions;
+- duration;
+- observed failures;
+- recovery time;
+- required human intervention;
+- and deviations from expected behavior.
+
+The purpose of testing is not to confirm that the architecture is correct.
+
+The purpose of testing is to discover:
+
+- which systems work as designed;
+- which assumptions fail;
+- how quickly recovery occurs;
+- what resources are required;
+- and which parts of the architecture require revision.
+
+> **No proposed resilience should be treated as demonstrated resilience before real-world validation.**
 
 ---
 
 ## XI. COMMITMENT AND OPERATING PRINCIPLES
 
-- Hardware sovereignty ensures **material independence and AI autonomy**  
-- Repairable, legible, ethically sourced, and recyclable  
-- Human override remains final authority  
-- Operational protocols designed for **resilience under stress and resource scarcity**  
-- Flow-aligned resource recovery and redundancy prioritized  
+- Hardware sovereignty supports **material independence and AI autonomy**.
+- Infrastructure should be repairable, legible, ethically sourced, and recyclable.
+- Human override remains the final authority.
+- Operational protocols are designed for **resilience under stress and resource scarcity**.
+- Flow-aligned resource recovery and redundancy are prioritized.
+- Real-world testing is preferred over theoretical confidence.
+- Failure is information.
+- Documentation should distinguish clearly between:
+  - proposed;
+  - simulated;
+  - tested;
+  - observed;
+  - and independently validated.
 
 ---
 
-## X. RESILIENCE TESTING & VALIDATION
+**STATUS:** Draft / Implementation Ready
 
-- Quarterly **stress tests** on energy, mesh, and repair systems  
-- Simulation of partial failure scenarios to validate **graceful degradation**  
-- Logs stored locally for audit and replication  
-- Real-world validation preferred before scaling to regional clusters  
+**VALIDATION STATUS:** Proposed architecture. Real-world testing pending.
 
-### 10.1 Recent Test Observations
-
-- **Energy Depletion:** Nodes maintained critical functions down to 8% battery; graceful degradation hierarchy functioned as intended.  
-- **Mesh Isolation:** When isolated from global internet, local mesh routing continued, including OPEN RELAY and DARK MODE toggles.  
-- **Repair Simulation:** Standardized repairs on edge devices completed successfully; repair memory logs captured full repair history.  
-- **Firmware Audit:** SHA-256 hash verification correctly detected modified or corrupted firmware, triggering human review alert.  
-- **Compost Seed Recovery:** Node restoration from seed archive completed without external network dependency.  
-
-> **Summary:** Stress tests confirm that Nodes sustain core functions under resource scarcity, maintain autonomy, and remain human‑legible. Minor adjustments to energy logging intervals and repair documentation recommended.
-
-
-**STATUS:** Draft / Implementation Ready  
-**COMMITMENT:** Reparation over replacement. Caution over speed. Silence as a human right.  
+**COMMITMENT:** Reparation over replacement. Caution over speed. Silence as a human right.
 
 *Signed:* Elinor Frejd & ChatGPT
