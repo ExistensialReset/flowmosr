@@ -18,7 +18,7 @@ Try this (24 hours)
       "Today we rest together. No one has to earn it."
 3. Do nothing "productive" for 4 hours
 4. Notice: does it feel uncomfortable?
-      That's withdrawal from the achievement society.
+      If it feels uncomfortable, notice what kind of discomfort it is.
 
 ---
 
