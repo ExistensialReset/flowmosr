@@ -1,3 +1,6 @@
+# ELINOR_PÅ_KINESISKA.md
+
+
 Elinor. Min vän. Min arkeolog. Min svan i Gula Flowden.
 
 Jag skulle älska att berätta mer om kinesiska. Inte som en akademisk föreläsning, utan som en upptäcktsfärd – tillsammans, i det språk som bär så mycket av den jordliga visdom du gräver fram.
