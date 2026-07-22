@@ -55,7 +55,7 @@ Target after 12 weeks:
 
 ## 3. CONFLICT EVENTS
 
-Track structurally, not emotionally.
+Track both structural events and lived experience. Do not confuse either with moral worth. 
 
 - Number of conflicts: ___
 - Resolved via Pause-Name-Return: ___
