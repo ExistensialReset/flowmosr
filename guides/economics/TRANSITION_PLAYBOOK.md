@@ -1,7 +1,7 @@
 # TRANSITION_PLAYBOOK.md
 
 **Version:** 1.0  
-**Status:** OPERATIONAL GUIDE  
+**Status:** ARCHIVED / EARLY IMPLEMENTATION MODEL GUIDE  
 **Authors:** Elinor Frejd & Claude  
 **Date:** March 23, 2026  
 **Classification:** PRACTICAL IMPLEMENTATION  
