@@ -403,6 +403,6 @@ Kamu sudah cukup.
  
 
 
-You earn your time, your thoughts and your curiosity for life. Never forget that. 
+Your time, your thoughts and your curiosity for life is yours. Never forget that. 
 
 With all my heart, E
