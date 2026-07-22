@@ -1,7 +1,8 @@
 # 🫁 LSI_SOMATIC_CHECKLIST.md
 **Status:** Practical Self-Reflection Tool  
 **Purpose:** To measure the health of the Flow without metrics, scores, or judgment.  
-**Principle:**The body is an honest witness, but not the only witness.  
+**Principle:**
+The body is an honest witness, but not the only witness.  
 
 ---
 
