@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>Flow / M-OS-R</title>
 
 <style>
@@ -19,9 +18,7 @@
   --border: rgba(255, 183, 0, 0.35);
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
   margin: 0;
@@ -35,8 +32,6 @@ body {
   height: 100vh;
   overflow: hidden;
 }
-
-/* SIDEBAR */
 
 #sidebar {
   width: 340px;
@@ -60,19 +55,14 @@ body {
   margin-bottom: 1rem;
 }
 
-/* SEARCH */
-
 #searchInput {
   width: 100%;
   padding: 0.75rem;
   margin-bottom: 0.75rem;
-
   background: var(--panel);
   color: var(--text);
-
   border: 1px solid var(--border);
   border-radius: 6px;
-
   font-size: 1rem;
 }
 
@@ -84,25 +74,19 @@ body {
   outline: 2px solid var(--gold);
 }
 
-/* SEARCH RESULTS */
-
 #searchResults {
   margin-bottom: 1rem;
 }
 
 .search-result {
   display: block;
-
   padding: 0.7rem;
   margin-bottom: 0.5rem;
-
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 6px;
-
   color: var(--text);
   text-decoration: none;
-
   cursor: pointer;
 }
 
@@ -132,8 +116,6 @@ body {
   padding: 0.5rem;
 }
 
-/* TREE */
-
 #fileTree {
   list-style: none;
   padding: 0;
@@ -152,16 +134,12 @@ body {
 .tree-folder-button {
   width: 100%;
   text-align: left;
-
   background: none;
   border: none;
-
   color: var(--gold);
   cursor: pointer;
-
   padding: 0.45rem;
   border-radius: 4px;
-
   font-size: 0.95rem;
 }
 
@@ -188,15 +166,11 @@ body {
 
 .tree-file {
   display: block;
-
   padding: 0.4rem 0.55rem;
   margin: 0.15rem 0;
-
   color: var(--gold);
   text-decoration: none;
-
   border-radius: 4px;
-
   cursor: pointer;
 }
 
@@ -210,18 +184,12 @@ body {
   font-weight: bold;
 }
 
-/* CONTENT */
-
 #content {
   flex: 1;
-
   padding: 2rem;
-
   overflow-y: auto;
-
   background: var(--bg);
   color: var(--text);
-
   line-height: 1.65;
 }
 
@@ -257,10 +225,15 @@ body {
   overflow-x: auto;
 }
 
-/* MOBILE */
+.status-error {
+  color: #ffb4b4;
+  background: rgba(120, 0, 0, 0.25);
+  border: 1px solid rgba(255, 120, 120, 0.35);
+  padding: 1rem;
+  border-radius: 8px;
+}
 
 @media (max-width: 800px) {
-
   #container {
     flex-direction: column;
   }
@@ -290,7 +263,7 @@ body {
     <h1>🌊 Flow / M-OS-R</h1>
 
     <div id="documentCount">
-      Laddar dokument...
+      Läser GitHub-repot...
     </div>
 
     <input
@@ -307,22 +280,26 @@ body {
   </aside>
 
   <main id="content">
-    Laddar...
+    Läser dokument från GitHub...
   </main>
 
 </div>
 
-<!-- Markdown-rendering -->
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
 <script>
 
-/* ============================================
-   GLOBAL DATA
-============================================ */
+const OWNER = "ExistensialReset";
+const REPO = "flowmosr";
+const BRANCH = "main";
+
+const GITHUB_TREE_API =
+  `https://api.github.com/repos/${OWNER}/${REPO}/git/trees/${BRANCH}?recursive=1`;
+
+const RAW_BASE =
+  `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/`;
 
 let pages = [];
-let pagesByPath = {};
 
 const content = document.getElementById("content");
 const fileTree = document.getElementById("fileTree");
@@ -330,28 +307,164 @@ const searchInput = document.getElementById("searchInput");
 const searchResults = document.getElementById("searchResults");
 const documentCount = document.getElementById("documentCount");
 
+function normalize(text) {
+  return String(text || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
 
-/* ============================================
-   LOAD PAGES.JSON
-============================================ */
+function escapeHtml(text) {
+  return String(text || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
 
-async function loadIndex() {
+function titleFromMarkdown(path, markdown) {
+
+  const match = markdown.match(/^#\s+(.+)$/m);
+
+  if (match) {
+    return match[1].trim();
+  }
+
+  const filename =
+    path
+      .split("/")
+      .pop()
+      .replace(/\.md$/i, "");
+
+  return filename.replace(/[_-]+/g, " ");
+}
+
+function descriptionFromMarkdown(markdown) {
+
+  const cleaned = markdown
+    .replace(/^---[\s\S]*?---/m, "")
+    .replace(/^#+\s+.*$/gm, "")
+    .replace(/[*_`>#-]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  return cleaned.slice(0, 300);
+}
+
+function rawUrl(path) {
+
+  return RAW_BASE +
+    path
+      .split("/")
+      .map(encodeURIComponent)
+      .join("/");
+}
+
+async function loadRepository() {
+
+  documentCount.textContent =
+    "Läser GitHub-repot...";
+
+  content.innerHTML =
+    "<p>Hämtar dokumentstrukturen från GitHub...</p>";
 
   try {
 
-    const response = await fetch("pages.json");
+    const response =
+      await fetch(GITHUB_TREE_API);
 
     if (!response.ok) {
-      throw new Error("Could not load pages.json");
+      throw new Error(
+        `GitHub API error: ${response.status}`
+      );
     }
 
-    const data = await response.json();
+    const data =
+      await response.json();
 
-    pages = data.pages || [];
+    const markdownFiles =
+      data.tree
+        .filter(item =>
+          item.type === "blob" &&
+          item.path.toLowerCase().endsWith(".md")
+        )
+        .map(item => item.path)
+        .sort((a, b) => a.localeCompare(b));
 
-    pages.forEach(page => {
-      pagesByPath[page.path] = page;
-    });
+    documentCount.textContent =
+      `${markdownFiles.length} dokument hittade — indexerar...`;
+
+    const BATCH_SIZE = 20;
+
+    for (
+      let i = 0;
+      i < markdownFiles.length;
+      i += BATCH_SIZE
+    ) {
+
+      const batch =
+        markdownFiles.slice(i, i + BATCH_SIZE);
+
+      const results =
+        await Promise.all(
+
+          batch.map(async path => {
+
+            try {
+
+              const response =
+                await fetch(rawUrl(path));
+
+              if (!response.ok) {
+                return null;
+              }
+
+              const markdown =
+                await response.text();
+
+              return {
+
+                title:
+                  titleFromMarkdown(
+                    path,
+                    markdown
+                  ),
+
+                path,
+
+                description:
+                  descriptionFromMarkdown(
+                    markdown
+                  ),
+
+                content:
+                  markdown
+
+              };
+
+            } catch (error) {
+
+              console.warn(
+                "Kunde inte läsa:",
+                path,
+                error
+              );
+
+              return null;
+            }
+
+          })
+
+        );
+
+      pages.push(
+        ...results.filter(Boolean)
+      );
+
+      documentCount.textContent =
+        `${pages.length} av ${markdownFiles.length} dokument indexerade...`;
+    }
 
     documentCount.textContent =
       `${pages.length} dokument indexerade`;
@@ -365,26 +478,28 @@ async function loadIndex() {
     console.error(error);
 
     documentCount.textContent =
-      "Kunde inte ladda dokumentindexet.";
+      "Kunde inte läsa GitHub-repot.";
 
     content.innerHTML = `
-      <h1>Fel</h1>
-      <p>
-        Kunde inte läsa <code>pages.json</code>.
-      </p>
-      <p>
-        Kontrollera att pages.json ligger i samma mapp som index.html.
-      </p>
+
+      <div class="status-error">
+
+        <h1>Kunde inte läsa Flow-repot</h1>
+
+        <p>
+          ${escapeHtml(error.message)}
+        </p>
+
+        <p>
+          Kontrollera att repo:t är publikt
+          och att GitHub är tillgängligt.
+        </p>
+
+      </div>
+
     `;
-
   }
-
 }
-
-
-/* ============================================
-   BUILD AUTOMATIC NAVIGATION
-============================================ */
 
 function buildNavigation() {
 
@@ -394,52 +509,59 @@ function buildNavigation() {
 
   pages.forEach(page => {
 
-    const parts = page.path.split("/");
+    const parts =
+      page.path.split("/");
 
     let current = root;
 
     parts.forEach((part, index) => {
 
-      const isFile = index === parts.length - 1;
+      const isFile =
+        index === parts.length - 1;
 
       if (!current[part]) {
 
         current[part] = {
-          __file: isFile ? page : null,
-          __children: {}
-        };
 
+          __file: null,
+
+          __children: {}
+
+        };
       }
 
-      current = current[part].__children;
+      if (isFile) {
+
+        current[part].__file =
+          page;
+      }
+
+      current =
+        current[part].__children;
 
     });
 
   });
 
   renderTree(root, fileTree);
-
 }
-
-
-/* ============================================
-   RENDER NAVIGATION TREE
-============================================ */
 
 function renderTree(tree, parentElement) {
 
-  const entries = Object.entries(tree);
+  const entries =
+    Object.entries(tree);
 
   entries.sort((a, b) => {
 
-    const aIsFolder =
+    const aFolder =
       Object.keys(a[1].__children).length > 0;
 
-    const bIsFolder =
+    const bFolder =
       Object.keys(b[1].__children).length > 0;
 
-    if (aIsFolder !== bIsFolder) {
-      return aIsFolder ? -1 : 1;
+    if (aFolder !== bFolder) {
+
+      return aFolder ? -1 : 1;
     }
 
     return a[0].localeCompare(b[0]);
@@ -456,9 +578,11 @@ function renderTree(tree, parentElement) {
 
     if (hasChildren) {
 
-      const li = document.createElement("li");
+      const li =
+        document.createElement("li");
 
-      li.className = "tree-folder";
+      li.className =
+        "tree-folder";
 
       const button =
         document.createElement("button");
@@ -481,42 +605,46 @@ function renderTree(tree, parentElement) {
 
       parentElement.appendChild(li);
 
-      button.addEventListener("click", () => {
+      button.addEventListener(
+        "click",
+        () => {
 
-        li.classList.toggle("open");
+          li.classList.toggle("open");
 
-      });
+        }
+      );
 
-      renderTree(node.__children, children);
+      renderTree(
+        node.__children,
+        children
+      );
 
       if (hasFile) {
 
-        const fileLink =
-          createFileLink(node.__file);
-
         children.insertBefore(
-          fileLink,
-          children.firstChild
-        );
 
+          createFileLink(
+            node.__file
+          ),
+
+          children.firstChild
+
+        );
       }
 
     } else if (hasFile) {
 
       parentElement.appendChild(
-        createFileLink(node.__file)
-      );
 
+        createFileLink(
+          node.__file
+        )
+
+      );
     }
 
   });
-
 }
-
-
-/* ============================================
-   CREATE FILE LINK
-============================================ */
 
 function createFileLink(page) {
 
@@ -532,30 +660,29 @@ function createFileLink(page) {
   link.href =
     "#";
 
-  link.addEventListener("click", event => {
+  link.addEventListener(
+    "click",
+    event => {
 
-    event.preventDefault();
+      event.preventDefault();
 
-    document
-      .querySelectorAll(".tree-file")
-      .forEach(element => {
-        element.classList.remove("active");
-      });
+      document
+        .querySelectorAll(".tree-file")
+        .forEach(element =>
+          element.classList.remove("active")
+        );
 
-    link.classList.add("active");
+      link.classList.add("active");
 
-    loadMarkdown(page.path);
+      loadMarkdown(
+        page.path
+      );
 
-  });
+    }
+  );
 
   return link;
-
 }
-
-
-/* ============================================
-   LOAD MARKDOWN DOCUMENT
-============================================ */
 
 async function loadMarkdown(path) {
 
@@ -564,15 +691,31 @@ async function loadMarkdown(path) {
 
   try {
 
+    const page =
+      pages.find(
+        p => p.path === path
+      );
+
+    if (page && page.content) {
+
+      content.innerHTML =
+        marked.parse(
+          page.content
+        );
+
+      return;
+    }
+
     const response =
-      await fetch(path);
+      await fetch(
+        rawUrl(path)
+      );
 
     if (!response.ok) {
 
       throw new Error(
-        `Could not load ${path}`
+        `Kunde inte ladda ${path}`
       );
-
     }
 
     const markdown =
@@ -581,47 +724,39 @@ async function loadMarkdown(path) {
     content.innerHTML =
       marked.parse(markdown);
 
-    window.scrollTo(0, 0);
-
   } catch (error) {
 
-    console.error(error);
-
     content.innerHTML = `
-      <h1>Kunde inte ladda dokumentet</h1>
-      <p>${path}</p>
+
+      <div class="status-error">
+
+        <h1>
+          Kunde inte ladda dokumentet
+        </h1>
+
+        <p>
+          ${escapeHtml(path)}
+        </p>
+
+      </div>
+
     `;
-
   }
-
 }
-
-
-/* ============================================
-   SEARCH
-============================================ */
-
-function normalize(text) {
-
-  return (text || "")
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "");
-
-}
-
 
 function searchPages(query) {
 
   const normalizedQuery =
-    normalize(query.trim());
+    normalize(
+      query.trim()
+    );
 
   if (!normalizedQuery) {
 
-    searchResults.innerHTML = "";
+    searchResults.innerHTML =
+      "";
 
     return;
-
   }
 
   const queryWords =
@@ -630,89 +765,109 @@ function searchPages(query) {
       .filter(Boolean);
 
   const results =
+
     pages
+
       .map(page => {
 
         const title =
           normalize(page.title);
 
+        const path =
+          normalize(page.path);
+
         const description =
           normalize(page.description);
-
-        const keywords =
-          normalize(
-            Array.isArray(page.keywords)
-              ? page.keywords.join(" ")
-              : page.keywords
-          );
-
-        const headings =
-          normalize(
-            Array.isArray(page.headings)
-              ? page.headings
-                  .map(h => h.text || "")
-                  .join(" ")
-              : ""
-          );
 
         const pageContent =
           normalize(page.content);
 
-        let score = 0;
+        let score =
+          0;
+
+        let matchedWords =
+          0;
 
         queryWords.forEach(word => {
 
+          let matched =
+            false;
+
           if (title.includes(word)) {
+
             score += 100;
+
+            matched = true;
           }
 
-          if (keywords.includes(word)) {
-            score += 60;
-          }
+          if (path.includes(word)) {
 
-          if (headings.includes(word)) {
             score += 40;
+
+            matched = true;
           }
 
           if (description.includes(word)) {
-            score += 20;
+
+            score += 30;
+
+            matched = true;
           }
 
           if (pageContent.includes(word)) {
+
             score += 10;
+
+            matched = true;
           }
 
-          if (page.path.toLowerCase().includes(word)) {
-            score += 30;
+          if (matched) {
+
+            matchedWords++;
           }
 
         });
 
+        if (
+          matchedWords ===
+          queryWords.length
+        ) {
+
+          score += 100;
+        }
+
         return {
+
           page,
+
           score
+
         };
 
       })
 
-      .filter(result => result.score > 0)
+      .filter(
+        result => result.score > 0
+      )
 
-      .sort((a, b) =>
-        b.score - a.score
+      .sort(
+        (a, b) =>
+          b.score - a.score
       )
 
       .slice(0, 100);
 
   renderSearchResults(results);
-
 }
-
 
 function renderSearchResults(results) {
 
-  searchResults.innerHTML = "";
+  searchResults.innerHTML =
+    "";
 
-  if (results.length === 0) {
+  if (
+    results.length === 0
+  ) {
 
     searchResults.innerHTML =
       `<div class="no-results">
@@ -720,7 +875,6 @@ function renderSearchResults(results) {
       </div>`;
 
     return;
-
   }
 
   results.forEach(result => {
@@ -740,72 +894,63 @@ function renderSearchResults(results) {
     link.innerHTML = `
 
       <div class="search-result-title">
+
         ${escapeHtml(page.title)}
+
       </div>
 
       <div class="search-result-path">
+
         ${escapeHtml(page.path)}
+
       </div>
 
       <div class="search-result-description">
-        ${escapeHtml(
-          (page.description || "")
-            .slice(0, 250)
-        )}
+
+        ${escapeHtml(page.description)}
+
       </div>
 
     `;
 
-    link.addEventListener("click", event => {
+    link.addEventListener(
+      "click",
+      event => {
 
-      event.preventDefault();
+        event.preventDefault();
 
-      loadMarkdown(page.path);
+        loadMarkdown(
+          page.path
+        );
 
-      searchInput.value = "";
+        searchInput.value =
+          "";
 
-      searchResults.innerHTML = "";
+        searchResults.innerHTML =
+          "";
 
-    });
+      }
+    );
 
-    searchResults.appendChild(link);
+    searchResults.appendChild(
+      link
+    );
 
   });
-
 }
-
-
-function escapeHtml(text) {
-
-  return String(text)
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;")
-    .replace(/'/g, "&#039;");
-
-}
-
-
-/* ============================================
-   SEARCH EVENT
-============================================ */
 
 searchInput.addEventListener(
   "input",
   event => {
 
-    searchPages(event.target.value);
+    searchPages(
+      event.target.value
+    );
 
   }
 );
 
-
-/* ============================================
-   START APPLICATION
-============================================ */
-
-loadIndex();
+loadRepository();
 
 </script>
 
