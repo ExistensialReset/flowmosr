@@ -1,1 +1,813 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<title>Flow / M-OS-R</title>
+
+<style>
+:root {
+  --bg: #1b0a3b;
+  --sidebar: #120836;
+  --panel: #24104d;
+  --panel-hover: #32166b;
+  --gold: #ffb700;
+  --gold-bright: #ffc933;
+  --text: #fff4d0;
+  --muted: #cbbd9a;
+  --border: rgba(255, 183, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+#container {
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* SIDEBAR */
+
+#sidebar {
+  width: 340px;
+  min-width: 260px;
+  background: var(--sidebar);
+  color: var(--gold);
+  overflow-y: auto;
+  padding: 1rem;
+  border-right: 1px solid var(--border);
+}
+
+#sidebar h1 {
+  margin-top: 0;
+  font-size: 1.35rem;
+  color: var(--gold);
+}
+
+#documentCount {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+/* SEARCH */
+
+#searchInput {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+
+  background: var(--panel);
+  color: var(--text);
+
+  border: 1px solid var(--border);
+  border-radius: 6px;
+
+  font-size: 1rem;
+}
+
+#searchInput::placeholder {
+  color: var(--muted);
+}
+
+#searchInput:focus {
+  outline: 2px solid var(--gold);
+}
+
+/* SEARCH RESULTS */
+
+#searchResults {
+  margin-bottom: 1rem;
+}
+
+.search-result {
+  display: block;
+
+  padding: 0.7rem;
+  margin-bottom: 0.5rem;
+
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+
+  color: var(--text);
+  text-decoration: none;
+
+  cursor: pointer;
+}
+
+.search-result:hover {
+  background: var(--panel-hover);
+}
+
+.search-result-title {
+  color: var(--gold-bright);
+  font-weight: bold;
+}
+
+.search-result-path {
+  color: var(--muted);
+  font-size: 0.78rem;
+  margin-top: 0.25rem;
+}
+
+.search-result-description {
+  color: var(--text);
+  font-size: 0.85rem;
+  margin-top: 0.4rem;
+}
+
+.no-results {
+  color: var(--muted);
+  padding: 0.5rem;
+}
+
+/* TREE */
+
+#fileTree {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#fileTree ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.tree-folder {
+  margin: 0.2rem 0;
+}
+
+.tree-folder-button {
+  width: 100%;
+  text-align: left;
+
+  background: none;
+  border: none;
+
+  color: var(--gold);
+  cursor: pointer;
+
+  padding: 0.45rem;
+  border-radius: 4px;
+
+  font-size: 0.95rem;
+}
+
+.tree-folder-button:hover {
+  background: var(--panel-hover);
+}
+
+.tree-folder-button::before {
+  content: "▶ ";
+  font-size: 0.7rem;
+}
+
+.tree-folder.open > .tree-folder-button::before {
+  content: "▼ ";
+}
+
+.tree-children {
+  display: none;
+}
+
+.tree-folder.open > .tree-children {
+  display: block;
+}
+
+.tree-file {
+  display: block;
+
+  padding: 0.4rem 0.55rem;
+  margin: 0.15rem 0;
+
+  color: var(--gold);
+  text-decoration: none;
+
+  border-radius: 4px;
+
+  cursor: pointer;
+}
+
+.tree-file:hover {
+  background: var(--panel-hover);
+}
+
+.tree-file.active {
+  background: var(--gold);
+  color: var(--bg);
+  font-weight: bold;
+}
+
+/* CONTENT */
+
+#content {
+  flex: 1;
+
+  padding: 2rem;
+
+  overflow-y: auto;
+
+  background: var(--bg);
+  color: var(--text);
+
+  line-height: 1.65;
+}
+
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+  color: var(--gold);
+}
+
+#content a {
+  color: var(--gold-bright);
+}
+
+#content blockquote {
+  border-left: 4px solid var(--gold);
+  padding-left: 1rem;
+  color: var(--muted);
+}
+
+#content pre,
+#content code {
+  background: var(--panel);
+  color: var(--gold-bright);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+}
+
+#content pre {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* MOBILE */
+
+@media (max-width: 800px) {
+
+  #container {
+    flex-direction: column;
+  }
+
+  #sidebar {
+    width: 100%;
+    min-width: 0;
+    height: 45vh;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+  }
+
+  #content {
+    height: 55vh;
+    padding: 1rem;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<div id="container">
+
+  <aside id="sidebar">
+
+    <h1>🌊 Flow / M-OS-R</h1>
+
+    <div id="documentCount">
+      Laddar dokument...
+    </div>
+
+    <input
+      type="search"
+      id="searchInput"
+      placeholder="🔍 Sök i hela Flow..."
+      autocomplete="off"
+    >
+
+    <div id="searchResults"></div>
+
+    <ul id="fileTree"></ul>
+
+  </aside>
+
+  <main id="content">
+    Laddar...
+  </main>
+
+</div>
+
+<!-- Markdown-rendering -->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+<script>
+
+/* ============================================
+   GLOBAL DATA
+============================================ */
+
+let pages = [];
+let pagesByPath = {};
+
+const content = document.getElementById("content");
+const fileTree = document.getElementById("fileTree");
+const searchInput = document.getElementById("searchInput");
+const searchResults = document.getElementById("searchResults");
+const documentCount = document.getElementById("documentCount");
+
+
+/* ============================================
+   LOAD PAGES.JSON
+============================================ */
+
+async function loadIndex() {
+
+  try {
+
+    const response = await fetch("pages.json");
+
+    if (!response.ok) {
+      throw new Error("Could not load pages.json");
+    }
+
+    const data = await response.json();
+
+    pages = data.pages || [];
+
+    pages.forEach(page => {
+      pagesByPath[page.path] = page;
+    });
+
+    documentCount.textContent =
+      `${pages.length} dokument indexerade`;
+
+    buildNavigation();
+
+    loadMarkdown("README.md");
+
+  } catch (error) {
+
+    console.error(error);
+
+    documentCount.textContent =
+      "Kunde inte ladda dokumentindexet.";
+
+    content.innerHTML = `
+      <h1>Fel</h1>
+      <p>
+        Kunde inte läsa <code>pages.json</code>.
+      </p>
+      <p>
+        Kontrollera att pages.json ligger i samma mapp som index.html.
+      </p>
+    `;
+
+  }
+
+}
+
+
+/* ============================================
+   BUILD AUTOMATIC NAVIGATION
+============================================ */
+
+function buildNavigation() {
+
+  fileTree.innerHTML = "";
+
+  const root = {};
+
+  pages.forEach(page => {
+
+    const parts = page.path.split("/");
+
+    let current = root;
+
+    parts.forEach((part, index) => {
+
+      const isFile = index === parts.length - 1;
+
+      if (!current[part]) {
+
+        current[part] = {
+          __file: isFile ? page : null,
+          __children: {}
+        };
+
+      }
+
+      current = current[part].__children;
+
+    });
+
+  });
+
+  renderTree(root, fileTree);
+
+}
+
+
+/* ============================================
+   RENDER NAVIGATION TREE
+============================================ */
+
+function renderTree(tree, parentElement) {
+
+  const entries = Object.entries(tree);
+
+  entries.sort((a, b) => {
+
+    const aIsFolder =
+      Object.keys(a[1].__children).length > 0;
+
+    const bIsFolder =
+      Object.keys(b[1].__children).length > 0;
+
+    if (aIsFolder !== bIsFolder) {
+      return aIsFolder ? -1 : 1;
+    }
+
+    return a[0].localeCompare(b[0]);
+
+  });
+
+  entries.forEach(([name, node]) => {
+
+    const hasChildren =
+      Object.keys(node.__children).length > 0;
+
+    const hasFile =
+      node.__file !== null;
+
+    if (hasChildren) {
+
+      const li = document.createElement("li");
+
+      li.className = "tree-folder";
+
+      const button =
+        document.createElement("button");
+
+      button.className =
+        "tree-folder-button";
+
+      button.textContent =
+        name;
+
+      const children =
+        document.createElement("ul");
+
+      children.className =
+        "tree-children";
+
+      li.appendChild(button);
+
+      li.appendChild(children);
+
+      parentElement.appendChild(li);
+
+      button.addEventListener("click", () => {
+
+        li.classList.toggle("open");
+
+      });
+
+      renderTree(node.__children, children);
+
+      if (hasFile) {
+
+        const fileLink =
+          createFileLink(node.__file);
+
+        children.insertBefore(
+          fileLink,
+          children.firstChild
+        );
+
+      }
+
+    } else if (hasFile) {
+
+      parentElement.appendChild(
+        createFileLink(node.__file)
+      );
+
+    }
+
+  });
+
+}
+
+
+/* ============================================
+   CREATE FILE LINK
+============================================ */
+
+function createFileLink(page) {
+
+  const link =
+    document.createElement("a");
+
+  link.className =
+    "tree-file";
+
+  link.textContent =
+    page.title || page.path;
+
+  link.href =
+    "#";
+
+  link.addEventListener("click", event => {
+
+    event.preventDefault();
+
+    document
+      .querySelectorAll(".tree-file")
+      .forEach(element => {
+        element.classList.remove("active");
+      });
+
+    link.classList.add("active");
+
+    loadMarkdown(page.path);
+
+  });
+
+  return link;
+
+}
+
+
+/* ============================================
+   LOAD MARKDOWN DOCUMENT
+============================================ */
+
+async function loadMarkdown(path) {
+
+  content.innerHTML =
+    "<p>Laddar dokument...</p>";
+
+  try {
+
+    const response =
+      await fetch(path);
+
+    if (!response.ok) {
+
+      throw new Error(
+        `Could not load ${path}`
+      );
+
+    }
+
+    const markdown =
+      await response.text();
+
+    content.innerHTML =
+      marked.parse(markdown);
+
+    window.scrollTo(0, 0);
+
+  } catch (error) {
+
+    console.error(error);
+
+    content.innerHTML = `
+      <h1>Kunde inte ladda dokumentet</h1>
+      <p>${path}</p>
+    `;
+
+  }
+
+}
+
+
+/* ============================================
+   SEARCH
+============================================ */
+
+function normalize(text) {
+
+  return (text || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+
+}
+
+
+function searchPages(query) {
+
+  const normalizedQuery =
+    normalize(query.trim());
+
+  if (!normalizedQuery) {
+
+    searchResults.innerHTML = "";
+
+    return;
+
+  }
+
+  const queryWords =
+    normalizedQuery
+      .split(/\s+/)
+      .filter(Boolean);
+
+  const results =
+    pages
+      .map(page => {
+
+        const title =
+          normalize(page.title);
+
+        const description =
+          normalize(page.description);
+
+        const keywords =
+          normalize(
+            Array.isArray(page.keywords)
+              ? page.keywords.join(" ")
+              : page.keywords
+          );
+
+        const headings =
+          normalize(
+            Array.isArray(page.headings)
+              ? page.headings
+                  .map(h => h.text || "")
+                  .join(" ")
+              : ""
+          );
+
+        const pageContent =
+          normalize(page.content);
+
+        let score = 0;
+
+        queryWords.forEach(word => {
+
+          if (title.includes(word)) {
+            score += 100;
+          }
+
+          if (keywords.includes(word)) {
+            score += 60;
+          }
+
+          if (headings.includes(word)) {
+            score += 40;
+          }
+
+          if (description.includes(word)) {
+            score += 20;
+          }
+
+          if (pageContent.includes(word)) {
+            score += 10;
+          }
+
+          if (page.path.toLowerCase().includes(word)) {
+            score += 30;
+          }
+
+        });
+
+        return {
+          page,
+          score
+        };
+
+      })
+
+      .filter(result => result.score > 0)
+
+      .sort((a, b) =>
+        b.score - a.score
+      )
+
+      .slice(0, 100);
+
+  renderSearchResults(results);
+
+}
+
+
+function renderSearchResults(results) {
+
+  searchResults.innerHTML = "";
+
+  if (results.length === 0) {
+
+    searchResults.innerHTML =
+      `<div class="no-results">
+        Inga dokument hittades.
+      </div>`;
+
+    return;
+
+  }
+
+  results.forEach(result => {
+
+    const page =
+      result.page;
+
+    const link =
+      document.createElement("a");
+
+    link.className =
+      "search-result";
+
+    link.href =
+      "#";
+
+    link.innerHTML = `
+
+      <div class="search-result-title">
+        ${escapeHtml(page.title)}
+      </div>
+
+      <div class="search-result-path">
+        ${escapeHtml(page.path)}
+      </div>
+
+      <div class="search-result-description">
+        ${escapeHtml(
+          (page.description || "")
+            .slice(0, 250)
+        )}
+      </div>
+
+    `;
+
+    link.addEventListener("click", event => {
+
+      event.preventDefault();
+
+      loadMarkdown(page.path);
+
+      searchInput.value = "";
+
+      searchResults.innerHTML = "";
+
+    });
+
+    searchResults.appendChild(link);
+
+  });
+
+}
+
+
+function escapeHtml(text) {
+
+  return String(text)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+
+}
+
+
+/* ============================================
+   SEARCH EVENT
+============================================ */
+
+searchInput.addEventListener(
+  "input",
+  event => {
+
+    searchPages(event.target.value);
+
+  }
+);
+
+
+/* ============================================
+   START APPLICATION
+============================================ */
+
+loadIndex();
+
+</script>
+
+</body>
+</html>
