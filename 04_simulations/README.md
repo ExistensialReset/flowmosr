@@ -136,3 +136,112 @@ OBSERVATION
 REPLICATION
   ↓
 VALIDATION
+```
+Not every idea will reach every stage.
+
+Some ideas will fail.
+
+That is useful information.
+
+---
+
+## V. FAILURE IS DATA
+
+Flow does not require its models to be correct.
+
+It requires them to be examinable.
+
+If a model fails:
+
+> **The model must be revised.**
+
+If an assumption fails:
+
+> **The assumption must be exposed.**
+
+If a simulation produces an unexpected result:
+
+> **The result must not be forced to fit the theory.**
+
+If a real-world experiment contradicts the model:
+
+> **Reality takes priority.**
+
+---
+
+## VI. WHAT IS CURRENTLY UNKNOWN
+
+The existence of a model in this directory does not mean that the following have been proven:
+
+- that all Nodes can maintain Baseline;
+- that all proposed production systems work at scale;
+- that all energy models are practically achievable;
+- that all resource flows are logistically feasible;
+- that all governance systems behave as intended;
+- that voluntary contribution is sufficient in every context;
+- or that Flow can scale without unforeseen failure modes.
+
+These are questions for testing, observation, and revision.
+
+---
+
+## VII. HOW TO READ THIS DIRECTORY
+
+When reading a document, ask:
+
+1. **What is being claimed?**
+2. **What assumptions does the claim depend on?**
+3. **What could make the claim false?**
+4. **Has it been modeled?**
+5. **Has it been simulated?**
+6. **Has it been tested in the real world?**
+7. **What evidence exists?**
+8. **What remains unknown?**
+
+The purpose of this directory is not to create certainty.
+
+It is to make uncertainty visible enough to work with.
+
+---
+
+## VIII. THE CORE PRINCIPLE
+
+> **A claim is not a test.**
+>
+> **A model is not evidence.**
+>
+> **A simulation is not reality.**
+>
+> **A successful test is not universal proof.**
+>
+> **A failure is not a defeat.**
+>
+> **It is information.**
+
+---
+
+## STATUS
+
+This directory contains proposed models, scenarios, simulations, and validation approaches.
+
+**Real-world validation is pending unless explicitly documented otherwise.**
+
+The purpose of this directory is to help Flow move from:
+
+> **idea**
+
+to:
+
+> **testable hypothesis**
+
+to:
+
+> **observation**
+
+to:
+
+> **learning**
+
+to:
+
+> **revision.** 
