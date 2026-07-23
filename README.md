@@ -44,6 +44,8 @@ Just as a test — small, real, now.
 
 From that shift, another way of living becomes possible.
 
+No one chooses to be born, and why should we be in debt because of it? 
+
 ---
 
 # II. Essence
