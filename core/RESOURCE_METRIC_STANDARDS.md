@@ -1,5 +1,5 @@
 # RESOURCE_METRIC_STANDARDS.md
-## Version 5.1
+## Version 6.0
 ## Status: GLOBAL BASELINE STANDARD
 ## Scope: Planetary
 ## Governance: LOTUS Majority Required for Modification
@@ -34,7 +34,7 @@ No Node, State, Collective, or System may go below this floor.
 
 # II. BIOLOGICAL ENERGY (FOOD)
 
-**Minimum Daily Energy Intake (Adults, 20–90 kg):**
+**Reference Daily Energy Floor (Adults, 20–90 kg):**
 
 - 25–30 kcal per kg body weight per day (baseline)
 - Adjusted upward for: 
@@ -91,6 +91,8 @@ Water must meet WHO potable standards.
 
 No individual may be forced to live long-term outside these ranges without explicit consent.
 
+No person may be subjected to prolonged thermal conditions that create significant risk of illness, injury, or inability to maintain physiological safety.
+
 ---
 
 # VI. ELECTRICAL ENERGY
@@ -105,6 +107,12 @@ No individual may be forced to live long-term outside these ranges without expli
 - Minimum 2,000 kWh per person per year
 
 Energy must be reliable and not structurally interruptible for coercive control.
+
+Minimum continuous available capacity: 1,000 W per person, pooled at Node level where appropriate.
+
+Minimum annual energy allocation: 2,000 kWh per person per year.
+
+These are separate metrics. Continuous capacity concerns the ability to supply power at any given moment; annual allocation concerns total energy availability over time.
 
 ---
 
@@ -218,6 +226,31 @@ The numerical standards in this document are global minima. They are designed to
 
 All adaptations must be transparent, documented, and reviewable by the Node Circle.
 
+---
+
+## XVI. BIOCHEMICAL SOVEREIGNTY
+
+* Access to medical, relief, and cognitive-exploratory substances is a Baseline right.
+* Adults have the right to evidence-based information, voluntary access to regulated and tested substances, harm-reduction tools, and healthcare without criminalization.
+* Where a substance is socially demanded, prohibition should not automatically be assumed to be the safest policy.
+* The system must evaluate whether regulated production, purity control, education, and harm reduction can reduce the harms created by illegal markets.
+* Different substances require different safety frameworks. Cannabis, psychedelics, stimulants, medicines, and other substances should not automatically be treated as identical.
+* Purity and safety are ensured through transparent local analysis where possible.
+* Care over control: substance use is a health and sovereignty issue, not a moral/legal issue.
+* Temporal monitoring of deprivation: prolonged restriction of medically necessary substances triggers intervention.
+
+**Core principle:**
+
+> If demand exists, prohibition does not make the demand disappear.
+> It may instead transfer production and distribution to systems with less transparency, less quality control, and greater risk of violence and exploitation.
+
+The question is therefore not simply:
+
+> "How do we prevent people from using substances?"
+
+but:
+
+> "How do we reduce harm, protect cognitive and bodily sovereignty, and prevent illegal markets from becoming the primary source of substances that people will seek regardless of prohibition?"
 ---
 
 # FINAL PRINCIPLE
