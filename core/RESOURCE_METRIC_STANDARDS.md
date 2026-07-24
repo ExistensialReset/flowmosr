@@ -30,9 +30,48 @@ No Node, State, Collective, or System may go below this floor.
 4. Immutable without global LOTUS majority.
 5. Cannot be revoked as punishment.
 
+## BASELINE ACCESS PRINCIPLE
+
+Baseline guarantees access to the conditions required for life, autonomy, and dignity.
+
+Baseline does not require consumption.
+
+A person may choose:
+
+- solitude
+- social participation
+- travel or staying home
+- sweets or no sweets
+- medication or no medication where medically appropriate
+- substance use or non-use
+- work or rest within the limits of collective responsibility
+
+The right is the right to access, not the obligation to use.
+
 ---
 
-# II. BIOLOGICAL ENERGY (FOOD)
+## II. BIOLOGICAL ENERGY & NUTRITION
+
+Baseline must provide sufficient energy and nutrition for the individual to maintain physiological health.
+
+### Reference Energy Floor
+
+For adults, a reference range of approximately 25–30 kcal per kg body weight per day may be used as a starting point.
+
+Actual individual requirements must be adjusted for:
+
+- age
+- body composition
+- physical activity
+- illness
+- pregnancy and lactation
+- climate
+- metabolic variation
+- other physiological needs
+
+No person may be systematically deprived of the energy or nutrients required for their actual physiological needs. 
+
+---
 
 **Reference Daily Energy Floor (Adults, 20–90 kg):**
 
@@ -76,6 +115,30 @@ Water must meet WHO potable standards.
 
 ---
 
+## LIFE QUALITY, JOY & CULTURAL ACCESS
+
+Baseline is not limited to bare biological survival.
+
+Every person should have meaningful access to:
+
+
+- flavor and culinary diversity
+- cultural expression
+- play
+- art
+- music
+- celebration
+- beauty
+- wonder
+
+These are not luxuries in the sense of being irrelevant to human life.
+
+However, access does not imply mandatory participation or equal allocation of every form of pleasure.
+
+A society that guarantees survival while systematically eliminating joy, beauty, play, and cultural life has fulfilled biological survival but not the broader purpose of Flow.
+
+---
+
 # IV. AIR QUALITY
 
 - Indoor CO₂ concentration: Maximum 1,000 ppm
@@ -95,24 +158,32 @@ No person may be subjected to prolonged thermal conditions that create significa
 
 ---
 
-# VI. ELECTRICAL ENERGY
+## VI. ELECTRICAL ENERGY
 
-**Continuous Access:**
+Energy access has two separate dimensions:
 
-- Minimum 1,000 watts per person available capacity
-- Increased allocation if medical condition requires it
+### A. Continuous Available Capacity
 
-**Annual Availability:**
+- Minimum available capacity: 1,000 W per person
+- Capacity may be pooled at Node level where appropriate
+- Additional capacity must be provided where required by medical equipment or accessibility needs
 
-- Minimum 2,000 kWh per person per year
+### B. Annual Energy Allocation
 
-Energy must be reliable and not structurally interruptible for coercive control.
+- Minimum annual allocation: 2,000 kWh per person per year
 
-Minimum continuous available capacity: 1,000 W per person, pooled at Node level where appropriate.
+These are separate metrics.
 
-Minimum annual energy allocation: 2,000 kWh per person per year.
+Continuous capacity concerns how much power can be supplied at a given moment.
 
-These are separate metrics. Continuous capacity concerns the ability to supply power at any given moment; annual allocation concerns total energy availability over time.
+Annual allocation concerns the total amount of energy available over time.
+
+Neither metric may be used to justify coercive control over an individual's legitimate use of Baseline resources.
+
+- **Energy (2,000 kWh/year):** This figure represents a minimum annual energy allocation or availability. It is separate from the 1,000 W continuous available capacity standard. 
+
+
+- **Continuous Capacity (1,000 W/person):** This figure concerns the maximum power that may be made available at a given moment and may be pooled at Node level.
 
 ---
 
@@ -158,9 +229,33 @@ Information deprivation is structural deprivation.
 
 ---
 
-# XI. CHILDREN & YOUTH TRAVEL
+## XI. MOBILITY, EXPLORATION & WORLD ACCESS
 
-**Minimum experience:** Every individual aged 7–25 must have access to at least **two longer journeys** (train, boat, or equivalent), to experience different regions or cultures.  
+For children and young people, the Baseline includes meaningful opportunities to travel beyond their immediate living environment.
+
+As a reference minimum, every individual aged 7–25 should have access to at least two longer journeys during this developmental period, where desired and appropriate.
+
+Such journeys may include train, boat, or equivalent forms of accessible transportation.
+
+Every person has the right to access experiences beyond their immediate living environment.
+
+For children and young people, this includes meaningful opportunities to:
+
+- experience different regions, environments, or cultures
+- travel beyond their immediate local area
+- encounter people and ways of living different from their own
+
+Such opportunities must be:
+
+- accessible
+- safe
+- age-appropriate
+- culturally respectful
+- compatible with individual consent and preference
+
+No person is required to travel.
+
+The right is a right to access and opportunity, not a requirement to participate.  
 
 - Travel is part of Baseline development
 - Must be safe, supervised as appropriate
@@ -174,23 +269,70 @@ Information deprivation is structural deprivation.
 
 ---
 
-# XII. VERIFICATION
+## XII. SOCIAL ACCESS & NON-ISOLATION
 
-Baseline verification occurs at Node level through:
+Every person has the right to access:
 
-1. Self-declaration
-2. Peer review
-3. Sensor verification (if available)
-4. LOTUS vote in case of dispute
+- communication tools
+- communal spaces
+- cultural and educational spaces
+- social environments
+- the ability to leave and re-enter communities freely
 
-Verification must never become surveillance coercion.
+Social access is a right of availability, not a requirement of participation.
 
-Aggregated data allowed.  
-Individual transparency optional.
+No person may be:
+
+- forcibly isolated
+- systematically excluded
+- denied communication
+- required to maintain a prescribed level of social interaction as a condition of Baseline access
+
+Rest, solitude, privacy, and non-participation are protected forms of autonomy.
 
 ---
 
-# XIII. NON-REVOCABILITY CLAUSE
+# XIII. VERIFICATION WITHOUT SURVEILLANCE
+
+Baseline verification exists to identify structural deprivation and resource failure.
+
+Verification may include:
+
+1. Self-reporting
+2. Voluntary peer or community review
+3. Aggregated environmental or infrastructure data
+4. Independent audit where structural failure is disputed
+5. LOTUS review in cases of unresolved systemic dispute
+
+Verification must never become continuous surveillance of individual behavior.
+
+No person is required to prove their productivity, emotional state, social activity, substance use, consumption patterns, or personal compliance in order to retain Baseline access.
+
+Aggregated data may be used to identify systemic deprivation.
+
+Individual transparency is voluntary except where narrowly defined protections against direct harm require otherwise.# XIII. VERIFICATION WITHOUT SURVEILLANCE
+
+Baseline verification exists to identify structural deprivation and resource failure.
+
+Verification may include:
+
+1. Self-reporting
+2. Voluntary peer or community review
+3. Aggregated environmental or infrastructure data
+4. Independent audit where structural failure is disputed
+5. LOTUS review in cases of unresolved systemic dispute
+
+Verification must never become continuous surveillance of individual behavior.
+
+No person is required to prove their productivity, emotional state, social activity, substance use, consumption patterns, or personal compliance in order to retain Baseline access.
+
+Aggregated data may be used to identify systemic deprivation.
+
+Individual transparency is voluntary except where narrowly defined protections against direct harm require otherwise. 
+
+---
+
+# XIV. NON-REVOCABILITY CLAUSE
 
 Baseline cannot be:
 
@@ -203,7 +345,7 @@ Any attempt to weaponize baseline invalidates governance authority.
 
 ---
 
-# XIV. REVISION PROTOCOL
+# XV. REVISION PROTOCOL
 
 Baseline may only be changed through:
 
@@ -213,7 +355,7 @@ Baseline may only be changed through:
 
 ---
 
-## XV. INTERPRETATION & FLEXIBILITY IN DIVERSE CLIMATES
+## XVI. INTERPRETATION & FLEXIBILITY IN DIVERSE CLIMATES
 
 The numerical standards in this document are global minima. They are designed to be achievable under most conditions, but local variations in climate, infrastructure, and culture may require adaptation.
 
@@ -228,15 +370,22 @@ All adaptations must be transparent, documented, and reviewable by the Node Circ
 
 ---
 
-## XVI. BIOCHEMICAL SOVEREIGNTY
+## XVII. BIOCHEMICAL SOVEREIGNTY
 
-* Access to medical, relief, and cognitive-exploratory substances is a Baseline right.
+* Access to information, harm reduction, healthcare, and bodily/cognitive autonomy regarding substance use is a Baseline right. 
+
 * Adults have the right to evidence-based information, voluntary access to regulated and tested substances, harm-reduction tools, and healthcare without criminalization.
+
 * Where a substance is socially demanded, prohibition should not automatically be assumed to be the safest policy.
+
 * The system must evaluate whether regulated production, purity control, education, and harm reduction can reduce the harms created by illegal markets.
+
 * Different substances require different safety frameworks. Cannabis, psychedelics, stimulants, medicines, and other substances should not automatically be treated as identical.
+
 * Purity and safety are ensured through transparent local analysis where possible.
+
 * Care over control: substance use is a health and sovereignty issue, not a moral/legal issue.
+
 * Temporal monitoring of deprivation: prolonged restriction of medically necessary substances triggers intervention.
 
 **Core principle:**
