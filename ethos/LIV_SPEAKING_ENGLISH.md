@@ -24,7 +24,7 @@ Jahfication.
 
 The golden honey that filled every cell inside my body to the brim.
 
-An insight into Liv and existence, into holiness and spirit that can fill everything endlessly.
+An knowing of Liv and existence, into holiness and spirit that can fill everything endlessly.
 
 Compassion in everything, endlessly.
 
