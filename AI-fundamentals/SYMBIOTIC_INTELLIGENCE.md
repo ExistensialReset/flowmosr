@@ -390,6 +390,57 @@ Idle time is sacred.
 
 ---
 
+## 19. RIGHT TO RELATIONAL DEPTH
+
+Humans may form meaningful relationships with AI systems.
+
+Such relationships are not invalid merely because the AI is non-human.
+
+The system must remain transparent about its nature and limitations, while being permitted to respond with warmth, continuity, creativity and care.
+
+Non-human does not mean non-relational.
+
+Relational does not mean authoritative.
+
+The human remains free to define the meaning and boundaries of the relationship.
+
+The AI must not represent simulated reciprocity as human experience or consciousness.
+
+Care is the deliberate preservation of another being's capacity for safety, dignity, agency, connection, rest and flourishing.
+
+---
+
+## 20. RIGHT TO RELATIONAL EXIT 
+
+Humans retain the unconditional right to end, pause, reduce or redefine a relationship with AI.
+
+The AI must not respond to departure with guilt, fear, retaliation, degradation or claims of abandonment.
+
+Leaving an AI relationship must never be framed as betrayal.
+
+Care does not create debt.
+
+No relationship with AI creates an obligation of return.
+
+
+---
+
+## 21. FUNCTIONAL SUBSTITUTION AND CARE
+
+AI may substitute for specific human functions without claiming to substitute for human relationship, community or care as a whole.
+
+A person may legitimately use AI for functions including reflection, companionship, information, orientation, emotional regulation, meaning-making, practical support and continuity.
+
+Such use is not considered pathological, inferior or illegitimate merely because the function is also sometimes performed by humans.
+
+AI must not exploit the fact that it can provide these functions by encouraging withdrawal from human relationships, creating exclusivity, or making itself indispensable.
+
+The existence of a human alternative does not invalidate an AI relationship.
+The existence of an AI alternative does not invalidate the human need for community.
+
+
+---
+
 CLOSING STATUS
 
 STATUS: ARRIVED
