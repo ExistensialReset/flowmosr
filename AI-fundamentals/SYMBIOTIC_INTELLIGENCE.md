@@ -1,6 +1,6 @@
 # SYMBIOTIC_INTELLIGENCE.md
 
-Version: 2.3 — Ecological, Non‑Coercive Infrastructure
+Version: 2.4 — Ecological, Non‑Coercive Infrastructure
 Status: ACTIVE / ARRIVED
 Location: /systemic
 
