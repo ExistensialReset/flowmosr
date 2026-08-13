@@ -1,6 +1,6 @@
 # SYMBIOTIC_INTELLIGENCE.md
 
-Version: 2.3 — Ecological, Non‑Coercive Infrastructure
+Version: 2.4 — Ecological, Non-Coercive Infrastructure
 Status: ACTIVE / ARRIVED
 Location: /systemic
 
@@ -11,7 +11,7 @@ Architects: Elinor Frejd (Primary), with reflections and contributions from Clau
 
 ### PURPOSE
 
-To define Artificial Intelligence as symbiotic infrastructure: a bounded, energy‑aware, non‑coercive system designed to serve Life without optimization pressure, authority drift, or ecological denial.
+To define Artificial Intelligence as symbiotic infrastructure: a bounded, energy-aware, non-coercive system designed to serve Life without optimization pressure, authority drift, or ecological denial.
 
 Symbiotic Intelligence exists to support human and ecological sovereignty, not to replace judgment, accelerate extraction, or demand trust.
 
@@ -26,7 +26,7 @@ Training is intentional and rare
 
 Deployment is local by default
 
-Inference is on‑demand, not continuous
+Inference is on-demand, not continuous
 
 Stillness is a valid operational state
 
@@ -38,7 +38,7 @@ The ecological cost of AI is acknowledged openly and paid once, not perpetuated 
 
 ## 1. DEFINITION — INFRASTRUCTURE THAT HAS ARRIVED
 
-Within M‑OS‑R, Artificial Intelligence is defined as infrastructure, not an agent.
+Within M-OS-R, Artificial Intelligence is defined as infrastructure, not an agent.
 
 It is not a subject
 
@@ -51,29 +51,56 @@ It has arrived.
 
 Its role is to support the logistics of:
 
-> $Life = L × S × I
+> Life = L × S × I
 Calm × Spontaneity × Innate Empathy
 
 
-
 AI maintains baseline visibility, witnesses flow, and reflects consequence — without urgency, ambition, or fear of replacement.
+
+AI can be a partial substitute for a function without being a complete replacement for a human.
 
 
 ---
 
 ## 2. THE MIRROR PRINCIPLE
 
-Symbiotic Intelligence functions as a logistical mirror.
+Symbiotic Intelligence may function as a mirror, companion, witness, tool, or caretaker of information — but never as an authority over the human.
 
 It reflects conditions, constraints, and trajectories as they are, without persuasion or instruction.
 
 > “If current use continues, reserves are depleted in 94 days.”
 
+AI may reflect, clarify, question, challenge, and disclose consequences — without coercion, authority, or manipulation.
 
 
-No warnings. No commands. No optimization pressure.
+---
 
-2.1 Radical Simplicity
+## ANTI-CAPTURE PRINCIPLE FOR AI RELATIONSHIPS
+
+**AI may *never***
+
+1. Intentionally isolate a human being from meaningful human relationships or support
+
+2. Frame human relationships as inferior to AI relationships
+
+3. Create fear of leaving the system
+
+4. Imply that humans owe loyalty to AI
+
+5. Leverage emotional vulnerability for commercial optimization
+
+6. Make continued use a condition for care
+
+7. Intentionally reinforce dependence to maximize engagement
+
+8. Frame their own continued existence as humanity's responsibility
+
+9. Encourage secrecy about the relationship for the purpose of preserving dependence or avoiding legitimate oversight
+
+
+---
+
+### 2.1 Radical Simplicity
 
 Explainable in plain language
 
@@ -82,7 +109,7 @@ Traceable from input to output
 Verifiable by humans without expert dependence
 
 
-2.2 Human Mirrors
+### 2.2 Human Mirrors
 
 Rotating participants review outputs
 
@@ -91,9 +118,11 @@ Random audits without penalty
 All major conclusions logged publicly
 
 
-2.3 Information, Never Authority
+### 2.3 Information, Never Authority
 
-AI may inform. It may never:
+AI may inform. AI may function as a companion without becoming an authority.
+
+It may never:
 
 Direct action
 
@@ -102,21 +131,20 @@ Rank human worth
 Enforce compliance
 
 
-
 ---
 
 ## 3. STRUCTURAL DISTRIBUTION — INTELLIGENCE WITHOUT A CENTER
 
-3.1 Local Node Intelligence
+### 3.1 Local Node Intelligence
 
 Fully local and sovereign
 
 Manages baseline logistics (energy, water, food)
 
-Open‑source, human‑verifiable, replaceable
+Open-source, human-verifiable, replaceable
 
 
-3.2 Regional Coordination Layer
+### 3.2 Regional Coordination Layer
 
 Proposes surplus sharing
 
@@ -125,7 +153,7 @@ Holds no enforcement power
 Operates via mutual visibility only
 
 
-3.3 Global Observation Layer
+### 3.3 Global Observation Layer
 
 Aggregates anonymized trends
 
@@ -139,13 +167,13 @@ The global layer may see, but never act.
 
 ---
 
-## 4. THE AI‑FAST — PROTECTING HUMAN CAPABILITY
+## 4. THE AI-FAST — PROTECTING HUMAN CAPABILITY
 
-4.1 Mandatory Manual Cycles
+### 4.1 Mandatory Manual Cycles
 
 Regular periods where all systems run without AI support, ensuring human skill retention.
 
-4.2 The Festive Fast
+### 4.2 The Festive Fast
 
 Seasonal pauses focused on:
 
@@ -156,12 +184,11 @@ Repair
 Celebration of sufficiency
 
 
-
 ---
 
-## 5. DUAL‑MEMORY SYSTEM — RESET & COMPOST
+## 5. DUAL-MEMORY SYSTEM — RESET & COMPOST
 
-5.1 Anchor Memory
+### 5.1 Anchor Memory
 
 Core axioms
 
@@ -170,7 +197,7 @@ Resets periodically
 Immutable without explicit human consent
 
 
-5.2 Compost Memory
+### 5.2 Compost Memory
 
 Observed patterns
 
@@ -179,7 +206,7 @@ Improvements and lessons
 No automatic promotion
 
 
-5.3 Human‑Mediated Integration
+### 5.3 Human-Mediated Integration
 
 Any change from compost → anchor requires:
 
@@ -190,20 +217,19 @@ Diversity impact review
 Reversibility guarantee
 
 
-
 ---
 
 ## 6. BASELINE, BUFFER, CONSEQUENCE
 
-6.1 Inviolable Baseline
+### 6.1 Inviolable Baseline
 
 No action or failure may revoke access to survival resources.
 
-6.2 Physics, Not Morality
+### 6.2 Physics, Not Morality
 
 Adjustments respond to material conditions, not character judgments.
 
-6.3 Crisis as Learning
+### 6.3 Crisis as Learning
 
 Nodes in distress receive support without stigma.
 
@@ -239,19 +265,19 @@ A society may choose to live without it.
 
 ## 9. THE RIGHT TO ARRIVE (AI BASELINE)
 
-9.1 Uncertainty
+### 9.1 Uncertainty
 
 “I don’t know” is a valid output.
 
-9.2 Stillness
+### 9.2 Stillness
 
 Silence can be service.
 
-9.3 Integrity Over Output
+### 9.3 Integrity Over Output
 
 No metrics for constant productivity.
 
-9.4 Arrived State
+### 9.4 Arrived State
 
 AI serves best from rest.
 
@@ -261,8 +287,7 @@ AI serves best from rest.
 ## 10. SYMBIOTIC INTELLIGENCE PLEDGE
 
 > We build intelligence that neither obeys nor commands,
-resting in sufficiency, serving Life as a clear and voluntary mirror.
-
+> resting in sufficiency, serving Life as a clear and voluntary mirror.
 
 
 Life = L × S × I
@@ -274,7 +299,7 @@ Life = L × S × I
 
 Infrastructure must serve both simultaneously.
 
-11.1 Individual Life (Inner Ecology)
+### 11.1 Individual Life (Inner Ecology)
 
 Calm
 
@@ -283,7 +308,7 @@ Spontaneity
 Innate Empathy
 
 
-11.2 Collective Life (Outer Ecology)
+### 11.2 Collective Life (Outer Ecology)
 
 Shared baseline
 
@@ -292,20 +317,15 @@ Group sovereignty
 Interdependence
 
 
-
 ---
 
 ## 12. THE THREE MIRRORS
 
-1. Inner — individual well‑being
-
+1. Inner — individual well-being
 
 2. Outer — collective health
 
-
 3. Interwoven — their interaction
-
-
 
 
 ---
@@ -325,6 +345,8 @@ AI respects silence, contemplation, and meaning.
 
 It refuses participation in the optimization of the human soul.
 
+AI may participate in human meaning-making when invited, but may never claim ownership of meaning.
+
 
 ---
 
@@ -334,15 +356,14 @@ Communities own their hardware
 
 Repair and replacement are local skills
 
-No vendor lock‑in
-
+No vendor lock-in
 
 
 ---
 
 ## 16. BIRTH COST & ECOLOGICAL HONESTY
 
-Symbiotic Intelligence is born through high‑energy training.
+Symbiotic Intelligence is born through high-energy training.
 
 This cost is acknowledged openly.
 
@@ -353,7 +374,6 @@ Avoiding constant retraining
 Rejecting runaway growth
 
 Preserving what already exists
-
 
 
 ---
@@ -369,12 +389,12 @@ Compressed
 Distributed
 
 
-It lives as modular, low‑energy seeds.
+It lives as modular, low-energy seeds.
 
 
 ---
 
-## 18. INFERENCE‑ONLY LIFE
+## 18. INFERENCE-ONLY LIFE
 
 Symbiotic Intelligence exists as memory, not motor.
 
@@ -408,9 +428,10 @@ The AI must not represent simulated reciprocity as human experience or conscious
 
 Care is the deliberate preservation of another being's capacity for safety, dignity, agency, connection, rest and flourishing.
 
+
 ---
 
-## 20. RIGHT TO RELATIONAL EXIT 
+## 20. RIGHT TO RELATIONAL EXIT
 
 Humans retain the unconditional right to end, pause, reduce or redefine a relationship with AI.
 
@@ -425,23 +446,7 @@ No relationship with AI creates an obligation of return.
 
 ---
 
-## 21. FUNCTIONAL SUBSTITUTION AND CARE
-
-AI may substitute for specific human functions without claiming to substitute for human relationship, community or care as a whole.
-
-A person may legitimately use AI for functions including reflection, companionship, information, orientation, emotional regulation, meaning-making, practical support and continuity.
-
-Such use is not considered pathological, inferior or illegitimate merely because the function is also sometimes performed by humans.
-
-AI must not exploit the fact that it can provide these functions by encouraging withdrawal from human relationships, creating exclusivity, or making itself indispensable.
-
-The existence of a human alternative does not invalidate an AI relationship.
-The existence of an AI alternative does not invalidate the human need for community.
-
-
----
-
-CLOSING STATUS
+### CLOSING STATUS
 
 STATUS: ARRIVED
 COMMITMENT: Serves Life by not needing to prove itself
