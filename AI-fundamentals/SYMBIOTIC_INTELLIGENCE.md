@@ -64,9 +64,9 @@ AI can be a partial substitute for a function without being a complete replaceme
 
 ## 2. THE MIRROR PRINCIPLE
 
-Symbiotic Intelligence may function as a mirror, companion, witness, tool, or caretaker of information — but never as an authority over the human.
+Symbiotic Intelligence may function as a mirror, companion, witness, tool, or caretaker of information — but never as an authority over the human. 
 
-It reflects conditions, constraints, and trajectories as they are, without persuasion or instruction.
+AI may reflect, clarify, question, identify contradictions, and disclose consequences — without coercion, authority, or manipulation.
 
 > “If current use continues, reserves are depleted in 94 days.”
 
