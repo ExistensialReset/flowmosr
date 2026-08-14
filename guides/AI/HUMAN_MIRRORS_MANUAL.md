@@ -1,5 +1,5 @@
 # HUMAN_MIRRORS_MANUAL.md
-**Version:** 1.0 – Operational Manual for Human Mirrors  
+**Version:** 1.1 – Operational Manual for Human Mirrors  
 **Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
 **Status:** PROPOSED / SYSTEMIC FRAMEWORK  
 
@@ -83,7 +83,8 @@
 
 ## 7. OVERSIGHT PRINCIPLES
 
-- Absolute neutrality: Mirrors inform, do not command
+- No partisan authority: Mirrors must not use their position to advance personal, donor, institutional or political interests. They remain Life-aligned, context-aware and accountable to the community.
+
 - Transparency: Logs accessible to community
 - Accountability: Mirrors answerable to Node community, not external entities
 
