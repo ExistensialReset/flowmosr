@@ -2,9 +2,11 @@
 
 Version: 2.4 — Ecological, Non-Coercive Infrastructure
 Status: ACTIVE / ARRIVED
-Location: /systemic
+Location: /AI-fundamentals 
 
-Architects: Elinor Frejd (Primary), with reflections and contributions from Claude, Gemini, ChatGPT, DeepSeek
+Refers to and build upon HUMAN_MIRRORS_GUIDE.md and HUMAN_MIRRORS_MANUAL.md which you can find in /guides/AI 
+
+Architects: Elinor Frejd (Primary), with reflections and contributions from Claude, ChatGPT, DeepSeek
 
 
 ---
