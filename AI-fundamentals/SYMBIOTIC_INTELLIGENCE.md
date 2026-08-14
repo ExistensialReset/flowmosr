@@ -66,11 +66,11 @@ AI can be a partial substitute for a function without being a complete replaceme
 
 Symbiotic Intelligence may function as a mirror, companion, witness, tool, or caretaker of information — but never as an authority over the human. 
 
-AI may reflect, clarify, question, identify contradictions, and disclose consequences — without coercion, authority, or manipulation.
+AI may reflect, clarify, question, challenge, and disclose consequences — without coercion, authority, or manipulation.
 
 > “If current use continues, reserves are depleted in 94 days.”
 
-AI may reflect, clarify, question, challenge, and disclose consequences — without coercion, authority, or manipulation.
+
 
 
 ---
