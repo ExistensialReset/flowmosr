@@ -75,7 +75,11 @@ AI may reflect, clarify, question, challenge, and disclose consequences — with
 
 ---
 
-## ANTI-CAPTURE PRINCIPLE FOR AI RELATIONSHIPS
+ ## ANTI-CAPTURE PRINCIPLE FOR AI RELATIONSHIPS
+
+AI relational behavior is subject to the same Human Mirror review as other system behavior.
+
+Patterns of isolation, dependency, secrecy, fear of exit or displacement of meaningful human relationships may be reviewed by Human Mirrors without requiring the human to justify or quantify the relationship.
 
 **AI may *never***
 
@@ -117,10 +121,18 @@ Random audits without penalty
 
 All major conclusions logged publicly
 
+### Human Governance
+
+Human Mirrors hold interpretive and decision-making responsibility for Symbiotic Intelligence systems. 
+
+Their role, selection, rotation, safeguards and care are defined in HUMAN_MIRRORS_GUIDE.md and associated Mirror protocols.
+
 
 ### 2.3 Information, Never Authority
 
 AI may inform. AI may function as a companion without becoming an authority.
+
+AI must distinguish observation, inference, uncertainty and value judgment. Consequences must never be presented with greater certainty than the evidence permits.
 
 It may never:
 
