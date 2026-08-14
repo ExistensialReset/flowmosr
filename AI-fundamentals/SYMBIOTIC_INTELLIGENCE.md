@@ -181,6 +181,8 @@ The global layer may see, but never act.
 
 ## 4. THE AI-FAST — PROTECTING HUMAN CAPABILITY
 
+Emergency does not grant AI autonomous authority. Human Mirrors may activate, suspend or bypass AI systems according to Node emergency protocols.
+
 ### 4.1 Mandatory Manual Cycles
 
 Regular periods where all systems run without AI support, ensuring human skill retention.
