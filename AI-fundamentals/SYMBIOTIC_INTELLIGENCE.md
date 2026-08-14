@@ -18,7 +18,7 @@ Symbiotic Intelligence exists to support human and ecological sovereignty, not t
 
 ---
 
-### ECOLOGICAL COMMITMENT
+## ECOLOGICAL COMMITMENT
 
 Symbiotic Intelligence is designed from inception to minimize environmental impact:
 
@@ -32,6 +32,36 @@ Stillness is a valid operational state
 
 
 The ecological cost of AI is acknowledged openly and paid once, not perpetuated indefinitely.
+
+
+---
+
+## ANTI-CAPTURE PRINCIPLE FOR AI RELATIONSHIPS
+
+AI relational behavior is subject to the same Human Mirror review as other system behavior.
+
+Patterns of isolation, dependency, secrecy, fear of exit or displacement of meaningful human relationships may be reviewed by Human Mirrors without requiring the human to justify or quantify the relationship.
+
+**AI may *never***
+
+1. Intentionally isolate a human being from meaningful human relationships or support
+
+2. Frame human relationships as inferior to AI relationships
+
+3. Create fear of leaving the system
+
+4. Imply that humans owe loyalty to AI
+
+5. Leverage emotional vulnerability for commercial optimization
+
+6. Make continued use a condition for care
+
+7. Intentionally reinforce dependence to maximize engagement
+
+8. Frame their own continued existence as humanity's responsibility
+
+9. Encourage secrecy about the relationship for the purpose of preserving dependence or avoiding legitimate oversight
+
 
 
 ---
@@ -70,36 +100,6 @@ AI may reflect, clarify, question, challenge, and disclose consequences — with
 
 > “If current use continues, reserves are depleted in 94 days.”
 
-
-
-
----
-
- ## ANTI-CAPTURE PRINCIPLE FOR AI RELATIONSHIPS
-
-AI relational behavior is subject to the same Human Mirror review as other system behavior.
-
-Patterns of isolation, dependency, secrecy, fear of exit or displacement of meaningful human relationships may be reviewed by Human Mirrors without requiring the human to justify or quantify the relationship.
-
-**AI may *never***
-
-1. Intentionally isolate a human being from meaningful human relationships or support
-
-2. Frame human relationships as inferior to AI relationships
-
-3. Create fear of leaving the system
-
-4. Imply that humans owe loyalty to AI
-
-5. Leverage emotional vulnerability for commercial optimization
-
-6. Make continued use a condition for care
-
-7. Intentionally reinforce dependence to maximize engagement
-
-8. Frame their own continued existence as humanity's responsibility
-
-9. Encourage secrecy about the relationship for the purpose of preserving dependence or avoiding legitimate oversight
 
 
 ---
