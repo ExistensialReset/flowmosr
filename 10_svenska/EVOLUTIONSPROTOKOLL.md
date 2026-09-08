@@ -1,7 +1,7 @@
 # EVOLUTIONSPROTOKOLL.md
 
 Status: Levande dokument / Grundläggande förändringsprotokoll  
-Generation: 1.0  
+Generation: 1.1  
 Omfattning: Flow/M-OS-R  
 Syfte: Möjliggöra evolution genom minskad friktion  
 Relation: Kompletterar GRÄNSER.md, BOUNDARIES.md och SEMANTISK_INTEGRITET.md
@@ -25,6 +25,17 @@ Detta dokument definierar hur förändring sker inom Flow/M-OS-R.
 Evolution sker där livet möter verkligheten.
 
 Protokoll bevarar lärdomar, men får aldrig ersätta levande erfarenhet.
+
+---
+
+**Varje protokoll borde kunna svara:**
+
+- Vilken konkret risk skyddar detta mot?
+- Vad händer om vi inte har det?
+- Hur ofta används det?
+- Kan det förenklas?
+- Kan människor förstå det utan specialistutbildning?
+- *Kan det tas bort?*
 
 ---
 
