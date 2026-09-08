@@ -281,7 +281,7 @@ Ett Flödesförslag får spridning genom observerad funktion, inte genom auktori
 
 # PRINCIP 14: SKYDD MOT EVOLUTIONSERO­SION
 
-Evolution får aldrig användas för att legitimera:
+**Evolution får aldrig användas för att legitimera:**
 
 - tvång,
 - minskad Baslinje,
@@ -289,9 +289,9 @@ Evolution får aldrig användas för att legitimera:
 - permanent maktkoncentration,
 - krav på ständig förbättring.
 
-Evolution innebär inte att livet måste anpassa sig till systemet.
+**Evolution innebär *inte* att livet måste anpassa sig till systemet.**
 
-Systemet utvecklas för att bättre tjäna livet.
+**Systemet utvecklas för att bättre tjäna livet.**
 
 ---
 
@@ -332,17 +332,17 @@ Ingen protokollförändring får ske genom att centrala begrepp ändrar betydels
 
 # SLUTPRINCIP
 
-Ett levande system förbättras inte genom att kontrollera framtiden.
+**Ett levande system förbättras inte genom att kontrollera framtiden.**
 
-Det förbättras genom att lyssna på livet.
+***Det förbättras genom att lyssna på livet.***
 
-Ett tidigare protokoll betraktas inte som ett misslyckande enbart för att en bättre version senare utvecklas. 
+Ett tidigare protokoll betraktas **inte** som ett misslyckande enbart för att en bättre version senare utvecklas. 
 
-Varje generation är ett försök att tjäna livet utifrån den kunskap som fanns då.
+**Varje generation är ett försök att tjäna livet utifrån den kunskap som fanns då.**
 
-Flödesförslag är livets möjlighet att föreslå förändring.
+**Flödesförslag är livets möjlighet att föreslå förändring.**
 
-Evolution är livets möjlighet att lära.
+***Evolution är livets möjlighet att lära.***
 
 ---
 
