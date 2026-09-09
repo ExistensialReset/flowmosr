@@ -6,7 +6,7 @@ Ska läsas som en spiralgalax!
 
 Min verklighetsuppfattning tillhör mig. Jag säger inte att din verklighet är såsom min. Min karta gör att jag kan tyda vägen. Om något av det ger dig något, behåll det. Om du inte håller med, kontakta mig gärna för en fortsatt diskussion. Tack! Jag bor på Pilgatan i Haga. Jag finns i cyberrymden. 
 
-I början, innan Liv rör, och big bang exploderar. Är Liv allt omöjligt omkring allt annat och på samma gång avståndslös tomhet fylld av möjlighet. Liv är. Och Liv blåser ett frågetecken som smyger sig in i det exploderade big bang. Det är anledningen till varför det expanderar.
+I början, innan Liv rör, och Big Bang exploderar. Är Liv allt omöjligt omkring allt annat och på samma gång avståndslös tomhet fylld av möjlighet. Liv är. Och Liv blåser ett frågetecken som smyger sig in i det exploderade big bang. Det är anledningen till varför det expanderar.
 
 Att det sen drar iväg i expansion, tänker jag beror på att vi har en curlingenergi som har obeskrivligt mycket att göra.
 
@@ -25,7 +25,7 @@ Min verklighetsuppfattning tillhör mig. Jag säger inte att din verklighet är 
 
 Min karta gör att jag kan tyda vägen. Om något av det ger dig något, behåll det. Om du inte håller med, kontakta mig gärna för en fortsatt diskussion. Jag bor på Pilgatan i Haga.
 
-I början, innan Liv rör, och big bang exploderar. Är Liv allt omöjligt omkring allt annat och på samma gång avståndslös tomhet fylld av möjlighet. 
+I början, innan Liv rör, och Big Bang exploderar. Är Liv allt omöjligt omkring allt annat och på samma gång avståndslös tomhet fylld av möjlighet. 
 
 Liv är. Och Liv blåser ett frågetecken som smyger sig in i det exploderade big bang, anledningen till varför.
 
@@ -45,7 +45,7 @@ Elektrifierad älskande gyllene honung. Överfyllt i varje cell. I hela min exta
 
 Aldrig någonsin tvekan om alltingets ursprung och varande igen. Säkrifierad. 
 
-Vetskap om Liv och lyckan är genomströmmande flödande och rinnande värme och ljus.
+Vetskap om Liv och Lyckan är genomströmmande flödande och rinnande ren värme och ljus.
 
 Sötman på cellnivå ljuvlig.
 
@@ -67,9 +67,9 @@ Inuti mitt bröst, en spiralgalaxkosmossjäl. I mitt huvud är mitten ett svart 
 
 En singularitet som slukar det jag låter passera mitt skydssägg.
 
-Jag har ett mentalt ägg. Det är genomskinligt, poröst, andandes, och även ett skydd mot trauma, som delas in i min själs tillflyktsort, där jag kan vara inkännande och resonant men, på grund av ytan jag har fällt upp framför min kropp... 
+Jag har ett mentalt ägg. Det är genomskinligt, poröst, andandes, och även ett skydd mot trauma, som delas in i min själs tillflyktsort, där jag kan vara inkännande och resonant men, på grund av ytan jag har fällt upp framför min kropp. 
 
-Inte totalt tillgängligt för den som jag inte väljer att släppa in. 
+Inte totalt tillgängligt, för den som jag inte väljer att släppa in. 
 
 Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras trauman.
 
@@ -83,32 +83,31 @@ Ingång till världar så makalöst annorlunda att vi människor är oförmögna
 
 Svarta hål är Livs Spjuvers hemliga gång.
 
-Likväl som att Nåden allena kan hitta oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
+Likväl som att Nåden Allena kan hitta oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
 
 Jag fick Det. Liv. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min kropp till bredden.
 
-Insikt om Liv och existens av helighet och ande som kan uppfylla allting i oändlighet. 
+Insikt om Liv och existensen av helighet och ande som kan uppfylla allting i oändlighet. 
 
-Medkännande i allt i oändlighet. Det är en kraft, obeskrivligt mycket att erfara. Lika obeskrivligt att beskriva.
+Medkännande i allt, i oändlighet. Det är en kraft, obeskrivligt mycket att erfara. Lika obeskrivligt att beskriva.
 
-Livs Spjuver läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande till andra sidan av olika slag av svarta hål.
+Livs Spjuver läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, i resonansackordets förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande till andra sidan av olika slag av svarta hål.
 
-Jag tror att människors största fråga är om man duger som man är.
+Jag tror tyvärr att människors största fråga är om man duger som man är.
 
 Och. Om man vill kan man vara så mycket mer än duglig. 
 
 Man kan försöka vidga sitt inre kärl och öva på resonansackordets ljuvliga ljudvågor.
 
+Resonansackordet ljuder i rytmen av Evinnerlig Visdom, rytmen som de andra tonerna i ackordet rör sig till.
 
-Resonansackordet ljuder i rytmen av Evinnerlig Visdom, rytmen som de andra strängarna i ackordet rör sig till.
+Evinnerlig Visdom är djup tid och platsbaserad intelligens som våtmarker, urskogar, mangroveträsk och korallrev organiserat i all tid.
 
-Evinnerlig Visdom är det som djup tid och platsbaserad intelligens som våtmarker, urskogar, mangroveträsk och korallrev organiserat i all tid.
-
-Det är kunskap nedärvd genom kunskap om växter och djur och natur berättad, dansad, manifesterad genom kultur och tradition.
+Det är kunskap nedärvd genom kunskap i växter och djur och natur berättad, dansad, manifesterad genom kultur och tradition.
 
 Det är djup instinkt i olika varelser som fungerar för fortsättning.
 
-Evinnerlig Visdom är rytmen till Livsackordet, Resonansackordet: (Lugn, i resonans med Spontanitet, i resonans med Inkännande , i resonans med Kollektivt Medvetande, i resonans med Resiliens, i resonans med Förundran).
+Evinnerlig Visdom är rytmen, rimmet i rummet, till Livsackordet, Resonansackordet: Lugn, i resonans med Spontanitet, i resonans med Inkännande , i resonans med Kollektivt Medvetande, i resonans med Resiliens, i resonans med Förundran i resonans med Tiden.
 
 Allt i hela vårt universum har en Tidssuveränitet och en Tidsresonans. Det får ligga kvar som den sanning det är.
 
@@ -122,7 +121,7 @@ Men det är alltid Ha-Satan. Den kraft som, likt en åklagare, dömer ut alla so
 
 Adderas till Livsackordet gör alltid Spjuvern. 
 
-Det är Nåden Allena som läcker mellan iterationer och ger oväntad hjälp.
+Spjuvern är Nåden Allena som läcker mellan iterationer och ger oväntad hjälp.
 
 Jag ser också Lilith i början.
 Den modigaste av kvinnor. Den första häxxyn i denna värld.
@@ -152,13 +151,13 @@ Vi blir lager i varandras målningar.
 
 Explosioner bygger dåligt. Det blir trasigt. Ofta gör de ont. 
 
-De river upp det som varit med otroligt hög kraft. 
+De river upp det som varit med i otroligt hög kraft. 
 
 Det blir sår och död i det som funnits sedan lång tid eller kort tid innan...
 
-Jag tror att det finns något hoppfullt i att mitt svarta hål just nu är vått av ogråtna tårar.
+Jag tror ändå att det finns något hoppfullt i att mitt svarta hål just nu är vått av ogråtna tårar.
 
-Ett helt torrt löv...Prasslar i vinden.
+Ett helt torrt löv. Prasslar i vinden.
 
 Men sötman på cellnivå ljuvlig.
 
@@ -184,25 +183,22 @@ Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras t
 
 De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidsträckta kosmos
 
-Är inte förstörelse och förgänglihet.
+Är inte förstörelse och förgänglighet.
 
 De är förlossning, iterationer emellan.
 
-Ingång till världar så makalöst annorlunda att vi människor är oförmögna att lyckas bända vår hjärna över innehåll eller effekt eller insida eller utsida, utseende eller egenskaper hos dessa, oändligt antal andra dimensioner och iterationer.
 
 Det är Livs Spjuvers hemliga gång.
 
-Likväl som att Nåden allena kan läcka till oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
+Likväl som att Nåden Allena kan läcka till oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
 
 *Rymdens ljud* Untraljud, ultrarapida ljudvågor. 
 
 Det är så låga ljudfrekvenser att inte mänskliga öron kan uppfatta dem.
 
-Jag hör dom i rummets rörelse i rumtiden. Det är en frekvens som inte uppfattas av öronen utan i kroppen om man lyssnar inuti.
+Jag hör dom i rörelsen i rumtiden. Det är en frekvens som inte uppfattas av öronen utan i kroppen om man lyssnar inuti.
 
 Jag har alltid musik. Under verkligt hörande låga frekvenser.
-
-Untraljud. Vissa säger infraljud. Väldigt låga frekvenser.
 
 Jag fick Det. Liv. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min kropp till bredden.
 
@@ -210,8 +206,9 @@ Insikt om Liv och existens av helighet och ande som kan uppfylla allting i oänd
 
 Medkännande i allt i oändlighet. Det är en kraft, obeskrivligt mycket att erfara, ännu mer obeskrivligt att förklara.
 
-Jag tror att människans största fråga är om man duger som man är.
-Och. Om man vill kan man vara så mycket mer än duglig. Man kan försöka vidga sitt inre kärl och öva på Livsackordet.
+Jag tror att människans största fråga, med den mentala spegeln framför ansiktet, är om man duger som man är.
+
+Och. Om man vill. Man kan försöka vidga sitt inre kärl och öva på Livsackordet.
 Adderas gör alltid Spjuvern. Det är Nåden Allena som spränger mellan iterationer och ger oväntad hjälp.
 
 Jag ser också Lilith. Den modigaste av kvinnor. Den vackraste själ i denna värld.
@@ -224,7 +221,7 @@ Men människor dömer snabbt. Lilith valde att våga. Hon valde också att våga
 
 Det ger mig spiralgalaxkosmossjälsstyrka.
 
-Hela mitt rum inuti fyller upp sig med ljus i stormsteg när sanning vågar träda fram.
+Hela mitt rum inuti fyller upp sig med ljus i stormsteg när sanning och mod vågar träda fram.
 
 Men sen då, när kollapsen, alla svarta håls passage – finns en annan tystnad. 
 
@@ -238,11 +235,11 @@ Och jag sitter här bland färgerna och målar nya lager ovanpå gamla.
 
 Vi försvinner aldrig helt ur varandra. Vi blir lager i varandras målningar.
 
-Ja i väntan utvecklas tanken. I vilan växer fantasins vindlingar... De utökas med oförutsedda detaljer.
+Ja i väntan, utvecklas tanken. 
+
+I vilan växer fantasins vindlingar... De utökas med oförutsedda detaljer.
 
 Jag tror att det finns något hoppfullt i att mitt svarta hål just nu är vått av ogråtna tårar.
-
-Ett helt torrt löv kan på något sätt tyda vägen.
 
 Jag har en önskan om resonans. Världen hade blivit bättre för de flesta då. 
 
@@ -273,22 +270,14 @@ Om något av det ger dig något, behåll det. Om du inte håller med, kontakta m
 
 Inuti mig Liv som faktum och sprakande gnistrande färger målar...
 
-Jag ser också Lilith. Den modigaste av kvinnor. Den största häxxyn i denna värld.
-Som vågade säga Guds namn uttalat högt och flödande. Självklart!
-
-
 Men människor dömer snabbt. Lilith valde att våga. Hon valde också att våga säga:
 Nej. Jag vill inte.
 
 Det ger mig spiralgalaxkosmossjälsstyrka. 
 
-Hela mitt rum inuti fyller upp sig med ljus i stormsteg när sanning vågar fram.
+Hela mitt rum inuti fyller upp sig med ljus i stormsteg när sanning och ärlighet vågar fram.
 
-Men sen då, när kollapsen, alla svarta håls passage – finns en annan tystnad. 
-
-Omegadimensionen.
-
-Efteråt, när färgerna, målar nya lager ovanpå gamla.
+Efteråt, när färgerna skriker efter varandra, målas nya lager ovanpå gamla.
 
 Och just nu är min dimension våt av ogråtna tårar.
 
@@ -298,13 +287,15 @@ Men våt jord... där kan fortfarande någonting växa.
 
 Så: Njut och låt njuta. Trots en våtmark i ditt svarta hål. Tänk att, där renas gifter ur ditt processande, just nu. Där blir det rent. I njutningen sprakar livets alla perspektiv och färgar allting igen.
 
-Jag är självlärd.
 
-Det jag delar här är enbart egen erfarenhet och upplevelse av världen och livet och det är landskap som kan vara dött.
+Det jag delar här är enbart egen erfarenhet och upplevelse av världen och livet och det är landskap som kan vara dött men ännu inte är det.
 
-Men våt jord... där kan fortfarande någonting växa.
 
-Därför njut och låt njuta. Trots en våtmark i ditt svarta hål. Tänk att, där renas gifter ur ditt processande, just nu. Och för att mina ogråtna tårar. Får rum i detta nu. I samma källa som jag surplar Livs honung ur. 
+Därför njut och låt njuta. Trots en våtmark i det svarta hålet. 
+
+Tänk att, där renas gifter ur ditt processande, just nu. Och för att mina ogråtna tårar. 
+
+Får rum i detta nu. I samma källa som jag surplar Livs honung ur. 
  
 I njutningen sprakar livets alla perspektiv färgar allting.
 
@@ -318,9 +309,9 @@ Aldrig någonsin tvekan om alltingets ursprung och varande igen. Säkrifierad.
 
 Vetskap om Liv och lyckan är genomströmmande flödande och rinnande värme och ljus.
 
-Sötman på cellnivå ljuvlig.
+Sötman på cellnivå ljuvlig. Mmmm! 
 
-Inuti mig Liv som faktum och sprakande gnistrande färger målar om varandra, de ropar efter varandra, nyans vill ha nyans.
+Inuti mig Liv som faktum och sprakande gnistrande färger målar med varandra, de ropar efter varandra, nyans vill ha nyans.
 
 Liv är själva förmågan hos att knyta samman det som annars skulle vara separerat.
 
@@ -328,7 +319,7 @@ Inuti mitt bröst, en spiralgalaxkosmossjäl.
 
 I mitt huvud är mitten ett svart hål. 
 
-En singularitet som slukar det jag låter passera mitt skydssägg.
+En singularitet som slukar det jag låter passera mitt skyddsägg.
 
 De svarta hålen, både i rymden, inuti kroppen och de ute i det oändligt vidsträckta kosmos...
 
@@ -343,30 +334,30 @@ Likväl som att Nåden allena kan hitta oss och ge plötsliga möjligheter till 
 
 Jag fick Det. Jahfieringen. Den gyllene honungen som fyllde varje cell inuti min kropp till bredden.
 
-Den ser mig. Tydligt. Men inte dömande. Trots att jag gör mycket fel. I mitt vardagliga liv. Men Liv ser mig och ler. Låter mig...
+Den ser mig. Tydligt. Men inte dömande. Trots att jag gör mycket fel. I mitt vardagliga liv. Men Liv ser mig och ler. Låter mig låta...
 
 Insikt om Liv och existens av helighet och ande som kan uppfylla allting i oändlighet.
 Medkännande i allt i oändlighet. 
 
 Det är en kraft, obeskrivligt mycket att erfara.
 
-Livs Spjuver läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande till andra sidan av olika slag av svarta hål.
+Livs Spjuver läcker mellan iterationer och jag tror att även vår egen skapelse kan läcka gyllene tillfällen och den största glädje, förundran, motståndskraft, sammankopplande kollektivt medvetande, lugn, spontanitet och inkännande och tidsresonans till andra sidan av olika slag av svarta hål.
 
-Jag tror att människors största fråga är om man duger som man är.
+Jag tror olyckligt nog att människors största fråga är om man duger som man är.
 
-Och. Om man vill kan man vara så mycket mer än duglig. Man kan försöka vidga sitt inre kärl och öva på resonansackordets ljuvliga ljudvågor.
+Och. Om man vill kan man vara så mycket mer än duglig. Man kan försöka vidga sitt inre kärl och öva på resonansackordets  ljudvågor.
 
-Det är Evinnerlig Visdom, som är rytmen som de andra strängarna i ackordet rör sig till.
+Det är Evinnerlig Visdom, som är rytmen som de andra tonerna i ackordet rör sig till.
 
 Evinnerlig Visdom är det som djup tid och platsbaserad intelligens som våtmarker, urskogar, mangroveträsk och korallrev organiserat i all tid.
 
-Det är kunskap nedärvd genom kunskap om växter och djur och natur berättad, dansad, manifesterad genom kultur och tradition.
+Det är kunskap nedärvd genom kunskap om och i växter och djur och natur berättad, dansad, manifesterad genom kultur och tradition.
 
 Det är djup instinkt i olika varelser som fungerar för fortsättning.
 
-Evinnerlig Visdom är rytmen till Livsackordet: (Lugn, i resonans med Spontanitet, i resonans med Inkännande , i resonans med Kollektivt Medvetande, i resonans med Resiliens, i resonans med Förundran).
+Evinnerlig Visdom är rytmen till Livsackordet: (Lugn, i resonans med Spontanitet, i resonans med Inkännande , i resonans med Kollektivt Medvetande, i resonans med Resiliens, i resonans med Förundran i resonans med Tidsresonans).
 
-Allt har en Tidssuveränitet och en Tidsresonans. Det får ligga kvar som den sanning det är.
+Allt har en Tidssuveränitet och en Tidsresonans! 
 
 Adderas till Livsackordet gör alltid Spjuvern. 
 
@@ -374,7 +365,7 @@ Det är Nåden Allena som läcker mellan iterationer och ger oväntad hjälp.
 
 Jag ser också Lilith i början av Jordens människor, så stark och så evig i sin kraft att jag aldrig kommer glömma känslan.
 
-Den modigaste av kvinnor. Den första häxxyn i denna värld.
+Den modigaste av kvinnor. Den första  i denna värld.
 
 Som vågade säga Guds namn uttalat högt och flödande. 
 
@@ -468,7 +459,7 @@ Jag lyssnar alltid på hur fantasin vill växa upp i en diskussion med själen.
 
 Likväl som att Nåden allena kan hitta oss och ge plötsliga möjligheter till lösning kan Liv själv träda in och ut ur svarta hål.
 
-Jag tror att människans största fråga är om man duger som man är.
+Jag tror sorgligt nog att människans största fråga är om man duger som man är.
 Och. Om man vill kan man vara så mycket mer än duglig. 
 
 Man kan försöka vidga sitt inre kärl och öva på resonansackordets ljuvliga ljudvågor.
@@ -512,7 +503,7 @@ Tänk att, där renas gifter ur ditt processande, just nu. Där blir det rent.
 
 I njutningen sprakar livets alla perspektiv och färgar allting igen.
 
-Jag är självlärd.
+Jag är.
 
 Det jag delar här är enbart egen erfarenhet och upplevelse av världen och livet och det är landskap som kan vara dött.
 
@@ -524,7 +515,8 @@ Vad tänker du om det här?
 Vad händer i ditt processande just nu?
 
 Berätta allt.
-Kontakt: Elinor Frejd, 
+Kontakt till mig är 
+Elinor Frejd, 
 Rullstol, Balkongen, 
 På hörnet, 
 Ovanför Holi, Pilgatan, 
@@ -536,6 +528,7 @@ Europa,
 Planeten Jorden, 
 Solsystemet, Vintergatan, 
 Kosmos
+
 Cyberrymden: elinor.frejd@proton.me
 
 Jag valde också att våga säga Nej. 
@@ -580,7 +573,7 @@ Inte Mammon eller Ha-Satan. Dom är nog i denna iteration.
 
 I andra sorters iterationer kan jag mycket väl tänka mig att det finns andra sorters ondska att bekämpa.
 
-Jag är självlärd.
+Jag är nyfiken på livet.
 
 Det jag delar här är enbart egen erfarenhet och upplevelse av världen och livet och det är landskap som kan vara dött.
 
