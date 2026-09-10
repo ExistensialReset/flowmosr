@@ -163,3 +163,5 @@ We ask:
 Justice is patience with boundaries.  
 Justice is repair without humiliation.  
 Justice is remembering that **no one is disposable**.
+
+See also The Harm Boundaries Protocol 
