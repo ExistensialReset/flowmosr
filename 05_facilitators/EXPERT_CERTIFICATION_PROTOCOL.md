@@ -473,3 +473,199 @@ and lost through stagnation."
 # STATUS
 
 **Operational Protocol v3.0**
+
+# Appendix A — Trust Gradients, Expertise and Community Weight
+
+## Purpose
+
+This appendix clarifies how expertise is weighted within Flow without allowing expertise to become authority.
+
+A trust gradient describes the **relevance and weight of a type of knowledge to a particular kind of question**. It does not grant any person or expert group an inherent right to decide.
+
+> **Trust is not authority.**
+>
+> A higher trust gradient means greater relevance for a particular type of knowledge — never greater right to determine the outcome.
+
+---
+
+## A.1 Standard Trust Domains
+
+Flow uses predefined categories rather than allowing individual experts or governing bodies to assign trust levels ad hoc.
+
+| Domain | Initial expert weight | Initial community weight |
+|---|---:|---:|
+| Technical / factual | High | Medium |
+| Practical / operational | Medium–High | Medium |
+| Social / relational | Medium | Medium–High |
+| Ethical / value-based | Low | High |
+| Constitutional / power-related | Very low | Very high |
+| Baseline / biological dignity | No overriding expert authority | Highest |
+
+These are **starting conditions**, not permanent decision rules.
+
+No trust domain may override the Baseline, constitutional boundaries, voluntary participation, exit rights, or other immutable Flow constraints.
+
+---
+
+## A.2 Classification Must Not Become a Power Position
+
+A person or expert group must not be able to increase its own influence simply by classifying a question into a domain in which expert weight is higher.
+
+The classification itself must therefore be:
+
+- transparent,
+- challengeable,
+- documented,
+- subject to the same rotation principles as other temporary roles.
+
+No permanent classification authority exists.
+
+---
+
+## A.3 Right to Challenge the Classification
+
+Any affected Circle or participant may challenge the proposed domain classification.
+
+A challenge does not require the challenger to possess specialist knowledge.
+
+The burden is on the classification to remain intelligible and defensible.
+
+If the classification is uncontested, the standard category applies.
+
+If the classification is genuinely contested and cannot be resolved through clarification, the matter may be referred to LOTUS.
+
+> **The right to challenge escalation is easier than the right to block escalation.**
+
+A Circle may therefore require LOTUS when the classification itself has become consequential.
+
+---
+
+## A.4 Community Weight Comes First
+
+Expertise does not become authoritative merely because an expert possesses more information.
+
+Where expert analysis and the community's understanding initially diverge, the community retains greater initial weight until the expert perspective has been made sufficiently understandable to be questioned.
+
+The expert must explain:
+
+1. what they believe is happening;
+2. what assumptions their analysis depends upon;
+3. what alternative interpretations exist;
+4. what they may be wrong about;
+5. what consequences follow from accepting or rejecting the analysis;
+6. what the community should reasonably question.
+
+The objective is not to make the community agree with the expert.
+
+The objective is to make the expert knowledge **available for collective understanding and scrutiny**.
+
+> **An expert cannot win through incomprehensibility.**
+
+If an expert's influence depends on the community being unable to understand, question, or challenge the analysis, expert authority has already begun to emerge and the process must stop and be reconsidered.
+
+---
+
+## A.5 Trust Gradients Do Not Determine Outcomes
+
+A trust gradient affects **how much weight a particular form of knowledge initially receives**.
+
+It does not determine the decision.
+
+The distinction is:
+
+- **Knowledge relevance:** How useful is this expertise for understanding the question?
+- **Decision authority:** Who has the right to determine the outcome?
+
+These are separate dimensions.
+
+Flow may recognize that a structural engineer has highly relevant knowledge about a building's load-bearing capacity without giving that engineer unilateral authority over the people who live in the building.
+
+Likewise, an ethical question cannot become an expert decision merely because it has technical components.
+
+---
+
+## A.6 Mixed Questions
+
+Many real decisions belong to more than one domain.
+
+For example, a decision may simultaneously involve:
+
+- technical facts,
+- resource constraints,
+- social consequences,
+- ethical questions,
+- and Baseline implications.
+
+Such questions must not be forced into a single category merely for administrative convenience.
+
+Instead, the relevant domains should be identified separately.
+
+Expertise may then inform the factual and technical components while the community retains its appropriate weight over lived consequences, values, and collective priorities.
+
+---
+
+## A.7 Rotation Prevents Knowledge Positions from Crystallizing
+
+Trust gradients do not create permanent expert offices.
+
+All roles associated with:
+
+- expert certification,
+- peer review,
+- classification,
+- framing,
+- meta-review,
+- and governance
+
+are temporary and rotational.
+
+Certification itself is temporary, challengeable, and subject to renewal.
+
+The purpose is to prevent temporary competence from becoming a permanent social position.
+
+> **Makt kan tillfälligt uppstå men får inte kristallisera till permanent makt.**
+
+---
+
+## A.8 LOTUS as the Dispute Mechanism
+
+LOTUS does not determine which knowledge is true.
+
+When there is a consequential disagreement about classification, framing, or the appropriate trust domain, LOTUS provides a temporary, distributed mechanism for resolving the procedural dispute.
+
+LOTUS cannot use such a dispute to:
+
+- lower the Baseline below constitutional limits;
+- create permanent authority;
+- eliminate the right to exit;
+- suspend voluntary participation;
+- or convert expertise into standing authority.
+
+LOTUS resolves the disputed process question; it does not become the owner of the knowledge.
+
+---
+
+## A.9 No Self-Enhancing Expertise
+
+Experts must never be able to increase their own decision weight by:
+
+- defining the problem in a way that automatically favors their domain;
+- classifying the question into a higher-trust domain for their own expertise;
+- controlling the available options;
+- withholding relevant uncertainty;
+- making explanations intentionally inaccessible;
+- or controlling who may challenge their certification.
+
+Any such pattern is a governance failure, regardless of whether formal rules have technically been followed.
+
+---
+
+## A.10 Core Rule
+
+The entire appendix can be reduced to one rule:
+
+> **Expertise may increase understanding. It may never become a shortcut around collective judgment.**
+
+Trust gradients exist to prevent both ignorance and dominance.
+
+They are a tool for making knowledge visible and usable — not a mechanism for transferring authority from the community to experts.
