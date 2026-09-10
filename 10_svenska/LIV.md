@@ -27,7 +27,7 @@ Min karta gör att jag kan tyda vägen. Om något av det ger dig något, behåll
 
 I början, innan Liv rör, och Big Bang exploderar. Är Liv allt omöjligt omkring allt annat och på samma gång avståndslös tomhet fylld av möjlighet. 
 
-Liv är. Och Liv blåser ett frågetecken som smyger sig in i det exploderade big bang, anledningen till varför.
+Liv är. And Liv blåser ett frågetecken som smyger sig in i det exploderade big bang, anledningen till varför.
 
 Att det sen drar iväg i expansion, tänker jag beror på att vi har en curlingenergi som har obeskrivligt att göra.
 
@@ -75,7 +75,7 @@ Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras t
 
 De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidsträckta kosmos...
 
-Är inte förstörelse och förgänglighet.
+Är inte förstörelse.
 
 De är förlossning, iterationer emellan. 
 
@@ -196,7 +196,7 @@ Inte riskera att bli utbränd av att bära andras sorg eller ta på mig andras t
 
 De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidsträckta kosmos. 
 
-Är inte förstörelse och förgänglighet.
+Är inte förstörelse.
 
 De är förlossning, iterationer emellan.
 
@@ -271,7 +271,7 @@ Det behöver inte betyda att något är fel. Det kan vara i samklang.
 
 Ibland ett litet ögonblink. Ibland en gigantisk tidslucka.
 
-Om vi lät varandra ha vår egen tidsresonans.
+Om vi lät varandra ha var egen tidsresonans.
 
 Tid är otroligt svårt att få plats i. Tiden går så väldigt olika. 
 
@@ -346,7 +346,8 @@ En singularitet som slukar det jag låter passera mitt skyddsägg.
 
 De svarta hålen, både i rymden, inuti kroppen och de ute i det oändligt vidsträckta kosmos...
 
-Är inte förstörelse och förgänglihet.
+Är inte förstörelse.
+
 De är förlossning, iterationer emellan. 
 
 Ingång till världar så makalöst annorlunda att vi människor är oförmögna att lyckas bända vår hjärna över innehåll och effekt och insida eller utsida, utseende eller egenskaper hos dessa, oändligt antal andra dimensioner och iterationer.
@@ -455,7 +456,7 @@ De svarta hålen, både i rymden inuti kroppen och den ute i det oändligt vidst
 
 Gliphålen.
 
-Är inte förstörelse och förgänglihet.
+Är inte förstörelse.
 
 De är förlossning, iterationer emellan. 
 
@@ -601,7 +602,7 @@ Men våt jord... där kan fortfarande någonting växa.
 Och ändå i allt, som att jag står vid samma källa 
 år efter år 
 
-Och efter ett decennium - eller tio tusen år - jag försöker fortfarande försöker *hitta orden* för vattnet.
+Och efter ett decennium - eller tio tusen år - jag försöker fortfarande försöka *hitta orden* för vattnet.
 
 Jag står fortfarande vid samma källa.
 
