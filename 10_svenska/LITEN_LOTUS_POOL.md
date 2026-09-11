@@ -1,4 +1,4 @@
-# SMALL_POOL_LOTUS_PROTOCOLS
+# LITEN LOTUS POOL PROTOCOLS
 
 **Status:** UTKAST  
 **Version:** 2.0 Utkast  
