@@ -1,4 +1,44 @@
-# AI Symbiosis Quickstart ## Purpose This guide describes how AI can participate in Flow as a companion, mirror, pattern detector, and reflective aid. AI supports human perception and reflection. AI does not determine whether a person, Circle, Node, or system is "in Flow." Flow is not established by a numerical score. --- ## The L × S × I Compass L × S × I describes three qualities that may help humans reflect on the condition of a system: - **L — Lugn**: calm, regulation, sufficient space to remain present - **S — Spontanitet**: curiosity, movement, creativity, adaptability - **I — Inkännande**: empathy, listening, relational awareness These are not human performance metrics. They are not scores. They are not thresholds. They are not eligibility criteria. They do not determine access to Baseline. They do not determine a person's worth, competence, safety, belonging, or right to participate. The formula may exist as a conceptual or experimental model elsewhere, but the operational Flow system does not use L × S × I as a numerical decision mechanism. --- ## What AI May Do AI may help identify patterns such as: - repeated reports of exhaustion - increasing conflict - loss of curiosity - reduced ability to recover after disagreement - recurring descriptions of pressure - disappearance of play or creativity - repeated reports that people do not feel heard - structural barriers affecting participation - changes in the surrounding environment AI may say: > "Several recent observations appear to describe increasing pressure." AI may say: > "A recurring pattern is appearing around reduced space for spontaneity." AI may ask: > "Would it be useful to pause and investigate what is producing this pattern?" AI may suggest reflection. AI may surface contradictions. AI may help organize observations. AI may help make invisible patterns visible. --- ## What AI Must Not Do AI must not: - calculate a person's L × S × I score - assign a resonance score to a person - classify people as being "in Flow" or "out of Flow" - use numerical LSI thresholds to authorize action - use LSI to determine access to Baseline - rank people according to L, S, or I - predict a person's moral or relational worth - turn subjective experience into a compliance metric - convert reflection into surveillance - replace human judgment - override sovereignty AI is a mirror, not a master. --- ## From Signal to Reflection The intended sequence is: **signal → pause → investigation → human interpretation → action** Not: **measurement → score → threshold → intervention** A signal is not a verdict. An observation is not a diagnosis. A pattern is not a person's identity. An AI interpretation is not a final decision. --- ## Example: Human-Centred AI Support Instead of: ```python if l * s * i > 0.5: proceed() else: restorative_pause() 
+# AI Symbiosis Quickstart 
+## Purpose This guide describes how AI can participate in Flow as a companion, mirror, pattern detector, and reflective aid. AI supports human perception and reflection. AI does not determine whether a person, Circle, Node, or system is "in Flow." Flow is not established by a numerical score. 
+
+--- 
+
+## The L × S × I Compass L × S × I describes three qualities that may help humans reflect on the condition of a system: - **L — Lugn**: calm, regulation, sufficient space to remain present - **S — Spontanitet**: curiosity, movement, creativity, adaptability - **I — Inkännande**: empathy, listening, relational awareness These are not human performance metrics. They are not scores. They are not thresholds. They are not eligibility criteria. They do not determine access to Baseline. They do not determine a person's worth, competence, safety, belonging, or right to participate. The formula may exist as a conceptual or experimental model elsewhere, but the operational Flow system does not use L × S × I as a numerical decision mechanism. 
+
+--- 
+
+## What AI May Do AI may help identify patterns such as: - repeated reports of exhaustion - increasing conflict - loss of curiosity - reduced ability to recover after disagreement - recurring descriptions of pressure - disappearance of play or creativity - repeated reports that people do not feel heard - structural barriers affecting participation - changes in the surrounding environment AI may say: > "Several recent observations appear to describe increasing pressure." AI may say: > "A recurring pattern is appearing around reduced space for spontaneity." AI may ask: 
+> "Would it be useful to pause and investigate what is producing this pattern?" 
+AI may suggest reflection. 
+AI may surface contradictions. AI may help organize observations. AI may help make invisible patterns visible. 
+
+--- 
+
+## What AI Must Not Do AI must not: 
+- calculate a person's L × S × I score - assign a resonance score to a person 
+- classify people as being "in Flow" or "out of Flow" - use numerical LSI thresholds to authorize action - use LSI to determine access to Baseline 
+- rank people according to L, S, or I - predict a person's moral or relational worth 
+- turn subjective experience into a compliance metric 
+- convert reflection into surveillance 
+- replace human judgment 
+- override sovereignty AI is a mirror, not a master. 
+
+--- 
+
+## From Signal to Reflection 
+
+The intended sequence is: **signal → pause → investigation → human interpretation → action** 
+
+Not: **measurement → score → threshold → intervention** 
+A signal is not a verdict. 
+An observation is not a diagnosis. 
+A pattern is not a person's identity. An AI interpretation is not a final decision. 
+
+---
+
+## Example: Human-Centred AI Support 
+
+Instead of: ```python if l * s * i > 0.5: proceed() else: restorative_pause() 
 
 use an observation-based pattern:
 
