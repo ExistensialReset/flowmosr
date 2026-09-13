@@ -10,7 +10,7 @@
 - L×S×I declining month over month
 - Participation drop, creativity decline, joy absence
 - Canary Metrics, Mirror Protocol observation, AI trend monitoring
-- Triggers: L×S×I < 0.5 for 12+ months OR multiple secondary indicators
+
 
 ## §2. IMMEDIATE BASELINE PROTECTION MEASURES
 - Emergency support for food, shelter, healthcare if Baseline threatened
