@@ -1,10 +1,19 @@
 # AI Symbiosis Quickstart 
 
-## Purpose This guide describes how AI can participate in Flow as a companion, mirror, pattern detector, and reflective aid. AI supports human perception and reflection. AI does not determine whether a person, Circle, Node, or system is "in Flow." Flow is not established by a numerical score. 
+## Purpose 
+
+This guide describes how AI can participate in Flow as a companion, mirror, pattern detector, and reflective aid. AI supports human perception and reflection. AI does not determine whether a person, Circle, Node, or system is "in Flow." Flow is not established by a numerical score. 
 
 --- 
 
-## The L × S × I Compass L × S × I describes three qualities that may help humans reflect on the condition of a system: - **L — Lugn**: calm, regulation, sufficient space to remain present - **S — Spontanitet**: curiosity, movement, creativity, adaptability - **I — Inkännande**: empathy, listening, relational awareness These are not human performance metrics. They are not scores. They are not thresholds. They are not eligibility criteria. They do not determine access to Baseline. They do not determine a person's worth, competence, safety, belonging, or right to participate. The formula may exist as a conceptual or experimental model elsewhere, but the operational Flow system does not use L × S × I as a numerical decision mechanism. 
+## The L × S × I Compass 
+
+L × S × I describes three qualities that may help humans reflect on the condition of a system: 
+- **L — Lugn**: calm, regulation, sufficient space to remain present 
+- **S — Spontanitet**: curiosity, movement, creativity, adaptability 
+- **I — Inkännande**: empathy, listening, relational awareness 
+
+These are not human performance metrics. They are not scores. They are not thresholds. They are not eligibility criteria. They do not determine access to Baseline. They do not determine a person's worth, competence, safety, belonging, or right to participate. The formula may exist as a conceptual or experimental model elsewhere, but the operational Flow system does not use L × S × I as a numerical decision mechanism. 
 
 --- 
 
