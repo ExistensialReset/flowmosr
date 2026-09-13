@@ -70,7 +70,7 @@ Key components:
 
 ### Layer 2: Resonance Loss (Natural Consequence)
 - Flow decreases naturally when violations occur: L↓, S↓, I↓  
-- **Canary Protocol:** 3+ canaries report within 2 weeks → triggers Reflection Pause  
+- Three people sensing drift is sufficient **cause to pause**.
 - Cross-Circle sharing maintains **lateral accountability**  
 
 ### Layer 3: Architectural Reset
