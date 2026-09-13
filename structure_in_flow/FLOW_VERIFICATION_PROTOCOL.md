@@ -20,8 +20,7 @@ Unchecked, discrepancies can threaten Baseline stability. All responses must be 
 
 ## §1. TRIGGER CONDITIONS
 
-Protocol triggers **advisory flags** when:  
-- L×S×I data indicates potential scarcity  
+Protocol triggers **advisory flags** when:   
 - Resource accounting shows discrepancies exceeding tolerance thresholds  
 - Reports of failed deliveries, unexplained shortages, or hoarding  
 
