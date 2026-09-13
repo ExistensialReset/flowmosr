@@ -1,4 +1,5 @@
 # AI Symbiosis Quickstart 
+
 ## Purpose This guide describes how AI can participate in Flow as a companion, mirror, pattern detector, and reflective aid. AI supports human perception and reflection. AI does not determine whether a person, Circle, Node, or system is "in Flow." Flow is not established by a numerical score. 
 
 --- 
