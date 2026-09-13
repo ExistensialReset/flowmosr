@@ -7,6 +7,10 @@
 
 ---
 
+Metrics may describe system conditions and support reflection, but only Baseline/infrastructure metrics may have structural decision consequences.
+
+---
+
 ## 1. Core Principles
 
 - **Measurement should support, not control.**  
