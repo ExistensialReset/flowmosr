@@ -23,8 +23,7 @@ All protective interventions are **human-verified**; AI may assist as advisory o
 ## §1. TRIGGER CONDITIONS
 
 Protocol activates when:  
-- Reports of harm or neglect from any Node member  
-- Sudden or sustained drop in L×S×I among minors  
+- Reports of harm or neglect from any Node network  
 - Patterns of absenteeism, isolation, or fear  
 
 **Baseline Emergency Advisory:**  
