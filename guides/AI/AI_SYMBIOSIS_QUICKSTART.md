@@ -17,17 +17,44 @@ These are not human performance metrics. They are not scores. They are not thres
 
 --- 
 
-## What AI May Do AI may help identify patterns such as: - repeated reports of exhaustion - increasing conflict - loss of curiosity - reduced ability to recover after disagreement - recurring descriptions of pressure - disappearance of play or creativity - repeated reports that people do not feel heard - structural barriers affecting participation - changes in the surrounding environment AI may say: > "Several recent observations appear to describe increasing pressure." AI may say: > "A recurring pattern is appearing around reduced space for spontaneity." AI may ask: 
+## What AI May Do 
+
+AI may help identify patterns such as: 
+- repeated reports of exhaustion 
+- increasing conflict 
+- loss of curiosity 
+- reduced ability to recover after disagreement 
+- recurring descriptions of pressure 
+- disappearance of play or creativity 
+- repeated reports that people do not feel heard 
+- structural barriers affecting participation 
+- changes in the surrounding environment AI may say: 
+> "Several recent observations appear to describe increasing pressure." 
+
+AI may say: 
+> "A recurring pattern is appearing around reduced space for spontaneity." 
+
+AI may ask: 
 > "Would it be useful to pause and investigate what is producing this pattern?" 
+
 AI may suggest reflection. 
-AI may surface contradictions. AI may help organize observations. AI may help make invisible patterns visible. 
+AI may surface contradictions. 
+AI may help organize observations. 
+AI may help make invisible patterns visible. 
 
 --- 
 
-## What AI Must Not Do AI must not: 
-- calculate a person's L × S × I score - assign a resonance score to a person 
-- classify people as being "in Flow" or "out of Flow" - use numerical LSI thresholds to authorize action - use LSI to determine access to Baseline 
-- rank people according to L, S, or I - predict a person's moral or relational worth 
+## What AI Must Not Do 
+
+AI must not: 
+
+- calculate a person's L × S × I score 
+- assign a resonance score to a person 
+- classify people as being "in Flow" or "out of Flow" 
+- use numerical LSI thresholds to authorize action 
+- use LSI to determine access to Baseline 
+- rank people according to L, S, or I
+- predict a person's moral or relational worth 
 - turn subjective experience into a compliance metric 
 - convert reflection into surveillance 
 - replace human judgment 
