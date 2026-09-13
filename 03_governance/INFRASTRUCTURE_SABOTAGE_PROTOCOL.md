@@ -36,7 +36,7 @@
 
 ## §6. METRICS AND FEEDBACK
 - Record Baseline status before, during, after intervention
-- Document incident impact on L×S×I, stress index, and resource flow
+- Document incident impact on system stress index, and resource flow
 - Feed lessons learned to KNOWN_TENSIONS.md and regional coordination AI
 
 ## §7. PHILOSOPHICAL GROUND
