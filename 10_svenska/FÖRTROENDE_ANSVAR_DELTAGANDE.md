@@ -570,7 +570,7 @@ Detta är en del av processen, inte ett krav på att personen ska erkänna någo
 
 ---
 
-## 24. Ingen begränsning på grund av rädsla eller känsla ensam
+## 24. Ingen begränsning på grund av rädsla eller ensamhetskänsla
 
 En cirkel får inte begränsa en människa från förtroendeposter enbart därför att någon:
 
