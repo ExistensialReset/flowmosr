@@ -6,6 +6,8 @@
 
 Vi vet inte om den här festivalen kommer att göra Flow friare eller bli ytterligare ett sätt att styra människor. Därför måste även festivalen utsättas för samma undersökning som den utför.
 
+Om du upptäcker att vi har fel, behöver du inte först ha rätt för att få säga det.
+
 ---
 
 ## 1. Varför finns Semantisk Suveränitetsfestivalen?
