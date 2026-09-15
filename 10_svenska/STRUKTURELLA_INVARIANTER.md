@@ -8,8 +8,7 @@ Tillämplighet: Alla Noder, alla Faser, alla politiska och kulturella sammanhang
 ---
 
 # 1. Fundamentala Invarianter
-
-Dessa är icke-förhandlingsbara. Att bryta någon av dessa äventyrar systemets livskraft.
+Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror idag (2026 innan Flow/Flödet är en reell verklighet.
 
 1. **Grundarirrelevans**
    - Ingen Nod eller Nätverk beror på grundaren för överlevnad.
