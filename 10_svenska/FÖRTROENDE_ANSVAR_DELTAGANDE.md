@@ -5,6 +5,8 @@
 **Scope:** All Circles / Nodes / Flow  
 **Princip:** Förtroende är inte makt. Förtroende är ett tillfälligt ansvar som kan bäras, prövas, förloras och återvinnas.
 
+En specifik funktion kan kräva att vissa observerbara uppgifter kan utföras på ett tillförlitligt sätt.
+
 ---
 
 ## 1. Grund
