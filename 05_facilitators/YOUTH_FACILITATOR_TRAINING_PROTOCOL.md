@@ -457,11 +457,9 @@ Role-play preparation meetings with both parties. Practice recognizing red flags
 ### Part 4: Somatic Testimony – Body-Based Truth (2 hours)
 
 **Why somatic testimony?**
-- Narrative can be manipulated; body cannot convincingly lie
-- Trauma lives in nervous system, not just in story
-- Regulating body allows access to empathy and accountability
 
-**The nervous system is the primary witness.**
+- Trauma lives in nervous system, not just in story
+- Regulating body allows access to empathy and accountability. 
 
 ---
 
