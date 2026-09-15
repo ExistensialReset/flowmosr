@@ -2,7 +2,9 @@
 
 **Status:** Kärnprincip  
 **Omfattning:** Hela Flödessystemet  
-**Syfte:** Definiera Flödets oföränderliga grunder — principer som **aldrig förändras**, oavsett protokoll, processer eller experiment.  
+**Syfte:** Definiera Flödets härledda strukturella invarianter. 
+
+Dessa invarianter är härledda från och underställda GRÄNSER.md. De får förfinas eller ersättas genom evolution så länge GRÄNSER respekteras. 
 
 ---
 
