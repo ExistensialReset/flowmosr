@@ -693,6 +693,18 @@ LIV behöver därför kunna existera som:
 
 > **personlig karta utan att bli påtvingad världsåskådning.**
 
+Centrala begrepp är:
+- Liv
+- Lilith
+- "Njut och låt njuta"
+- Livsackord
+- Ha-Satan
+- Mammon
+- Omegadimensionen
+- Ägget
+- Spjuvern/Nåden Allena
+
+  
 ---
 
 # 19. GUDOMLIG
@@ -708,16 +720,13 @@ Här finns bland annat:
 - spiralgalaxen
 - Omegadimension
 - Ägget
-- Livsackord
 - Evinnerlig Visdom
 - Tidssuveränitet
 - Tidsresonans
 - Mammon
-- Ha-Satan
 - Spjuvern
 - Nåden Allena
-- Lilith
-- "Njut och låt njuta"
+
 
 Detta material är filosofiskt och existentiellt.
 
@@ -851,7 +860,7 @@ Ingen ska behöva ge upp sitt människovärde för att få delta.
 
 ## Frivillighet
 
-Deltagande ska inte automatiskt innebära skuld.
+Deltagande ska inte innebära skuld.
 
 ## Rotation
 
@@ -869,7 +878,7 @@ Ordens betydelse ska kunna försvaras mot långsam förskjutning.
 
 Det måste finnas möjlighet att lämna.
 
-## Baseline
+## Baslinjen
 
 Människans existentiella säkerhet ska inte vara beroende av prestation.
 
@@ -1122,9 +1131,9 @@ Om hela `10_svenska` måste komprimeras till en enda struktur kan den beskrivas 
 
 > **GRÄNSER skyddar människan.**
 >
-> **Baseline skyddar existensen.**
+> **Baslinjen skyddar existensen.**
 >
-> **Circles skapar lokal samordning.**
+> **Cirklar skapar lokal samordning.**
 >
 > **LOTUS distribuerar funktion och beslut.**
 >
