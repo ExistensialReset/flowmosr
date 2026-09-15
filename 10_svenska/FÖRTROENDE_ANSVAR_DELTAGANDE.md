@@ -7,6 +7,8 @@
 
 En specifik funktion kan kräva att vissa observerbara uppgifter kan utföras på ett tillförlitligt sätt.
 
+**Människor får vara värdefulla. Funktioner får inte bli personägda.**
+
 ---
 
 ## 1. Grund
