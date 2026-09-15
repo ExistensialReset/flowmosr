@@ -55,10 +55,7 @@ Reading when someone is dysregulated (fight/flight/freeze/fawn).
 - **Pause immediately**
 - "I'm noticing some activation. Let's take 2 minutes."
 - Offer water, movement, bathroom break
-- Do NOT push through dysregulation
-
-**Key principle:**
-**No truth can be accessed in fight/flight/freeze.**
+- Do NOT push through dysregulation. 
 
 ---
 
