@@ -8,6 +8,10 @@
 
 ---
 
+Clinical/legal procedures must be validated against the jurisdiction and current professional standards.
+
+---
+
 ## PURPOSE
 
 Witnesses in Refugium Anima are **anchors, not therapists**.
