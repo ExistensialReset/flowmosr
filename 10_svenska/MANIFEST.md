@@ -13,7 +13,11 @@ Du är trygg här. Du är inte skyldig någonting.
 Detta manifest är uppdelat i tre delar:
 
 1. **Inbjudan** – en personlig hälsning och en kort introduktion till varför detta är viktigt
-2. **Axiomen** – de grundläggande, icke-förhandlingsbara sanningarna om vad varje människa har rätt till
+
+2. **Grundidéerna** – de grundläggande, icke-förhandlingsbara sanningarna om vad varje människa har rätt till. 
+
+De konstitutionella axiomen finns i GRÄNSER.md. Manifestet beskriver de idéer och institutionella uttryck som vuxit fram inom dessa gränser.
+
 3. **Systemets logik** – hur Flödet fungerar i praktiken: reserver, koordinering, skulder och livets mått
 
 Du behöver inte läsa allt på en gång. Börja med det som väcker din nyfikenhet.
@@ -54,18 +58,18 @@ Dess mål är att hålla dig i ett tillstånd av ständig reaktion, borta från 
 
 Detta manifest är ett svar på den belägringen.
 
-Nedan följer de grundläggande axiomen och den operativa logiken för att bygga en verklighet som skyddar suveränitet för alla.
+Nedan följer de grundläggande idéerna och den operativa logiken för att bygga en verklighet som skyddar suveränitet för alla.
 
 ---
 
-# II. AXIOMEN
+# II. GRUNDIDÉERNA
 
 Följande tankar är systemets icke-förhandlingsbara grunder.
 De erkänns som grundnivån för mänsklig verklighet.
 
 ---
 
-## AXIOM 1: BASLINJEN
+## 1: BASLINJEN
 
 Följande garanteras villkorslöst till alla:
 
@@ -84,9 +88,11 @@ Den förtjänas aldrig; den är existensens utgångspunkt.
 
 **Baslinjen säkrar inte bara överlevnad, utan villkoren för ett levbart liv – inklusive tillgång till lärande, skapande, vila och återhämtning.**
 
+Baslinjens exakta utformning finns i dokumentet BASLINJEN.md
+
 ---
 
-### AXIOM 1A: VATTEN SOM EN FYSISK GRUNDNIVÅ
+### 1A: VATTEN SOM EN FYSISK GRUNDNIVÅ
 
 **Vatten är en garanterad Baslinjerättighet.**
 
@@ -135,7 +141,7 @@ Global universalitet framträder inte genom dekret, utan genom upprepning.
 
 ---
 
-### AXIOM 1B: PERSONLIG EGENDOM
+### 1B: PERSONLIG EGENDOM
 
 **Du behåller dina saker.**
 
@@ -175,7 +181,7 @@ Ingen kommer tvinga dig att du delar med dig av dina saker.
 
 ---
 
-### AXIOM 1C: LYCEUM MUSAEUM
+### 1C: LYCEUM MUSAEUM
 
 **Rätten till Lärande, Skapande och Mänsklig Utforskning**
 
@@ -201,7 +207,7 @@ Lyceum Musaeum är ett **levande växthus för mänsklig potential**, öppet i k
 
 ---
 
-### AXIOM 1D: REFUGIUM ANIMA
+### 1D: REFUGIUM ANIMA
 
 **Rätten till Vila, Återhämtning och Existentiell Återställning**
 
@@ -233,7 +239,7 @@ Nu går vi från värdegrund till implementering.
 
 ---
 
-## AXIOM 2: KRITISK RESERV
+## 2: KRITISK RESERV
 
 För att säkerställa stabilitet upprätthåller den kollektiva arkitekturen en konstant **Kritisk Reserv** av logistiska resurser och energi, motsvarande inte mindre än **30% av totala årliga Baslinjebehov**.
 
@@ -243,7 +249,7 @@ Denna reserv är den fysiska garantin för Baslinjen.
 
 ---
 
-## AXIOM 3: FLÖDETS DRIFT
+## 3: FLÖDETS DRIFT
 
 Mänsklig handlingskraft vecklas ut genom Flödet: nyfikenhet, skapande och strävan efter mening.
 Bidrag till samhället framträder **från trygghet, inte tvång**.
@@ -253,7 +259,7 @@ Bidrag till samhället framträder **från trygghet, inte tvång**.
 
 ---
 
-## AXIOM 4: SKAPELSE GENOM DESIGN
+## 4: SKAPELSE GENOM DESIGN
 
 Denna arkitektur är ett medvetet mänskligt verk.
 
@@ -263,7 +269,7 @@ Dess existens är bevis på att vi kan utöva suveränitet genom att välja stru
 
 ---
 
-## AXIOM 5: SKULDUPPHÄVANDE
+## 5: SKULDUPPHÄVANDE
 
 **I Flödessystemet:**
 All historisk monetär skuld erkänns som en relik av den gamla strukturen.
