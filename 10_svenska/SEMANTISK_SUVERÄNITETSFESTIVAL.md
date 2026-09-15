@@ -4,6 +4,8 @@
 
 > Har människor börjat anpassa sig till Flow på ett sätt som de inte märker att de gör?
 
+Vi vet inte om den här festivalen kommer att göra Flow friare eller bli ytterligare ett sätt att styra människor. Därför måste även festivalen utsättas för samma undersökning som den utför.
+
 ---
 
 ## 1. Varför finns Semantisk Suveränitetsfestivalen?
