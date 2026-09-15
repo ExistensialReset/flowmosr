@@ -56,7 +56,8 @@ If a system depends on a person to function:
 
 ## 🌊 Important
 
-Facilitation is not influence.
+
+Facilitators hold bounded procedural power. 
 
 It is:
 
