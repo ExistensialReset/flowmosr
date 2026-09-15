@@ -44,7 +44,7 @@ Bridges intuition and articulation.
 
 ---
 
-### [`03_AXIOMS`](./03_AXIOMS.md)
+### [`03_BOUNDARIES`](./03_BOUNDARIES.md)
 The non-negotiable truths.  
 If these break, Flow breaks.
 
@@ -69,7 +69,7 @@ You don’t need to understand everything.
 Start with:
 → Entry  
 → Structure  
-→ Axioms  
+→ Boundaries  
 
 Then move outward.
 
