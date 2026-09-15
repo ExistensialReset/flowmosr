@@ -38,6 +38,10 @@
 
 ---
 
+Ett begrepps funktion får aldrig skyddas på ett sätt som kränker den mänskliga suveränitet som begreppet finns till för att skydda.
+
+---
+
 ## Inledning
 
 Ord är infrastruktur.
