@@ -1123,6 +1123,10 @@ You create the conditions for youth to:
 
 ---
 
+This is not merely a Flow role. It interfaces with professions, law, medicine, child protection and external institutions.
+
+---
+
 ## PURPOSE
 
 **Child Witness Specialists** are trauma-informed professionals who support children through the most difficult justice processes in Flow.
