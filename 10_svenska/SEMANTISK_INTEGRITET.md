@@ -40,6 +40,8 @@
 
 Ett begrepps funktion får aldrig skyddas på ett sätt som kränker den mänskliga suveränitet som begreppet finns till för att skydda.
 
+Det måste förbli en process där verklighet, berörda människors erfarenheter, argument, konsekvenser och dokumenterade lärdomar möts.
+
 ---
 
 ## Inledning
