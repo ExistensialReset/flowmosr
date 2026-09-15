@@ -8,6 +8,10 @@ Elinor Frejd, 16 juli 2026
 
 ---
 
+Hur kan människor leva, skapa, lära, fatta beslut och hantera konflikt tillsammans utan att själva infrastrukturen för samarbete producerar beroende, tvång eller permanent makt?
+
+---
+
 ## Innehåll
 
 1. [Den första principen: Deltagande](#i-den-första-principen-deltagande)
