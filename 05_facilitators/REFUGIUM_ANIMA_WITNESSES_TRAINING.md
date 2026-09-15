@@ -173,7 +173,7 @@ Person screams in Impact Room for 20 minutes, then sits quietly.
 - Posture (collapsed, rigid, open)
 
 **Why:**
-Bodies tell truth before words do.
+Body = observation / signal / additional information. 
 
 **Use this to:**
 - Assess safety (is this person in danger?)
