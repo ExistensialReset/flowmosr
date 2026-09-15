@@ -9,7 +9,9 @@ En specifik funktion kan kräva att vissa observerbara uppgifter kan utföras p�
 
 **Människor får vara värdefulla. Funktioner får inte bli personägda.**
 
-Alla roller, smått som stort, roteras i gruppen, på exempelvis halvår eller helårssbasis. 
+Alla roller, smått som stort, roteras i gruppen, på exempelvis halvår eller helårssbasis.
+
+**Ingen människa ska behöva vara permanent nödvändig för att systemet ska fortsätta fungera.** 
 
 ---
 
