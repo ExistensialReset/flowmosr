@@ -8,6 +8,8 @@ Vi vet inte om den här festivalen kommer att göra Flow friare eller bli ytterl
 
 Om du upptäcker att vi har fel, behöver du inte först ha rätt för att få säga det.
 
+> Vi vet inte ens om vårt sätt att skydda Flow är ett nytt sätt att kontrollera människor.
+
 ---
 
 ## 1. Varför finns Semantisk Suveränitetsfestivalen?
