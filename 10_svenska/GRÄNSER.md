@@ -1,5 +1,7 @@
 # GRÄNSER.md
 
+GRÄNSER.md är Flödets konstitutionella axiomlager. Övriga dokument får inte skapa nya axiom genom att kalla något ”axiom” i annan mening.
+
 Protokoll är den nuvarande generationens bästa försök. Nästa generation har rätt och ansvar att förbättra dem, så länge GRÄNSER respekteras.
 
 Ingen bestämmer över framtiden. Varje nod bestämmer över sina protokoll inom axiomens ramar.
