@@ -94,7 +94,7 @@ Facilitators:
 **Commitment:** Willing to complete full training (40-60 hours initial + ongoing)
 
 **Health:** Physically and mentally capable of:
-- Walking/traveling for extended periods
+- Capable of fulfilling the required safety functions, with appropriate accommodations and team support. 
 - Handling emergency situations
 - Maintaining emotional regulation under stress
 
@@ -102,7 +102,6 @@ Facilitators:
 - Child abuse or neglect
 - Violence or predatory behavior
 - Substance abuse affecting judgment
-- Serious untreated mental health conditions
 
 **Accessibility note:** Disabled adults CAN be facilitators if they can fulfill safety responsibilities with accommodations.
 
