@@ -1,6 +1,6 @@
 # JORDEN_VÅR_MODER.md
 
-**Status:** Primärt Axiom för Planetär Resonans  
+**Status:** Planetär princip / ekologiskt förklarings- och handlingslager 
 **Kärnprincip:** Under kapitalismen/Mammon "förvaltas" inte Jorden—hon förtärs. Vi väljer att vörda henne som en levande kropp med ändliga gränser.
 
 ---
@@ -29,7 +29,7 @@ Vi erkänner att Jordens kropp består av sammankopplade system som inte kan utv
 
 ---
 
-## 3. Axiom: Geologisk Intelligens (GIP)
+## 3. Geologisk Intelligens (GIP)
 Planetära system är långsamma, cykliska system. Varje mänsklig aktivitet måste respektera takten i Jordens egen regeneration.
 
 **Den Heliga Olikheten:** 
