@@ -1,6 +1,8 @@
 # SEMANTISK SUVERÄNITETSFESTIVALEN
 
-### En återkommande fest för att undersöka hur våra ord, idéer och strukturer faktiskt fungerar
+### En återkommande fest för att undersöka hur våra ord, idéer och strukturer faktiskt fungerar. 
+
+> Har människor börjat anpassa sig till Flow på ett sätt som de inte märker att de gör?
 
 ---
 
