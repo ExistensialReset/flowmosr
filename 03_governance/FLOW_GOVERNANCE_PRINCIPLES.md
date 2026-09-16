@@ -52,7 +52,7 @@ Governance is a structure through which people can coordinate while retaining th
 
 Therefore governance must remain compatible with:
 
-- **GRÄNSER**
+- **BOUNDARIES**
 - **Baseline protection**
 - **non-coercion**
 - **cognitive ownership**
