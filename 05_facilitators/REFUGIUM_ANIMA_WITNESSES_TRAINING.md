@@ -193,7 +193,7 @@ Body = observation / signal / additional information.
 
 ## III. CHILD-SPECIFIC TRAINING
 
-### ADDITIONAL REQUIREMENTS FOR CHILD WITNESSES
+### ADDITIONAL REQUIREMENTS FOR CHILD REFUGIUM WITNESSES
 
 **Minimum:** 80 hours beyond base Witness training
 
