@@ -57,6 +57,8 @@ Reading when someone is dysregulated (fight/flight/freeze/fawn).
 - Offer water, movement, bathroom break
 - Do NOT push through dysregulation. 
 
+Dysregulation can affect attention, memory, communication and capacity to participate safely.
+
 ---
 
 ### 3. MANIPULATION RECOGNITION
