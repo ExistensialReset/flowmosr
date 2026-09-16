@@ -1121,7 +1121,7 @@ The distinction is:
 
 ### Constitutional boundaries
 
-Defined by **GRÄNSER** and other higher-order structural constraints.
+Defined by **BOUNDARIES** and other higher-order structural constraints.
 
 ### Adaptive protocols
 
