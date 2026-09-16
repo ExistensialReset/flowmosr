@@ -49,6 +49,7 @@ This protocol establishes operational rules and safeguards for handling reports 
 
 ## 4. Victim Veto
 
+The affected person's refusal of voluntary contact or reconciliation must be respected.
 - **Core principle:** The victim's veto over re-entry or contact petitions is decisive.  
 - **Extraordinary circumstances for panel consideration** include:  
   - Newly discovered forensic evidence  
