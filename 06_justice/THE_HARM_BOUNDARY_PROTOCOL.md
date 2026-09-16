@@ -2,7 +2,7 @@
 
 ## Purpose
 This protocol establishes operational rules and safeguards for handling reports of harm, ensuring **victim safety** while maintaining **due process** for the alleged perpetrator.  
-**Guiding principle:** **The victim never moves; the perpetrator always does.**  
+**Guiding principle:** **Do not make the harmed person carry the practical burden of the harm unless necessary for their safety or freely chosen by them.**  
 
 **Scope:** Applies to all Unforgivable Harm incidents, including but not limited to: severe physical assault, sexual violence, weapon use, and threats of life‑endangering harm.  
 
