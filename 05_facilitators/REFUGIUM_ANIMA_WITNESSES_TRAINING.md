@@ -36,7 +36,7 @@ You are here to:
 
 ### THE WITNESS PRINCIPLE
 
-**"Your will is the only law."**
+**Personhood and autonomy are primary within the constitutional boundaries of Flow. **
 
 The person in Refugium decides:
 - Whether to speak or be silent
