@@ -8,7 +8,8 @@
 
 ## 1. Principles
 * **Highest Priority:** Unforgivable harm always supersedes other reports (infrastructure, accessibility, social).
-* **Victim-Centric:** The victim never moves; the perpetrator must be isolated and investigated.
+* **Victim-Centric**
+Do not make the harmed person carry the practical burden of the harm unless necessary for their safety or freely chosen by them.
 * **Immediate Escalation:** All cases enter critical workflow immediately, bypassing normal triage.
 * **LOTUS Oversight:** Escalation to cross-node LOTUS panel for verification and decision.
 * **Privacy & Optional Anonymity:** Victim may remain anonymous; all data encrypted in transit and at rest.
