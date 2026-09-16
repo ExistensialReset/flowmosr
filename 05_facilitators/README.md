@@ -8,6 +8,8 @@ Not authorities.
 
 But **temporary holders of process and safety**.
 
+Documentation is governance infrastructure. It must be minimal, purpose-bound, transparent in scope, access-limited, contestable and subject to expiry where appropriate.
+
 ---
 
 ## 🧭 What this is
