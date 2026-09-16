@@ -34,6 +34,8 @@ If a system depends on a person to function:
 → It is not stable  
 → It must be redesigned  
 
+Role safety should be assessed by relevant present capacity and behavior, not by diagnostic category.
+
 ---
 
 ## 🔄 Role characteristics
