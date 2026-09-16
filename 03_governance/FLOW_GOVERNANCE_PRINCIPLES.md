@@ -3,7 +3,7 @@
 **Version:** 2.0  
 **Status:** TIER 1 GOVERNANCE PRINCIPLES  
 **Repository Location:** `/03_governance/FLOW_GOVERNANCE_PRINCIPLES.md`  
-**Authors:** Elinor Frejd & Claude  
+**Authors:** Elinor Frejd   
 **Based on:** STRUCTURAL_INVARIANTS.md, GRÄNSER.md, FLOW_CORE_INVARIANTS_EXTENDED.md, FLOW_ROLE_ROTATION_PRINCIPLE.md, LOTUS_GOVERNANCE_PROTOCOL.md, POWER_AND_ENFORCEMENT.md  
 **Date:** September 2026
 
