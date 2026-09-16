@@ -59,6 +59,8 @@ Reading when someone is dysregulated (fight/flight/freeze/fawn).
 
 Dysregulation can affect attention, memory, communication and capacity to participate safely.
 
+Regulation may support attention, communication, reflection and participation
+
 ---
 
 ### 3. MANIPULATION RECOGNITION
