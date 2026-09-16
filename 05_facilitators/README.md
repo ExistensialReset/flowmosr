@@ -4,7 +4,9 @@
 This folder defines the role of facilitators in Flow.
 
 Not leaders.  
-Not authorities.  
+Not authorities. 
+
+They do not hold personal authority. 
 
 But **temporary holders of process and safety**.
 
