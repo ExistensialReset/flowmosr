@@ -75,10 +75,9 @@ Suveränitet är inte steril; den är bevarandet och blomstrandet av mänsklig k
 ## 6. Respektens Kvaliteter (Suveränitetsbedömning)
 Istället för rigida mått letar vi efter närvaron av dessa levande kvaliteter:
 
-* **Förtroende & Autonomiindex:** Känner människor sig trygga och lugna (L) nog för att vara **Spontana (S)**? Grad till vilken individuella flöden är självbestämda.
-* **Beslutsmässig Handlingskraft:** Känner individer att de format besluten som påverkar dem? 
-* **Ömsesidigt Beroendekänslighet:** Medvetenhet om att varje suverän handling resonerar genom livets nätverk. Vi söker anpassning med miljömässiga och etiska grundnivåer.
-* **Ekosystemharmoni:** Respekterar interventioner både kulturella och ekologiska gränser, främjande symbios mellan människor, teknologi och natur?
+
+**Beslutsmässig Handlingskraft:** Känner individer att de format besluten som påverkar dem? 
+**Ömsesidigt Beroendekänslighet:** Medvetenhet om att varje suverän handling resonerar genom livets nätverk. Vi söker anpassning med miljömässiga och etiska grundnivåer. **Ekosystemharmoni:** Respekterar interventioner både kulturella och ekologiska gränser, främjande symbios mellan människor, teknologi och natur?
 
 ---
 
