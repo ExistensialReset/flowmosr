@@ -9,7 +9,7 @@ En specifik funktion kan kräva att vissa observerbara uppgifter kan utföras p�
 
 **Människor får vara värdefulla. Funktioner får inte bli personägda.**
 
-Alla roller, smått som stort, roteras i gruppen, på exempelvis halvår eller helårssbasis.
+Alla roller, smått som stort, roteras i gruppen, 9 månader är maxlängd på ämbetsinnehavet, sedan har man två månaders uppehåll från just den rollen. Man kan dock under de två månaderna inneha andra roller. 
 
 **Ingen människa ska behöva vara permanent nödvändig för att systemet ska fortsätta fungera.** 
 
