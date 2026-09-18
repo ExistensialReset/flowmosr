@@ -22,7 +22,7 @@ Flödet börjar smått. Det kräver ingen ledare, ingen medlemsavgift och inga f
 2. **Möts regelbundet** – en gång i veckan är en bra rytm.
 3. **Läs och reflektera** – gå igenom dessa protokoll tillsammans.
 4. **Prova i liten skala** – börja med ett protokoll i taget.
-5. **Anpassa lokalt** – men ändra inte kärnprinciperna.
+5. **Anpassa lokalt** – men ändra inte Gränser.
 6. **Inga ledare** – rotera roller och ansvar.
 
 **Om konflikt uppstår:** Pausa, andas, återvänd till protokollen. Om konflikten kvarstår, förgrena fredligt – dela upp i separata grupper.
