@@ -670,8 +670,6 @@ Du tar emot Baslinjen oavsett din ekonomiska historia. Ingen kommer att fråga v
 
 Det gamla skuldsystemet förlorar sin makt – inte genom direkt protest, utan genom strukturell irrelevans.
 
-**Kritisk reserv.** För att garantera stabilitet upprätthåller Flow/M-OS-R en buffert av logistiska resurser och energi motsvarande minst 30% av sitt årliga Baslinje-behov.
-
 Detta är den fysiska garantin för att Baslinjen aldrig är en from förhoppning utan en realitet. R – Resiliens – på systemnivå.
 
 **Tolkningsprotokoll.** Detta ramverk, Gudomlig v17.3, är ingen dogm. Olika människor kommer att höra olika toner i det. När tolkningar krockar använder sig Flow/M-OS-R-cirklar av samma principer som för andra typer av diskussioner eller mänskliga mätningar: respekt, frivillighet, mönstersökning över tid, och principen att ingen enskild röst äger hela kartan. Som alltid, Σ – Spjuvern – kan yttra sig genom oväntade perspektiv.
@@ -877,7 +875,6 @@ Omstrukturerad för klarhet; epistemisk positionering klargjord.
 
 ---
 
-*Mätprotokoll, epistemiska begränsningar, operativa definitioner: /annex*
 *Praktisk implementering: /guides*
 *Grund: /core och /identity*
 
