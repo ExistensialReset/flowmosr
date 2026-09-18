@@ -10,12 +10,10 @@
 
 ## HUR MAN ANVÄNDER DETTA DOKUMENT
 
-- Läs invarianter först → definierar vad som inte kan brytas
-- Läs spiralfaser → definierar hur Flödet växer
-- Läs misslyckanden → definierar vad man ska bevaka
-- Använd anpassningsriktlinjer → tillämpa lokalt
-
-Detta dokument räcker för att påbörja implementering.
+- Läs invarianter först → definierar vad som inte kan brytas. 
+- Läs spiralfaser → definierar hur Flödet växer. 
+- Läs misslyckanden → definierar vad man ska bevaka. 
+- Använd anpassningsriktlinjer → tillämpa lokalt. 
 
 ---
 
@@ -62,11 +60,11 @@ FLÖDET måste förutse och anpassa sig till **alla politiska system**:
 
 FLÖDET expanderar och konsolideras via **spiralloopar**:
 
-1. **Mikrocirkel-Initiering (0–2 år):** Små grupper (3–12 deltagare) testar resursdelning, konfliktprotokoll och förtroendemekanismer.  
-2. **Nodstabilisering (2–5 år):** Medelstora noder (20–60 deltagare) implementerar styrning, lagefterlevnad och redundans.  
-3. **Nodreplikering (5–10 år):** Oberoende noder duplicerar protokoll autonomt. 
-4. **Nätverkad Federation (10–20 år):** Regionala nätverk koordinerar resurser och kunskap utan central auktoritet.  
-5. **Kulturell Adoption (20+ år):** Protokoll diffunderar globalt, oberoende av grundare, och anpassar sig till lokala politiska verkligheter.  
+1. **Mikrocirkel-Initiering:** Små grupper (3–12 deltagare) testar resursdelning, konfliktprotokoll och förtroendemekanismer.  
+2. **Nodstabilisering:** Medelstora noder (20–60 deltagare) implementerar styrning, lagefterlevnad och redundans.  
+3. **Nodreplikering:** Oberoende noder duplicerar protokoll autonomt. 
+4. **Nätverkad Federation:** Regionala nätverk koordinerar resurser och kunskap utan central auktoritet.  
+5. **Kulturell Adoption:** Protokoll diffunderar globalt, oberoende av grundare, och anpassar sig till lokala politiska verkligheter.  
 
 **Kärnregel:** Ingen fas hoppas över; expansion sker endast efter att stabilitet och dokumentation validerats.  
 
@@ -101,8 +99,7 @@ FLÖDET expanderar och konsolideras via **spiralloopar**:
 FLÖDET är robust endast om potentiella misslyckanden förstås:
 
 - **Grundarberoende:** Begränsa med fullständig rolldokumentation och delegering.  
-- **Kulturell Drift:** Kärnprinciper är abstrakta; lokal anpassning är tillåten utan att bryta invarianter.  
-- **Reglering:** Lagefterlevnad uppnås utan central auktoritet.  
+- **Kulturell Drift:** Kärnprinciper är abstrakta; lokal anpassning är tillåten utan att bryta Gränser.   
 - **Resursolikhet:** Transparens- och solidaritetsmekanismer förhindrar dominanshierarkier.  
 - **Synlighetsrisk i Auktoritära Stater:** Verksamhet förblir diskret; inramning undviker ideologisk exponering.  
 
@@ -110,12 +107,12 @@ FLÖDET är robust endast om potentiella misslyckanden förstås:
 
 ## 7. ANPASSNINGSRIKTLINJER
 
-**Kärnprinciper är oföränderliga.**  
+**Axiomen i Gränser är oföränderliga.**  
 **Allt annat kan anpassas:**
 - Styrningsstrukturer, kommunikationsmetoder, resursredovisning, infrastrukturlayouter, professionella integrationer och tidslinjer.  
 
 **Valideringsfrågor för Lokal Anpassning:**
-1. Är kärnprinciperna intakta?  
+1. Är Axiomen intakta?  
 2. Är baslinjen säkerställd?  
 3. Kan deltagare lämna fritt?  
 4. Finns det inte något permanent ledarskap?  
