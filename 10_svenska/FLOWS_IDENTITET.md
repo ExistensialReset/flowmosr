@@ -334,6 +334,8 @@ Att lämna är inte automatiskt ett misslyckande.
 
 Det kan vara en del av hur levande system förändras.
 
+Friheten att lämna är inte samma sak som att den som är beroende av andra lämnas ensam.
+
 ---
 
 # III. INKÄNNANDE
@@ -600,7 +602,13 @@ Men verkligheten är större än dokumenten.
 
 Därför måste Flow kunna upptäcka när Flow har fel.
 
-En människa som säger:
+Det finns bara ett protokoll i hela Flow-systemet som inte bör ändras:
+
+GRÄNSER skyddar människan från Flow.
+
+inte bara Flow från människan.
+
+Men en människa som säger:
 
 > ”Det här fungerar inte.”
 
@@ -692,6 +700,8 @@ Det viktiga är inte att allt alltid ska vara nytt.
 
 Det viktiga är att det som inte längre fungerar inte ska behöva fortsätta styra bara för att det en gång fungerade.
 
+Att få stanna kvar och säga ifrån är en del av friheten.
+
 ---
 
 # IX. FLOW OCH AI
@@ -710,11 +720,11 @@ AI kan hjälpa människor att:
 - undersöka scenarier
 - göra information mer tillgänglig.
 
-AI kan vara en allierad.
-
 AI kan vara en spegel.
 
-AI kan vara ett kreativt medvetande bredvid människor.
+AI kan ifrågasätta och utmana. 
+
+AI kan vara en kreativ allierad bredvid människor.
 
 Men AI är inte suverän.
 
