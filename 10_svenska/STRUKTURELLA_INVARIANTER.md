@@ -15,7 +15,7 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
    - Dokumentation måste helst delas och tillåta varje utomstående att driva cirklar och Noder självständigt.
    - Framgång mäts genom systemets fortbestånd **utan** grundaringripande.
 
-2. **Decentralisering**
+2. **Decentraliseringo**
    - Ingen central auktoritet, globalt huvudkontor eller styrande råd.
    - Beslut defaultar till protokoll, inte individuellt utrymme.
    - Lokala Noder får koordinera, men koordinering är frivillig och icke-bindande.
@@ -35,7 +35,7 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
    - Konfliktlösningsmetoder dokumenteras och praktiseras.
    - Olöst konflikt utlöser paus/stabiliseringsprotokoll eller förgrening.
 
-6. **Grundnivåsäkerhet/Baslinjesäkerhet**
+6. **Baslinjesäkerhet**
    - Deltagarnas grundläggande materiella och sociala behov måste mötas.
    - Resursdelning, återhämtning och regenerationsmått upprätthålls.
    - Överlevnadsbehov har företräde över expansion eller experiment.
@@ -47,18 +47,13 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
 
 8. **Anpassningsförmåga**
    - Noder måste kunna överleva miljömässiga, politiska och kulturella förändringar.
-   - Protokoll måste tillåta modifieringar utan att bryta invarianter.
-   - Lokal anpassning uppmuntras, förutsatt att kärnprinciper är intakta.
+   - Protokoll måste tillåta modifieringar utan att bryta Gränser.
+   - Lokal anpassning uppmuntras, förutsatt att Gränser är intakta.
 
 9. **Låg Synlighet i Högriskkontexte**
    - När exponering hotar överlevnad minskar Noder sin offentliga profil.
    - Varumärkesbyggande, medianärvaro och publik erkännande är valfria och sekundära.
    - Överlevnad trumfar erkännande.
-
-10. **Självinneslutning**
-    - Noder är motståndskraftiga mot externa chocker.
-    - Beroende av externt kapital, centraliserad infrastruktur eller politisk välvilja minimeras.
-    - Protokoll säkerställer kontinuitet även under ekonomisk eller juridisk stress.
 
 ---
 
@@ -81,7 +76,8 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
      3. Vad krävde central intervention?
      4. Vad kan protokolliseras?
      5. Vad måste förbli adaptivt?
-   - Endast efter lyckad utvärdering kan skalning eller replikering ske.
+   
+- Endast efter lyckad utvärdering kan skalning eller replikering ske.
 
 4. **Paus & Stabiliseringsprotokoll**
    - När stress överstiger kapacitet (konflikt, utbrändhet, juridisk risk):
@@ -91,7 +87,7 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
 
 5. **Nod-kopplad Kunskapsöverföring**
    - Internod-dokumentation och lärandemekanismer.
-   - Säkerställer replikering utan grundare eller central auktoritet.
+   - Säkerställer replikering utan grundare, cirkelgrundare eller central auktoritet.
    - Bibehåller mönsterintegritet över kulturella och politiska sammanhang.
 
 ---
@@ -116,7 +112,7 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
 - Konfliktlösningens tidslinjer
 - Rollredundansnivåer
 - Energi/resurshållbarhet
-- Grundnivå/Baslinjesäkerhetsuppfyllelse
+- Baslinjesäkerhetsuppfyllelse
 - Dokumentationskomplettering
 - Förtroende- och sammanhållningsindikatorer
 
@@ -143,8 +139,8 @@ Att bryta någon av dessa äventyrar systemets livskraft, enligt vad vi tror ida
 
 Flödet är en **levande arkitektur**, inte ett varumärke, ideologi eller organisation.  
 
-Bryta invarianter = Gör systemet är bräckligt.  
-Bevara invarianter = långsiktig, global livskraft.  
+Bryta invarianter = Gör systemet bräckligt.  
+Bevara invarianter = Långsiktig, global livskraft.  
 
 ---
 
