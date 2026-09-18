@@ -21,7 +21,7 @@ Dessa invarianter är härledda från och underställda GRÄNSER.md. De får fö
 ## 3. Icke-Tvång
 - Deltagande är frivilligt; ingen kan tvingas.  
 - Alla handlingar respekterar autonomi och samtycke.  
-- Nödsituation **åsidosätter inte** samtycke; pausa eller förgrena istället.  
+  
 
 ## 4. Roterande Auktoritet (LOTUS)
 - Formell auktoritet och beslutsfattarroller **roterar regelbundet**.  
@@ -39,7 +39,7 @@ Dessa invarianter är härledda från och underställda GRÄNSER.md. De får fö
 
 ## 7. LxSxI: Lugn × Spontanitet × Inkännande
 - Liv och interaktioner vägleds av denna princip.  
-- L (Lugn) — framväxande lugn, väsendets grundnivå  
+- L (Lugn) — framväxande lugn, väsendets grund. 
 - S (Spontanitet) — kreativ och anpassningsbar handling  
 - I (Inkännande) — empati, resonans, delad omsorg  
 - Säkerställer välbefinnande, kreativitet och medvetet samarbete över alla Flödesoperationer.  
