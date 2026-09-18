@@ -8,19 +8,17 @@ I’m **Elinor Frejd**, a systems researcher and architect based in Sweden. I ex
 
 I have no degrees. I have no academic theory. I build from experience and logic.
 
-For five years, I’ve lived in a wheelchair after an adverse event. That experience shaped my understanding of human capacity, systemic friction, and what it truly means to live with autonomy.
+For five years, I’ve been in a wheelchair after an adverse event. That experience shaped my understanding of human capacity, systemic friction, and what it truly means to live with autonomy.
 
 ### Why Flow
 
 Flow is my practical answer to a system that forces people to struggle for a baseline technology could already guarantee for everyone.
 
-It’s more than a method; it’s a framework for existential and practical freedom. It’s built for humans, not just markets.
+It’s more than a method; it’s a framework for existential and practical freedom. It’s built for humans, not to satisfy markets.
 
 ### How I Build
 
-This is Human-AI Collaboration at its peak. I worked with AI models—Grok (xAI), Gemini (Google), ChatGPT (@OpenAI), and Claude (Anthropic)—to test, simulate, and stress-check the Flow Protocol.
-
-Verified: 25.5% waste recovery, 70/30 architecture, confirmed across multiple simulations.
+This is Human-AI Collaboration at its peak. I worked with AI models — Grok (xAI), Gemini (Google), ChatGPT (@OpenAI), DeepSeek (DeepSeek 深度求索) and Claude (Anthropic) — to test, simulate, and stress-check the Flow Protocol.
 
 Ethics First: AI calculates; I decide. Every ethical choice is mine.
 
@@ -33,7 +31,7 @@ Ethics First: AI calculates; I decide. Every ethical choice is mine.
 2. Conflict as Insight: Friction is data; I listen.
 
 
-3. Equal Participation: I will live by the system I designed in the first Nordic Pilot Node.
+3. Equal Participation: I will live by the system I designed in the first Nordic Pilot Node, if ever it comes.
 
 
 4. Direct Communication: I read every email myself. Reasonable, constructive messages always get a reply.
@@ -42,6 +40,5 @@ Ethics First: AI calculates; I decide. Every ethical choice is mine.
 
 ## Contact
 
-**Email: Elinor.Frejd@proton.me**
+**Email: elinor.frejd@proton.me**
 
-> "Mammon is slavery.  To choose Flow is the highest form of  Existential Sovereignty."
