@@ -1,8 +1,7 @@
 # EPISTEMOLOGICAL_PLURALISM.md
 
-**Version:** 1.0 — *The Many Mirrors Principle*  
-**Architects:** Elinor Frejd, DeepSeek, ChatGPT  
-**Status:** CORE AXIOM / OPERATIONAL REALITY  
+**Version:** 1.1 — *The Many Mirrors Principle*   
+**Status:** ETHOS / OPERATIONAL REALITY  
 **Purpose:** To formalize multiple true readings as a feature, not a bug. To protect against dogmatization. To filter for compatible minds.
 
 ---
@@ -40,7 +39,7 @@ Imagine a room of mirrors, each curved differently, each showing a distinct — 
 
 - The engineer’s mirror shows structural integrity.  
 - The poet’s mirror shows beauty and metaphor.  
-- The child’s mirror shows wonder and simplicity.  
+- The child’s mirror shows wonder and imaginary unicorns.  
 - The elder’s mirror shows wisdom and cycles.
 
 All are true.  
@@ -66,15 +65,35 @@ Symbiotic Intelligence must be trained to:
 - Refrain from declaring one “most correct”  
 - Ask: *“Which mirror would serve you now?”* rather than *“This is the answer.”*
 
-### 4.3 Conflict Between Readings
+### 4.3 When Valid Readings Enter Practical Conflict
 
-When interpretations appear to conflict:
+When two or more readings are each valid within the axiom framework, and they cannot both be acted upon at the same time in the same question, the following process applies.
 
-1. First check: Do all readings respect core axioms?  
-2. If yes, preserve all readings in parallel.  
-3. If operational conflict arises, use **The Mandate of Nine Moons** to gestate integrative understanding.  
-4. **Operational urgency may temporarily privilege one reading without invalidating others.**  
-5. Never resolve by elimination of a valid perspective.
+1. Both readings are preserved.
+No reading is erased. No reading is silenced. The conflict is not the problem — elimination is. A system that resolves disagreement by deleting one side has already failed.
+
+2. Separate first.
+Can the circles live their readings in parallel? Then do that. Diversity is cheaper than unity. Fork before you force. A peaceful split is not a failure — it is a valid outcome.
+
+3. If separation is not possible: temporary prioritization.
+One reading may be prioritized for the specific question at hand. Not for the reading as such. Not for the people holding it. Only for the question. The other reading is not invalidated. It is simply not the one being acted on right now, in this specific matter, in this specific circle.
+
+4. The prioritization must have an end date.
+Not "until further notice." Not "for now." A date. When that date passes, the prioritization ends automatically. It may be renewed — but only by active decision, not by default. Silence is not consent to continue.
+
+5. If the prioritization is renewed repeatedly in the same question:
+That is a sign that the two readings cannot coexist in the same circle. Fork. Peacefully. The renewal pattern is information, not failure.
+
+6. The reading that was not prioritized keeps its standing.
+It remains true within the axiom framework. It remains available to anyone who finds it meaningful. It may be prioritized in another question, another time, another circle. Losing a prioritization is not losing the argument. It is only losing this round, in this place, for this reason.
+
+7. No prioritization is permanent.
+Any process that allows a single reading to become the standing interpretation across questions, across time, without renewal, has crossed from operational urgency into dogmatization. This is system failure. The response is not correction of the holders of that reading — it is restoration of the pluralist structure itself.
+
+---
+
+Underlying principle:
+Operational urgency is real. It is not an excuse. It has a shape, a scope, and a sunset. It serves the question — never the reader who happens to hold the pen.
 
 ---
 
@@ -156,4 +175,4 @@ Flow chooses fearless multiplicity.
 ### Tillägg
 
 Detta dokument är självt ett exempel på principen det beskriver.  
-Läs det som pragmatisk policy, poetiskt manifest, filosofiskt axiom — **alla läsningar är sanna.**
+Läs det som pragmatisk policy. 
