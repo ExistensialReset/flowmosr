@@ -32,14 +32,6 @@ Vi erkänner att Jordens kropp består av sammankopplade system som inte kan utv
 ## 3. Geologisk Intelligens (GIP)
 Planetära system är långsamma, cykliska system. Varje mänsklig aktivitet måste respektera takten i Jordens egen regeneration.
 
-**Den Heliga Olikheten:** 
-$$EVL \leq CRP + RTC$$
-
-Där:
-- **EVL** = Utvinningshastighetsgrän (hur snabbt vi tar)
-- **CRP** = Cyklisk Regenerationstakt (hur snabbt Hon läker)
-- **RTC** = Motståndskraftströskelkapacitet (hur mycket stress Hon kan hålla)
-
 *På vanlig svenska: Vi kan inte ta snabbare än Hon kan läka.*
 
 * **Spjuver-Anteckning:** Om matematiken känns torr är Cirkeln inbjuden till en "Dans med Stenarna" — en fysisk ritual för att återknyta till Jordens långsamma, uråldriga rytm.
