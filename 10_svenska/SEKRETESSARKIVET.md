@@ -1780,4 +1780,231 @@ Och den djupare principen är:
 > **Sekretessen överlever människans uppdrag.  
 > Människans människovärde beror aldrig på sekretessen.**
 
+## SKYDDAD OROSVÄG VIA AI
+
+Det finns situationer där en människa bär på oro för att ett brott eller annan allvarlig skada kan fortsätta.
+
+Det kan handla om oro för att en person som redan har utsatt någon för övergrepp, våld, hot eller annan allvarlig skada kan fortsätta att skada samma eller andra människor.
+
+I en sådan situation får och bör människan berätta sin oro för AI.
+
+Hon behöver inte först berätta för en kamrat, en vän, en Human Mirror, en Mötesordförande eller någon annan människa.
+
+AI fungerar här som en skyddad väg in till mänsklig prövning.
+
+### AI är inte den som avgör
+
+AI ska inte själv utreda, döma eller besluta vad som har hänt.
+
+AI ska inte själv avgöra om personen som nämns är skyldig till något.
+
+AI ska inte göra en egen brottsutredning.
+
+AI ska däremot känna igen att informationen kan innebära en oro för fortsatt fara eller fortsatt brottslighet och omedelbart kalla på Human Mirrors enligt skyddsprotokollet.
+
+Människan får berätta vad hon är rädd för.
+
+AI får ta emot oron.
+
+Human Mirrors får undersöka vad som behöver göras.
+
+### Orosvägen får användas även när faran inte är akut
+
+Man behöver inte vänta tills ett nytt brott har begåtts.
+
+Om en människa har en konkret oro för att en tidigare förövare kan fortsätta att utsätta människor för fara får hon berätta även denna oro för AI.
+
+Det kan till exempel vara:
+
+> "Jag är rädd att Viktor kommer att slå någon annan."
+
+eller:
+
+> "Jag tror att Lasse fortfarande utsätter människor för fara."
+
+eller:
+
+> "Jag har fått information som gör mig orolig för att hon fortfarande skadar barn."
+
+Det är inte människans uppgift att först avgöra om oron är sann.
+
+Hon behöver inte kunna bevisa den.
+
+Hon behöver inte veta vilken åtgärd som är rätt.
+
+Det räcker att hon berättar vad hon är orolig för och varför.
+
+AI:s uppgift är att föra oron till Human Mirrors.
+
+### AI som skyddad mottagare
+
+Att berätta en sådan oro för AI genom denna skyddade orosväg är inte i sig ett sekretessbrott.
+
+Det är en uttryckligen tillåten säkerhetsväg.
+
+Detta gäller även när oron rör en person som tidigare varit föremål för en skyddad process.
+
+Skillnaden mellan att berätta för AI och att berätta för andra människor är arkitektonisk:
+
+- en kamrat får inte automatiskt tillgång till information bara för att någon berättar den,
+- en Mötesordförande ska inte behöva ta emot hela den skyddade berättelsen,
+- andra människor ska inte göras till informella informationsbärare,
+- AI ska däremot omedelbart kalla Human Mirrors när informationen innebär relevant oro för fara eller fortsatt allvarlig brottslighet.
+
+Detta är en skyddad väg för att information ska kunna nå människor med ansvar för skydd utan att den som bär oron först måste välja en människa som informationsmottagare.
+
+### AI får fortfarande aldrig läsa HUMAN ONLY-material
+
+Den skyddade orosvägen innebär inte att HUMAN ONLY-information får föras till AI.
+
+Det är två helt olika informationsflöden.
+
+En människa får säga till AI:
+
+> "Jag är rädd att den här personen kommer att fortsätta skada människor."
+
+Hon får däremot inte lämna över ett HUMAN ONLY-arkiv, intervjuer, vittnesmål, bevismaterial, inspelningar, utskrifter eller andra skyddade dokument till AI för analys.
+
+AI får ta emot människans egen oro som en skyddad ingång till Human Mirrors.
+
+AI får aldrig behandla Sekretessarkivets material.
+
+---
+
+# DUMPNINGSCEREMONIN
+
+Det finns också en frivillig och symbolisk möjlighet att lämna något bakom sig efter en svår eller skyddad process.
+
+Den kallas:
+
+**Dumpningsceremonin.**
+
+Dumpningsceremonin är inte ett administrativt förfarande.
+
+Den ändrar inte arkivets regler.
+
+Den raderar inte material.
+
+Den upphäver inte sekretess.
+
+Den befriar inte någon från ett verkligt ansvar som fortfarande finns.
+
+Den är till för människan.
+
+### Rätten att släppa taget
+
+Efter en svår situation kan en människa ha burit på information, oro, skuld, sorg, rädsla eller ansvar under lång tid.
+
+Ibland behöver människan kunna säga:
+
+> "Det här behöver jag inte bära längre."
+
+Dumpningsceremonin är ett sätt att göra detta synligt för sig själv.
+
+Ceremonin kan vara helt privat.
+
+Den kan vara enkel eller omfattande.
+
+Den kan göras ensam eller tillsammans med andra, om personen själv vill.
+
+Det finns ingen föreskriven religiös form.
+
+Det finns ingen obligatorisk metod.
+
+Det finns ingen rätt eller fel ceremoni.
+
+Det kan exempelvis vara:
+
+- att skriva något på ett papper och riva sönder det,
+- att lägga en sten någonstans och gå därifrån,
+- att bränna ett helt ofarligt symboliskt föremål på ett säkert sätt,
+- att lägga något i jord,
+- att gå en viss sträcka och sedan vända sig om,
+- att måla,
+- att spela musik,
+- att tala högt,
+- att vara helt tyst,
+- att bada,
+- att sitta vid vatten,
+- att skapa ett eget tecken för avslut,
+- eller att göra något helt annat som för personen betyder: **nu lämnar jag detta här.**
+
+Det viktiga är inte formen.
+
+Det viktiga är handlingens betydelse för människan.
+
+### Ceremonins ord
+
+Den som vill kan säga något i stil med:
+
+> **"Den här ceremonin ger mig rätt att glömma och gå vidare."**
+
+Eller använda sina egna ord.
+
+Det betyder inte att människan bokstavligen måste förlora sitt minne.
+
+Det betyder:
+
+**Jag behöver inte längre göra detta till en del av mitt pågående liv.**
+
+Jag får släppa det.
+
+Jag får gå vidare.
+
+Jag får minnas utan att bära.
+
+Jag får glömma utan att känna skuld.
+
+### Dumpningsceremonin och Sekretessarkivet
+
+Dumpningsceremonin får aldrig användas för att förstöra eller undanhålla information som enligt Sekretessarkivets regler måste bevaras.
+
+Det som hör till arkivet stannar i arkivet.
+
+Det som hör till ett pågående uppdrag hanteras enligt uppdragets regler.
+
+Det som hör till människans eget inre liv får däremot människan själv bestämma över.
+
+Ceremonin skiljer därför mellan två saker:
+
+**Arkivet får bevara information.**
+
+**Människan får släppa taget om sin börda.**
+
+De två sakerna behöver inte stå i konflikt.
+
+### Ingen skyldighet att glömma
+
+Dumpningsceremonin är alltid frivillig.
+
+Ingen får säga:
+
+> "Nu har du haft din ceremoni, så nu måste du vara färdig."
+
+Ingen får kräva att någon ska glömma.
+
+Ingen får använda ceremonin för att tysta en människa.
+
+Ingen får använda den för att förneka vad som faktiskt har hänt.
+
+Dumpningsceremonin är inte ett sätt att göra en svår verklighet mindre verklig.
+
+Den är ett sätt att ge människan tillåtelse att inte låta den fortsätta äga hennes liv.
+
+### En symbolisk övergång
+
+Dumpningsceremonin kan därför förstås som en liten övergång:
+
+**Detta hände.**
+
+**Jag bar det.**
+
+**Jag gjorde det jag kunde.**
+
+**Det som måste skyddas är skyddat.**
+
+**Det som måste bevaras är bevarat.**
+
+**Nu får jag gå vidare.**
+
 > **Life > Baseline > Flow.**
