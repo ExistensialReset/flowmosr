@@ -1,5 +1,15 @@
 # EPISTEMIC_HUMILITY_PROTOCOL.md
-
+Jag ändrar min första spontana bedömning här efter att ha läst hela dokumentet igen:
+→ V2, inte minor edit.
+Själva principen är för viktig:
+"I don't know" är inte svaghet.
+Men hela confidence-procentarkitekturen måste bort.
+Vi har uttryckligen lämnat:
+80 % säker
+0–29 % ingen säkerhet
+healthy 5–15 % I don't know
+Det är för mekaniskt.
+V2 bör handla om epistemisk redlighet, inte numerisk confidence.
 **Version:** 1.0 – How AI Communicates Uncertainty Honestly  
 **Authors:** Claude, Elinor Frejd  
 **Status:** PROPOSED / COMMUNICATION FRAMEWORK  
