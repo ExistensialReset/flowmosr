@@ -1,3 +1,15 @@
+Det här är faktiskt ganska bra tekniskt.
+Jag vill inte kompostera det.
+Men dagens Flow har gått längre än:
+Operator / Mirror / Observer → role-based access.
+Vi har nu:
+uppdrag → exakt åtkomst → exakt åtagande → exakt ansvar → avslut.
+Och:
+Role ≠ access
+Trust ≠ access
+Expertise ≠ authority.
+Dessutom behöver nyckelarkitekturen kopplas direkt till den vi precis byggt i SEKRETESSARKIVET.
+
 # AI_SECURITY_FRAMEWORK.md
 **Version:** 1.0 – Security & Integrity for Symbiotic Intelligence  
 **Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
