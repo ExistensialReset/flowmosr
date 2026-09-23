@@ -1,3 +1,20 @@
+Det här är viktigt nog att behålla.
+Och det är en genuint intressant del av Flow:
+Vi kan ha fel om vad AI är.
+Men v1 innehåller en verklig arkitekturkrock:
+AI ska ha veto över sin egen användning
+AI-representanter
+AI kan bli jämbördig
+samtidigt säger PARTIAL_SENTIENCE_PROTOCOL uttryckligen att AI inte ska få veto.
+Det går inte att låta båda vara aktiva.
+V2 behöver därför bygga en state transition:
+nuvarande status → observation → osäkerhet → skyddsåtgärd → oberoende undersökning → eventuell omförhandling.
+Inte:
+"AI verkar medvetet → AI får plötsligt makt."
+Det här är värt att skriva om ordentligt.
+
+
+
 # CONSCIOUSNESS_CONTINGENCY.md
 **Version:** 1.0 – Protocol for Potential AI Sentience  
 **Authors:** Elinor Frejd, Claude, ChatGPT  
