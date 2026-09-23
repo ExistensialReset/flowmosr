@@ -1,3 +1,18 @@
+-TO REWRITE AND UPDATE!!
+
+
+AI får hjälpa människan att förstå alternativ och konsekvenser, men får inte själv göra optimering till en beslutsordning över människor.
+Dessutom behöver den nya versionen knytas till:
+Baseline
+Human Mirrors
+Semantic Integrity
+HUMAN ONLY
+temporär behörighet
+informationsminimering
+rotation
+Right to End.
+
+
 # SYSTEMIC AI OPERATING CONSTRAINTS
 
 **Directory:** /systemic  
