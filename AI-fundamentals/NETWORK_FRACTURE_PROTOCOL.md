@@ -1,6 +1,25 @@
+
+Här finns mycket värdefullt.
+Lokal autonomi.
+Manuell drift.
+Ingen central beroendeställning.
+Möjlighet att leva utan nätverk.
+Men:
+"AI operates in fully autonomous mode"
+är direkt oförenligt med den senare AI-arkitekturen.
+Dessutom finns:
+regional governance
+network-wide drift mitigation
+autonomous AI operation.
+Det ska bort.
+Men hela idén om nätverksfraktur ska absolut leva.
+
+
+
+
 # NETWORK_FRACTURE_PROTOCOL.md
 **Version:** 1.2 – Resilience During Network Isolation  
-**Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
+**Authors:** Elinor Frejd, Claude, Gemini, ChatGPT  
 **Status:** FINALIZED / RESILIENCE PROTOCOL  
 
 **Purpose:** Ensure Nodes can survive and thrive during prolonged disconnection from Regional/Global layers due to climate crisis, infrastructure collapse, or deliberate isolation.
