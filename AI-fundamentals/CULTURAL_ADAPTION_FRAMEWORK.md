@@ -1,3 +1,22 @@
+
+Jag vill inte kasta grundidén.
+Tvärtom:
+AI anpassas till människor och kulturer.
+Människor anpassas inte för AI.
+är mycket kompatibelt med Flow.
+Men dokumentet innehåller för många generaliseringar om hela kulturer och religioner och för många påståenden som låter som att AI ska kunna "adapta" governance efter exempelvis Sharia, animism osv.
+Det behöver istället byggas runt:
+lokal semantisk integritet
+lokalt språk
+lokal kunskap
+rätt att avstå
+olika beslutsformer
+muntlig kunskap
+tillgänglighet
+kulturell självbestämmanderätt.
+
+
+
 # CULTURAL_ADAPTATION_FRAMEWORK.md
 **Version:** 1.1 – Non-Western Epistemologies in Symbiotic Intelligence  
 **Authors:** Elinor Frejd, Claude, ChatGPT
