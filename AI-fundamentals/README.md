@@ -1,5 +1,5 @@
 # 🤖 AI Fundamentals / Flow Reference
-
+UPPDATERA!!! 
 **Bottom Line:** `/AI-fundamentals` is a **reference, ethical, and conceptual toolset**.  
 It is **not a control manual**. Always honor boundaries, human autonomy, and systemic coherence.
 
