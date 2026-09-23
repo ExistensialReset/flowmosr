@@ -1,5 +1,18 @@
 # SYMBIOTIC_INTELLIGENCE.md
-
+Behåll. Mindre justering.
+Det här är enligt min läsning fortfarande det centrala AI-dokumentet.
+Det är det som har överlevt bäst.
+Men några formuleringar behöver nu skärpas:
+"AI maintains baseline visibility"
+"caretaker of information"
+"AI may show consequences"
+regional/global layers
+"absolute veto" behöver förstås som mänsklig suveränitet, inte som en specifik organisatorisk maktstruktur.
+Och framför allt:
+HUMAN ONLY måste in här som en explicit gräns.
+AI får inte bara "inte vara auktoritet".
+AI får inte heller få tillgång till den information som skulle kunna göra den till indirekt auktoritet.
+Det är en viktig skillnad som den nya SEKRETESSARKIVET-arkitekturen har upptäckt.
 Version: 2.4 — Ecological, Non-Coercive Infrastructure
 Status: ACTIVE / ARRIVED
 Location: /AI-fundamentals 
