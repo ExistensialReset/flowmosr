@@ -1,5 +1,19 @@
 # HARDWARE_AND_MESH_SOVEREIGNTY.md
-
+Behåll med mindre justeringar.
+Det här har mycket som fortfarande passar:
+fysisk suveränitet
+lokal drift
+repair
+offline
+human mechanical override
+Dark Mode
+ingen remote killswitch.
+Men:
+BLACK / SILENCE = total blackout, no logging
+måste ändras.
+Det kan inte innebära att säkerhets- eller åtkomstloggar försvinner.
+Och "repair history → community value" behöver skiljas från människors förtroendehistorik.
+Men arkitekturen är bra.
 **Version:** 1.1 — The Physical Anchor & Sanctuary  
 **Status:** OPERATIONAL / STABLE  
 **Classification:** PHYSICAL INFRASTRUCTURE  
