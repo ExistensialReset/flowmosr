@@ -223,27 +223,11 @@ Den är inte ett kommando.
 
 LOTUS är inte systemets härskare.
 
-LOTUS är systemets minne och spegel.
+Dokumentationen är systemets kollektiva minne. 
 
-LOTUS uppgift är att:
-
-- samla erfarenheter,
-- identifiera mönster,
-- möjliggöra jämförelse mellan platser,
-- granska förändringar mot axiomen,
-- bevara lärdomar.
+LOTUS är en tillfällig, lottad funktion som i ett specifikt ärende får läsa, pröva och fatta beslut inom sitt mandat.
 
 LOTUS bestämmer inte vad livet ska bli.
-
-LOTUS hjälper livet att minnas vad det har lärt sig.
-
-LOTUS samlar också:
-- misslyckade experiment
-- oväntade konsekvenser
-- lokala variationer
-- varför något fungerade på en plats men inte en annan
-
-Annars finns risken att systemet bara minns framgångar och glömmer kostnader.
 
 ---
 
