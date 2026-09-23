@@ -1,3 +1,18 @@
+Här finns en mycket värdefull idé:
+Observation → Compost → Audit → Integration → Fast
+Den skulle jag absolut inte kasta.
+Men implementationen är för gammal.
+Vi ska bort från:
+säsongstvång
+L×S×I som metric
+"global ethical standards"
+AI:s adaptive memory som om AI själv äger minnet
+90 dagars rollback som universell princip.
+Den nya versionen bör snarare säga:
+förändring → observation → mänsklig granskning → test → beslut → implementering → möjlighet att återgå → avslut.
+Och den måste integreras med rotation och Right to End.
+
+
 # AI_EVOLUTION_CYCLE.md
 **Version:** 1.0 – Evolutionary Cycle for Symbiotic Intelligence  
 **Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
