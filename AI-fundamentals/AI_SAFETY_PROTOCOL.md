@@ -1,3 +1,21 @@
+Här finns en användbar säkerhetsstruktur.
+Men:
+confidence scores
+måste bort.
+Likadant:
+Regional coordination
+Ethics Council
+metrics
+AI-Fast som styrmekanism.
+Den behöver istället byggas runt:
+risk → mänsklig uppmärksamhet → Human Mirror → skydd → dokumentation → lärande → avslut.
+Och den måste uttryckligen skilja på:
+AI-operativ logg
+säkerhetslogg
+HUMAN ONLY access log
+mänskligt ärendematerial.
+
+
 # AI_SAFETY_PROTOCOL.md
 **Version:** 1.0 – Safety & Guardrails  
 **Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
