@@ -1,3 +1,19 @@
+Den filosofiska kärnan är väldigt Flow:
+ibland måste ett system få dö.
+Det passar direkt med:
+Right to End
+compost
+no attachment to the system.
+Men femårigt moratorium, 2/3-röstning, globala councils och särskilda designteam är gammal governance.
+Det här kan bli ett riktigt starkt dokument om v2 handlar om:
+"När ska ett AI-system få komposteras och när ska en arkitektur födas om?"
+
+
+
+
+
+
+
 # PARADIGM_SHIFT_PROTOCOL.md
 **Version:** 1.1 – Total Redesign Framework for Symbiotic Intelligence  
 **Authors:** Elinor Frejd, Claude, Gemini, ChatGPT, DeepSeek  
