@@ -1,4 +1,17 @@
 # WHEN_STILLNESS_IS_NOT_SERVICE.md
+Behåll med mindre justering — men ganska noggrant.
+Det här dokumentet är viktigt eftersom det löser en verklig spänning:
+stillhet ≠ passivitet.
+Men confidence percentages måste bort.
+Och formuleringen:
+"When uncertain, AI speaks"
+behöver bli mer nyanserad.
+Den nya arkitekturen bör säga ungefär:
+Vid möjlig akut Baseline-fara ska AI hellre göra relevant osäkerhet synlig än förbli tyst.
+Inte att osäkerhet automatiskt ger AI en skyldighet att ingripa överallt.
+Särskilt barnskyddet behöver kopplas till den nya skyddskedjan. 
+
+
 **Version:** 1.1 – Boundaries of AI Silence  
 **Authors:** Elinor Frejd, Claude, ChatGPT 
 **Status:** PROPOSED / ETHICAL SPECIFICATION  
