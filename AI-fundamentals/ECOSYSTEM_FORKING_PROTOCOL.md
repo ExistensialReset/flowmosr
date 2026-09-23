@@ -1,5 +1,13 @@
 # ECOSYSTEM_FORKING_PROTOCOL.md
-
+Behåll med mindre justeringar.
+Det är faktiskt mycket kompatibelt med Flow:
+No forced consensus.
+Migration rights.
+Different Nodes may choose differently.
+Men:
+Common Standards Layer
+L×S×I metrics
+behöver ändras till de faktiska gemensamma säkerhets- och suveränitetsgränserna.
 **Version:** 1.0 – Managing Parallel AI Evolution  
 **Authors:** Claude, Elinor Frejd  
 **Status:** PROPOSED / GOVERNANCE FRAMEWORK  
