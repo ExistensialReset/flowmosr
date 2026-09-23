@@ -2,7 +2,7 @@
 
 Welcome, curious explorer! 🌿✨
 This is your guided map to the world of M-OS-R’s systemic ideas. You don’t need to be an engineer or scientist—just follow along and enjoy the journey. Each file below is a “room” you can enter to learn more.
-
+UPPDATERA!! 
 
 ---
 
