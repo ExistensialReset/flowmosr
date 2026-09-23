@@ -1,5 +1,14 @@
 # RIGHT_TO_END_CHECKLIST.md
-
+Behåll. Mindre justering.
+Det här är mycket starkt.
+Det behöver framför allt kopplas tydligare till:
+AI-fundamentals nya arkitektur
+Right to End
+informationslivscykeln
+att individdata och skyddat material hanteras enligt DATA GOVERNANCE/SEKRETESSARKIVET.
+Men principen:
+No system that cannot end is safe.
+ska definitivt överleva.
 **Version:** 1.0 — Termination & Decommissioning Protocol  
 **Applies to:** All Symbiotic Intelligence Nodes and Layers  
 **Authors:** Elinor Frejd, Claude, Gemini, ChatGPT  
