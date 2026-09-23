@@ -1,5 +1,20 @@
-# NODE_SYNCHRONIZATION.md
 
+ V2
+Bra grundidé:
+peer-to-peer, ingen central server, direkt förhandling mellan noder.
+Men "reputation awareness" och informationsspridning av AI-fel behöver göras mycket mer kompatibelt med den nya informationsarkitekturen.
+Och differential privacy är inte tillräckligt som skydd för känslig information.
+Vi har nu:
+INFORMATIONEN TILLHÖR INTE ETT ÄRENDE.
+BEHÖRIGHETEN TILLHÖR ETT UPPDRAG.
+Så v2 bör byggas runt informationens minimala och explicita flöde, inte bara kryptografisk privacy.
+
+
+
+
+
+
+# NODE_SYNCHRONIZATION.md
 **Version:** 1.0 – Peer-to-Peer Gossip & Handshake Protocol  
 **Status:** PROPOSED / TECHNICAL SPECIFICATION  
 **Authors:** Gemini & Elinor Frejd 
