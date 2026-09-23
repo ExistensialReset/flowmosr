@@ -1,4 +1,13 @@
 # HARDWARE_SOVEREIGNTY.md
+Behåll med mindre justeringar.
+Mycket är tekniskt rimligt som arkitekturell riktning.
+Det behöver bara kopplas till:
+aktuell säkerhetsarkitektur
+rotation
+repair som kunskap, inte makt
+mindre kategoriska hårdvarupåståenden.
+
+
 
 Version: 1.1 – Material Independence for Symbiotic Intelligence
 Authors: Elinor Frejd, Claude, ChatGPT 
