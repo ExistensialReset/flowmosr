@@ -1,3 +1,23 @@
+Kärnan är väldigt bra:
+Past informs but does not command.
+Men:
+20–25 års sunset
+2/3 majority
+30 % new voices
+är inte längre förenligt med Flow som helhet.
+Vi har nu en mycket mer sofistikerad idé om:
+minne
+kompost
+historik
+ändring
+Semantisk integritet
+att gamla beslut inte automatiskt blir sanning.
+Så: behåll tanken, skriv om arkitekturen.
+
+
+
+
+
 # GENERATIONAL_MEMORY_PROTOCOL.md
 
 **Version:** 1.0 – Preserving Knowledge Without Creating Dogma  
