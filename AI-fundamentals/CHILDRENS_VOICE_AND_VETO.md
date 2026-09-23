@@ -1,5 +1,19 @@
 # CHILDRENS_VOICE_AND_VETO.md
-
+Behåll med mindre justeringar.
+Det här har en mycket stark kärna:
+barn är nuvarande människor
+rätt att säga nej
+AI-frihet
+ingen beteendeoptimering
+minimala data
+skydd före effektivitet.
+Det behöver däremot harmoniseras med:
+HUMAN ONLY
+barnskyddsprotokollet
+Human Mirrors
+aktuell governance
+att "veto" inte blir en parallell maktstruktur som krockar med resten.
+Men jag skulle inte kompostera det.
 **Version:** 1.1  
 **Framework Type:** Generational Governance / Youth Agency  
 **Status:** ACTIVE – PROPOSED & INTERNALLY CONSISTENT  
