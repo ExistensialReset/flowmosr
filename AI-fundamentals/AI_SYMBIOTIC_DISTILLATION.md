@@ -1,4 +1,11 @@
-# AI Symbiotic Distillation 
+# AI Symbiotic Distillation Behåll. Mindre justering.
+Det här är just nu ett av våra viktigaste dokument.
+Jag skulle bara lägga till den nya informationsarkitekturen:
+AI får aldrig behandla HUMAN ONLY-information.
+Och förtydliga relationen:
+AI kan hjälpa människan med frågan utan att få materialet bakom frågan.
+Dessutom bör "human judgment is primary" kopplas direkt till Human Mirrors och inte bara allmän "human judgment".
+Det här är kärna.
 
 ## Purpose 
 
