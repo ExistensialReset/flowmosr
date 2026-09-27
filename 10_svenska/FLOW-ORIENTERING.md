@@ -160,7 +160,7 @@ Därifrån kommer Baslinjen.
 
 ---
 
-# BASLINJEN 8
+# BASLINJEN
 
 **Människan har Baslinje eftersom hon lever.**
 
