@@ -377,7 +377,7 @@ Flow får aldrig bli viktigare än  människan som systemet finns till för.
 
 # AI
 
-AI är en del av Flow's infrastruktur.
+AI är en del av Flows infrastruktur.
 
 Men AI står inte över människan.
 
@@ -477,7 +477,7 @@ Det är funktionen som får behörighet.
 
 Inte personen som sådan.
 
-En människa behöver inte vara "rätt sorts människa" för att få en roll, men det är klart att det finns en problematisering. Du kan läsa mer om det i FÖRTROENDE_ANSVAR_DELTAGANDE.md
+En människa behöver inte vara "rätt sorts människa" för att få en roll, men det är klart att det finns problematisering. Du kan läsa mer om det i FÖRTROENDE_ANSVAR_DELTAGANDE.md
 
 Och en roll ska inte förvandla en människa till en permanent makthavare.
 
@@ -528,11 +528,11 @@ Om någon upptäcker ett problem ska systemet inte behöva försvara sin egen pe
 
 Flow ber därför inte om tro.
 
-Det ber om undersökning.
+Det och jag ber om undersökning.
 
 ---
 
-# SYSTEMETS EVOLUTION
+# EVOLUTIONSPROTOKOLLET
 
 Om ett system aldrig får förändras blir dess ursprungliga lösningar så småningom ett nytt fängelse.
 
@@ -542,7 +542,7 @@ Men förändring betyder inte att allt är förhandlingsbart.
 
 GRÄNSER skyddar det som inte får eroderas.
 
-Baslinjen skyddar det som måste finnas.
+BASLINJEN skyddar det som måste finnas.
 
 Mänsklig suveränitet skyddar människans rätt att själv vara människa.
 
@@ -706,7 +706,7 @@ README kan ge en första praktisk orientering.
 
 Det här dokumentet försöker ge en annan sorts orientering:
 
-**varifrån Flow kommer, vad det försöker skydda och hur de olika delarna hänger samman.**
+**varifrån Flow kommer, vad det försöker SKYDDA. och hur de olika delarna hänger samman.**
 
 Det finns ingen obligatorisk läsordning.
 
@@ -718,7 +718,7 @@ om man vill förstå den existentiella källan.
 
 Man kan börja i:
 
-**BASLINJEN**
+**BASLINJEN.md**
 
 om man vill förstå vad som måste finnas för att ett mänskligt liv ska vara möjligt.
 
@@ -742,7 +742,7 @@ om man vill förstå hur Flow förhåller sig till kunskap, modeller och det som
 
 Man kan börja i:
 
-**EVOLUTIONSPROTOKOLL.md**
+**EVOLUTIONSPROTOKOLLET.md**
 
 om man vill förstå hur strukturen kan förändras.
 
@@ -798,7 +798,7 @@ Det är en förutsättning för att Flow ska fortsätta vara levande.
 
 Flow är inte färdigt.
 
-Det kommer sannolikt aldrig att vara färdigt på det sätt som en maskin eller en regelbok kan vara färdig.
+Det kommer aldrig att vara färdigt på det sätt som en maskin eller en regelbok kan vara färdig. Flow är permanent beta. 
 
 Det finns saker som ännu inte är lösta.
 
@@ -862,9 +862,8 @@ Och Flow är bara en av många möjliga former som kan försöka göra mer liv m
 
 # EN FÖRENKLAD BESKRIVNING AV REPOTS SVENSKA DEL:
 
-Det går inte att göra hela Flow till ett förenklad beskrivning utan att förlora något.
-
-              GRÄNSER skyddar helheten. 
+Det går inte att göra hela Flow till en förenklad beskrivning utan att förlora något.
+             GRÄNSER skyddar helheten. 
 
 LIV är källan till den existentiella frågan.
 
