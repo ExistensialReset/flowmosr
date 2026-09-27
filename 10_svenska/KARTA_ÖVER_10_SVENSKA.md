@@ -1,1205 +1,986 @@
-# KARTA ÖVER `10_svenska`
+KARTA ÖVER "10_svenska"
 
-**Syfte:** Orienteringskarta över Flödets svenska kärnmaterial.
+Syfte: Orienteringskarta över Flödets svenska material.
 
-**Läs denna fil som en karta över arkitekturen — inte som ytterligare ett normativt lager.**
+Läs denna fil som en karta över hur dokumenten hänger samman — inte som ytterligare ett normativt lager.
 
----
-
-# 0. HELHETSBILD
-
-Flow/M-OS-R kan läsas som flera sammanhängande lager:
-
-```text
-                         ┌───────────────────────────┐
-                         │       LIV / GUDOMLIG      │
-                         │ personlig kosmologi,      │
-                         │ vittnesmål, metafysik     │
-                         │                           │
-                         │ INTE konstitutionell      │
-                         │ eller styrande auktoritet │
-                         └─────────────┬─────────────┘
-                                       │
-                                       │ existentiell horisont
-                                       ▼
-┌───────────────────────────────────────────────────────────────────┐
-│                    FILOSOFISK GRUND                               │
-│                                                                   │
-│                        VERKLIGHETEN.md                            │
-│                                                                   │
-│ Liv före modell                                                   │
-│ Verkligheten före systemet                                        │
-│ Kartor är inte landskapet                                          │
-│ Människor är relationella och deltagande varelser                 │
-│ System existerar för att tjäna livet                               │
-└────────────────────────────────┬──────────────────────────────────┘
-                                 │
-                                 ▼
-┌───────────────────────────────────────────────────────────────────┐
-│                     KONSTITUTIONELL KÄRNA                          │
-│                                                                   │
-│                         GRÄNSER.md                                │
-│                                                                   │
-│ 1. Icke-tvång                                                     │
-│ 2. Kognitivt ägande                                               │
-│ 3. Baslinjens företräde                                           │
-│ 4. Evolution                                                       │
-│ 5. Strukturell opartiskhet                                        │
-│ 6. Skuldavskrivning                                               │
-│ 7. Oåterkallelig gräns                                            │
-│                                                                   │
-│ Detta är den högsta normativa nivån.                              │
-└────────────────────────────────┬──────────────────────────────────┘
-                                 │
-                                 ▼
-┌───────────────────────────────────────────────────────────────────┐
-│                    STRUKTURELLA VILLKOR                            │
-│                                                                   │
-│ STRUKTURELLA_INVARIATER.md                                        │
-│ INVARIANTER_UTVIDGAD.md                                           │
-│                                                                   │
-│ Grundarirrelevans                                                 │
-│ Decentralisering                                                  │
-│ Frivillighet                                                      │
-│ Distribuerad beslutskapacitet                                     │
-│ Konfliktmetabolism                                                │
-│ Baslinjesäkerhet                                                  │
-│ Transparens utan övervakning                                      │
-│ Anpassningsförmåga                                                │
-│ Låg synlighet i högriskkontexter                                  │
-│ Självinneslutning                                                 │
-└────────────────────────────────┬──────────────────────────────────┘
-                                 │
-              ┌──────────────────┼───────────────────┐
-              │                  │                   │
-              ▼                  ▼                   ▼
-┌──────────────────────┐ ┌────────────────────┐ ┌─────────────────────┐
-│    BASLINJELAGER     │ │   RELATIONELLT     │ │  SEMANTISKT         │
-│                      │ │   LAGER            │ │  SKYDDSLAGER         │
-│ BASLINJEN.md         │ │                    │ │                     │
-│                      │ │ RELATIONELL        │ │ SEMANTISK_INTEGRITET │
-│ Mat                  │ │ INFRASTRUKTUR.md   │ │ .md                  │
-│ Vatten               │ │                    │ │                     │
-│ Bostad               │ │ Relation           │ │ Ord är infrastruktur│
-│ Vård/medicin         │ │ Förtroende         │ │                     │
-│ Kläder               │ │ Omsorg             │ │ Skydd mot            │
-│ Internet             │ │ Makt               │ │ betydelseförskjutning│
-│ Mobilitet             │ │ Konflikt           │ │                     │
-│ Energi               │ │ Reparation         │ │ Skydd mot att        │
-│ Lärande              │ │ Separation         │ │ skyddande ord börjar │
-│ Vila                 │ │                    │ │ betyda motsatsen     │
-└──────────┬───────────┘ └─────────┬──────────┘ └──────────┬──────────┘
-           │                       │                       │
-           └───────────────────────┼───────────────────────┘
-                                   ▼
-┌───────────────────────────────────────────────────────────────────┐
-│                     DELTAGANDE / FÖRTROENDE                        │
-│                                                                   │
-│ DELTAGANDE.md                                                     │
-│ FÖRTROENDE_ANSVAR_DELTAGANDE.md                                  │
-│ RESPEKTENS_BAND.md                                                │
-│                                                                   │
-│ Deltagande ≠ prestation                                           │
-│ Förtroende ≠ makt                                                 │
-│ Funktion ≠ personägande                                           │
-│ Roller är tillfälliga och roterar                                 │
-│ Personvärde är inte beroende av funktion                           │
-└────────────────────────────────┬──────────────────────────────────┘
-                                 │
-                                 ▼
-┌───────────────────────────────────────────────────────────────────┐
-│                   OPERATIV SAMORDNING                              │
-│                                                                   │
-│ FLÖDET.md                                                         │
-│ STRUKTUR.md                                                        │
-│ LITEN_LOTUS_POOL.md                                               │
-│                                                                   │
-│ Små cirklar                                                       │
-│ Rotation                                                           │
-│ Protokoll                                                         │
-│ LOTUS                                                               │
-│ Konflikthantering                                                 │
-│ Paus / förgrening                                                  │
-│ Kunskapsöverföring                                                 │
-│ Lokal anpassning                                                   │
-└────────────────────────────────┬──────────────────────────────────┘
-                                 │
-              ┌──────────────────┼───────────────────┐
-              │                  │                   │
-              ▼                  ▼                   ▼
-┌──────────────────────┐ ┌────────────────────┐ ┌─────────────────────┐
-│   VERKLIGHETSTEST    │ │   INSTITUTIONELL   │ │   EVOLUTION         │
-│                      │ │   INFRASTRUKTUR    │ │                     │
-│ VERKLIGHETS- OCH     │ │ LYCEUM_MUSAEUM.md  │ │ EVOLUTIONSPROTOKOLL  │
-│ OROPROTOKOLLET.md    │ │                    │ │ .md                  │
-│                      │ │ REFUGIUM_ANIMA.md  │ │                     │
-│ Observation           │ │                    │ │ Permanent beta      │
-│ Interpretation        │ │ JORDEN_VÅR_MODER   │ │ Testa               │
-│ Hypotes               │ │ .md                │ │ Observera            │
-│ Förslag               │ │                    │ │ Anpassa              │
-│ Beslut                │ │ Lärande            │ │ Förgrena             │
-│                      │ │ Vila               │ │ Dokumentera          │
-│ Oro ≠ bevis           │ │ Skapande           │ │                     │
-│ Men oro får undersökas│ │ Tillgänglighet     │ │ Misstag → kunskap   │
-│                      │ │ Ekologi             │ │                     │
-│ "Vi vet inte ännu."   │ │                    │ │                     │
-└──────────┬───────────┘ └────────────────────┘ └──────────┬──────────┘
-           │                                                │
-           └──────────────────────┬─────────────────────────┘
-                                  ▼
-                         ┌──────────────────┐
-                         │ COMPOSTANDGROWTH │
-                         │                  │
-                         │ Historiskt       │
-                         │ utvecklingsminne │
-                         │                  │
-                         │ Misslyckade eller│
-                         │ övergivna idéer  │
-                         │ sparas för att   │
-                         │ kunna förstås,   │
-                         │ inte automatiskt │
-                         │ återinföras.     │
-                         └──────────────────┘
-```
-
-# KARTA ÖVER 10_svenska
-
-> En arkitektonisk karta över Flow/M-OS-R:s svenska material.
->
-> Kartan är inte en ny konstitution och inte en ersättning för originaldokumenten. Den är ett orienteringslager: ett försök att visa hur delarna hänger samman, vilka funktioner de har och vilka delar som fortfarande bör betraktas som öppna frågor.
+Kartan beskriver arkitekturen sådan den ser ut nu. Den ersätter inte originaldokumenten och ger inte något dokument högre auktoritet än det har i sin egen funktion.
 
 ---
 
-# 1. Helhetsbild
+1. Vad är "10_svenska"?
 
-`10_svenska` kan läsas som ett sammanhängande system av flera olika lager.
+"10_svenska" är Flödets svenska uttrycksform.
 
-Det är inte ett enda manifest, en enda filosofi eller en enda organisationsmodell.
+Det är inte en direkt översättning av ett engelskt original, utan ett sammanhängande svenskt material där olika delar av Flow/M-OS-R har utvecklats, omformulerats och fått sina egna svenska uttryck.
 
-Det består snarare av:
+Mappen innehåller flera olika sorters texter:
 
 - konstitutionella gränser
-- principer
-- deltagandestrukturer
-- skydd mot maktkoncentration
-- relationell infrastruktur
-- konflikthantering
-- semantiskt skydd
-- experimentell evolution
-- kunskaps- och bildningsmiljöer
-- skyddsstrukturer
-- ekologiskt ansvar
 - filosofiska och existentiella texter
-- historiskt material som bevarats i `compostandgrowth`
+- materiella och sociala baslinjer
+- deltagande och relationer
+- förtroende och ansvar
+- praktiska protokoll
+- skyddsstrukturer
+- kunskap och skapande
+- evolution och återkoppling
+- ekologiska perspektiv
+- inbjudan och orientering
+- historiskt material i "compostandgrowth"
 
-Den centrala frågan som återkommer genom materialet är:
+Alla dessa texter har alltså inte samma funktion.
 
-> **Hur kan människor samordna sig utan att underordning blir villkoret för att få existera?**
-
-Flow försöker inte i första hand konstruera en bättre härskare.
-
-Det försöker konstruera ett system där **härskarrollen inte behöver finnas**.
+En viktig del av kartan är därför att visa skillnaden mellan dem.
 
 ---
 
-# 2. Konstitutionell kärna
+2. Den stora rörelsen
 
-Den konstitutionella kärnan finns framför allt i materialet kring:
+En förenklad bild av materialets rörelse är:
 
-- `GRÄNSER`
-- människovärde
-- suveränitet
-- trygghet
-- icke-underordning
-- skydd mot att systemet gradvis ändrar sin egen grund
+                         LIV
+                          │
+                personlig existentiell
+                       horisont
+                          │
+                          ▼
+                    VERKLIGHETEN
+                          │
+              verkligheten före modellen
+                          │
+                          ▼
+                       GRÄNSER
+                          │
+              vad Flow aldrig får göra
+                          │
+          ┌───────────────┼────────────────┐
+          │               │                │
+          ▼               ▼                ▼
+      BASLINJEN       DELTAGANDE      SEMANTISK
+                                      INTEGRITET
+          │               │                │
+          └───────────────┼────────────────┘
+                          │
+                          ▼
+                RELATIONELL INFRASTRUKTUR
+                          │
+                          ▼
+             FÖRTROENDE · ANSVAR · FUNKTION
+                          │
+                          ▼
+                    FLOW-KULTUR
+                          │
+                          ▼
+                 FLOW-ORIENTERING
+                          │
+                          ▼
+               praktisk samordning
+                          │
+          ┌───────────────┼────────────────┐
+          │               │                │
+          ▼               ▼                ▼
+       LYCEUM          REFUGIUM          SKYDD
+          │               │                │
+          └───────────────┼────────────────┘
+                          │
+                          ▼
+             VERKLIGHET & ORO
+                          │
+                          ▼
+                    EVOLUTION
+                          │
+                          ▼
+                 förändring / test
+                          │
+                          ▼
+                    KOMPOSTERING
+                          │
+                          ▼
+                    nytt försök
+                          │
+                          └───────────────►
+                              verkligheten
 
-En central formulering är:
+Detta är inte en tidslinje.
 
-> **"Suverän är när ingen behöver be om tillåtelse för att ha ett människovärde."**
+Det är en återkopplande struktur.
+
+---
+
+3. VERKLIGHETEN före modellen
+
+"VERKLIGHETEN.md" fungerar som ett viktigt filosofiskt grundlager.
+
+Den markerar bland annat:
+
+- liv före modell
+- verklighet före system
+- karta är inte landskap
+- människor är relationella varelser
+- system är till för att tjäna livet
+
+Det innebär att Flow inte bör förstås som en modell som verkligheten måste passa in i.
+
+Snarare:
+
+«Modellen måste kunna ändras när verkligheten säger emot.»
+
+Detta blir en förutsättning för evolutionen längre fram i arkitekturen.
+
+---
+
+4. GRÄNSER — den konstitutionella kärnan
+
+"GRÄNSER.md" anger de grundläggande gränserna för vad Flow får göra.
+
+De sju axiomatiska gränserna är:
+
+1. Icke-tvång
+2. Kognitivt ägande
+3. Baslinjens företräde
+4. Evolution
+5. Strukturell opartiskhet
+6. Skuldavskrivning
+7. Oåterkallelig gräns
+
+Detta är den högsta normativa nivån i den svenska arkitekturen.
+
+Övriga dokument ska därför förstås inom dessa gränser, inte tvärtom.
+
+En praktisk princip som sammanfattar denna nivå är:
+
+«Suverän är när ingen behöver be om tillåtelse för att ha ett människovärde.»
 
 Och:
 
-> **"Du är trygg här. Du är inte skyldig någonting."**
+«Du är trygg här. Du är inte skyldig någonting.»
 
-Detta är inte bara värdeord.
+GRÄNSER ska inte läsas som en detaljerad organisationsmanual.
 
-De fungerar som en begränsning av vad Flow får bli.
-
-Systemet får alltså inte legitimera sig genom att först kräva underkastelse och sedan erbjuda trygghet.
+De anger vad organisationen inte får överskrida.
 
 ---
 
-# 3. Strukturella invariater
+5. BASLINJEN — det existentiella golvet
 
-De konstitutionella gränserna kompletteras av strukturella mekanismer.
+"BASLINJEN.md" beskriver de materiella och sociala villkor som ska göra suveränitet faktisk.
 
-Några av de viktigaste är:
+Baslinjen berör bland annat:
 
-- ingen permanent ledare
-- rotation av roller
-- separation mellan person och funktion
-- begränsning av ackumulerad makt
-- möjlighet att lämna
-- Baseline som skydd mot existentiell utslagning
-- skydd för minoriteter och avvikande verklighetsuppfattningar
-- semantisk integritet
-- möjlighet till förändring utan att kärnan upplöses
-
-Det viktiga är att Flow inte bara säger:
-
-> "Människor borde inte missbruka makt."
-
-Det försöker i stället bygga mekanismer där:
-
-> **makt inte lika lätt kan samlas, ärvas och normaliseras.**
-
-Det är en avgörande skillnad.
-
----
-
-# 4. Förklaringslagret
-
-Flow innehåller också ett lager som försöker förklara varför sådana strukturer behövs.
-
-Problemet definieras inte främst som:
-
-- onda människor
-- dåliga ledare
-- bristande moral
-- fel ideologi
-
-utan som återkommande systemdynamik.
-
-När en person får:
-
-- auktoritet
-- resurser
-- informationsövertag
-- tolkningsföreträde
-- kontroll över deltagande
-
-kan dessa saker förstärka varandra.
-
-Makt kan därmed börja reproducera sig själv.
-
-Flow försöker därför angripa **mekanismen**, inte bara den enskilda personen.
-
----
-
-# 5. Flödet
-
-"Flow" är både namnet på systemet och en grundläggande bild för hur systemet fungerar.
-
-Det handlar om:
-
-- rörelse
-- återkoppling
-- förändring
-- deltagande
-- spontanitet
-- relation
+- mat
+- vatten
+- bostad
+- vård och medicin
+- kläder
+- internet
+- mobilitet
+- energi
 - lärande
-- förmågan att släppa strukturer som inte längre fungerar
+- vila
 
-Ett centralt antagande är att ett levande system inte bör behöva vara färdigdesignat för att kunna existera.
+Baslinjen är inte en belöning för deltagande.
 
-Därför finns ett återkommande motstånd mot:
+Den är inte ett prestationssystem.
 
-> den perfekta modellen.
+Den är inte ett mått på människors värde.
 
-I stället eftersträvas:
+Den svarar på en central fråga:
 
-> **en struktur som kan upptäcka när den själv behöver förändras.**
+«Vad krävs för att människors frihet ska vara mer än en abstrakt princip?»
 
 ---
 
-# 6. Deltagande och förtroende
+6. DELTAGANDE — utan att människovärde blir prestation
 
-Flow försöker skilja mellan:
+"DELTAGANDE.md" beskriver hur människor kan vara del av Flow utan att deltagandet blir ett villkor för att få finnas.
 
-- att få finnas
-- att delta
-- att bidra
-- att ta ansvar
-- att ha en viss funktion
+Det är viktigt att skilja mellan:
 
-Dessa saker ska inte automatiskt vara samma sak.
+- människovärde
+- tillhörighet
+- deltagande
+- bidrag
+- ansvar
+- funktion
 
 En människa behöver inte:
 
+- leda
+- organisera
+- producera
 - prestera
 - vara användbar
-- organisera
-- leda
-- producera
-- bevisa sitt värde
 
-för att få ha människovärde.
+för att vara fullvärdig.
 
-Deltagande ska kunna vara frivilligt utan att frivillighet betyder att relationen mellan människor försvinner.
-
-Det skapar en viktig balans:
-
-> **frihet utan isolering.**
+Deltagande är en möjlighet, inte ett existensvillkor.
 
 ---
 
-# 7. Relationell infrastruktur
+7. FÖRTROENDE, ANSVAR OCH FUNKTION
 
-Flow innehåller ett ovanligt stort intresse för relationer.
+"FÖRTROENDE_ANSVAR_DELTAGANDE.md" utvecklar hur ansvar kan bäras utan att funktion blir identitet eller permanent makt.
 
-Det räcker inte att skapa rätt beslutsstruktur om människor fortfarande:
+Centrala distinktioner är:
 
-- missförstår varandra
-- fastnar i konflikt
+«Person ≠ funktion»
+
+«Kompetens ≠ permanent auktoritet»
+
+«Ansvar ≠ människovärde»
+
+Funktioner kan ges, granskas, pausas, lämnas och rotera.
+
+Det betyder att Flow inte behöver välja mellan:
+
+- total individualism
+
+och
+
+- permanent hierarki.
+
+Det försöker skapa en tredje möjlighet:
+
+«människor kan bära ansvar utan att bli sina funktioner.»
+
+"RESPEKTENS_BAND.md" hör till samma relationella område och behandlar hur respekt, gränser och mänsklig värdighet kan hållas samman.
+
+---
+
+8. RELATIONELL INFRASTRUKTUR
+
+"RELATIONELL_INFRASTRUKTUR.md" behandlar det som uppstår mellan människor.
+
+Det räcker inte att ha bra formella regler om människor:
+
 - tappar kontakt
-- undviker svåra samtal
-- tolkar varandras handlingar genom gamla mönster
+- missförstår varandra
+- fastnar i gamla mönster
+- hamnar i konflikt
+- behöver pausa
+- behöver reparera
+- behöver separera
 
-Därför finns ett relationellt lager.
+Relationell infrastruktur är därför inte ett tillägg till governance.
 
-Det handlar om:
+Relationer är en del av den faktiska infrastrukturen.
 
-- konflikter
-- reparation
-- lyssnande
-- gränser
-- relationell autonomi
-- återkoppling
-- möjlighet att pausa
-- möjlighet att återvända
+En konflikt behöver inte automatiskt betyda att systemet har misslyckats.
 
-En viktig princip är att konflikt inte automatiskt ska betraktas som ett systemfel.
+Den kan också vara:
 
-Konflikt kan vara:
-
-> **information om systemets nuvarande tillstånd.**
+«information om systemets aktuella tillstånd.»
 
 ---
 
-# 8. Semantiskt skyddslager
+9. SEMANTISK INTEGRITET
 
-Ett av de mest originella lagren är den semantiska infrastrukturen.
+"SEMANTISK_INTEGRITET.md" fungerar som ett tvärgående skyddslager.
 
-Problemet som identifieras är att ett system kan behålla samma ord men gradvis förändra deras betydelse.
+Ett system kan behålla samma ord samtidigt som orden gradvis börjar betyda något annat.
 
 Exempelvis kan:
 
-- "frihet" börja betyda lydnad
-- "trygghet" börja betyda övervakning
-- "gemenskap" börja betyda konformitet
-- "ansvar" börja betyda tvång
+- frihet börja betyda lydnad
+- trygghet börja betyda kontroll
+- gemenskap börja betyda konformitet
+- ansvar börja betyda tvång
+- skydd börja betyda övervakning
 
-Därför behöver Flow skydda inte bara reglernas bokstav utan också deras betydelse.
+Semantisk integritet försöker därför skydda betydelsen, inte bara formuleringens yta.
 
-Detta är vad den semantiska integriteten försöker göra.
+Det är särskilt viktigt eftersom Flow innehåller många ord som lätt kan användas av nästan vilken organisation som helst.
 
-Den fungerar som ett slags:
+Frågan är inte bara:
 
-> **immunförsvar mot semantisk erosion.**
+«"Vad står det?"»
+
+utan också:
+
+«"Vad betyder detta faktiskt i praktiken?"»
+
+Semantisk integritet löper därför tvärs igenom hela arkitekturen.
 
 ---
 
-# 9. LOTUS och distribuerad styrning
+10. FLOW-KULTUR
 
-LOTUS representerar ett försök att göra beslut och funktioner distribuerade.
+"FLOW-KULTUR.md" beskriver den kulturella dimensionen.
+
+Flow är inte enbart:
+
+- regler
+- protokoll
+- mandat
+- beslut
+- strukturer
+
+Det behöver också finnas en kultur som gör det möjligt för människor att:
+
+- vara nyfikna
+- skapa
+- vila
+- delta på olika sätt
+- vara oense
+- förändras
+- lämna funktioner
+- mötas utan ständig prestation
+
+Kultur är här inte en ersättning för struktur.
+
+Den är en del av miljön där strukturen faktiskt ska fungera.
+
+---
+
+11. FLOW-ORIENTERING
+
+"FLOW-ORIENTERING.md" fungerar som ett mer praktiskt orienteringslager.
+
+Här möter den övergripande idén den faktiska frågan:
+
+«Hur hittar människor in i Flow och hur orienterar de sig när de väl är där?»
+
+Detta lager bör läsas tillsammans med:
+
+- "INBJUDAN_TILL_FLOW.md"
+- "RIKTNINGAR_FÖR_FLOW.md"
+- "FLOWS_IDENTITET.md"
+
+De har olika funktioner, men tillsammans hjälper de till att beskriva hur Flow kan förstås utan att reduceras till en enda identitet eller organisationsform.
+
+---
+
+12. FLOWS IDENTITET
+
+"FLOWS_IDENTITET.md" behandlar vad som gör Flow till Flow utan att identiteten behöver bli ett krav på likhet.
+
+Det är en viktig skillnad mellan:
+
+«att dela en struktur»
+
+och
+
+«att behöva bli samma sorts människa.»
+
+Identitet behöver därför kunna finnas utan att bli konformitet.
+
+---
+
+13. RIKTNINGAR FÖR FLOW
+
+"RIKTNINGAR_FÖR_FLOW.md" hör till orienterings- och utvecklingslagret.
+
+Riktningar beskriver vart materialet kan röra sig utan att förväxlas med en slutgiltig ritning över framtiden.
+
+Det är därför bättre att förstå riktningar som:
+
+«möjliga vägar»
+
+än som:
+
+«obligatoriska slutmål.»
+
+---
+
+14. INBJUDAN TILL FLOW
+
+"INBJUDAN_TILL_FLOW.md" är ett ingångsdokument.
+
+Det behöver inte bära hela arkitekturen.
+
+Dess funktion är att göra det möjligt att närma sig Flow utan att först läsa hela systemet.
+
+En inbjudan är därför inte samma sak som en regelbok.
+
+---
+
+15. SKYDD
+
+"SKYDDSKEDJA.md" beskriver hur skydd kan organiseras när en situation kräver mer än vanlig relationell eller organisatorisk hantering.
+
+Detta dokument behöver läsas tillsammans med:
+
+- "GRÄNSER.md"
+- "SEMANTISK_INTEGRITET.md"
+- "SEKRETESSARKIVET.md"
+- "REFUGIUM_ANIMA.md"
+
+Den centrala principen är att:
+
+«skydd inte får glida över i kontroll.»
+
+Skyddsinfrastruktur måste därför själv kunna granskas mot de konstitutionella gränserna.
+
+---
+
+16. SEKRETESSARKIVET
+
+"SEKRETESSARKIVET.md" behandlar information som behöver skyddas.
+
+Det hör till arkitekturens informations- och förtroendelager.
+
+Det centrala problemet är inte bara:
+
+«vem får veta vad?»
+
+utan också:
+
+«hur förhindrar vi att skyddad information gradvis blir en observationsapparat?»
+
+Därför behöver informationshantering förstås genom samma principer som resten av Flow:
+
+- begränsning
+- ändamålsbundenhet
+- ansvar
+- transparens där transparens är möjlig
+- skydd där skydd behövs
+- frånvaro av onödig profilering
+- separation mellan information och människovärde
+
+Sekretessarkivet är därmed inte ett parallellt system för att förstå människor.
+
+Det är infrastruktur för att hantera information.
+
+---
+
+17. VERKLIGHETS- OCH OROPROTOKOLLET
+
+"VERKLIGHETS- OCH OROPROTOKOLLET.md" är ett viktigt metodlager.
+
+Det skiljer mellan exempelvis:
+
+- observation
+- tolkning
+- hypotes
+- oro
+- förslag
+- beslut
+
+En central princip är:
+
+«Oro är inte automatiskt bevis.»
+
+Men oro behöver inte heller ignoreras.
+
+Den kan undersökas.
+
+Detta skapar en viktig epistemisk hållning:
+
+«"Vi vet inte ännu."»
+
+Det är inte passivitet.
+
+Det är en metod för att undvika att osäkerhet omvandlas till falsk säkerhet.
+
+---
+
+18. EVOLUTIONSPROTOKOLL
+
+"EVOLUTIONSPROTOKOLL.md" beskriver hur Flow kan förändras utan att förändringen blir godtycklig.
 
 Centrala idéer är:
+
+- testa
+- observera
+- dokumentera
+- utvärdera
+- anpassa
+- förgrena
+- återvända
+- kompostera
+
+Flow behöver alltså inte vara färdigdesignat.
+
+Det viktiga är att systemet har förmåga att upptäcka när det behöver ändras.
+
+Samtidigt betyder evolution inte:
+
+«nytt = bättre.»
+
+Nya idéer behöver möta verkligheten.
+
+---
+
+19. LYCEUM MUSAEUM
+
+"LYCEUM_MUSAEUM.md" är Flow:s bildnings- och skapandelager.
+
+Det handlar om:
+
+- lärande
+- undersökning
+- kultur
+- konst
+- kunskapsdelning
+- skapande
+- nyfikenhet
+
+Lyceum behöver inte vara en traditionell skola.
+
+Museet och lyceet kan förstås som ett rum där människor får:
+
+«lära, tänka, skapa och undersöka utan att kunskap automatiskt blir makt över andra.»
+
+---
+
+20. REFUGIUM ANIMA
+
+"REFUGIUM_ANIMA.md" svarar på en annan fråga:
+
+«Vad händer när en människa inte kan bära systemets tempo?»
+
+Refugium är kopplat till:
+
+- skydd
+- återhämtning
+- vila
+- kollaps
+- värdighet
+- frånvaro av prestationskrav
+
+Skydd ska inte behöva förtjänas genom att först prestera.
+
+Refugium är därför en del av systemets förmåga att bära människor när de inte själva kan bära särskilt mycket.
+
+---
+
+21. JORDEN VÅR MODER
+
+"JORDEN_VÅR_MODER.md" placerar Flow i en materiell och ekologisk verklighet.
+
+Människor existerar inte utanför:
+
+- materia
+- energi
+- ekosystem
+- andra arter
+- planetära begränsningar
+
+Det ekologiska lagret skapar därför en viktig verklighetsfråga för hela arkitekturen:
+
+«Hur förenas mänsklig trygghet med de materiella begränsningar som faktiskt finns?»
+
+Det är inte ett problem som behöver lösas genom att någon av principerna låtsas försvinna.
+
+Det är en verklig spänning som måste undersökas.
+
+---
+
+22. LITEN LOTUS POOL
+
+"LITEN_LOTUS_POOL.md" hör till Flow:s organisatoriska och distribuerade samordning.
+
+LOTUS kan förstås som ett försök att fördela funktioner och beslut utan att skapa permanenta maktpositioner.
+
+Viktiga teman är:
 
 - rotation
 - sortition
 - begränsade mandat
-- ingen permanent maktposition
-- flera samtidiga perspektiv
-- möjlighet att ersätta funktioner
-- skillnad mellan kompetens och permanent auktoritet
+- distribuerad kapacitet
+- flera perspektiv
+- lokal förankring
+- möjlighet att lämna eller ersätta en funktion
 
-Circles fungerar som den lokala organisatoriska enheten.
+Strukturen är till för samordning.
 
-Strukturen kan beskrivas ungefär som:
-
-- små Circles
-- Baseline Circle
-- större noder
-- roterande funktioner
-
-Syftet är inte att eliminera organisation.
-
-Syftet är att:
-
-> **göra organisation utan att skapa en klass av permanenta organisatörer.**
+Den ska inte skapa en permanent klass av människor som "äger" organisationen.
 
 ---
 
-# 10. Verklighetstestet
+23. EXPERTUNDERLAG LOTUSPANEL
 
-Flow har ett återkommande krav på verklighetskontakt.
+"EXPERTUNDERLAG_LOTUSPANEL.md" hör till samma område men har en annan funktion.
 
-Det innebär att en idé inte blir sann bara för att den är:
+Det är underlag för en specifik strukturell fråga, snarare än själva konstitutionen.
 
-- vacker
-- konsekvent
-- filosofiskt elegant
-- välskriven
-- uppskattad av människor
-- logiskt möjlig
+Det bör därför läsas som:
 
-Den måste också möta verkligheten.
+«underlag för tänkande och prövning»
 
-Det innebär att Flow behöver kunna testas mot:
-
-- faktisk konflikt
-- faktisk knapphet
-- faktisk trötthet
-- faktisk inkompetens
-- faktisk oenighet
-- faktisk makt
-- faktiska behov
-- faktiska materiella begränsningar
-
-Detta är en av systemets viktigaste metodprinciper:
-
-> **Verkligheten får säga nej.**
+inte som ett nytt överordnat regelverk.
 
 ---
 
-# 11. Evolution
+24. MÖJLIGHET TILL FÖRKLARING
 
-Flow är inte tänkt att vara statiskt.
+"MÖJLIGHET_TILL_FÖRKLARING.md" hör till transparens- och förståelselagret.
 
-Evolutionen är inbyggd i systemet genom:
+Det knyter an till en viktig fråga genom hela Flow:
 
-- återkoppling
-- experiment
-- observation
-- dokumentation
-- revision
-- compost
-- möjligheten att pensionera lösningar
+«Om människor påverkas av en struktur, i vilken utsträckning ska de kunna förstå varför något händer?»
+
+Förklaring är dock inte samma sak som total insyn.
+
+Det behöver hela tiden balanseras mot:
+
+- integritet
+- sekretess
+- skydd
+- kognitiv suveränitet
+
+---
+
+25. MANIFESTO
+
+"MANIFESTO.md" är en koncentrerad ingång.
+
+Manifestet ska inte bära hela arkitekturen.
+
+Dess funktion är att:
+
+- formulera riktningen
+- uttrycka grundintuitionen
+- skapa igenkänning
+- bjuda in till undersökning
+
+Det som finns bakom manifestet måste därför kunna bära de frågor som manifestet väcker.
+
+---
+
+26. BEKÄNNELSER
+
+"BEKÄNNELSER.md" befinner sig i ett annat slags kunskapsläge.
+
+Här behöver personlig erfarenhet få vara personlig erfarenhet.
 
 Det innebär att:
 
-> en gammal regel inte automatiskt är bättre bara för att den är gammal.
+«en erfarenhet kan vara verklig utan att automatiskt bli ett universellt bevis.»
 
-Men motsatsen gäller också:
-
-> en ny idé blir inte automatiskt bättre bara för att den är ny.
-
-Systemet behöver därför minne.
-
-Och det är här `compostandgrowth` får sin särskilda funktion.
+Detta gör att personligt vittnesmål kan finnas i samma arkitektur som strukturella dokument utan att de blandas ihop.
 
 ---
 
-# 12. Compostandgrowth
+27. LIV
 
-`compostandgrowth` bör förstås som historiskt material.
+"LIV.md" är ett personligt filosofiskt och existentiellt verk.
 
-Det är inte nödvändigtvis:
+Det innehåller bland annat en personlig kosmologi kring:
 
-> det gamla som var fel.
-
-Det är snarare:
-
-> det gamla som har varit en del av tänkandet och som kan bära information även efter att en lösning har pensionerats.
-
-Det innebär att äldre dokument kan innehålla:
-
-- idéer som fortfarande är användbara
-- idéer som ersatts
-- idéer som behöver omformuleras
-- problem som senare versioner löst
-- problem som fortfarande är olösta
-- historiska spår av hur systemet utvecklats
-
-Compost är därför inte sopor.
-
-Det är:
-
-> **systemets minne av vad det har försökt vara.**
-
-Men historiskt material bör inte automatiskt behandlas som aktuell konstitution.
-
----
-
-# 13. Lyceum
-
-Lyceum fungerar som ett bildnings- och kunskapslager.
-
-Det bryter med tanken att ett system bara behöver:
-
-- regler
-- beslut
-- sanktioner
-- funktioner
-
-för att fungera.
-
-Människor behöver också kunna:
-
-- tänka
-- undersöka
-- lära
-- tvivla
-- skapa
-- mötas
-- utveckla nya perspektiv
-
-Lyceum kan därför förstås som:
-
-> **Flow:s kognitiva och kulturella ekosystem.**
-
-Det är inte en skola i traditionell mening.
-
-Det är snarare ett rum där kunskap kan cirkulera utan att automatiskt bli auktoritet.
-
----
-
-# 14. Refugium
-
-Refugium Anima representerar ett annat behov:
-
-> vad händer när människor inte kan fungera i det vanliga systemets tempo?
-
-Refugium är därför kopplat till:
-
-- kollaps
-- återhämtning
-- skydd
-- mänsklig värdighet
-- icke-prestation
-- frånvaro av diagnos- eller wellnesskrav
-
-En central skillnad är att skydd inte ska behöva förtjänas.
-
-Refugium är därmed inte en belöning för att ha misslyckats.
-
-Det är:
-
-> **en del av systemets förmåga att bära människor när de inte kan bära systemet.**
-
----
-
-# 15. Jorden
-
-Det ekologiska lagret försöker placera Flow inom en större materiell verklighet.
-
-Människor existerar inte utanför:
-
-- energi
-- materia
-- ekosystem
-- klimat
-- andra arter
-- planetära gränser
-
-Det skapar en av systemets stora framtida prövningar.
-
-Om Flow garanterar människors trygghet men samtidigt kräver en materiell konsumtionsnivå som planeten inte kan bära uppstår en verklig konflikt mellan två goda principer.
-
-Detta är därför inte en detalj.
-
-Det är en central öppen fråga:
-
-> **Hur förenas existentiell trygghet med ekologisk begränsning?**
-
----
-
-# 16. Manifestet
-
-Manifestet fungerar som en koncentrerad ingång till Flow.
-
-Det är inte hela systemet.
-
-Dess funktion är snarare att:
-
-- formulera riktningen
-- göra grundintuitionen begriplig
-- bjuda in till undersökning
-- skapa igenkänning
-- sätta tonen
-
-Manifestet bör därför inte bära hela den tekniska eller institutionella arkitekturen.
-
-Det ska öppna dörren.
-
-De andra dokumenten behöver visa:
-
-> vad som finns på andra sidan.
-
----
-
-# 17. Bekännelser
-
-`BEKÄNNELSER` fungerar på ett annat plan.
-
-Här finns en tydlig skillnad mellan:
-
-- personlig erfarenhet
-- vittnesmål
-- existentiell övertygelse
-- strukturellt påstående
-- vetenskapligt påstående
-
-Formuleringar som:
-
-> "Jag vet inte vad det var."
-
-och:
-
-> "Men det hände."
-
-markerar denna skillnad.
-
-Detta är viktigt.
-
-Bekännelsen behöver inte bli mindre verklig för att den inte presenteras som objektivt bevis.
-
-Den kan vara:
-
-> **en sann berättelse om en människas erfarenhet utan anspråk på universell verifiering.**
-
----
-
-# 18. LIV
-
-`LIV` är ett eget filosofiskt och existentiellt lager.
-
-Det ska därför inte behandlas som om det vore samma genre som:
-
-- LOTUS
-- GRÄNSER
-- governance-dokument
-- praktiska protokoll
-
-LIV är snarare:
-
-- kosmologi
-- vittnesmål
-- metafysisk karta
-- poetisk filosofi
-- personlig erfarenhet
-- existentiell orientering
-
-Den centrala formuleringen är:
-
-> **Liv är orsaken till Alltet.**
-
-Men textens egen inramning gör också en viktig sak:
-
-den säger att författarens perception tillhör henne.
-
-LIV behöver därför kunna existera som:
-
-> **personlig karta utan att bli påtvingad världsåskådning.**
-
-Centrala begrepp är:
 - Liv
-- Lilith
-- "Njut och låt njuta"
-- Livsackord
-- Ha-Satan
-- Mammon
+- Alltet
+- tid
+- relation
+- skapande
+- njutning
+- svarta hål
 - Omegadimensionen
 - Ägget
-- Spjuvern/Nåden Allena
+- andra metafysiska och symboliska begrepp
 
-  
+LIV ska därför inte läsas som ett governance-dokument.
+
+Dess funktion är en annan:
+
+«en personlig karta över verkligheten.»
+
+Det är möjligt för denna karta att vara starkt betydelsebärande utan att den behöver vara ett krav på andra.
+
 ---
 
-# 19. GUDOMLIG
+28. GUDOMLIG
 
-GUDOMLIG-materialet är nära besläktat med LIV men har sin egen utvecklingshistoria.
+"GUDOMLIG.md" är nära besläktad med LIV men har sin egen utvecklingshistoria.
 
 Här finns bland annat:
 
-- Jahve/jahfiering
 - Liv
-- svarta hål
+- Jahve/jahfiering
 - kosmos
-- spiralgalaxen
-- Omegadimension
-- Ägget
-- Evinnerlig Visdom
+- svarta hål
 - Tidssuveränitet
 - Tidsresonans
+- Omegadimensionen
+- Ägget
 - Mammon
+- Ha-Satan
 - Spjuvern
 - Nåden Allena
 
+Detta material är metafysiskt, filosofiskt och personligt.
 
-Detta material är filosofiskt och existentiellt.
+Det ska därför inte förväxlas med Flow:s konstitution.
 
-Det bör därför inte automatiskt göras till:
+En central arkitektonisk skillnad är:
 
-> Flow:s officiella troslära.
-
-Tvärtom är en viktig styrka att Flow kan innehålla en personlig metafysik utan att göra den till inträdeskrav.
-
----
-
-# 20. Struktur
-
-När hela mappen betraktas tillsammans framträder flera strukturella nivåer.
-
-## Nivå 1 — Konstitution
-
-Det som begränsar vad systemet får göra.
-
-Exempel:
-
-- människovärde
-- suveränitet
-- grundläggande gränser
-
-## Nivå 2 — Principer
-
-Det som beskriver hur systemet bör fungera.
-
-Exempel:
-
-- frivillighet
-- rotation
-- resiliens
-- trygghet
-- skapande
-- nyfikenhet
-
-## Nivå 3 — Protokoll
-
-Det som beskriver hur en viss situation kan hanteras.
-
-Exempel:
-
-- konflikt
-- kris
-- paus
-- återkoppling
-- semantisk kontroll
-
-## Nivå 4 — Institutioner
-
-Det som ger principerna en faktisk organisatorisk form.
-
-Exempel:
-
-- Circles
-- Baseline Circle
-- LOTUS
-- Lyceum
-- Refugium
-
-## Nivå 5 — Experiment
-
-Det som behöver prövas i verkligheten.
-
-Exempel:
-
-- faktisk rotation
-- faktisk kompetensdelning
-- faktisk konflikt
-- faktisk materialförsörjning
-
-## Nivå 6 — Personlig filosofi
-
-Det som beskriver en människas existentiella karta.
-
-Exempel:
-
-- LIV
-- GUDOMLIG
-- BEKÄNNELSER
-
-## Nivå 7 — Historiskt material
-
-Det som visar tidigare versioner och tänkande.
-
-Exempel:
-
-- `compostandgrowth`
+«personlig kosmologi behöver inte vara kollektiv lag.»
 
 ---
 
-# 21. Dokumentens inbördes hierarki
+29. FLOW:s IDENTITET OCH PERSONLIG METAFYSIK KAN SAMEXISTERA
 
-Det är viktigt att inte läsa alla dokument som om de hade samma auktoritet.
+Det är viktigt att dessa två lager inte behöver konkurrera.
 
-En möjlig läsordning är:
+Flow kan ha:
 
-1. **GRÄNSER**
-2. konstitutionella principer
-3. strukturella mekanismer
-4. deltagande och relation
-5. protokoll
-6. institutionella former
-7. experiment och evolution
-8. Lyceum och Refugium
-9. ekologiska frågor
-10. Manifestet som ingång
-11. BEKÄNNELSER
-12. LIV/GUDOMLIG som personlig-metafysisk dimension
-13. `compostandgrowth` som historiskt minne
+- en konstitutionell arkitektur
+- en kultur
+- praktiska protokoll
+- organisatoriska experiment
 
-Detta är en analytisk karta, inte en ny regelbok.
+samtidigt som enskilda människor har:
 
-Dess funktion är att förhindra kategorimisstag.
+- olika metafysiska uppfattningar
+- olika religiösa språk
+- olika filosofier
+- ingen metafysisk tro alls
 
-En metafysisk text ska exempelvis inte behöva bevisa en governance-mekanism.
+Det innebär att:
 
-Och en governance-mekanism ska inte behöva bära en metafysisk världsbild.
+«samordning behöver inte kräva samma kosmologi.»
 
 ---
 
-# 22. Tvärgående skyddslager
+30. "compostandgrowth"
 
-Flera principer återkommer genom nästan hela arkitekturen.
+"compostandgrowth" är historiskt material.
 
-## Suveränitet
+Det ska inte läsas som en parallell aktuell konstitution.
 
-Ingen ska behöva ge upp sitt människovärde för att få delta.
+Här finns äldre versioner, tidigare formuleringar, övergivna strukturer och utvecklingsspår.
 
-## Frivillighet
+Det historiska materialet kan hjälpa till att förstå:
 
-Deltagande ska inte innebära skuld.
+- var idéer kommer ifrån
+- vilka problem som tidigare försökt lösas
+- varför formuleringar har förändrats
+- vilka idéer som återkommer
+- vilka lösningar som har pensionerats
 
-## Rotation
+Men:
 
-Funktion ska inte kunna förvandlas till permanent identitet och makt.
+«historia är inte automatiskt gällande arkitektur.»
 
-## Transparens
-
-Makt ska kunna synliggöras.
-
-## Semantisk integritet
-
-Ordens betydelse ska kunna försvaras mot långsam förskjutning.
-
-## Exit
-
-Det måste finnas möjlighet att lämna.
-
-## Baslinjen
-
-Människans existentiella säkerhet ska inte vara beroende av prestation.
-
-## Evolution
-
-Systemet måste kunna ändra sig.
-
-## Compost
-
-Systemet måste kunna minnas vad det tidigare varit.
+Att något finns i "compostandgrowth" betyder inte att det ska återinföras.
 
 ---
 
-# 23. De viktigaste distinktionerna
+31. De viktigaste distinktionerna
 
-Flow blir tydligare när vissa begrepp hålls isär.
+När hela "10_svenska" läses tillsammans blir följande skillnader särskilt viktiga:
 
-### Människa ≠ funktion
+Människa ≠ funktion
 
-En person är inte samma sak som rollen personen tillfälligt har.
+En människa är inte sin roll.
 
-### Deltagande ≠ människovärde
+Människovärde ≠ deltagande
 
-Man behöver inte bidra för att få finnas.
+Man behöver inte delta för att ha värde.
 
-### Kompetens ≠ auktoritet
+Kompetens ≠ auktoritet
 
-Att någon kan något bättre än andra behöver inte ge personen permanent makt.
+Att kunna något ger inte automatiskt permanent makt.
 
-### Konflikt ≠ misslyckande
+Förtroende ≠ ägande
+
+Förtroende kan ges för en funktion utan att funktionen blir personens egendom.
+
+Skydd ≠ kontroll
+
+Skydd får inte bli en generell legitimation för övervakning.
+
+Transparens ≠ total insyn
+
+Att göra makt begriplig är inte samma sak som att göra människor genomskinliga.
+
+Konflikt ≠ misslyckande
 
 Konflikt kan vara information.
 
-### Skydd ≠ kontroll
+Oro ≠ bevis
 
-Att skydda någon får inte automatiskt innebära att övervaka eller bestämma över dem.
+Men oro kan vara en anledning att undersöka.
 
-### Gemenskap ≠ konformitet
+Personlig sanning ≠ universellt bevis
 
-Man kan tillhöra utan att behöva bli likadan.
+En erfarenhet behöver inte förnekas för att den inte kan verifieras universellt.
 
-### Personlig sanning ≠ universellt bevis
+Kultur ≠ konstitution
 
-En erfarenhet kan vara verklig för den som upplevt den utan att bli ett krav på andra.
+En kultur kan förändras utan att de konstitutionella gränserna försvinner.
 
-### Historia ≠ konstitution
+Historia ≠ aktuell regel
 
-Gamla dokument behöver inte automatiskt vara gällande.
+"compostandgrowth" är minne, inte automatiskt norm.
 
-### Nyhet ≠ förbättring
+Nytt ≠ bättre
 
-En ny lösning måste fortfarande testas.
-
----
-
-# 24. Systemets centrala feedbackloop
-
-Flow kan i koncentrerad form förstås som en återkopplingsloop:
-
-**Människor**
-
-↓
-
-**relationer**
-
-↓
-
-**samordning**
-
-↓
-
-**handling**
-
-↓
-
-**konsekvenser**
-
-↓
-
-**observation**
-
-↓
-
-**reflektion**
-
-↓
-
-**återkoppling**
-
-↓
-
-**förändring**
-
-↓
-
-**ny handling**
-
-Det viktiga är att loopen inte avslutas med:
-
-> "Nu är modellen färdig."
-
-Den fortsätter.
-
-Det är själva poängen.
+Evolution kräver verklighetskontakt.
 
 ---
 
-# 25. Vad som är kärna
+32. Tvärgående skydd
 
-När allt sekundärt material skalas bort framträder en relativt liten kärna.
+Flera principer återkommer genom nästan hela materialet:
 
-Den består ungefär av:
+Suveränitet
+Ingen behöver ge upp sitt människovärde för att få delta.
 
-1. Människovärde får inte vara villkorat.
-2. Ingen ska behöva underordna sig en ledare för att tillhöra.
-3. Funktioner ska kunna rotera.
-4. Makt ska inte kunna ackumuleras obemärkt.
-5. Frivillighet ska vara verklig.
-6. Konflikter ska kunna hanteras utan att människor förlorar sin värdighet.
-7. Språk och betydelser behöver skyddas.
-8. Systemet måste kunna ändras.
-9. Systemet måste kunna erkänna när det inte vet.
-10. Systemet måste möta materiell och ekologisk verklighet.
+Baslinje
+Frihet behöver ett faktiskt materiellt golv.
 
-Detta är Flow:s hårda kärna.
+Frivillighet
+Deltagande ska inte vara ett tvång.
 
----
+Rotation
+Funktion ska inte bli permanent makt.
 
-# 26. Det som ännu inte är bevisat
+Relation
+Människor måste kunna leva tillsammans, inte bara fatta beslut tillsammans.
 
-Det finns områden där arkitekturen fortfarande främst är en hypotes.
+Semantisk integritet
+Ord får inte långsamt börja betyda sin motsats.
 
-Framför allt:
+Verklighetskontakt
+Modellen måste kunna ha fel.
 
-## Materiell ekonomi
+Evolution
+Systemet måste kunna förändras.
 
-Hur fungerar:
-
-- produktion
-- distribution
-- energi
-- råvaror
-- bostäder
-- vård
-- teknik
-- transporter
-
-utan att nya maktcentra uppstår?
-
-## Arbete
-
-Hur hanteras:
-
-- nödvändigt arbete
-- obehagligt arbete
-- specialistarbete
-- lågstatusarbete
-- kompetensbrist
-
-utan att frivillighet urholkas?
-
-## Skalning
-
-Fungerar samma principer vid:
-
-- 10 personer
-- 100 personer
-- 1 000 personer
-- 100 000 personer?
-
-## Kompetens
-
-Hur undviker man att rotation leder till:
-
-- inkompetens
-- onödig friktion
-- förlorad erfarenhet
-
-samtidigt som man undviker permanenta maktpositioner?
-
-## Ekologiska gränser
-
-Hur förenas:
-
-> trygghet för alla
-
-med:
-
-> begränsad planetär bärkraft?
-
-## Konflikt
-
-Vad händer när:
-
-- två legitima behov verkligen inte kan förenas?
-- någon vägrar kompromissa?
-- någon skadar andra?
-- någon missbrukar systemets frihet?
-
-Det är här verklighetstesterna blir avgörande.
+Kompost
+Systemet måste kunna minnas utan att automatiskt återinföra det förflutna.
 
 ---
 
-# 27. Den djupaste kartan
+33. Hur dokumenten hänger ihop
 
-På den djupaste nivån kan Flow förstås som ett försök att flytta samhällsdesignens grundfråga.
+Det går därför att läsa "10_svenska" som flera sammanlänkade rörelser:
 
-Den traditionella frågan blir ofta:
+VERKLIGHETEN
+     ↓
+Vad är verkligt?
+     ↓
+GRÄNSER
+     ↓
+Vad får systemet aldrig göra?
+     ↓
+BASLINJEN
+     ↓
+Vad krävs för faktisk trygghet och suveränitet?
+     ↓
+DELTAGANDE / FÖRTROENDE / RELATION
+     ↓
+Hur kan människor leva och samordna sig?
+     ↓
+FLOW-KULTUR / FLOW-ORIENTERING
+     ↓
+Hur blir detta en levande kultur?
+     ↓
+SKYDD / SEKRETESS / REFUGIUM
+     ↓
+Hur bär systemet människor när något går sönder?
+     ↓
+VERKLIGHETS- OCH OROPROTOKOLLET
+     ↓
+Hur vet vi när något faktiskt inte fungerar?
+     ↓
+EVOLUTIONSPROTOKOLL
+     ↓
+Hur ändrar vi systemet?
+     ↓
+COMPOSTANDGROWTH
+     ↓
+Hur minns vi det vi har varit?
 
-> **Vem ska bestämma?**
+Och parallellt med detta löper:
 
-Flow försöker i stället fråga:
+SEMANTISK INTEGRITET
 
-> **Hur konstruerar vi ett system där ingen behöver ha permanent rätt att bestämma över andra?**
+som ett skydd genom hela kedjan.
 
-Därefter kommer nästa fråga:
+Och bredvid hela den strukturella arkitekturen finns:
 
-> **Hur kan människor ändå fatta beslut tillsammans?**
+LIV
+GUDOMLIG
+BEKÄNNELSER
 
-Och därefter:
+som personlig, existentiell och metafysisk dimension.
 
-> **Hur kan de göra det utan att friheten försvinner?**
-
-Och därefter:
-
-> **Hur kan systemet upptäcka när dess egna lösningar börjar skapa det som de skapades för att förhindra?**
-
-Det sista är avgörande.
-
-För ett system kan mycket väl börja som anti-hierarkiskt och senare skapa:
-
-- informella eliter
-- tolkningseliter
-- teknokrater
-- informationsmonopol
-- sociala hierarkier
-- normpoliser
-
-Flow behöver därför inte bara skydd mot den gamla makten.
-
-Det behöver skydd mot:
-
-> **sin egen framgång.**
-
----
-
-# 28. Kartans kortaste form
-
-Om hela `10_svenska` måste komprimeras till en enda struktur kan den beskrivas så här:
-
-> **GRÄNSER skyddar människan.**
->
-> **Baslinjen skyddar existensen.**
->
-> **Cirklar skapar lokal samordning.**
->
-> **LOTUS distribuerar funktion och beslut.**
->
-> **Rotation hindrar funktion från att bli permanent makt.**
->
-> **Relationell infrastruktur gör konflikt hanterbar.**
->
-> **Semantisk integritet skyddar betydelserna.**
->
-> **Verklighetstestet hindrar systemet från att bli självrefererande.**
->
-> **Evolution gör förändring möjlig.**
->
-> **Compost bevarar minnet.**
->
-> **Lyceum ger plats för lärande och skapande.**
->
-> **Refugium ger plats för människor som behöver skydd.**
->
-> **Jorden sätter den materiella gränsen.**
->
-> **LIV och GUDOMLIG ger plats åt den personliga existentiella dimensionen utan att behöva bli tvångsmässig troslära.**
-
-Och genom allt:
-
-> **Du är trygg här. Du är inte skyldig någonting.**
+De behöver inte göras till governance för att få finnas.
 
 ---
 
-# 29. Status för kartan
+34. Den viktigaste läsnyckeln
 
-Den här kartan ska betraktas som:
+"10_svenska" bör inte läsas som:
 
-- ett orienteringsverktyg
-- en syntes
-- en arkitektonisk läsning
-- ett underlag för nästa analysfas
+«en bok med kapitel som alla säger samma sak.»
 
-Den ska inte betraktas som:
+Den bör läsas som:
 
-- en ersättning för originaldokumenten
-- en ny konstitution
-- ett slutgiltigt schema
-- ett bevis på att Flow fungerar
-- ett försök att stänga de frågor som fortfarande är öppna
+«ett ekosystem av texter med olika funktioner.»
 
-Nästa steg är därför inte automatiskt att skriva fler regler.
+Vissa dokument begränsar.
 
-Nästa steg är att undersöka:
+Vissa beskriver.
 
-> **Vad händer när den här arkitekturen möter verkligheten?**
+Vissa skyddar.
 
-Det innebär att nästa analys bör kunna gå från:
+Vissa bjuder in.
 
-**Vad säger Flow?**
+Vissa undersöker.
 
-till:
+Vissa organiserar.
 
-**Vad kräver Flow?**
+Vissa vittnar.
 
-och därefter:
+Vissa minns.
 
-**Vad förutsätter Flow?**
+Vissa försöker förstå vad som händer när allt detta möter verkligheten.
 
-och slutligen:
+Det är just skillnaden mellan dessa funktioner som gör att helheten kan hålla ihop utan att allting behöver reduceras till samma språk.
 
-**Vad händer om de förutsättningarna inte håller?**
+---
 
-Det är där nästa fas börjar.
+35. Den öppna loopen
+
+Flow är därför inte färdigt bara för att kartan är färdig.
+
+Kartan själv måste kunna visa:
+
+- vad som är fast
+- vad som är föränderligt
+- vad som är experiment
+- vad som är personligt
+- vad som är historiskt
+- vad som ännu inte är löst
+
+Den yttersta principen är därför inte:
+
+«"Detta är den färdiga modellen."»
+
+utan:
+
+«"Detta är vår nuvarande karta. Verkligheten får fortfarande ändra den."»
+
+---
+
+36. Kort sammanfattning
+
+Om hela "10_svenska" ska komprimeras till en enda rörelse:
+
+«LIV ger den existentiella horisonten.
+
+VERKLIGHETEN påminner om att kartan inte är landskapet.
+
+GRÄNSER skyddar människan från systemet.
+
+BASLINJEN gör suveräniteten materiellt möjlig.
+
+DELTAGANDE, FÖRTROENDE och RELATIONELL INFRASTRUKTUR gör gemensamt liv möjligt.
+
+SEMANTISK INTEGRITET skyddar orden och därmed betydelserna.
+
+SKYDD, SEKRETESS och REFUGIUM gör det möjligt att bära det som är sårbart.
+
+LYCEUM och FLOW-KULTUR gör lärande och skapande till en del av livet.
+
+VERKLIGHETS- OCH OROPROTOKOLLET låter verkligheten säga emot.
+
+EVOLUTIONSPROTOKOLLET låter systemet förändras.
+
+COMPOSTANDGROWTH låter systemet minnas utan att bli fångat av sitt förflutna.
+
+Och LIV, GUDOMLIG och BEKÄNNELSER får fortsätta vara det de är: personliga sätt att förstå och vittna om existensen, utan att behöva bli lag för någon annan.»
