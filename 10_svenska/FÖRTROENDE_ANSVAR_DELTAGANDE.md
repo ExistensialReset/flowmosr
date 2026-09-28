@@ -30,7 +30,7 @@ Ingen människa är skyldig att:
 
 Baslinjen är ovillkorlig.
 
-Att vara med i Flow innebär däremot att acceptera Flow:s grundläggande premisser, inklusive Liv, Baslinjen och Axiomen/Gränserna.
+Att vara med i Flow innebär däremot att acceptera Flow:s grundläggande premisser, inklusive Baslinjen och Axiomen/Gränserna.
 
 Förtroendeposter är inte en rättighet som någon måste använda.
 
