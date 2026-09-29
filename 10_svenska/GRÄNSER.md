@@ -40,4 +40,4 @@ Dessa axiom är ontologiska begränsningar. Ingen människa, råd, AI eller exte
 Axiomen får förfinas i förståelse, men inte försvagas i funktion.
 
 ## SLUTLIGT PÅSTÅENDE: 
-Inget system får påtvinga brådska som överskrider människans förmåga till överläggning. Artificiella deadlines som tvingar fram hastiga beslut kränker Flödet.
+Inget system får påtvinga brådska som överskrider människans förmåga till överläggning. Artificiella deadlines som tvingar fram hastiga beslut kränker Flow eller Flödet.
