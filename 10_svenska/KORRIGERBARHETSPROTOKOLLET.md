@@ -1,10 +1,10 @@
-# Korrigerbarhet
+# KORRIGERBARHETSPROTOKOLLET
 
 Flow ska kunna upptäcka när en struktur, praktik eller tolkning inte längre fungerar som avsett, ifrågasätta den, förändra den och vid behov kompostera den.
 
-Detta KORRIGERBARHETSPROTOKOLL.md gäller alla protokoll, utom systemets Axiom, det vill säga GRÄNSER.md/BOUNDARIES.md. 
+Detta KORRIGERBARHETSPROTOKOLL.md gäller alla protokoll, utom Axiomen, det vill säga GRÄNSER.md/BOUNDARIES.md. Detta beror på att det är reglerna för vad Flow inte får utsätta någon enda människa för. 
 
-Ingen struktur, utom Axiomen är undantagen från denna möjlighet – inte heller de strukturer som skapats för att skydda människor.
+Ingen struktur, utom Axiomen, är undantagen – inte heller de strukturer som skapats för att skydda människor.
 
 Korrigering får inte förutsätta att människan underordnar sig systemet.
 
