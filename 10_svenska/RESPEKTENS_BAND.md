@@ -2,6 +2,8 @@
 
 ### *Din frihet är min trygghet*
 
+*Din frihet upphäver inte min kroppsliga säkerhet.*
+
 Vi behöver inte vara lika för att vara enade.
 
 Du får vilja något annat än jag.  
