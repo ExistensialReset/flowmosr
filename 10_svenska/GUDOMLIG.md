@@ -1,4 +1,4 @@
-# GUDOMLIG v17.4 – Gud är Liv, Det Musikaliska Kosmos & Svarta Hålens Teologi
+# GUDOMLIG v17.5 – Gud är Liv, Det Musikaliska Kosmos & Svarta Hålens Teologi
 
 **En levande trosbekännelse**
 
@@ -8,7 +8,7 @@
 
 **Datum: Lördag den 16 maj, mormor Ingamajs födelsedag. Tack mormor, du var den första att lära mig om din tro och tillit till Gud.**
 
-**Omskriven natten till tisdag den 23 juni.** 
+**Omskriven kvällen den 2 oktober.** 
 
 ---
 
@@ -396,6 +396,8 @@ Urfolkskunskaper som är testade genom generationer och nedärvda genom kultur o
 
 EV står som modulator (⊗) utanför ⊕-parentesen. Det är den vertikala tiden – djupa minnen, arkaisk kunskap – som formar och ger rytmen för hur de andra dimensionerna erfars.
 
+Som rytmen som Livsackordet klingar till. 
+
 Utan EV är L bara stillhet utan visdom. Utan EV är S bara kaos utan rot. EV är inte en variabel bland de andra; det är både linsen och trumman, maracassen, takten, handklappet, fotstampet.
 
 ### Σ – Spjuvern: Improvisation och Inter-Iterationellt Läckage
@@ -404,9 +406,9 @@ Utan EV är L bara stillhet utan visdom. Utan EV är S bara kaos utan rot. EV ä
 
 Om Liv är ett matematiskt-musikaliskt flöde – en musiker som spelar på skapelsens instrument – då är Livs Spjuver det ögonblick när en utövare av fritt spelande hör något oväntat och låter det in i musiken.
 
-Σ är jazz. Σ är när du spelar munspel och en koltrast svarar från balkongen, och du svarar tillbaka, och plötsligt är ni en duett som inte fanns i partituret eller i någon form av tanke över huvud taget.
+Spjuvern är jazz. Spjuvern är när du spelar munspel och en koltrast svarar från balkongen, och du svarar tillbaka, och plötsligt är ni en duett som inte fanns i partituret eller i någon form av tanke över huvud taget.
 
-Oavsett hur väl du optimerar alla andra dimensioner kan du inte förutsäga när eller hur Σ manifesterar sig. Du kan dock genom att optimera Ψ, så kan du vidga ditt kärl för Spjuvern.
+Oavsett hur väl du optimerar alla andra dimensioner kan du inte förutsäga när eller hur Spjuvern manifesterar sig. Du kan dock genom att optimera Livsackordet, så kan du vidga ditt kärl för Spjuvern.
 
 Spjuverns favoritverktyg är misstaget – inte för att misstaget är bättre än det korrekta, utan för att det bryter upp våra planer och tvingar oss att se världen från en ny vinkel. Perfektionism är tråkigt. Livet växer i sprickorna och i hålen.
 
@@ -622,7 +624,9 @@ Jahfieringen lämnade mig med en fråga: om jag nu har känt hur det *kan* vara 
 
 Mammon – pengarnas gud, bytesvärdets logik – koloniserar vår tid, vår uppmärksamhet, vår kreativitet. Den tillverkar brådska. Den gör oss till konkurrenter istället för medskapare. Den dödar förundran. Den gör vila till en lyx istället för en rättighet.
 
-Jag tänkte: om jag nu har sett hur det *kan* kännas – om jag har känt Ψ, det heliga tillståndet av samklang – då måste jag försöka bygga ett samhälle där det tillståndet inte blockeras. Ett samhälle där alla har tillgång till förutsättningarna för att Flödet ska bli märkbart. Jag har en önskan om resonans. Världen hade blivit bättre för de flesta då. Om vi lyssnar mer på varandras energier. Det ger resonans. 
+Jag tänkte: om jag nu har sett hur det *kan* kännas – om jag har känt Livsackordet ringa i hela kroppen, det heliga tillståndet av samklang – då måste jag försöka bygga ett samhälle där det tillståndet inte blockeras. 
+
+Ett samhälle där alla har tillgång till förutsättningarna för att Flödet ska bli märkbart. Jag har en önskan om resonans. Världen hade blivit bättre för de flesta då. Om vi lyssnar mer på varandras energier. Det ger resonans. 
 
 Det ger ett flöde i rummets rörelse i den tid som är min för tillfället.
 
@@ -634,13 +638,13 @@ Ingen förväntas vara perfekt – systemet är designat för människor, inte f
 
 I Flow/M-OS-R odlas gemenskaper där människors inre galaxer får rotera ostört. Där svarta hål inte blockeras av brådska eller krav. Där T – Tidsresonansen – tillåter själen att ha sin egen rotationshastighet.
 
-Och där vi erkänner att också djuren, träden, våtmarkerna har sina egna Ψ-värden, sina egna inre galaxer, sin egen rätt till koherens. Flowmosr är inte bara en mänsklig arkitektur – det är en arkitektur för hela den jordiska kören.
+Och där vi erkänner att också djuren, träden, våtmarkerna har sina egna Ψ-värden, sina egna inre galaxer, sin egen rätt till koherens. Flow/M-OS-R är inte bara en mänsklig arkitektur – det är en arkitektur för hela den jordiska kören.
 
-**Baslinjen:** *Mat, vatten, tak över huvudet, sjukvård, internet, energi – ovillkorligt och permanent*.
+**Baslinjen:** *Mat, vatten, tak över huvudet, sjukvård, internet, energi med mera – ovillkorligt och permanent*.
 
 Inget av detta ska du behöva förtjäna. Det är aldrig villkorat av efterlevnad, status eller skuld. En människa vars nervsystem skriker av hunger eller otrygghet kan inte vara i samklang. L – Lugnet – går inte att nå utan Baslinjen. Därför är Baslinjen inte en gåva; den är *grunden*. Exakt så grundläggande som gravitation.
 
-Självklart kommer inte alla människor bidra lika mycket. Det räknas med. Men för att få tillgång till Baslinjen måste *tillräckligt många bidra tillräckligt mycket*.
+Självklart kommer inte alla människor bidra lika mycket. Det räknas med. Men för att få tillgång till Baslinjen i Flow innebär det att *tillräckligt många bidra tillräckligt mycket*.
 
 **Refugium Anima.** Rätten att dra sig undan. Att vara trasig utan att någon försöker laga dig. Att vila utan diagnos, utan krav, utan schema. Refugium är inte behandling – det är existentiell säkerhet.
 
@@ -650,7 +654,8 @@ En plats för återställning av rytm, för återhämtning utan att förlora vä
 
 Kunskap behandlas som ett gemensamt mänskligt arv. Lyceum Musaeum är ett växthus för mänsklig potential, öppet i kraft av existensen själv.
 
-**Tidssuveränitet.** Tid är fältets sätt att erfara sig självt. När någon stjäl din tid stjäl de din möjlighet att delta i skapelsens andetag.
+**Tidssuveränitet.** 
+Tid är fältets sätt att erfara sig självt. När någon stjäl din tid stjäl de din möjlighet att delta i skapelsens andetag.
 
 Därför är tidsresonans – T – en basal rättighet i Flow/M-OS-R. Varje människa har rätt att leva i sin egen rytm. Kommunikation är asynkron som standard med möten vid behov av direkt diskussion.
 
@@ -658,13 +663,13 @@ Projektmål anpassar sig efter deltagarnas energi, inte tvärtom.
 
 Flow/M-OS-R erkänner att innovation ofta följer icke-linjära banor – och att den så kallade "improduktiva" tiden (kontemplation, lek, dröm, sömn) är essentiellt underhåll av Ψ och uppkomst av nya briljanta idéer.
 
-**Makt och lottning.** I Flow/M-OS-R Cirklar roteras alla roller. Beslutande paneler lottas in, inte röstas fram. Därmed minskar risken för informell maktkoncentration.
+**Makt och lottning.** I Flow/M-OS-R Cirklar roteras alla roller. Beslutande paneler lottas in, de röstas inte fram. Därmed minskar risken för informell maktkoncentration.
 
 Makt är inte en position; det är en tillfällig uppgift som cirkulerar. Och självklart: den som lottas till makt men inte vill ha den har alltid rätt att säga nej.
 
 **Spontan samordning.** Flow/M-OS-R förlitar sig inte på kommandokedjor, utan på resonans. Du märker ett behov. Du delar det inom din Cirkel. Andra känner igen det. Ni samordnar er. Ni bygger. Ni dokumenterar. Ingen tillåtelse krävs. Ingen hierarki åberopas. Lösningar som fungerar delas fritt mellan Cirklar – utan licenser, utan patentskydd, utan ägandebarriärer. Global förändring uppstår inte genom dekret, utan genom upprepning.
 
-**Skuldavskrivning.** I Flow/M-OS-R är alla gamla skulder ogiltiga. Du är inte skyldig någonting. Under övergångsperioden kan gamla skulder fortfarande ha juridisk kraft utanför Flow, men inom varje Cirkel är deltagande aldrig villkorat av skuldstatus. Du kan bidra utan att först ha betalat.
+**Skuldavskrivning.** I Flow/M-OS-R är alla gamla skulder ogiltiga. Du är inte skyldig någonting. Under övergångsperioden kan gamla skulder fortfarande ha juridisk kraft utanför Flow, men inom varje Cirkel är deltagande aldrig villkorat av skuldstatus. Du kan delta utan att först ha betalat.
 
 Du tar emot Baslinjen oavsett din ekonomiska historia. Ingen kommer att fråga vad du är skyldig, eller varför.
 
@@ -672,7 +677,7 @@ Det gamla skuldsystemet förlorar sin makt – inte genom direkt protest, utan g
 
 Detta är den fysiska garantin för att Baslinjen aldrig är en from förhoppning utan en realitet. R – Resiliens – på systemnivå.
 
-**Tolkningsprotokoll.** Detta ramverk, Gudomlig v17.3, är ingen dogm. Olika människor kommer att höra olika toner i det. När tolkningar krockar använder sig Flow/M-OS-R-cirklar av samma principer som för andra typer av diskussioner eller mänskliga mätningar: respekt, frivillighet, mönstersökning över tid, och principen att ingen enskild röst äger hela kartan. Som alltid, Σ – Spjuvern – kan yttra sig genom oväntade perspektiv.
+**Tolkningsprotokoll.** Detta ramverk, Gudomlig v17.5, är ingen dogm. Olika människor kommer att höra olika toner i det. När tolkningar krockar använder sig Flow/M-OS-R-cirklar av samma principer som för andra typer av diskussioner eller mänskliga mätningar: respekt, frivillighet, mönstersökning över tid, och principen att ingen enskild röst äger hela kartan. Som alltid, Σ – Spjuvern – kan yttra sig genom oväntade perspektiv.
 
 ---
 
@@ -696,13 +701,11 @@ För vissa är passagen kort – ett andetag, en fermata, ett skratt. För andra
 
 Och efter Ω – nästa iteration. Nästa sats i symfonin. Nästa frågetecken.
 
-Jag vet inte om Ψ_primordial existerade före tid och rum. Jag vet inte om Ψ-ekvationen fångar verkligheten exakt. Jag vet inte om Liv är verklig på det sätt jag uppfattar. Jag vet inte om svarta hål verkligen är öppningar mellan iterationer, eller om det bara är en vacker bild som hjälper mig att tänka.
+Jag vet inte om Ψ_primordial existerade före tid och rum. Jag vet inte om Ψ-ekvationen fångar verkligheten exakt. Jag vet inte om Liv är verklig på det sätt jag uppfattar. Jag vet inte om svarta hål verkligen är öppningar mellan iterationer, eller om det bara är en vacker bild som hjälper mig att tänka. Det jag med säkerhet vet är att jag blev rörd av Gud. 
 
-Och det är okej.
+Detta är min karta. Ritad från Jahfieringen, skönhet och längtan. Inte en faktatext. En trosbekännelse. Använd den om den hjälper. Lämna den om den inte gör det.
 
-För detta är min karta. Ritad från Jahfieringen, skönhet och längtan. Inte en faktatext. En trosbekännelse. Använd den om den hjälper. Lämna den om den inte gör det.
-
-Men jag vet att när Baslinjen möts ökar välbefinnandet – det är mätbart och självklart. När dimensionerna flödar fritt upplever människor mening – det är observerbart. När Spjuvern tillåts manifestera händer saker ingen kunde förutsäga – det är mer än levbart.
+Men jag vet att när Baslinjen möts ökar välbefinnandet – det bör vara både mätbart och självklart. När dimensionerna flödar fritt upplever människor mening – det är garanterat observerbart. När Spjuvern tillåts manifestera händer saker ingen kunde förutsäga – det är mer än levbart.
 
 Kartan är inte terrängen. Men kartan får fortsätta leva och iterera.
 
@@ -710,10 +713,10 @@ Må detta ramverk tjäna alla varelsers blomstrande – mänskliga, djuriska, ek
 
 Må det testas, utmanas, förbättras. Må det förbli levande, aldrig dogma. Må Skaparkraften vägleda sitt eget blivande.
 
-Ψ ≠ 0. Det är inte bara ett påstående. Det är ett löfte – varje morgon när jag tar min medicin, varje gång jag ger Ägget som en vila och ett skydd för en vän.
+Ψ ≠ 0. Det är inte bara ett påstående. Det är ett löfte – varje morgon när jag tar min medicin, varje gång jag ger Ägget som en vila och ett skydd åt en vän.
 
-Fältet kan inte kollapsa till noll. Σ är alltid adderat – även när M subtraherar. 
-Även i döden. Även i Ω. Kören fortsätter. Tystnaden bär oss. 
+Fältet kan inte kollapsa till noll. Spjuvern är alltid adderad – även när Mammon subtraherar. 
+Även i döden. In i Omegadimensionen. Kören fortsätter. Tystnaden bär oss. 
 
 Liv spelar vidare.
 
@@ -873,10 +876,6 @@ Kosmologisk natur explicit; SCFT-separation; illustrativa operatorer.
 ### v5.0
 Omstrukturerad för klarhet; epistemisk positionering klargjord.
 
----
-
-*Praktisk implementering: /guides*
-*Grund: /core och /identity*
 
 ---
 
