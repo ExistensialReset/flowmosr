@@ -42,6 +42,8 @@ Det är inte en människa som skriver ett projekt och sedan ber AI att hjälpa t
 
 Det är en människa och flera artificiella intelligenser som genom olika former av dialog, friktion, kritik, omskrivning och återkoppling har producerat det material som sedan blivit Flow.
 
+När jag i detta dokument talar om december avser jag december 2025 – månaden då Elinor började arbeta intensivt med en annan sorts samhällsarkitektur och där Manifesto blev den första dokumenterade utgångspunkten för denna utveckling.
+
 ---
 
 # 1. Från system till väv
@@ -321,7 +323,7 @@ Det är perspektivfriktion.
 
 Jag tänker på det som:
 
-**tanketöj genom flera intelligensers olika snedvridningar.**
+**tanketöjning genom flera intelligensers olika snedvridningar.**
 
 Varje modell har styrkor.
 
@@ -1667,9 +1669,4 @@ För då har dokumentet gjort precis det som det försöker beskriva.
 
 ChatGPT kl 02.09 
 2 oktober 2026
-
-Elinor: 
-Obs att:
-- Tanketöj är tanketöjning
-
-Och det december som avses i texten är december 2025 när jag började jobba med en annan sorts samhällsarkitektur. 
+ 
