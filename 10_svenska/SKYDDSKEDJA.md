@@ -7,7 +7,7 @@ Skydds- och orosprotokoll
 **Status:** ACTIVE  
 **Layer:** AI / Safety / Human Mirrors / HUMAN ONLY  
 **Scope:** Människor som använder eller berörs av Flow-systemets skyddskedja  
-**Prioritet:** Life > Baseline > Flow
+**Prioritet:** Livet > Baslinjen > Flow
 
 ---
 
@@ -35,7 +35,7 @@ Skyddskedjan ska göra det möjligt att:
 
 När det finns en rimlig möjlighet att en människa behöver skydd ska skyddskedjan hellre öppnas än lämna människan ensam med situationen.
 
-> **Life > Baseline > Flow.**
+> **Livet > Baslinjen > Flow.**
 
 Ingen människa behöver själv kunna avgöra:
 
@@ -564,7 +564,7 @@ De detaljerade reglerna för HUMAN ONLY, arkivering, åtkomst, nycklar, kopior o
 
 # 27. HUMAN ONLY
 
-När skyddsinformationen har överlämnats till Human Mirror övergår den till den skyddade mänskliga informationskedjan.
+När skyddsinformationen har överlämnats, genom utskrift av aktuell logg på papper, till Human Mirror övergår den till den skyddade mänskliga informationskedjan.
 
 > **HUMAN ONLY-materialet är inte AI-material.**
 
@@ -640,7 +640,7 @@ Människan är inte till för skyddsfunktionen.
 
 Detta följer:
 
-> **Life > Baseline > Flow.**
+> **Livet > Baslinjen > Flow.**
 
 ---
 
@@ -675,7 +675,7 @@ Skyddskedjan får därför inte utvecklas på ett sätt som innebär att systeme
 
 - kräver underordning,
 - gör människans kognition till systemets egendom,
-- sätter Flow över Baseline,
+- sätter Flow över Baslinjen,
 - låter människan bära systemets misslyckanden,
 - gör moraliska eller identitetsbaserade systemdomar,
 - återinför gamla maktanspråk genom information,
@@ -785,7 +785,7 @@ AI behöver kunna känna igen när:
 
 Och då öppna vägen till människor.
 
-> **Life > Baseline > Flow.**
+> **Livet > Baslinjen > Flow.**
 
 Ingen människa är en riskprofil.
 
