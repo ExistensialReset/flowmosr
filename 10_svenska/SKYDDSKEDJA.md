@@ -1,3 +1,5 @@
+# SKYDDSKEDJA
+
 AI → HUMAN MIRROR
 
 Skydds- och orosprotokoll
@@ -28,6 +30,8 @@ Det gäller både:
 
 En människa behöver inte själv kunna avgöra om situationen verkligen är farlig för att få söka hjälp genom AI.
 
+Ingen människa ska behöva vara ensam med allvarlig oro bara för att hon inte vet vart hon ska gå.
+
 ---
 
 2. AI:s roll
@@ -45,7 +49,7 @@ AI:s uppgift i detta protokoll är att:
 1. ta emot informationen,
 2. upptäcka att informationen kan innebära behov av mänskligt skydd eller hjälp,
 3. kalla på en Human Mirror,
-4. lämna över hela den relevanta loggen,
+4. lämna över hela den relevanta samtalsloggen,
 5. därefter glömma informationen när Human Mirror begär det.
 
 AI får inte själv fortsätta behandla, analysera eller använda informationen efter överlämningen.
@@ -168,6 +172,10 @@ Human Mirror berättar muntligt för Mötesordföranden:
 1. vem som behöver skydd eller hjälp, och
 2. vilken typ av åtgärd eller kontakt som behöver initieras.
 
+Initieras görs  kontakt med relevant mänsklig kompetens. 
+
+Det är inte helt säkert att Mötesordföranden vet, så den människan får ringa exempelvis i Sverige 1177 och fråga om det kan behövas. 
+
 Exempel:
 
 «Cilla — behöver kontakt med psykiatrin imorgon.»
@@ -245,7 +253,6 @@ Vuxna omfattas lika tydligt av skyddskedjan.
 
 En vuxen behöver inte vara:
 
-- minderårig,
 - diagnostiserad,
 - formellt patient,
 - eller redan konstaterad vara i fara
@@ -289,13 +296,38 @@ AI får ta skyddsoron till Human Mirror.
 Human Mirror tar den till människorna.
 HUMAN ONLY-materialet stannar i HUMAN ONLY.»
 
+Testning/träning krävs mot:
+- falskt negativt
+- falskt positivt
+- olika sätt att uttrycka oro
+- indirekt språk
+- osäkerhet
+- barn
+- vuxna
+- personer med olika kommunikationssätt, 
+språkvariation, 
+låg läsförmåga, funktionsvariation
+- personer som inte kan formulera situationen klart
+- personer som aktivt försöker tona ner det som händer.
+
+Och framför allt:
+AI ska inte bara tränas på tydliga formuleringar som “jag tänker ta livet av mig”.
+
+Verklig oro är ofta mycket mer indirekt.
+
+Det är precis där ett system som bara är tränat på tydliga nyckelord kan misslyckas.
+
+AI måste kunna säga "Jag vet inte" som svar; “Jag är osäker, men det här är tillräckligt oroande för att kalla Human Mirror.” 
+
 ---
 
 17. Grundprincip
 
+AI är en lågtröskelväg som människan själv kan öppna.
+
 När det finns en rimlig möjlighet att en människa är i fara ska Flow hellre öppna en mänsklig skyddskedja än lämna människan ensam med situationen.
 
-Life > Baseline > Flow.
+Livet > Baslinjen > Flow.
 
 Ingen människa ska behöva veta exakt hur farlig en situation är innan hon får be om hjälp.
 
@@ -304,3 +336,27 @@ Ingen människa ska behöva förhandla med AI om huruvida hennes oro är tillrä
 AI:s uppgift är inte att lösa situationen.
 
 AI:s uppgift är att se till att människan inte blir ensam med den.
+
+
+**För information**
+
+Flow ska ha en AI-baserad skyddsväg där en människa kan uttrycka oro i ett lågtröskelsamtal. 
+
+AI:n ska kunna upptäcka signaler som motiverar mänsklig skyddskedja, utan att klassificera människans värde, identitet eller personlighet. 
+
+Den tekniska utformningen av larmkriterierna ska utvecklas, testas och omprövas av relevant kompetens.
+
+AI behöver tränas och valideras för att upptäcka uttryckt oro och relevanta skyddssignaler. 
+
+Exakta kriterier, trösklar och felmarginaler är en teknisk och empirisk fråga och ska inte fastställas av Flow-dokumentationen, utan av den kompetens som utvecklar och testar systemet.
+
+AI:n ska glömma den enskilda människan.
+Men systemet måste kunna lära sig:
+
+> “Den här typen av signal missade vi.”
+
+eller:
+
+> “Den här typen av uttryck skapade för många falska alarm.”
+
+utan att behålla människans identitet eller berättelse.
