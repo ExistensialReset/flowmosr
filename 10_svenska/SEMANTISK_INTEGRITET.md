@@ -130,6 +130,11 @@ Varje begrepp definieras av sin funktion i relation till livet.
 
 ### 3.1 Liv
 
+- Liv som egennamn i GUDOMLIG/LIV = min gudsbeteckning/personliga kosmologiska term.
+- livet/liv i arkitekturens övriga språk = levande varelser och levande system.
+- Livet kan ibland vara ett samlingsbegrepp för allt levande.
+- Flow får inte automatiskt anta att dessa betydelser är identiska.
+
 **Liv är allt som lever.**
 
 Liv omfattar människor, djur, växter, mikroorganismer och alla levande system som deltar i jordens ekologiska väv.
