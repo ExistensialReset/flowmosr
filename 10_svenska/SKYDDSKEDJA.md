@@ -60,7 +60,7 @@ AI är en möjlig ingång om personen inte väljer att tala direkt med någon m�
 
 Human Mirror är den mänskliga informationsbron. 
 
-Mötesordföranden är den som bedömer eventuellt omedelbart skyddsbehov och faktisk åtgärd som situationen sedan kräver.
+Mötesordföranden är den som bedömer eventuellt omedelbart skyddsbehov. Dessutom, faktisk åtgärd som situationen sedan kräver.
 
 AI är *inte* den slutliga mottagaren av skyddsansvaret.
 
@@ -279,7 +279,7 @@ Human Mirror ska kunna skilja mellan:
 - vad som är AI:s tolkning,
 - och vad som ännu inte är känt.
 
-AI/Human Mirror får *inte lägga till* egna påståenden om vad som "egentligen" har hänt.
+AI eller Human Mirror får *inte lägga till* egna påståenden om vad som "egentligen" har hänt.
 
 ---
 
@@ -326,7 +326,7 @@ Mötesordföranden beslutar om eventuellt direkt skydd för den som behöver sky
 
 Det kan vara t ex under nattetid innan vårdmottagningar/juridikrådgivning/eller andra samhällsfunktioner "vaknat". 
 
-Refugium Anima och andra allmänna lokaler kan användas för skydd, så länge det finns iallafall en annan människa där, som den som behöver skyddas kan vända sig till, om rädslan blir stor. 
+Refugium Anima och andra allmänna lokaler kan användas för skydd, så länge det finns i alla fall en annan människa där, som den som behöver skyddas kan vända sig till, om rädslan blir stor. 
 
 ---
 
