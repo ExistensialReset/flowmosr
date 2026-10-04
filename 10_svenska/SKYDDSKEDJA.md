@@ -1,6 +1,6 @@
 # SKYDDSKEDJA
 
-## Människa → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp 
+## Mänsklig oro → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp 
 
 Skydds- och orosprotokoll
 
@@ -13,7 +13,7 @@ Skydds- och orosprotokoll
 
 # 1. SYFTE
 
-Detta protokoll beskriver den skyddskedja som öppnas när en människa berättar för AI om en situation där det finns en rimlig möjlighet att en människa behöver skydd, akut hjälp eller annan kvalificerad mänsklig insats.
+Detta protokoll beskriver den skyddskedja som öppnas när en människa berättar för AI om en situation, där det finns en rimlig möjlighet att en människa behöver skydd, akut hjälp eller annan kvalificerad mänsklig insats.
 
 Syftet är inte att AI ska lösa situationen.
 
@@ -54,13 +54,15 @@ Osäkerhet är inte ett hinder för att öppna skyddskedjan.
 
 Skyddskedjan består av följande steg:
 
-> Människa → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp **
+> Mänsklig oro → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp **
 
 AI är en möjlig ingång om personen inte väljer att tala direkt med någon människa.
 
 Human Mirror är den mänskliga informationsbron. 
 
-Mötesordföranden är den som bedömer eventuellt omedelbart skyddsbehov. Dessutom, faktisk åtgärd som situationen sedan kräver.
+Mötesordföranden är den som bedömer eventuellt omedelbart skyddsbehov. 
+
+Dessutom måste relevant mänsklig kompetens bedöma vilken faktisk åtgärd som situationen sedan kräver, eventuellt i samråd med människan som behöver skyddas.
 
 AI är *inte* den slutliga mottagaren av skyddsansvaret.
 
@@ -189,7 +191,7 @@ Aktivering av skyddskedjan är *inte* ett konstaterande av:
 
 # 9. INGEN FÖRHANDLING OM SKYDDETS AKTIVERING
 
-När skyddskedjans kriterier är uppfyllda ska AI inte förhandla med människan om huruvida Human Mirror får kontaktas.
+När det finns tillräckliga skäl att öppna den mänskliga skyddsfunktionen ska AI inte förhandla med människan om huruvida Human Mirror får kontaktas.
 
 Människan kan säga:
 
