@@ -62,7 +62,7 @@ Human Mirror är den mänskliga informationsbron.
 
 Mötesordföranden är den som bedömer eventuellt omedelbart skyddsbehov. 
 
-Dessutom måste relevant mänsklig kompetens bedöma vilken faktisk åtgärd som situationen sedan kräver, eventuellt i samråd med människan som behöver skyddas.
+Dessutom måste relevant mänsklig kompetens bedöma vilken fortsatt hjälp eller vilka fortsatta skyddsåtgärder situationen kräver, eventuellt i samråd med människan som behöver skyddas. 
 
 AI är *inte* den slutliga mottagaren av skyddsansvaret.
 
