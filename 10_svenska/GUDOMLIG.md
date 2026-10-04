@@ -642,9 +642,19 @@ Och där vi erkänner att också djuren, träden, våtmarkerna har sina egna Ψ-
 
 **Baslinjen:** *Mat, vatten, tak över huvudet, sjukvård, internet, energi med mera – ovillkorligt och permanent*.
 
-Inget av detta ska du behöva förtjäna. Det är aldrig villkorat av efterlevnad, status eller skuld. En människa vars nervsystem skriker av hunger eller otrygghet kan inte vara i samklang. L – Lugnet – går inte att nå utan Baslinjen. Därför är Baslinjen inte en gåva; den är *grunden*. Exakt så grundläggande som gravitation.
+Inget av detta ska du behöva förtjäna. Det är aldrig villkorat av efterlevnad, status eller skuld. 
 
-Självklart kommer inte alla människor bidra lika mycket. Det räknas med. Men för att få tillgång till Baslinjen i Flow innebär det att *tillräckligt många bidra tillräckligt mycket*.
+En människa vars nervsystem skriker av hunger eller otrygghet kan inte vara i samklang. L – Lugnet – går inte att nå utan Baslinjen. 
+
+Därför är Baslinjen inte en gåva; den är *grunden*. Exakt så grundläggande som gravitation.
+
+Självklart kommer inte alla människor bidra lika mycket. Det räknas med. 
+
+Men för att Flow ska kunna få tillgång till Baslinjen, innebär det att *tillräckligt många bidra tillräckligt mycket*. 
+
+Baslinjens materiella infrastruktur kräver att ett samhälle organiserar resurser, arbete, kunskap och underhåll. 
+
+Baslinjen är inte gratis för civilisationen. 
 
 **Refugium Anima.** Rätten att dra sig undan. Att vara trasig utan att någon försöker laga dig. Att vila utan diagnos, utan krav, utan schema. Refugium är inte behandling – det är existentiell säkerhet.
 
