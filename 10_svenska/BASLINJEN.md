@@ -6,6 +6,10 @@
 
 ---
 
+Baslinjen kräver att människor arbetar för att Baslinjen ska existera.
+
+--- 
+
 ## 1. Vad Baslinjen är
 
 Baslinjen är axiom 3 i Gränser:  
