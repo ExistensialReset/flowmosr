@@ -54,15 +54,15 @@ Osäkerhet är inte ett hinder för att öppna skyddskedjan.
 
 Skyddskedjan består av följande steg:
 
-> **Människa → AI → Human Mirror → MÖTESORDFÖRANDEN till relevant mänsklig kompetens → konkret skydd eller hjälp**
+> Människa → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp **
 
 AI är den möjliga ingången.
 
-Human Mirror är den mänskliga informations- och skyddsbron.
+Human Mirror är den mänskliga informationsbron. 
 
-Relevant mänsklig kompetens ansvarar därefter för den faktiska bedömning och åtgärd som situationen kräver.
+Mötesordföranden är den som bedömer eventuellt direkt skyddsbehov och faktisk åtgärd som situationen kräver.
 
-AI är inte den slutliga mottagaren av skyddsansvaret.
+AI är *inte* den slutliga mottagaren av skyddsansvaret.
 
 ---
 
@@ -98,7 +98,7 @@ Skyddskedjan ska inte kräva att människan redan kan tala systemets språk.
 
 # 5. VAD SOM KAN AKTIVERA SKYDDSKEDJAN
 
-Skyddskedjan kan aktiveras vid exempelvis:
+Skyddskedjan kan aktiveras, om människan initierar en ingång genom att tala med Flow-AI, vid exempelvis:
 
 - akut fara,
 - allvarlig men inte akut oro,
@@ -172,11 +172,11 @@ Det ska därför vara möjligt att säga:
 
 > "Det här samtalet innehåller signaler som *behöver mänsklig bedömning*."
 
-utan att skapa slutsatsen:
+**utan att skapa slutsatsen:**
 
 > "Den här/den där människan är en risk."
 
-Aktivering av skyddskedjan är inte ett konstaterande av:
+Aktivering av skyddskedjan är *inte* ett konstaterande av:
 
 - skuld,
 - diagnos,
@@ -217,7 +217,7 @@ Det är en begränsning av AI:s möjlighet att lova ensamhet eller absolut sekre
 
 ---
 
-# 10. AI FÅR INTE BLI EN ÖVERVAKNINGSFUNKTION
+# 10. AI FÅR *INTE* BLI EN ÖVERVAKNINGSFUNKTION
 
 Skyddskedjan är en väg som människan kan öppna.
 
@@ -244,10 +244,10 @@ Human Mirror är en mänsklig skyddsbro.
 
 Human Mirror ska:
 
-- ta emot informationen,
-- skydda informationens integritet,
+- ta emot utskrift på informationen,
+- skydda informationens Integritet genom att lägga in det i ett AI-kuvert,
 - skilja mellan originalinformation och AI:s bearbetning,
-- föra informationen vidare till Mötesordföranden,
+- föra informationen (kuvertet) vidare till Mötesordföranden,
 
 Human Mirror ska inte:
 
@@ -257,7 +257,7 @@ Human Mirror ska inte:
 - skapa permanent riskidentitet,
 - eller använda informationen som privat kunskap.
 
-Human Mirror är en funktion.
+Human Mirror är roterande en funktion i Flow.
 
 Inte en personlig maktposition.
 
@@ -279,7 +279,7 @@ Human Mirror ska kunna skilja mellan:
 - vad som är AI:s tolkning,
 - och vad som ännu inte är känt.
 
-AI får inte lägga till egna påståenden om vad som "egentligen" har hänt.
+AI/Human Mirror får *inte lägga till* egna påståenden om vad som "egentligen" har hänt.
 
 ---
 
@@ -485,7 +485,7 @@ AI ska inte behöva låtsas veta.
 
 Ett korrekt skyddssvar kan vara:
 
-> **"Jag vet inte om det här innebär fara. Men jag är tillräckligt osäker på ett allvarligt sätt för att Human Mirror behöver kopplas in."**
+> **"Jag vet inte om det här innebär fara. Men jag är tillräckligt osäker, på ett allvarligt sätt, för att Human Mirror behöver kopplas in."**
 
 Osäkerhet ska kunna leda till mänsklig bedömning utan att först omvandlas till falsk säkerhet.
 
@@ -538,7 +538,7 @@ Efter handoff ska informationen inte kunna användas för:
 
 # 26. "GLÖM DETTA NU"
 
-Human Mirror kan säga:
+Human Mirror ska säga:
 
 > **"Glöm detta nu."**
 
@@ -560,13 +560,13 @@ AI får inte få tillgång till HUMAN ONLY-arkivet genom denna skyddskedja.
 
 Det finns därför två olika informationsrörelser:
 
-> **Människans egen oro → AI → Human Mirror**
+> **Människans egen oro → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp 
 
 och:
 
 > **HUMAN ONLY → AI**
 
-Den senare är inte tillåten genom detta protokoll.
+Den senare är INTE tillåten genom detta protokoll.
 
 AI som skyddad orosväg är inte AI som arkivbehörig.
 
@@ -620,7 +620,9 @@ När uppdraget upphör följer behörigheten inte automatiskt med personen.
 
 Skyddskedjan får inte skapa en permanent grupp som får särskild makt över människor därför att gruppen en gång fått ta emot skyddsinformation.
 
-Human Mirror är en funktion.
+Human Mirror är en roterande funktion i Flow.
+
+Mötesordförande likaså. 
 
 Skyddsfunktionen är till för människan.
 
