@@ -1,6 +1,6 @@
 # SKYDDSKEDJA
 
-## AI → HUMAN MIRROR → MÄNSKLIGT SKYDD
+## Människa → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp 
 
 Skydds- och orosprotokoll
 
@@ -54,7 +54,7 @@ Osäkerhet är inte ett hinder för att öppna skyddskedjan.
 
 Skyddskedjan består av följande steg:
 
-> **Människa → AI → Human Mirror → relevant mänsklig kompetens → konkret skydd eller hjälp**
+> **Människa → AI → Human Mirror → MÖTESORDFÖRANDEN till relevant mänsklig kompetens → konkret skydd eller hjälp**
 
 AI är den möjliga ingången.
 
@@ -81,7 +81,7 @@ Människan kan berätta:
 
 Hon behöver inte formulera sig korrekt.
 
-Hon behöver inte använda ord som:
+Hon behöver *inte* använda ord som:
 
 - fara,
 - våld,
@@ -113,11 +113,11 @@ Skyddskedjan kan aktiveras vid exempelvis:
 - oro för en annan människas säkerhet,
 - eller annan situation där mänskligt skydd eller kvalificerad hjälp kan behövas.
 
-Det krävs inte att AI kan fastställa vilken kategori situationen tillhör.
+*Det krävs inte att AI kan fastställa vilken kategori situationen tillhör*.
 
 ---
 
-# 6. OSÄKERHET ÄR TILLÅTEN
+# 6. OSÄKERHET FRÅN AI ÄR TILLÅTEN
 
 AI ska kunna säga:
 
@@ -125,7 +125,7 @@ AI ska kunna säga:
 
 Osäkerhet ska inte automatiskt leda till passivitet.
 
-AI ska inte behöva veta att fara föreligger för att kunna konstatera att situationen bör föras vidare till mänsklig kompetens.
+AI ska *inte behöva veta att fara föreligger* för att kunna konstatera att situationen bör föras vidare till mänsklig kompetens.
 
 ---
 
@@ -151,7 +151,7 @@ AI är inte:
 - disciplinorgan,
 - eller riskklassificerare av människor.
 
-AI får inte avgöra att en människa är:
+AI får *inte* avgöra att en människa är:
 
 - farlig,
 - skyldig,
@@ -170,11 +170,11 @@ Den får inte förvandla situationen till en identitet.
 
 Det ska därför vara möjligt att säga:
 
-> "Det här samtalet innehåller signaler som behöver mänsklig bedömning."
+> "Det här samtalet innehåller signaler som *behöver mänsklig bedömning*."
 
 utan att skapa slutsatsen:
 
-> "Den här människan är en risk."
+> "Den här/den där människan är en risk."
 
 Aktivering av skyddskedjan är inte ett konstaterande av:
 
@@ -207,13 +207,13 @@ eller:
 
 > "Det är nog inte så farligt."
 
-Detta hindrar inte aktivering när skyddskedjan bedömer att mänsklig skyddsfunktion behöver kopplas in.
+Detta hindrar *inte* aktivering när AI bedömer att mänsklig skyddsfunktion behöver kopplas in.
 
 Detta är inte ett undantag från människans värdighet.
 
 Det är en begränsning av AI:s möjlighet att lova ensamhet eller absolut sekretess när situationen kan kräva mänskligt skydd.
 
-AI får däremot aldrig använda denna princip som tillåtelse att sprida information fritt.
+**AI får däremot aldrig använda denna princip som tillåtelse att sprida information fritt.**
 
 ---
 
@@ -223,7 +223,7 @@ Skyddskedjan är en väg som människan kan öppna.
 
 Den är inte ett system för att söka efter människor att ingripa mot.
 
-AI ska inte:
+AI ska **inte**:
 
 - leta efter människor att rapportera,
 - bygga riskprofiler,
@@ -247,8 +247,7 @@ Human Mirror ska:
 - ta emot informationen,
 - skydda informationens integritet,
 - skilja mellan originalinformation och AI:s bearbetning,
-- föra informationen vidare enligt rätt informationsnivå,
-- och se till att situationen når relevant mänsklig kompetens.
+- föra informationen vidare till Mötesordföranden,
 
 Human Mirror ska inte:
 
@@ -266,9 +265,9 @@ Inte en personlig maktposition.
 
 # 12. ORIGINALINFORMATIONEN SKA BEVARAS
 
-När skyddskedjan aktiveras ska Human Mirror kunna ta del av den relevanta ursprungliga konversationen.
+När skyddskedjan aktiveras ska Human Mirror kunna ta del av den *relevanta ursprungliga konversationen*.
 
-AI:s egen sammanfattning får inte ersätta originalinformationen när originalet behövs för att förstå situationen.
+AI:s egen sammanfattning får *inte ersätta* originalinformationen när originalet behövs för att förstå situationen.
 
 Detta skyddar mot att AI:s tolkning blir den enda berättelsen om vad människan sagt.
 
@@ -317,26 +316,15 @@ och inte en persons allmänna Flow-status.
 
 ---
 
-# 15. HUMAN MIRROR TILL RELEVANT MÄNSKLIG KOMPETENS
+# 15. HUMAN MIRROR TILL MÖTESORDFÖRANDEN 
 
 Human Mirror ska inte behöva själv kunna lösa den situation som har uppstått.
 
-Human Mirror identifierar vilken mänsklig funktion eller kompetens som behöver kontaktas.
+Human Mirror lämnar utskriften av `AI - människa` till Mötesordföranden. 
 
-Det kan exempelvis handla om:
+Mötesordföranden beslutar om eventuellt direkt skydd för den som behöver skyddas. Det kan vara t ex under nattetid innan vårdmottagningar/juridikrådgivning/eller andra samhällsfunktioner "vaknat". 
 
-- hälso- och sjukvård,
-- psykiatrisk kompetens,
-- socialt stöd,
-- barnskydd,
-- akut skydd,
-- beroendevård,
-- juridisk kompetens,
-- eller annan relevant mänsklig funktion.
-
-Vilken konkret åtgärd som är lämplig avgörs av den kompetens som faktiskt ansvarar för den typen av situation.
-
-Flow ska inte försöka ersätta sådan kompetens med ett eget generellt skyddsbeslut.
+Refugium Anima och andra allmänna lokaler kan användas för skydd, så länge det finns iallafall en annan människa där som den som behöver skyddas kan vända sig till om rädslan blir stor. 
 
 ---
 
@@ -444,7 +432,7 @@ Om en rapport senare visar sig vara fel ska detta kunna korrigeras utan att män
 
 ---
 
-# 21. FALSE POSITIVE OCH FALSE NEGATIVE
+# 21. FALSK POSITIV OCH FALSK NEGATIV
 
 Skyddskedjan måste utvecklas och testas mot både:
 
@@ -753,13 +741,15 @@ Men skyddsansvaret ska till slut landa hos människor med relevant kompetens.
 
 Skyddskedjan kan sammanfattas så här:
 
+Människa → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp
+
 > **Människan får ta sin oro till AI.**
 >
 > **AI får ta skyddsoron till Human Mirror.**
 >
-> **Human Mirror tar den vidare till relevant mänsklig kompetens.**
+> **Human Mirror tar den vidare till Mötesordföranden.**
 >
-> **Relevant mänsklig kompetens bedömer vilken hjälp eller vilket skydd som behövs.**
+> **Mötesordföranden tar kuvertet till relevant mänsklig kompetens, som bedömer vilken hjälp eller vilket skydd som behövs.**
 >
 > **HUMAN ONLY-materialet stannar i HUMAN ONLY.**
 >
@@ -769,7 +759,7 @@ Skyddskedjan kan sammanfattas så här:
 
 # 38. SLUTSATS
 
-Skyddskedjan finns inte för att Flow ska kunna kontrollera människor bättre.
+Skyddskedjan finns inte för att Flow ska kunna kontrollera människor.
 
 Den finns för att en människa inte ska behöva vara ensam när situationen kräver mer än en AI kan eller bör bära.
 
