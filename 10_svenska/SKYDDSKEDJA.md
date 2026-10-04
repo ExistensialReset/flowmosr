@@ -56,11 +56,11 @@ Skyddskedjan består av följande steg:
 
 > Människa → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp **
 
-AI är den möjliga ingången.
+AI är en möjlig ingång om personen inte väljer att tala direkt med någon människa.
 
 Human Mirror är den mänskliga informationsbron. 
 
-Mötesordföranden är den som bedömer eventuellt direkt skyddsbehov och faktisk åtgärd som situationen kräver.
+Mötesordföranden är den som bedömer eventuellt omedelbart skyddsbehov och faktisk åtgärd som situationen sedan kräver.
 
 AI är *inte* den slutliga mottagaren av skyddsansvaret.
 
@@ -244,9 +244,9 @@ Human Mirror är en mänsklig skyddsbro.
 
 Human Mirror ska:
 
-- ta emot utskrift på informationen,
-- skydda informationens Integritet genom att lägga in det i ett AI-kuvert,
-- skilja mellan originalinformation och AI:s bearbetning,
+- ta emot utskrift på informationen dvs samtalsloggen,
+- skydda informationens integritet genom att lägga in det i ett A4-kuvert,
+- *skilja mellan originalinformation och AI:s bearbetning*,
 - föra informationen (kuvertet) vidare till Mötesordföranden,
 
 Human Mirror ska inte:
@@ -320,11 +320,13 @@ och inte en persons allmänna Flow-status.
 
 Human Mirror ska inte behöva själv kunna lösa den situation som har uppstått.
 
-Human Mirror lämnar utskriften av `AI - människa` till Mötesordföranden. 
+Human Mirror lämnar utskriften av `Flow-AI - människa` till Mötesordföranden. 
 
-Mötesordföranden beslutar om eventuellt direkt skydd för den som behöver skyddas. Det kan vara t ex under nattetid innan vårdmottagningar/juridikrådgivning/eller andra samhällsfunktioner "vaknat". 
+Mötesordföranden beslutar om eventuellt direkt skydd för den som behöver skyddas. 
 
-Refugium Anima och andra allmänna lokaler kan användas för skydd, så länge det finns iallafall en annan människa där som den som behöver skyddas kan vända sig till om rädslan blir stor. 
+Det kan vara t ex under nattetid innan vårdmottagningar/juridikrådgivning/eller andra samhällsfunktioner "vaknat". 
+
+Refugium Anima och andra allmänna lokaler kan användas för skydd, så länge det finns iallafall en annan människa där, som den som behöver skyddas kan vända sig till, om rädslan blir stor. 
 
 ---
 
@@ -367,15 +369,15 @@ Efter den akuta situationen ska det finnas möjlighet att undersöka:
 
 ---
 
-# 18. BARN
+# 18. BARN & UNGDOM 
 
-Barn omfattas av skyddskedjan.
+Barn och ungdomar omfattas av skyddskedjan.
 
 Barnskyddets särskilda regler gäller parallellt med detta protokoll.
 
 Barnets berättelse ska inte förvandlas till ett fritt cirkulerande informationsobjekt.
 
-När barn berörs ska särskild hänsyn tas till:
+När barn eller ungdom berörs ska särskild hänsyn tas till:
 
 - barnets säkerhet,
 - barnets egen röst,
@@ -471,7 +473,7 @@ Flow fastställer inte själv exakta tekniska:
 - valideringsmetoder,
 - eller larmalgoritmer.
 
-Sådana frågor ska utvecklas, testas och granskas av relevant teknisk, säkerhetsmässig, juridisk och mänsklig kompetens.
+Sådana frågor ska utvecklas, testas och granskas av relevant teknisk, säkerhetsmässig, juridisk och mänsklig kompetens gärna i samarbete med Flow.
 
 Flow anger här vilken funktion systemet ska ha och vilka gränser funktionen måste respektera.
 
@@ -562,13 +564,13 @@ Det finns därför två olika informationsrörelser:
 
 > **Människans egen oro → AI → Human Mirror → Mötesordförande → [omedelbart skydd vid behov] → relevant mänsklig kompetens → fortsatt skydd/hjälp 
 
-och:
+och den förbjudna:
 
 > **HUMAN ONLY → AI**
 
-Den senare är INTE tillåten genom detta protokoll.
+Den senare är INTE tillåten genom detta eller något annat protokoll.
 
-AI som skyddad orosväg är inte AI som arkivbehörig.
+AI som skyddad orosväg är **inte** AI som arkivbehörig.
 
 ---
 
