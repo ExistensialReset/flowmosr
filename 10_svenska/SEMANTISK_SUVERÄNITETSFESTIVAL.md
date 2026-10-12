@@ -6,9 +6,9 @@
 
 Vi vet inte om den här festivalen kommer att göra Flow friare eller bli ytterligare ett sätt att styra människor. Därför måste även festivalen utsättas för samma undersökning som den utför.
 
-Om du upptäcker att vi har fel, behöver du inte först ha rätt för att få säga det.
+Om du upptäcker att jag har fel, behöver du inte först ha rätt för att få säga det.
 
-> Vi vet inte ens om vårt sätt att skydda Flow är ett nytt sätt att kontrollera människor.
+> Jag vet inte ens om detta sätt att skydda Flow är ett nytt sätt att kontrollera människor.
 
 ---
 
@@ -369,13 +369,14 @@ Skapa medvetet situationer där två goda principer krockar.
 
 Till exempel:
 
-- individuell frihet och gemensam Baseline
+- individuell frihet och gemensam Baslinje
 - spontanitet och säkerhet
 - integritet och transparens
 - långsamhet och akut handling
 - lokal autonomi och gemensam erfarenhet
 - vila och deltagande
 - anonymitet och möjligheten att undersöka ett allvarligt problem
+- frivilliga gåvor i form av arbete och Baslinjen 
 
 Målet är inte att alltid lösa paradoxen.
 
@@ -539,7 +540,6 @@ Semantisk Suveränitetsfestivalen är inte immun mot Semantisk Suveränitet.
 Om festivalen börjar bli:
 
 - elitistisk
-- dyr
 - otillgänglig
 - prestationsinriktad
 - tråkig
@@ -547,6 +547,7 @@ Om festivalen börjar bli:
 - auktoritär
 - ”rätt” på ett sätt som gör andra tysta
 - ett krav på deltagande
+- icke-inkluderande 
 
 ska även festivalen kunna undersökas.
 
@@ -558,7 +559,7 @@ Kanske behöver den komposteras.
 
 Det vore inte ett misslyckande.
 
-Det vore festivalen som fungerar.
+Det vore på sitt sätt att festivalen  fungerar.
 
 ---
 
@@ -639,3 +640,5 @@ Att kunna upptäcka det som blivit så normalt att ingen längre märker det.
 **Verkligheten får svara.**
 
 **Och Flow får förändras när verkligheten lär oss något nytt.**
+
+***Alla har rätt att ifrågasätta.***
