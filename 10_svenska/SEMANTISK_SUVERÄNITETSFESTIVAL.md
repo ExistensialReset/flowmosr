@@ -1,4 +1,4 @@
-# SEMANTISK SUVERÄNITETSFESTIVALEN
+# SEMANTISK SUVERÄNITETSFESTIVAL
 
 ### En återkommande fest för att undersöka hur våra ord, idéer och strukturer faktiskt fungerar. 
 
