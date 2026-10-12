@@ -112,7 +112,7 @@ Ingen är skyldig att arbeta, lyda eller utlova framtida deltagande för att fö
 
 Bidrag och arbete är frivilliga gåvor. Deltagande är att leva. 
 
-Allt levande är en form av deltagande. Verkligheten 
+Allt levande är en form av deltagande. 
 
 Detta axiom upphäver inte ansvar för handlingar, förtroenderelationer, rättviseprocesser eller dokumentation av historiska händelser och skador.
 
