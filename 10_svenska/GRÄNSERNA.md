@@ -32,7 +32,7 @@ Ingen struktur, mekanism eller procedur inom Flow får kräva blind lydnad, pers
 
 Ingen människas existens eller rätt till Baslinjen får villkoras av lydnad, prestation, arbete eller bidrag. 
 
-Baslinjen är ovillkorlig för alla som tillhör Flow, oavsett förmåga eller möjlighet att bidra.
+Baslinjen är ovillkorlig för alla som tillhör en Flowcirkel, oavsett förmåga eller möjlighet att bidra.
 
 Deltagande får ta olika former och förändras över tid. Bidrag och arbete är frivilliga gåvor. Deltagande är att leva. Allt levande är en form av deltagande. Den som behöver vila eller dra sig undan behåller sin tillhörighet och sin rätt till Baslinjen.
 
@@ -84,7 +84,9 @@ Systemet ska samtidigt skydda människors möjlighet att leva, delta och utöva 
 
 Skyddsåtgärder ska riktas mot konkreta handlingar och påvisbara risker, inte mot människors identitet, personlighet, avvikelse eller kritik. Åtgärder ska vara proportionerliga, möjliga att ompröva och förenliga med samtliga övriga gränser.
 
-En människa får, efter en legitim och rättssäker prövning, kunna begränsas från en viss nod, funktion eller gemensam resurs när det behövs för att skydda andra. En sådan begränsning får aldrig innebära att människans grundläggande garantier i Baslinjen villkoras eller tas ifrån henne, och den får inte automatiskt utestänga henne från hela Flow.
+Efter en legitim och rättssäker prövning får en människas tillgång till en viss nod/cirkel, funktion eller gemensam resurs begränsas när det behövs för att skydda andra. 
+
+En sådan begränsning får aldrig innebära att människans grundläggande garantier i Baslinjen villkoras eller tas ifrån henne, och den får inte automatiskt utestänga henne från hela Flow.
 
 ## GRÄNS 5: STRUKTURELL OPARTISKHET
 
@@ -102,12 +104,18 @@ Flow är penninglöst. Ekonomiska skulder uppstår inte inom Flow. Ärvda hierar
 
 Flow bygger på frivilligt deltagande, gemensamt ansvar och gåvor, inte på ekonomisk skuldsättning. Ingen människa blir skyldig Flow eller någon annan återbetalning för sin existens, sin tillgång till Baslinjen eller det stöd hon tar emot.
 
-Baslinjen är ovillkorlig för varje människa som lever i en Flowcirkel, från födsel till död. För barn finns särskilda rättigheter till att prova livet i Mammon vid önskemål.
-Baslinjens upprätthållande kräver verkligt arbete, resurser och deltagande. Detta nödvändiga arbete skapar dock ingen individuell skuld hos den som tar emot Baslinjen. Ingen är skyldig att arbeta, lyda eller utlova framtida deltagande för att förtjäna sin existens eller behålla sin rätt till Baslinjen.
+Baslinjen är ovillkorlig för varje människa som lever i en Flowcirkel, från födsel till död. För barn finns särskilda rättigheter till att prova livet i Mammon vid önskemål från den ungas sida.
 
-Bidrag och arbete är frivilliga gåvor. Deltagande är allt som hör livet till. Allt levande är en form av deltagande. Verkligheten verbar.
+Baslinjens upprätthållande kräver verkligt arbete, resurser och deltagande. Detta nödvändiga arbete skapar dock ingen individuell skuld hos den som tar emot Baslinjen. 
+
+Ingen är skyldig att arbeta, lyda eller utlova framtida deltagande för att förtjäna sin existens eller behålla sin rätt till Baslinjen.
+
+Bidrag och arbete är frivilliga gåvor. Deltagande är att leva. 
+
+Allt levande är en form av deltagande. Verkligheten 
 
 Detta axiom upphäver inte ansvar för handlingar, förtroenderelationer, rättviseprocesser eller dokumentation av historiska händelser och skador.
+
 Ansvar får inte användas som förevändning för att införa ekonomiska skulder eller ärvda hierarkiska privilegier inom Flow.
 
 Historiska uppgifter får bevaras för relevanta ändamål, såsom lärande, insyn, 
