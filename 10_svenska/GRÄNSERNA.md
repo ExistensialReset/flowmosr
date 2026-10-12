@@ -18,7 +18,7 @@ De är **absoluta begränsningar** av den makt som Flow får utöva och de struk
 
 **Ingen människa, grupp eller teknisk struktur får använda Flow för att omvandla dess arkitektur till förtryck.**
 
-Dessa sju gränser är Flows axiom. Ett axiom är en sats/formel som man inom ett givet deduktivt system antar som utgångspunkt utan att bevisa den.
+Dessa sju gränser är Flows axiom. Ett axiom är ett grundantagande som accepteras utan bevis. 
 
 ---
 
