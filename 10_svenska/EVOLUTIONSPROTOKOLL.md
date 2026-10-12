@@ -47,7 +47,7 @@ Protokoll bevarar lärdomar, men får aldrig ersätta levande erfarenhet.
 
 ## Cirklar delar erfarenheter.
 
-## LOTUS bevarar lärdomar.
+## Flow måste gemensamt bevara lärdomar. 
 
 ## GRÄNSER skyddar riktningen.
 
