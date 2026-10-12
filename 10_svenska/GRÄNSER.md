@@ -98,21 +98,21 @@ Flow får ingripa i strukturer, tillgångar, funktioner och processer för att s
 
 Opartiskhet innebär inte passivitet inför skada. Det innebär att ingripanden ska motiveras av relevanta omständigheter och vara förenliga med samtliga övriga gränser.
 
-## GRÄNS 6: SKULDAVSKRIVNING
+## GRÄNS 6: FLOW I VÄRLDEN; SKULDAVSKRIVNING OCH BEHOV 
 
 Flow är penninglöst. Ekonomiska skulder uppstår inte inom Flow. Ärvda hierarkiska privilegier får inte skapa rättigheter att styra eller kontrollera andra människor.
 
 Flow bygger på frivilligt deltagande, gemensamt ansvar och gåvor, inte på ekonomisk skuldsättning. Ingen människa blir skyldig Flow eller någon annan återbetalning för sin existens, sin tillgång till Baslinjen eller det stöd hon tar emot.
 
-Baslinjen är ovillkorlig för varje människa som lever i en Flowcirkel, från födsel till död. För barn finns särskilda rättigheter till att prova livet i Mammon vid önskemål från den ungas sida.
+Baslinjen är ovillkorlig för varje människa som lever i en Flowcirkel, oavsett psykisk och fysisk hälsa. För barn finns särskilda rättigheter till att prova livet i Mammon vid önskemål från den ungas sida.
 
 Baslinjens upprätthållande kräver verkligt arbete, resurser och deltagande. Detta nödvändiga arbete skapar dock ingen individuell skuld hos den som tar emot Baslinjen. 
 
 Ingen är skyldig att arbeta, lyda eller utlova framtida deltagande för att förtjäna sin existens eller behålla sin rätt till Baslinjen.
 
-Bidrag och arbete är frivilliga gåvor. Deltagande är att leva. 
+Bidrag och arbete är frivilliga gåvor. 
 
-Allt levande är en form av deltagande. 
+Deltagande är att leva. Allt levande är en form av deltagande. 
 
 Detta axiom upphäver inte ansvar för handlingar, förtroenderelationer, rättviseprocesser eller dokumentation av historiska händelser och skador.
 
