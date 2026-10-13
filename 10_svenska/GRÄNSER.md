@@ -100,7 +100,7 @@ Opartiskhet innebär inte passivitet inför skada. Det innebär att ingripanden 
 
 ## GRÄNS 6: FLOW I VÄRLDEN; SKULDAVSKRIVNING OCH BEHOV 
 
-Flow är penninglöst. Ekonomiska skulder uppstår inte inom Flow. Ärvda hierarkiska privilegier får inte skapa rättigheter att styra eller kontrollera andra människor.
+Ekonomiska skulder uppstår inte inom Flow. Ärvda hierarkiska privilegier får inte skapa rättigheter att styra eller kontrollera andra människor.
 
 Flow bygger på frivilligt deltagande, gemensamt ansvar och gåvor, inte på ekonomisk skuldsättning. Ingen människa blir skyldig Flow eller någon annan återbetalning för sin existens, sin tillgång till Baslinjen eller det stöd hon tar emot.
 
