@@ -32,7 +32,7 @@ Ingen struktur, mekanism eller procedur inom Flow får kräva blind lydnad, pers
 
 Ingen människas existens eller rätt till Baslinjen får villkoras av lydnad, prestation, arbete eller bidrag. 
 
-Baslinjen är ovillkorlig för alla som tillhör en Flowcirkel, oavsett förmåga eller möjlighet att bidra.
+Baslinjen är ovillkorlig för alla som tillhör en Flowcirkel, oavsett nuvarande förmåga eller möjlighet att bidra. 
 
 Deltagande får ta olika former och förändras över tid. Bidrag och arbete är frivilliga gåvor. Deltagande är att leva. Allt levande är en form av deltagande. Den som behöver vila eller dra sig undan behåller sin tillhörighet och sin rätt till Baslinjen.
 
@@ -44,7 +44,7 @@ Varje människas uppmärksamhet, kognition och beslutsförmåga är okränkbara.
 
 Ingen algoritm, inget register, inget skuldinstrument, ingen institution och ingen extern struktur får göra anspråk på att äga, styra eller ta kontroll över en människas tänkande, uppmärksamhet eller beslutsfattande.
 
-Varje människa har rätt att tänka fritt, även utanför rådande normer, etablerade uppfattningar och systemets egna giltighetsintervall. Ingen tanke blir otillåten enbart för att den avviker, ifrågasätter eller motsäger Flow.
+Varje människa har rätt att tänka fritt, även utanför rådande normer, etablerade uppfattningar och systemets egna giltighetsintervall. Ingen tanke blir otillåten enbart för att den avviker från gängse norm, ifrågasätter eller motsäger Flow.
 
 Människor får påverka, utmana, övertyga och lära av varandra. Ingen får därför överta en annan människas rätt att självständigt tänka, bedöma och fatta beslut.
 
@@ -98,13 +98,15 @@ Flow får ingripa i strukturer, tillgångar, funktioner och processer för att s
 
 Opartiskhet innebär inte passivitet inför skada. Det innebär att ingripanden ska motiveras av relevanta omständigheter och vara förenliga med samtliga övriga gränser.
 
-## GRÄNS 6: FLOW I VÄRLDEN; SKULDAVSKRIVNING OCH BEHOV 
+## GRÄNS 6: SKULDAVSKRIVNING OCH BEHOV 
 
 Ekonomiska skulder uppstår inte inom Flow. Ärvda hierarkiska privilegier får inte skapa rättigheter att styra eller kontrollera andra människor.
 
-Flow bygger på frivilligt deltagande, gemensamt ansvar och gåvor, inte på ekonomisk skuldsättning. Ingen människa blir skyldig Flow eller någon annan återbetalning för sin existens, sin tillgång till Baslinjen eller det stöd hon tar emot.
+Flow bygger på frivilligt deltagande, gemensamt ansvar och gåvor, inte på ekonomisk skuldsättning. 
 
-Baslinjen är ovillkorlig för varje människa som lever i en Flowcirkel, oavsett psykisk och fysisk hälsa. För barn finns särskilda rättigheter till att prova livet i Mammon vid önskemål från den ungas sida.
+Ingen människa blir skyldig Flow eller någon annan återbetalning för sin existens, sin tillgång till Baslinjen eller det stöd hon tar emot.
+
+Baslinjen är ovillkorlig för varje människa som lever i en Flowcirkel, oavsett psykisk och fysisk hälsa. För barn finns särskilda rättigheter till att prova livet i Mammon vid önskemål från den ungas sida, oavsett föräldrarnas önskemål.
 
 Baslinjens upprätthållande kräver verkligt arbete, resurser och deltagande. Detta nödvändiga arbete skapar dock ingen individuell skuld hos den som tar emot Baslinjen. 
 
@@ -125,7 +127,7 @@ Historiska uppgifter får bevaras för relevanta ändamål, såsom lärande, ins
 
 Flows sju gränser utgör dess oföränderliga grundlag och konstitution.
 
-Gränserna får inte ändras, upphävas, ersättas, kringgås, omtolkas eller försvagas. Ingen individ, grupp, nod, församling, majoritet, institution, AI eller extern aktör har befogenhet att ändra dem eller bevilja undantag från dem.
+Gränserna får inte ändras, upphävas, ersättas, kringgås, omtolkas eller försvagas. Ingen individ, cirkel, grupp, nod, församling, majoritet, institution, AI eller extern aktör har befogenhet att ändra dem eller bevilja undantag från dem.
 
 Ingen omständighet, kris, nödsituation, vision, effektiviseringsambition eller kollektiv målsättning ger rätt att åsidosätta gränserna.
 
@@ -135,4 +137,4 @@ Om en struktur, ett beslut, ett protokoll eller en handling strider mot en grän
 
 Ingen människa ska tvingas fatta beslut under tvingad brådska som överskrider hennes möjlighet till meningsfullt övervägande. Tidsfrister som konstrueras för att framtvinga förhastade beslut strider mot Flow.
 
-Gränserna är inte mål som Flow kan välja att prioritera bort. De utgör de absoluta gränser inom vilka Flow över huvud taget får existera.
+Gränserna eller dessa axiom är inte mål som Flow kan välja att prioritera bort. De utgör de absoluta gränser inom vilka Flow över huvud taget får existera.
