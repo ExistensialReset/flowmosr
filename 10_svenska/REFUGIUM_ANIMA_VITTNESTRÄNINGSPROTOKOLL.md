@@ -1,6 +1,4 @@
-# REFUGIUM_ANIMA_WITNESS_TRAINING.md
-
-## Vittnesträning för Refugium Anima
+# Vittnesträning för Refugium Anima
 
 **Version:** 1.1 — Reviderat utkast  
 **Status:** UTKAST — Kräver svensk juridisk och sakkunnig granskning  
