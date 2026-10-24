@@ -5,8 +5,7 @@
 **Version:** 1.1 — Reviderat utkast  
 **Status:** UTKAST — Kräver svensk juridisk och sakkunnig granskning  
 **Syfte:** Grundläggande utbildning för fristadsvittnen  
-**Bygger på:** `REFUGIUM_ANIMA.md`, `FLOW_JUSTICE_PRINCIPLES.md`  
-**Ursprungligt författarskap:** Elinor Frejd och Claude  
+**Bygger på:** `REFUGIUM_ANIMA.md`, `FLOW_JUSTICE_PRINCIPLES.md`    
 **Ursprungligt datum:** 27 mars 2026  
 **Revideringsdatum:** 23 oktober 2026
 
