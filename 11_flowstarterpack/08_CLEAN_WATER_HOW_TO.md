@@ -1,4 +1,3 @@
-
 # CLEAN_WATER_HOW_TO.md
 
 # 🌊 Clean Water: A Practical, Locally Replicable Guide
