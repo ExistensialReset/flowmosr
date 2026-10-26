@@ -431,7 +431,7 @@ En människa kan behöva personlig assistans, hjälpmedel, vård eller stöd i v
 
 Autonomi betyder inte heller att kunna göra precis allt man vill, oberoende av andra. Andra människor har också rätt till sin autonomi.
 
-Frivilligt skapande, arbete och deltagande får inte förväxlas med systempålagd tid (frivilligt organiserat arbete). 
+Frivilligt skapande, arbete och deltagande får inte förväxlas med systempålagd tid. Även systempålagt, det vill säga gemensamt, för Baslinjen nödvändigt och, organiserat arbete är frivilligt. 
 
 **Baslinjen kräver fungerande organisering av nödvändigt arbete**, men föreskriver **aldrig en individuell arbetsskyldighet.** 
 
@@ -439,7 +439,7 @@ Frivilligt skapande, arbete och deltagande får inte förväxlas med systempåla
 
 # 14. Tidsuveränitet
 
-Människans tid är inte automatiskt systemets egendom.
+Människans tid är inte systemets egendom.
 
 Baslinjen skyddar möjligheten att själv bestämma över delar av sitt liv.
 
@@ -605,7 +605,7 @@ En människa som använder en substans har fortfarande rätt till:
 - vård,
 - skydd,
 - information,
-- alla samhälleliga funktioner, 
+- alla samhälleliga möjliga funktioner, 
 - relationer,
 - respekt,
 - och mänsklig värdighet.
@@ -619,6 +619,8 @@ Våld, tvång och direkt skada på andra människor kan kräva skyddsåtgärder.
 Skyddsåtgärden ska riktas mot den konkreta situationen.
 
 Inte mot människans identitet.
+
+Substansbruk i sig inte ska leda till generell utestängning, samtidigt som konkreta skyddsåtgärder självklart fortfarande kan behövas.
 
 ---
 
@@ -1394,7 +1396,7 @@ Det omfattar:
 
 Människan ska inte behöva vara uppkopplad för att få tillgång till Baslinjen och Informationsflödet när ett annat fungerande sätt finns.
 
-Teknik ska **inte**  innebära övervakning.
+Teknik ska **inte** innebära övervakning.
 
 > **Teknik tjänar livet.**
 
@@ -1542,7 +1544,8 @@ Tillgänglighet omfattar både:
 - kognitiv tillgång,
 - sensorisk tillgång,
 - kommunikativ tillgång,
-- social tillgång, - och tillgång oavsett ekonomiska förutsättningar. 
+- social tillgång,
+- och tillgång oavsett ekonomiska förutsättningar. 
 
 ---
 
