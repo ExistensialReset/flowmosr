@@ -14,6 +14,10 @@ Allt liv på Jorden har ett eget skyddsvärde inom Baslinjen, inte enbart ett v�
 
 ---
 
+Flows **enda målsättning** är att tjäna livet: människors möjlighet att leva goda och värdiga liv, i samhörighet med Jorden och allt liv på Jorden.
+
+---
+
 ## 1. Vad Baslinjen är
 
 Baslinjen är axiom 3 i Gränser:  
@@ -1821,6 +1825,7 @@ En människa kan inte vara verkligt fri om hon saknar:
 - mat,
 - vatten,
 - skydd,
+- kläder, 
 - vård,
 - bostad,
 - tid,
