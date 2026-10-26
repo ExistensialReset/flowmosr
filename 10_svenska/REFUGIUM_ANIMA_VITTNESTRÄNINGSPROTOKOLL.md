@@ -1,6 +1,6 @@
 # Vittnesträning för Refugium Anima
 
-**Version:** 1.1 — Reviderat utkast  
+**Version:** 1.2 — Reviderat utkast  
 **Status:** UTKAST — Kräver svensk juridisk och sakkunnig granskning  
 **Syfte:** Grundläggande utbildning för fristadsvittnen  
 **Bygger på:** `REFUGIUM_ANIMA.md`, `FLOW_JUSTICE_PRINCIPLES.md`    
@@ -210,7 +210,81 @@ Tecken kan vara:
 
 Målet är inte att eliminera mänskliga reaktioner. Målet är att känna igen dem och agera ansvarsfullt.
 
-## 2. Protokoll för att avsluta kontakt
+## 2. Skyddsägget – personlig gräns och inre orientering
+
+Skyddsägget är en frivillig visualiserings- och kroppsorienterad övning som kan hjälpa vittnet att uppmärksamma sin egen gräns, bevara en känsla av integritet och lyssna utan att automatiskt göra en annan människas upplevelse till sin egen.
+
+Övningen utgår från en praktik som har använts inom psykiatrisk sjukgymnastik. Den beskrivning som följer bygger på en personlig, långvarigt använd erfarenhet. Den ska erbjudas som ett möjligt verktyg, inte som en universell metod eller ett krav på att vittnet ska uppleva något särskilt.
+
+### Äggets form
+
+I den ursprungliga övningen står personen upprätt med fötter, knän, höfter, axlar och hjässa i lod. Armarna förs med raka armbågar uppåt och över huvudet. Den radie som armarna beskriver föreställs bilda ett ägg runt kroppen, inklusive könet.
+
+Ägget representerar personens egen skyddade sfär. Det omfattar kroppen och lämnar inte vissa kroppsdelar utanför skyddet. Det kan vara särskilt betydelsefullt för personer som har erfarenheter av sexuellt våld eller andra kroppsliga gränsöverträdelser.
+
+Övningen behöver inte utföras stående. Den kan anpassas till sittande ställning, begränsad rörlighet och andra kroppsliga förutsättningar. **Personen kan också använda bilden utan att röra armarna.**
+
+### Lodet och själen
+
+Genom kroppen löper ett föreställt lod från hjässan mot golvet. Lodet ger en inre orientering och en personlig referenspunkt.
+
+Längs Lodet, inuti kroppen, föreställer sig personen att själen har sin plats. 
+
+Själen kan ges vilken symbol, figur, form eller vilket element personen själv föredrar. 
+
+Ingen särskild religiös eller andlig föreställning krävs.
+
+Vittnet ska inte bestämma var någon annans själ sitter, hur den ser ut eller vad den betyder. Det är personens egen inre bild.
+
+Lodet behöver inte motsvara en viss fysisk hållning. Det kan användas som en inre orientering även när personen sitter eller ligger.
+
+### Vad som får komma in och vad som får rinna av
+
+I övningen föreställer sig personen att det goda får nå fram till själen, medan det svåra som personen hör eller möter får rinna längs äggets skal i stället för att behöva tas in och bäras vidare.
+
+För ett vittne kan bilden vara ett sätt att skilja mellan att lyssna omsorgsfullt och att själv behöva bära besökarens smärta. 
+
+Vittnet behöver inte bli känslomässigt opåverkat, avskärma sig från besökaren eller sluta bry sig.
+
+Att låta det svåra rinna av innebär inte att ignorera information om fara, avstå från nödvändiga åtgärder eller lämna över ansvaret till en föreställd skyddsbild. 
+
+Vittnet måste fortfarande uppmärksamma konkreta risker, agera inom sin roll och söka hjälp när det behövs.
+
+### Andning, rengöring och avslut
+
+Personen kan föreställa sig att ägget tvättas eller rengörs. Övningen kan avslutas genom att personen andas ut och föreställer sig att ägget fälls ner. Den som vill kan också be eller använda någon annan personlig avslutande handling.
+
+I den praktik som beskrivs här ligger särskild vikt vid utandningen. Andningen ska vara bekväm och får inte forceras. Ingen särskild andningsrytm behöver uppnås.
+
+**Vittnet avgör själv när övningen används och när den avslutas.** 
+
+Den ska inte påtvingas en besökare eller användas som ersättning för en paus, avlösning, handledning eller annan hjälp.
+
+### Stenar och andra personliga föremål
+
+En sten eller ett annat litet föremål kan användas som en personlig påminnelse om den egna gränsen, själsstyrkan eller Skyddsägget.
+
+Ett vittne som vill dela denna praktik med en annan människa kan berätta hur föremålet används i den egna erfarenheten och, om den vill, erbjuda det som en gåva. 
+
+Mottagaren avgör själv om gåvan känns meningsfull och vilken betydelse den får.
+
+Vittnet får inte påstå att föremålet har en garanterad skyddande eller medicinsk effekt. 
+
+Det får inte heller användas för att påtvinga mottagaren en viss andlig övertygelse.
+
+### Frivillighet och individuella anpassningar
+
+Alla delar av övningen är frivilliga. Ett vittne kan använda hela övningen, välja en enda del eller avstå helt.
+
+Vissa personer föredrar att inte föreställa sig ett ägg, en själ eller ett skal. 
+
+Andra kan uppleva kroppsliga bilder som obehagliga, exempelvis på grund av trauma. I sådana fall ska vittnet inte insistera. En annan form av gränsmarkering, en enkel påminnelse eller en paus kan passa bättre.
+
+Skyddsägget är ett *möjligt stöd* för vittnets egen gränssättning. 
+
+Det ersätter inte organisationens ansvar för rimlig arbetsbelastning, återhämtning, säker bemanning, handledning och avlösning.
+
+## 3. Protokoll för att avsluta kontakt
 
 Varje besökare har rätt att avsluta kontakten med ett vittne.
 
@@ -224,7 +298,7 @@ Ett separat säkerhetsförfarande gäller när en konkret och omedelbar fara kr�
 
 Protokollet för att avsluta kontakt får inte bli en ursäkt för att ignorera ett medicinskt nödläge. På samma sätt får vag oro för en besökare inte bli en ursäkt för att åsidosätta personens självbestämmande.
 
-## 3. Gränser utan bestraffning
+## 4. Gränser utan bestraffning
 
 Vittnen måste kunna sätta tydliga gränser för sitt eget agerande och för den gemensamma miljön.
 
@@ -237,7 +311,7 @@ Exempel:
 
 Gränser ska avse konkret beteende och säkerhet, inte bestraffa en persons identitet, diagnos, historia eller substansanvändning.
 
-## 4. Fråga i stället för att anta
+## 5. Fråga i stället för att anta
 
 När det är säkert och lämpligt ska vittnet fråga besökaren vad som skulle hjälpa.
 
@@ -253,7 +327,7 @@ Exempel:
 
 Överväldiga inte någon med en lång rad frågor.
 
-## 5. Tillgänglig kommunikation
+## 6. Tillgänglig kommunikation
 
 Vittnen måste kunna kommunicera med personer som inte använder tal, har svårt att bearbeta språk, upplever sensorisk överbelastning eller använder hjälpmedel för förflyttning och kommunikation.
 
@@ -263,7 +337,7 @@ Utgå aldrig från att en person som kommunicerar på ett annat sätt saknar fö
 
 Fråga personen direkt, använd personens föredragna kommunikationssätt, ge tid och sök lämplig hjälp när det behövs.
 
-## 6. Att känna igen kompetensens gränser
+## 7. Att känna igen kompetensens gränser
 
 Vittnen måste veta när de ska söka hjälp från:
 
@@ -798,7 +872,21 @@ Lämpliga åtgärder kan vara att:
 
 Organisationen får inte utgå från att varje svår reaktion är ett personligt misslyckande.
 
-## 4. Vittnets egen tillgång till fristaden
+## 4. Personlig gräns, Skyddsägget och återhämtning
+
+Vittnet behöver kunna vara närvarande för en annan människa utan att göra sig själv gränslöst tillgänglig.
+
+Skyddsägget kan erbjudas som en frivillig praktik för att uppmärksamma den egna gränsen och skapa en inre bild av den egna skyddade sfären. Vittnet kan använda övningen före, under eller efter ett möte, om den känns hjälpsam.
+
+Övningen kan också fungera som en övergång mellan ett möte och nästa arbetsuppgift: vittnet kan stanna upp, uppmärksamma sin egen kropp och andning, föreställa sig att det som behöver lämnas kvar får rinna av och avsluta övningen på sitt eget sätt.
+
+Det finns inget krav på att vittnet ska kunna använda Skyddsägget eller uppleva att något rinner av. Att en övning inte hjälper en viss person innebär inte att personen saknar lämplighet för vittnesrollen.
+
+Skyddsägget ersätter inte faktisk återhämtning. Ett vittne som är överbelastat måste kunna ta paus, begära avlösning, söka handledning eller lämna över ett uppdrag. Organisationen får inte använda en personlig övning som skäl för att lägga större känslomässigt ansvar på den enskilda personen.
+
+Vittnet ska inte behöva offra sin egen hälsa för att kunna vara närvarande för någon annan.
+
+## 5. Vittnets egen tillgång till fristaden
 
 Vittnen behåller rätten att vila, söka stöd och använda Refugium enligt samma grundläggande principer som andra människor, med rimliga arrangemang för att hantera intressekonflikter och skydda privatlivet.
 
@@ -842,6 +930,10 @@ Utbildningen måste omfatta principerna och rutinerna i detta dokument, däribla
 - Dokumentation av incidenter och överlämning.
 - Klagomål och organisatorisk ansvarsskyldighet.
 - Igenkänning av personliga begränsningar och rätten att begära avlösning.
+- Skyddsägget som frivillig övning i personlig gränssättning, inre orientering och avslut efter känslomässigt krävande möten.
+- Förmåga att skilja mellan en personlig gränsövning och organisationens ansvar för bemanning, avlösning, handledning och återhämtning.
+- Respekt för att vittnen och besökare kan ha olika kroppsliga förutsättningar, inre bilder, trosuppfattningar och sätt att uppleva trygghet.
+- Förmåga att erbjuda övningen utan att påtvinga den, tolka den andras upplevelse eller lova en viss effekt.
 
 Material om nervsystemet eller psykologi måste presenteras korrekt, med tydlig åtskillnad mellan etablerad professionell kunskap, praktisk vägledning och obekräftade förklaringsmodeller.
 
