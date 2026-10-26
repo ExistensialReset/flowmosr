@@ -339,7 +339,7 @@ En människas frivilliga preferens får inte användas som samtycke till farliga
 
 # 11. Elektrisk energi
 
-Elektricitet är en del av modern mänsklig Baslinje.
+Elektricitet är en del av en modern mänsklig Baslinje.
 
 Den behövs bland annat för:
 
@@ -425,9 +425,13 @@ Som referens gäller möjlighet till omkring:
 
 Som referens ska människan dessutom ha:
 
-- **minst 2 timmar autonom tid per dygn**.
+- **minst 2 timmar autonom tid per dygn**. Autonom betyder att kunna bestämma över sitt eget liv och sina egna val. Det behöver *inte* betyda att man är ensam. 
 
-Frivilligt skapande, arbete och deltagande får inte förväxlas med systempålagd tid.
+En människa kan behöva personlig assistans, hjälpmedel, vård eller stöd i vardagen och ändå vara autonom. Att vara beroende av andras praktiska hjälp innebär inte att man måste lämna över bestämmanderätten över sitt liv.
+
+Autonomi betyder inte heller att kunna göra precis allt man vill, oberoende av andra. Andra människor har också rätt till sin autonomi.
+
+Frivilligt skapande, arbete och deltagande får inte förväxlas med systempålagd tid (frivilligt organiserat arbete). 
 
 **Baslinjen kräver fungerande organisering av nödvändigt arbete**, men föreskriver **aldrig en individuell arbetsskyldighet.** 
 
@@ -487,7 +491,7 @@ En tillgänglig bostad bedöms inte utifrån en abstrakt standardkropp.
 
 Den ska fungera för den människa som faktiskt lever där.
 
-> **En plats att leva och flöda från, inte en plats att förvaras på.**
+> **En bostad är en plats att leva och flöda från, inte en plats att förvaras på.**
 
 ---
 
@@ -576,7 +580,7 @@ Narkotikaklassning och juridisk status får inte ersätta medicinsk och praktisk
 
 Människan ska kunna få hjälp även när substansen är olaglig.
 
-En människa ska inte behöva välja mellan att dölja ett substansbruk och att förlora tillgång till vård.
+En människa ska inte behöva välja mellan att dölja ett substansbruk och att förlora tillgång till samhället.
 
 Baslinjen omfattar också tillgång till:
 
@@ -591,7 +595,7 @@ Baslinjen omfattar också tillgång till:
 
 Där det är möjligt ska skadereducerande åtgärder minska risken för död, smitta, förgiftning och annan allvarlig skada.
 
-Vård och tillgång till rena produkter ska komma före moraliserande kontroll.
+**Vård och tillgång till rena produkter ska komma före moraliserande kontroll.**
 
 En människa som använder en substans har fortfarande rätt till:
 
@@ -601,6 +605,7 @@ En människa som använder en substans har fortfarande rätt till:
 - vård,
 - skydd,
 - information,
+- alla samhälleliga funktioner, 
 - relationer,
 - respekt,
 - och mänsklig värdighet.
@@ -758,6 +763,7 @@ Skönhet kan finnas i:
 - en byggnad,
 - en utsikt,
 - en kropp,
+- ett djur, 
 - en rörelse,
 - ett skratt,
 - eller något som kanske ännu inte har ett namn.
@@ -927,6 +933,8 @@ Rehabilitering och habilitering ska inte automatiskt betyda att människan ska p
 
 Målet ska vara att människan ska kunna leva det liv hon vill leva med den kropp och funktion hon faktiskt har.
 
+Ibland innebär det intensiv sjukgymnastik i många år. 
+
 Ibland innebär det återhämtning.
 
 Ibland innebär det anpassning.
@@ -969,11 +977,11 @@ Att behöva ett hjälpmedel är inte att vara mindre självständig.
 
 Baslinjen omfattar vård och omsorg genom hela livet.
 
-Det kan innebära:
+Det kan bland annat innebära:
 
 - barnomsorg,
 - äldreomsorg,
-- assistans, 
+- personlig assistans, 
 - personlig hjälp,
 - praktisk hjälp,
 - ledsagning,
@@ -1047,7 +1055,7 @@ Lyceum Musaeum är en del av Baslinjens kunskaps- och skapandeinfrastruktur.
 
 Det är inte en skola i traditionell mening.
 
-Det är en plats där människor kan:
+Det är en plats där människor i alla åldrar och funktionsvariationer kan:
 
 - läsa,
 - lyssna,
@@ -1740,7 +1748,7 @@ Baslinjen är inte färdig bara för att dokumentet är färdigt.
 
 Verkligheten kan visa att:
 
-- en gräns är fel,
+- ett antagande är fel,
 - ett behov har missförståtts,
 - en lösning inte fungerar,
 - en teknisk standard skapar problem,
@@ -1754,7 +1762,7 @@ Baslinjen måste kunna förändras för att fortsätta tjäna livet.
 
 Detta innebär inte att människans behov av grundläggande skydd är godtyckligt.
 
-Det innebär att våra modeller aldrig får bli viktigare än de människor de är till för.
+Det innebär att modellerna aldrig får bli viktigare än de människor de är till för.
 
 ---
 
@@ -1795,7 +1803,7 @@ Inte som:
 - produktionsenhet,
 - eller ”normal” människa.
 
-Som människa.
+Som människa i Flow.
 
 Baslinjen är:
 
@@ -1855,7 +1863,7 @@ Den är den materiella, mänskliga och ekologiska grund som gör suveränitet m�
 
 > **Livet är inte skyldigt att passa Baslinjen. Baslinjen måste kunna förändras för att fortsätta tjäna livet.**
 
-> **Baslinjen ska inte bara hålla människan vid liv. Den ska ge människan möjlighet att uppleva livet.**
+> **Baslinjen ska inte bara hålla människan vid liv. Den ska ge människan möjlighet att leva livet.**
 
 > **Njut och låt njuta.**
 
