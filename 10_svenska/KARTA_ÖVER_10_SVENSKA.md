@@ -1020,6 +1020,8 @@ KARTA ÖVER 10_svenska
   ▼
 ORIGINALDOKUMENTEN
   │
-  │ faktisk text, praktik och innehåll
+  │ 
+Faktisk text, praktik och innehåll
+  |
   ▼
 VERKLIGHETEN, DÄR DU BEFINNER DIG 
