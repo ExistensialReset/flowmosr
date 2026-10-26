@@ -1514,7 +1514,7 @@ Tillgänglighet omfattar:
 - transport,
 - natur,
 - information,
-- kommunikation,
+- kommunikation, 
 - teknik,
 - utbildning,
 - kultur,
@@ -1533,8 +1533,8 @@ Tillgänglighet omfattar både:
 - fysisk tillgång,
 - kognitiv tillgång,
 - sensorisk tillgång,
-- kommunikativ tillgång,,
-- social tillgång och tillgång oavsett ekonomiska förutsättningar. 
+- kommunikativ tillgång,
+- social tillgång, - och tillgång oavsett ekonomiska förutsättningar. 
 
 ---
 
@@ -1567,10 +1567,10 @@ Baslinjen är inte bara ett individuellt projekt.
 
 Den kräver gemensam infrastruktur.
 
-Det innebär bl a:
+Det innebär bland annat:
 
 - vårdsystem,
-- omsorgsinfrastruktur
+- omsorgsinfrastruktur, 
 - vattenförsörjning,
 - energisystem,
 - bostäder,
