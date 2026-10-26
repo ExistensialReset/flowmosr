@@ -52,9 +52,11 @@ Ingen människa får bestraffas, fråntas sin Baslinje eller förlora sin grundl
 
 ## GRÄNS 3: BASLINJENS FÖRETRÄDE
 
-Flows enda mål är att tjäna livet: människors möjlighet att leva goda och värdiga liv, i samhörighet med Jorden och allt liv på Jorden.
+Flows enda målsättning är att tjäna livet: människors möjlighet att leva goda och värdiga liv, i samhörighet med Jorden och allt liv på Jorden.
 
-Människans liv är oupplösligt förbundet med Jordens liv. Människor kan inte garanteras en värdig framtid genom att förstöra de levande förutsättningar som deras egen existens vilar på.
+Människans liv är oupplösligt förbundet med Jordens liv. 
+
+Människor kan inte garanteras en värdig framtid genom att förstöra de levande förutsättningar som deras egen existens vilar på.
 
 Baslinjen omfattar därför både människors grundläggande behov och skyddet av de levande system som upprätthåller livet på Jorden. 
 
