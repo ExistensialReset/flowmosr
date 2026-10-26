@@ -1,7 +1,7 @@
 # BASLINJEN
 
 **Status:** CORE / GLOBAL  
-**Omfattning:** Alla människor, från födelse till död  
+**Omfattning:** Alla människor i Flow, från födelse till död  
 **Grund:** LIV → BASLINJEN → MÄNSKLIG SUVERÄNITET
 
 ---
