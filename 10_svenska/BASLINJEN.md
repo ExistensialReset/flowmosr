@@ -415,15 +415,13 @@ Som referens gäller möjlighet till omkring:
 
 - **8 timmars sömn per dygn**.
 
-Systempålagt arbete eller annat obligatoriskt bidrag ska som referens inte överstiga:
-
-- **6 timmar per dygn**.
-
 Som referens ska människan dessutom ha:
 
 - **minst 2 timmar autonom tid per dygn**.
 
 Frivilligt skapande, arbete och deltagande får inte förväxlas med systempålagd tid.
+
+**Baslinjen kräver fungerande organisering av nödvändigt arbete**, men föreskriver **aldrig en individuell arbetsskyldighet.** 
 
 ---
 
