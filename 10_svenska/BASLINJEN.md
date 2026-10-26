@@ -6,7 +6,7 @@
 
 ---
 
-Baslinjen kräver att människor arbetar för att Baslinjen ska existera.
+Baslinjen måste upprätthållas genom verkligt arbete. Människan behöver aldrig förtjäna sin Baslinje genom att utföra det arbetet. 
 
 --- 
 
@@ -710,7 +710,7 @@ Människan ska kunna:
 Tillgång till musik kan ske genom:
 
 - instrument,
-- körsång och solosång 
+- körsång och solosång, 
 - inspelningar,
 - konserter,
 - gemensamma rum,
@@ -731,7 +731,7 @@ Den ska göra det möjligt för människor att möta och skapa sådant som de sj
 - märkligt,
 - roligt,
 - fascinerande,
-- fantasieggande 
+- fantasieggande, 
 - storslaget,
 - ömt,
 - absurt,
@@ -965,6 +965,7 @@ Det kan innebära:
 
 - barnomsorg,
 - äldreomsorg,
+- assistans, 
 - personlig hjälp,
 - praktisk hjälp,
 - ledsagning,
@@ -1028,7 +1029,7 @@ Att säga:
 
 är en del av kunskap.
 
-Misstag kan skapa ny kunskap.
+Misstag hedras, de kan skapa ny kunskap.
 
 ---
 
@@ -1174,7 +1175,7 @@ Refugium Anima ska inte bygga på ständig observation.
 
 Närvaro ersätter övervakning.
 
-Witnesses är ankare, inte terapeuter.
+Vittnen är ankare, inte terapeuter.
 
 Om en situation blir akut farlig gäller skyddsprotokoll.
 
@@ -1377,7 +1378,7 @@ Det omfattar:
 
 Människan ska inte behöva vara uppkopplad för att få tillgång till Baslinjen och Informationsflödet när ett annat fungerande sätt finns.
 
-Teknik ska inte automatiskt innebära övervakning.
+Teknik ska **inte**  innebära övervakning.
 
 > **Teknik tjänar livet.**
 
@@ -1401,7 +1402,7 @@ Baslinjen omfattar:
 - lek,
 - experiment,
 - humor,
-- idrott 
+- idrott, 
 - och former av skapande som ännu inte har något namn.
 
 Skapande behöver inte:
@@ -1412,7 +1413,7 @@ Skapande behöver inte:
 - förbättras,
 - eller bli användbart.
 
-Lek är inte något människan måste växa ifrån.
+> **Lek är inte något människan måste växa ifrån.**
 
 ---
 
@@ -1469,7 +1470,7 @@ Sorg har ingen fast tidsgräns.
 
 Minnen är en del av det mänskliga livet.
 
-> **Minnen är aktiva, döden är en av Livets Riktningar Framåt och Självständighet och Fri Vilja är Rättigheter.**
+> **Minnen är aktiva, Döden är en av Livets Riktningar Framåt, Självständighet och Fri Vilja är Rättigheter.**
 
 ---
 
