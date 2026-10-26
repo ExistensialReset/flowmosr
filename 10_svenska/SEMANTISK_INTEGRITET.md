@@ -3,8 +3,8 @@
 **Status:** Levande dokument / Grundläggande skyddslager
 **Generation:** 1.1
 **Omfattning:** Flow/M-OS-R
-**Syfte:** Skydd mot Axiomerosion
-**Relation:** Kompletterar GRÄNSER.md och AXIOMS.md
+**Syfte:** Skydd mot axiomerosion för infrastruktur och information 
+**Relation:** Kompletterar GRÄNSER.md och BOUNDARIES.md
 
 ---
 
