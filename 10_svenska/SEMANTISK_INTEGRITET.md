@@ -234,7 +234,7 @@ En relation som skapar tillit, ömsesidighet och fortsatt möjlighet är en leva
 
 **Inkännande är förmågan att uppfatta sig själv som deltagande i en större väv av liv, relationer och konsekvenser.**
 
-Inkännande är inte empati.
+Inkännande är inte precis empati.
 
 Empati är förmågan att känna vad en annan känner.
 
@@ -362,7 +362,7 @@ Tvång blockerar livets egen rörelse.
 
 ### 3.11 Baslinje (Grundnivå)
 
-**Baslinjen är det som varje människa ges därför att hon finns.**
+**Baslinjen är det som varje människa inom Flow ges därför att hon finns.**
 
 Ingen människa har valt att födas.
 
