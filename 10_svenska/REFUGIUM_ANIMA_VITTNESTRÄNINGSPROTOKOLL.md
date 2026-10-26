@@ -3,7 +3,7 @@
 **Version:** 1.2 — Reviderat utkast  
 **Status:** UTKAST — Kräver svensk juridisk och sakkunnig granskning  
 **Syfte:** Grundläggande utbildning för fristadsvittnen  
-**Bygger på:** `REFUGIUM_ANIMA.md`, `FLOW_JUSTICE_PRINCIPLES.md`    
+**Bygger på:** `REFUGIUM_ANIMA.md`   
 **Ursprungligt datum:** 27 mars 2026  
 **Revideringsdatum:** 23 oktober 2026
 
@@ -228,7 +228,7 @@ I den ursprungliga övningen står personen upprätt med fötter, knän, höfter
 
 Genom kroppen löper ett föreställt lod från hjässan mot golvet. Lodet ger en inre orientering och en personlig referenspunkt.
 
-Längs Lodet, inuti kroppen, föreställer sig personen att själen har sin plats. 
+Längs lodet, inuti kroppen, föreställer sig personen att själen har sin plats. 
 
 Själen kan ges vilken symbol, figur, form eller vilket element personen själv föredrar. 
 
@@ -264,7 +264,7 @@ Den ska inte påtvingas en besökare eller användas som ersättning för en pau
 
 En sten eller ett annat litet föremål kan användas som en personlig påminnelse om den egna gränsen, själsstyrkan eller Skyddsägget.
 
-Ett vittne som vill dela denna praktik med en annan människa kan berätta hur föremålet används i den egna erfarenheten och, om den vill, erbjuda det som en gåva. 
+Ett vittne som vill dela denna praktik kan berätta hur föremålet används i den egna erfarenheten och erbjuda det som en gåva, om mottagaren vill ta emot det.
 
 Mottagaren avgör själv om gåvan känns meningsfull och vilken betydelse den får.
 
