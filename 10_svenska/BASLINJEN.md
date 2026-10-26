@@ -1874,5 +1874,5 @@ Den är den materiella, mänskliga och ekologiska grund som gör suveränitet m�
 
 > **LIVET > BASLINJEN > FLOW**
 
-> ***Detta ska läsas som att livet är det största, som tjänas av Baslinjen som vi genensamt skapar, och livet är Flows enda mål.*** 
+> ***Detta ska läsas som att livet är det största, som tjänas av Baslinjen som vi gemensamt skapar, och livet är Flows enda mål.*** 
 > ***Den dag Flow, genom Gränser, inte längre tjänar livet är det bara att skrota hela systemet.***
