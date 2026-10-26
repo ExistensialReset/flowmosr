@@ -429,11 +429,11 @@ Som referens ska människan dessutom ha:
 
 En människa kan behöva personlig assistans, hjälpmedel, vård eller stöd i vardagen och ändå vara autonom. Att vara beroende av andras praktiska hjälp innebär inte att man måste lämna över bestämmanderätten över sitt liv.
 
-Autonomi betyder inte heller att kunna göra precis allt man vill, oberoende av andra. Andra människor har också rätt till sin autonomi.
+Autonomi betyder inte heller att kunna göra precis allt man vill, oberoende av andra. Andra människor har också rätt till sin autonomi. 
 
-Frivilligt skapande, arbete och deltagande får inte förväxlas med systempålagd tid. Även systempålagt, det vill säga gemensamt, för Baslinjen nödvändigt och, organiserat arbete är frivilligt. 
+Nödvändigt arbete för Baslinjen kräver gemensam organisering. Organisering av arbetet innebär inte individuell arbetsskyldighet. Frivilligt arbete och deltagande får aldrig göras till villkor för Baslinjen. Ingen människa ska behöva utföra arbete för att förtjäna sin existens eller sina grundläggande förutsättningar.
 
-**Baslinjen kräver fungerande organisering av nödvändigt arbete**, men föreskriver **aldrig en individuell arbetsskyldighet.** 
+Baslinjen kräver fungerande organisering av nödvändigt arbete, men föreskriver aldrig en individuell arbetsskyldighet. 
 
 ---
 
@@ -605,7 +605,7 @@ En människa som använder en substans har fortfarande rätt till:
 - vård,
 - skydd,
 - information,
-- alla samhälleliga möjliga funktioner, 
+- deltagande i alla samhälleliga funktioner, 
 - relationer,
 - respekt,
 - och mänsklig värdighet.
@@ -620,7 +620,7 @@ Skyddsåtgärden ska riktas mot den konkreta situationen.
 
 Inte mot människans identitet.
 
-Substansbruk i sig inte ska leda till generell utestängning, samtidigt som konkreta skyddsåtgärder självklart fortfarande kan behövas.
+Substansbruk i sig  ska inte leda till generell utestängning, samtidigt som konkreta skyddsåtgärder självklart fortfarande kan behövas.
 
 ---
 
@@ -1873,3 +1873,6 @@ Den är den materiella, mänskliga och ekologiska grund som gör suveränitet m�
 > **Baslinjen följer människan ända till döden.**
 
 > **LIVET > BASLINJEN > FLOW**
+
+> ***Detta ska läsas som att livet är det största, som tjänas av Baslinjen som vi genensamt skapar, och livet är Flows enda mål.*** 
+> ***Den dag Flow, genom Gränser, inte längre tjänar livet är det bara att skrota hela systemet.***
