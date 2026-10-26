@@ -21,9 +21,9 @@ Kartan beskriver hur materialet kan förstås tillsammans så som arkitekturen s
 
 `10_svenska` är **Flows svenska uttrycksform**.
 
-Det är inte en direkt översättning av den engelska dokumentationen.
+Det är inte en direkt översättning av den engelska dokumentationen. Faktiskt finns det många dokument som behöver *översättas* till engelska nu. 
 
-Samma grundläggande ramverk uttrycks här genom ett svenskt språk, en svensk erfarenhet och en svensk kulturell och historisk resonans.
+Ett grundläggande ramverk uttrycks här genom ett svenskt språk, en svensk erfarenhet och en svensk kulturell och historisk resonans.
 
 Mappen rymmer flera sorters material samtidigt:
 
@@ -38,10 +38,11 @@ Mappen rymmer flera sorters material samtidigt:
 - kunskap, oro och verklighetskontakt
 - lärande och skapande
 - ekologiskt perspektiv
-- evolution och förändring
+- Evolution, korrigerbarhet och förändring
 - praktiska protokoll
+- utbildningsförslag
 - personliga vittnesmål och existentiell filosofi
-- historiskt material som har ersatts eller komposterats
+- historiskt material som har ersatts eller komposterat (finns i mappen `compostandgrowth`) 
 
 Det betyder att `10_svenska` inte bör läsas som en bok med kapitel i en enda rak ordning.
 
@@ -168,6 +169,8 @@ Hur kan människor skapa, vila, vara oense, ändra sig, lämna roller och fortfa
 ## Förändring
 
 `EVOLUTIONSPROTOKOLL.md` beskriver hur strukturer kan ändras utan att förändring automatiskt betraktas som förbättring.
+
+`KORRIGERBARHETSPROTOKOLL.md` ger rätt till korrigeringar. Även en korrigering kan behöva korrigeras, slutar protokollet med. 
 
 Det innebär bland annat:
 
@@ -753,6 +756,12 @@ Det är också ett uttryck för vilken sorts kultur Flow vill göra möjlig.
 
 ---
 
+`REFUGIUM_ANIMA_VITTNESTRÄNINGSPROTOKOLL.md`
+
+Förslag till utbildning för Refugium Vittnen. 
+
+---
+
 # 27. `JORDEN_VÅR_MODER.md`
 
 `JORDEN_VÅR_MODER.md` placerar mänsklig suveränitet i ett större ekologiskt sammanhang.
@@ -863,7 +872,8 @@ När dokumenten läses tillsammans framträder några återkommande relationer.
 
 ### Förändring → evolution
 
-`EVOLUTIONSPROTOKOLL.md` gör förändring till en möjlig och nödvändig del av ett levande system.
+`EVOLUTIONSPROTOKOLL.md` och `KORRIGERBARHETSPROTOKOLL.md` gör förändring till en möjlig och nödvändig del av ett levande system.
+
 
 ### Personlig erfarenhet → vittnesmål
 
@@ -1012,4 +1022,4 @@ ORIGINALDOKUMENTEN
   │
   │ faktisk text, praktik och innehåll
   ▼
-VERKLIGHETEN DÄR DU BEFINNER DIG 
+VERKLIGHETEN, DÄR DU BEFINNER DIG 
