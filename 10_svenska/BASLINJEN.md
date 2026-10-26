@@ -10,6 +10,10 @@ Baslinjen måste upprätthållas genom verkligt arbete. Människan behöver aldr
 
 --- 
 
+Allt liv på Jorden har ett eget skyddsvärde inom Baslinjen, inte enbart ett värde genom sin betydelse för människan.
+
+---
+
 ## 1. Vad Baslinjen är
 
 Baslinjen är axiom 3 i Gränser:  
