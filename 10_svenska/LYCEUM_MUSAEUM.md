@@ -330,77 +330,8 @@ Det **avlägsnar endast hinder**.
 
 **STATUS:** Levande utrymme för mänskligt blomstrande  
 **VALIDERING:** Montessori, Sudbury, unschooling, Urfolkspedagogik, neurovetenskap  
-**ÅTAGANDE:** Lärande utan rädsla, tvång eller berövande  
-
-## DIVINE_CROSSWALK  
-*Hur Lyceum Musaeum Genererar Höga Ψ-Villkor*
+**ÅTAGANDE:** Lärande utan rädsla, tvång eller berövande. 
 
 ---
-
-## Översikt
-
-Lyceum Musaeum är inte symboliskt.
-
-Det är en **hög-Ψ arkitektur**.
-
-Om DIVINE definierar:
-**Ψ(x,t) = (L × S × I × K × R × F) + Σ**
-
-då är Lyceum den **fysiska och sociala infrastrukturen** som ökar varje variabel i levt utrymme.
-
-Detta dokument kartlägger varje DIVINE-variabel till dess strukturella uttryck inuti Lyceum.
-
----
-
-## Systemkorsning
-
-| DIVINE-Variabel | Fältbetydelse | Lyceum Strukturellt Uttryck | Observerbart Utfall |
-|-----------------|--------------|------------------------------|-------------------|
-| **L** (Koherens / Lugn) | Reglerade nervsystem, säkerhet, icke-hot | Inga betyg, inget tvång, tysta rum, Grundnivå säkrad | Lägre stress, upprätthållen uppmärksamhet, emotionell stabilitet |
-| **S** (Spontanitet / Kreativitet) | Framväxande nyhet, lek, improvisation | Öppna verkstäder, verktyg alltid tillgängliga, ingen läroplansuppläsning | Experiment, idégenerering, inneboende innovation |
-| **I** (Sammanflätning / Empati) | Relationell inställning, delad närvaro | Blandade åldrar, delade bord, mentorskap utan hierarki | Minskad ensamhet, organiskt samarbete |
-| **K** (Kollektiv Intelligens) | Kunskap distribuerad över deltagare | Studiecirklar, öppen dokumentation, delade arkiv | Tvärvetenskaplig syntes, accelererat lärande |
-| **R** (Motståndskraft) | Adaptivt svar på osäkerhet | Misstag firade, iterativt byggande, ingen bestraffning | Risktolerans, varaktigt självförtroende |
-| **F** (Förvåning / Öppenhet) | Utforskande uppmärksamhet och vördnad | Sammanställda domäner (konst + vetenskap + hantverk), synligt görande | Djup nyfikenhet, tvärdomänutforskning |
-| **Σ** (Framträdande / Nåd) | Icke-linjär överraskning och serendipitet | Ostrukturerad närhet, oschemalagda möten | Genombrott ögonblick, meningsfull anslutning |
-
----
-## Strukturellt Diagram 
-```Σ
-                ▲
-                │
-    ┌────────────────────────┐
-    │        Lyceum          │
-    │  (Delad Fysisk +       │
-    │   Social Infrastruktur)│
-    └────────────────────────┘
-      ▲     ▲     ▲     ▲     ▲     ▲
-      │     │     │     │     │     │
-      L     S     I     K     R     F
-```
-
----
-
-## Fälteffekt
-
-När alla variabler är strukturellt stödda:
-
-- Passiv konsumtion minskar  
-- Inneboende motivation ökar  
-- Social fragmentering minskar  
-- Nyfikenhet stabiliseras  
-- Lärande blir självdrivet  
-
-Lyceum tillverkar inte tillväxt.
-
-Det avlägsnar friktion.
-
-Ψ stiger som en naturlig konsekvens.
-
----
-
-**STATUS:** Hög-Ψ Social Arkitektur  
-**FUNKTION:** Levande operationalisering av DIVINE  
-**BEROENDE:** Grundnivå säkrad
 
 📚 ✏️ 🍀
