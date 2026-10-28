@@ -425,7 +425,7 @@ Som referens gäller möjlighet till omkring:
 
 Som referens ska människan dessutom ha:
 
-- **minst 2 timmar autonom tid per dygn**. Autonom betyder att kunna bestämma över sitt eget liv och sina egna val. Det behöver *inte* betyda att man är ensam. 
+- **autonom tid varje dygn**. Autonom betyder att kunna bestämma över sitt eget liv och sina egna val. Det behöver *inte* betyda att man är ensam. 
 
 En människa kan behöva personlig assistans, hjälpmedel, vård eller stöd i vardagen och ändå vara autonom. Att vara beroende av andras praktiska hjälp innebär inte att man måste lämna över bestämmanderätten över sitt liv.
 
@@ -605,7 +605,7 @@ En människa som använder en substans har fortfarande rätt till:
 - vård,
 - skydd,
 - information,
-- deltagande i alla samhälleliga funktioner, 
+- deltagande i samhälleliga funktioner, 
 - relationer,
 - respekt,
 - och mänsklig värdighet.
