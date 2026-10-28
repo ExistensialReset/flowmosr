@@ -239,13 +239,13 @@ Behovet ska anpassas efter bland annat:
 
 För protein kan ungefär:
 
-- **0,8 g/kg kroppsvikt/dygn**
+- **0,83 g/kg kroppsvikt/dygn** (EFSA) 
 
 användas som generell vuxenreferens, med individuell anpassning.
 
 Som referens kan fett utgöra ungefär:
 
-- **20–35 % av energiintaget**.
+- **25–40 % av energiintaget**.(Nordiska näringsrekommendationer, 2023)
 
 Övrig energi kan komma från kolhydrater enligt individuell och kulturell anpassning.
 
@@ -304,12 +304,12 @@ Tillgång till ren och säker luft är en del av Baslinjen.
 Som tekniska referensnivåer kan bland annat användas:
 
 - **CO₂ omkring eller under 1 000 ppm** som indikator på ventilation,
-- **PM2,5 ≤ 15 µg/m³ som årsmedel** som miljöreferens,
+- **PM 5 µg/m³ som årsmedel** som miljöreferens (PM 15 µg/m³ som dygnsmedelvärde,
 - omkring **0,5 luftomsättningar/timme** som grundläggande ventilationsreferens där detta är tekniskt relevant.
 
 Referenserna måste anpassas efter byggnad, klimat, användning, medicinska behov och andra verkliga förhållanden.
 
-Mätvärden får inte användas för att hävda att en människa måste tåla en miljö som faktiskt skadar henne.
+**Mätvärden får inte användas för att hävda att en människa måste tåla en miljö som faktiskt skadar henne.**
 
 ---
 
@@ -358,7 +358,6 @@ Den behövs bland annat för:
 Som referensnivå kan användas:
 
 - **minst 1 000 W kontinuerlig kapacitet/person**,
-- **cirka 2 000 kWh/person/år**.
 
 Detta ska inte förstås som att varje individ måste ha en egen fysisk 1 000 W-anslutning.
 
@@ -421,11 +420,13 @@ Baslinjen omfattar skyddad tid för:
 
 Som referens gäller möjlighet till omkring:
 
-- **8 timmars sömn per dygn**.
+- **7-9 timmars sömn per dygn**.
 
-Som referens ska människan dessutom ha:
+Människan dessutom ha:
 
-- **autonom tid varje dygn**. Autonom betyder att kunna bestämma över sitt eget liv och sina egna val. Det behöver *inte* betyda att man är ensam. 
+- **autonom tid varje dygn**. 
+
+Autonom betyder att kunna bestämma över sitt eget liv och sina egna val. Det behöver *inte* betyda att man är ensam. 
 
 En människa kan behöva personlig assistans, hjälpmedel, vård eller stöd i vardagen och ändå vara autonom. Att vara beroende av andras praktiska hjälp innebär inte att man måste lämna över bestämmanderätten över sitt liv.
 
