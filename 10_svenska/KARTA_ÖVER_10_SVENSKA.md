@@ -50,19 +50,23 @@ Det är snarare ett dokumentlandskap.
 
 ---
 
-# 2. Dokumentlandskapet är inte en hierarki
+# 2. Dokumentlandskapet är inte en hierarki 
 
-Det viktigaste är inte att dokumenten saknar rangordning, vilket dom gör, utan också att de har **olika funktioner**. 
+Det viktigaste är inte att dokumenten saknar rangordning, *vilket dom gör*, utan också att de har **olika funktioner**. 
 
-Att ett dokument står tidigt i kartan betyder inte att det är "högre".
-
-Att ett dokument är konstitutionellt betyder inte att det är mer mänskligt betydelsefullt än ett personligt dokument.
+Att ett dokument står tidigt i kartan betyder inte att det är "högre" eller mer betydelsefullt.
 
 Att ett dokument är praktiskt betyder inte att det är mindre filosofiskt.
 
 Att ett dokument är personligt betyder inte att det är irrelevant.
 
-Olika dokument gör olika saker.
+Olika dokument gör olika saker. 
+
+Dokumenten har  olika funktioner och avgränsade normativa roller.
+
+GRÄNSER.md har en särskild konstitutionell funktion: det anger gränser som andra strukturer måste respektera. 
+
+Det gör inte dokumentet mer mänskligt betydelsefullt än de andra, men dess funktion är annorlunda.
 
 Exempel:
 
@@ -611,7 +615,7 @@ Sekretess får inte utvecklas till ett parallellt system för permanent människ
 
 ---
 
-# 21. `SEMANTISK INTEGRITET` — tvärgående skydd
+# 21. `SEMANTISK_INTEGRITET.md` — tvärgående skydd
 
 Semantisk integritet är inte ett vanligt lager i hierarkin.
 
@@ -637,13 +641,15 @@ Exempel:
 
 Semantisk integritet försöker upptäcka sådana glidningar innan de blir osynliggjorda som "normal utveckling".
 
-Det är därför `SEMANTISK INTEGRITET` behöver kunna läsas tvärs igenom hela dokumentlandskapet.
+Det är därför `SEMANTISK_INTEGRITET.md` behöver kunna läsas tvärs igenom hela dokumentlandskapet.
 
 Den står inte ovanför resten.
 
 Den följer med genom resten.
 
-SEMANTISK INTEGRITET gör hela `10_svenska` förstärkt i sin innebörd, och försöker uppmärksamma i synnerhet GRÄNSER.md på semantiska glidningar. 
+`SEMANTISK_INTEGRITET.md` vill göra hela `10_svenska` förstärkt i sin innebörd, att dokumentlandskapet blir tydligare och att risken för betydelseförskjutningar minskar.  
+
+Dokumentet försöker uppmärksamma, i synnerhet, `GRÄNSER.md` på semantiska glidningar. 
 
 ---
 
@@ -754,7 +760,6 @@ Men det är inte bara ett skyddsprotokoll.
 
 Det är också ett uttryck för vilken sorts kultur Flow vill göra möjlig.
 
----
 
 `REFUGIUM_ANIMA_VITTNESTRÄNINGSPROTOKOLL.md`
 
