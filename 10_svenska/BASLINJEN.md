@@ -304,7 +304,7 @@ Tillgång till ren och säker luft är en del av Baslinjen.
 Som tekniska referensnivåer kan bland annat användas:
 
 - **CO₂ omkring eller under 1 000 ppm** som indikator på ventilation,
-- **PM 5 µg/m³ som årsmedel** som miljöreferens (PM 15 µg/m³ som dygnsmedelvärde,
+- **PM 5 µg/m³ som årsmedel** som miljöreferens och PM 15 µg/m³ som dygnsmedelvärde,
 - omkring **0,5 luftomsättningar/timme** som grundläggande ventilationsreferens där detta är tekniskt relevant.
 
 Referenserna måste anpassas efter byggnad, klimat, användning, medicinska behov och andra verkliga förhållanden.
