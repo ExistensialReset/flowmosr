@@ -20,6 +20,10 @@ De är **absoluta begränsningar** av den makt som Flow får utöva och de struk
 
 Dessa sju gränser är Flows axiom. Ett axiom är ett grundantagande som accepteras utan bevis. 
 
+Dessa gränser gäller alla relationer människor emellan och alla strukturer inom Flow. 
+
+**Ingen människa får utsätta en annan människa för våld, hot, tvång, förtryck, otillbörlig kontroll eller övergrepp, oavsett vilken motivering, ställning eller omständighet som åberopas.**
+
 ---
 
 ## GRÄNS 1: ICKE-TVÅNG
@@ -137,6 +141,8 @@ Flow får utveckla sina protokoll, strukturer, tillämpningar och sin förståel
 
 Om en struktur, ett beslut, ett protokoll eller en handling strider mot en gräns är det den berörda strukturen, det berörda beslutet, protokollet eller handlingen som ska korrigeras. Gränserna ska inte ändras för att legitimera överträdelsen.
 
-Ingen människa ska tvingas fatta beslut under tvingad brådska som överskrider hennes möjlighet till meningsfullt övervägande. Tidsfrister som konstrueras för att framtvinga förhastade beslut strider mot Flow.
+Ingen människa ska tvingas fatta beslut under tvingad brådska som överskrider hennes möjlighet till meningsfullt övervägande. 
+
+Tidsfrister som konstrueras för att framtvinga förhastade beslut strider mot Flow.
 
 Gränserna eller dessa axiom är inte mål som Flow kan välja att prioritera bort. De utgör de absoluta gränser inom vilka Flow över huvud taget får existera.
